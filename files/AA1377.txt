@@ -1,0 +1,22 @@
+catalogNumber                                          AA1377
+basisOfRecord                                             NaN
+decimalLatitude                                        348358
+decimalLongitude                                      6284366
+class                                           Magnoliopsida
+order                                                 Rosales
+family                                               Rosaceae
+genus                                                Photinia
+specificEpithet                                  serratifolia
+infraspecificEpithet                                      NaN
+nameAcordingTo                                        Kalkman
+verbatimTaxonRank                                         NaN
+taxonRank                                                 NaN
+acceptedNameUsage       Photinia serratifolia (Desf.) Kalkman
+Unnamed: 14                                          ACCEPTED
+Unnamed: 15                                              Viva
+establishmentMeans                                    Exótica
+Unnamed: 17                                              2019
+Unnamed: 18                                               NaN
+locationRemarks                                           NaN
+sex                                                       NaN
+Name: AA1377, dtype: object

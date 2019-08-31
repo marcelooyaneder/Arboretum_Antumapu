@@ -1,0 +1,22 @@
+catalogNumber                                         AA1702
+basisOfRecord                                            NaN
+decimalLatitude                                       348467
+decimalLongitude                                     6284381
+class                                             Liliopsida
+order                                            Asparagales
+family                                          Asparagaceae
+genus                                                  Agave
+specificEpithet                                    americana
+infraspecificEpithet                               marginata
+nameAcordingTo                                         Trel.
+verbatimTaxonRank                                        NaN
+taxonRank                                                NaN
+acceptedNameUsage       Agave americana var. marginata Trel.
+Unnamed: 14                                          SYNONYM
+Unnamed: 15                                             Viva
+establishmentMeans                                   Exótica
+Unnamed: 17                                             2019
+Unnamed: 18                                              NaN
+locationRemarks                                          NaN
+sex                                                      NaN
+Name: AA1702, dtype: object

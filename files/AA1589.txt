@@ -1,0 +1,22 @@
+catalogNumber                               AA1589
+basisOfRecord                                  NaN
+decimalLatitude                             348511
+decimalLongitude                           6284279
+class                                    Pinopsida
+order                                      Pinales
+family                                Cupressaceae
+genus                                      Sequoia
+specificEpithet                       sempervirens
+infraspecificEpithet                           NaN
+nameAcordingTo                               Endl.
+verbatimTaxonRank                              NaN
+taxonRank                                      NaN
+acceptedNameUsage       Sequoia sempervirens Endl.
+Unnamed: 14                               ACCEPTED
+Unnamed: 15                                   Viva
+establishmentMeans                         Exótica
+Unnamed: 17                                   2019
+Unnamed: 18                                    NaN
+locationRemarks                                NaN
+sex                                            NaN
+Name: AA1589, dtype: object

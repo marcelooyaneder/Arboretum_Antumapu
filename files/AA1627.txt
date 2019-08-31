@@ -1,0 +1,22 @@
+catalogNumber                                 AA1627
+basisOfRecord                                    NaN
+decimalLatitude                               348489
+decimalLongitude                             6284282
+class                                  Magnoliopsida
+order                                        Apiales
+family                                Pittosporaceae
+genus                                    Pittosporum
+specificEpithet                                  NaN
+infraspecificEpithet                             NaN
+nameAcordingTo                      Banks ex Gaertn.
+verbatimTaxonRank                                NaN
+taxonRank                                        NaN
+acceptedNameUsage       Pittosporum Banks ex Gaertn.
+Unnamed: 14                                 ACCEPTED
+Unnamed: 15                                     Viva
+establishmentMeans                           Exótica
+Unnamed: 17                                     2019
+Unnamed: 18                                      NaN
+locationRemarks                                  NaN
+sex                                              NaN
+Name: AA1627, dtype: object

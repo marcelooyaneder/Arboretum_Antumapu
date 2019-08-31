@@ -1,0 +1,22 @@
+catalogNumber                             AA0411
+basisOfRecord                                NaN
+decimalLatitude                           348505
+decimalLongitude                         6284404
+class                              Magnoliopsida
+order                               Malpighiales
+family                                Salicaceae
+genus                                    Populus
+specificEpithet                          simonii
+infraspecificEpithet                         NaN
+nameAcordingTo                          Carrière
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Populus simonii Carrière
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                             Extraído
+establishmentMeans                       Exótica
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA0411, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                     AA0999
+basisOfRecord                        NaN
+decimalLatitude                   348552
+decimalLongitude                 6284735
+class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                            NaN
+acceptedNameUsage       Schinus molle L.
+Unnamed: 14                     ACCEPTED
+Unnamed: 15                         Viva
+establishmentMeans                Nativa
+Unnamed: 17                         2019
+Unnamed: 18                          NaN
+locationRemarks                      NaN
+sex                                  NaN
+Name: AA0999, dtype: object

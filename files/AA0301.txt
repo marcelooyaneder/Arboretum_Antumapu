@@ -1,0 +1,22 @@
+catalogNumber                                                  AA0301
+basisOfRecord                                                     NaN
+decimalLatitude                                                348565
+decimalLongitude                                              6284439
+class                                                   Magnoliopsida
+order                                                         Fabales
+family                                                       Fabaceae
+genus                                                           Senna
+specificEpithet                                           candolleana
+infraspecificEpithet                                              NaN
+nameAcordingTo                                    H.S.Irwin & Barneby
+verbatimTaxonRank                                                 NaN
+taxonRank                                                         NaN
+acceptedNameUsage       Senna candolleana (Vogel) H.S.Irwin & Barneby
+Unnamed: 14                                                  ACCEPTED
+Unnamed: 15                                                      Viva
+establishmentMeans                                             Nativa
+Unnamed: 17                                                      2019
+Unnamed: 18                                                       NaN
+locationRemarks                                                   NaN
+sex                                                               NaN
+Name: AA0301, dtype: object

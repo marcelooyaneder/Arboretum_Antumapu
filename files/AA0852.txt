@@ -1,0 +1,22 @@
+catalogNumber                          AA0852
+basisOfRecord                             NaN
+decimalLatitude                        348471
+decimalLongitude                      6284499
+class                           Magnoliopsida
+order                                 Rosales
+family                               Rosaceae
+genus                                  Prunus
+specificEpithet                       persica
+infraspecificEpithet                      NaN
+nameAcordingTo                         Stokes
+verbatimTaxonRank                         NaN
+taxonRank                                 NaN
+acceptedNameUsage       Prunus persica Stokes
+Unnamed: 14                          ACCEPTED
+Unnamed: 15                              Viva
+establishmentMeans                    Exótica
+Unnamed: 17                              2019
+Unnamed: 18                               NaN
+locationRemarks                           NaN
+sex                                       NaN
+Name: AA0852, dtype: object

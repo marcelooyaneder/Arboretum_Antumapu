@@ -1,0 +1,22 @@
+catalogNumber                      AA0701
+basisOfRecord                         NaN
+decimalLatitude                    348470
+decimalLongitude                  6284521
+class                       Magnoliopsida
+order                             Vitales
+family                           Vitaceae
+genus                               Vitis
+specificEpithet                  vinifera
+infraspecificEpithet                  NaN
+nameAcordingTo                         L.
+verbatimTaxonRank                     NaN
+taxonRank                             NaN
+acceptedNameUsage       Vitis vinifera L.
+Unnamed: 14                      ACCEPTED
+Unnamed: 15                          Viva
+establishmentMeans                Exótica
+Unnamed: 17                          2019
+Unnamed: 18                           NaN
+locationRemarks                       NaN
+sex                                   NaN
+Name: AA0701, dtype: object

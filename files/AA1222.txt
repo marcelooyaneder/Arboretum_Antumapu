@@ -1,0 +1,22 @@
+catalogNumber                        AA1222
+basisOfRecord                           NaN
+decimalLatitude                      348419
+decimalLongitude                    6284374
+class                         Magnoliopsida
+order                          Malpighiales
+family                           Salicaceae
+genus                                 Salix
+specificEpithet                  babylonica
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                               NaN
+acceptedNameUsage       Salix babylonica L.
+Unnamed: 14                        ACCEPTED
+Unnamed: 15                            Viva
+establishmentMeans                  Exótica
+Unnamed: 17                            2019
+Unnamed: 18                             NaN
+locationRemarks                         NaN
+sex                                     NaN
+Name: AA1222, dtype: object

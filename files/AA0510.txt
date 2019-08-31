@@ -1,0 +1,22 @@
+catalogNumber                             AA0510
+basisOfRecord                                NaN
+decimalLatitude                           348502
+decimalLongitude                         6284426
+class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                    Sophora
+specificEpithet                      microphylla
+infraspecificEpithet                         NaN
+nameAcordingTo                              Ait.
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Sophora microphylla Ait.
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                                 Viva
+establishmentMeans                        Nativa
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA0510, dtype: object

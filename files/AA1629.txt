@@ -1,0 +1,22 @@
+catalogNumber                                AA1629
+basisOfRecord                                   NaN
+decimalLatitude                              348483
+decimalLongitude                            6284300
+class                                 Magnoliopsida
+order                                    Oxalidales
+family                               Elaeocarpaceae
+genus                                  Crinodendron
+specificEpithet                             patagua
+infraspecificEpithet                            NaN
+nameAcordingTo                               Molina
+verbatimTaxonRank                               NaN
+taxonRank                                       NaN
+acceptedNameUsage       Crinodendron patagua Molina
+Unnamed: 14                                ACCEPTED
+Unnamed: 15                                    Viva
+establishmentMeans                           Nativa
+Unnamed: 17                                    2019
+Unnamed: 18                                     NaN
+locationRemarks                                 NaN
+sex                                             NaN
+Name: AA1629, dtype: object

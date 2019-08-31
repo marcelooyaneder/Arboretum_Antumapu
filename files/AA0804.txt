@@ -1,0 +1,22 @@
+catalogNumber                  AA0804
+basisOfRecord                     NaN
+decimalLatitude                348360
+decimalLongitude              6284419
+class                   Magnoliopsida
+order                         Rosales
+family                       Rosaceae
+genus                           Pyrus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+nameAcordingTo                     L.
+verbatimTaxonRank                 NaN
+taxonRank                         NaN
+acceptedNameUsage            Pyrus L.
+Unnamed: 14                  ACCEPTED
+Unnamed: 15                      Viva
+establishmentMeans            Exótica
+Unnamed: 17                      2019
+Unnamed: 18                       NaN
+locationRemarks                   NaN
+sex                               NaN
+Name: AA0804, dtype: object

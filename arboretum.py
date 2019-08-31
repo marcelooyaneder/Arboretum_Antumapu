@@ -11,12 +11,20 @@ import pyqrcode
 #creation of classes and functions
 
 def infowriting(ID,info):
-    filename = ID+'.txt'
+    filename = "files/"+ID+'.txt'
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename,'w') as fil:
         fil.write(str(info))
     pass
     return 
 
+def qrcreation(ID,url)
+    filename = "qrs/"+ID+'.svg'
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    URL=
+    url = pyqrcode.create('URL')
+    url.svg(filename, scale=8)
+    url.eps(filename, scale=2)
 
 #Process
 #read excel

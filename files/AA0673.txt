@@ -1,0 +1,22 @@
+catalogNumber                       AA0673
+basisOfRecord                          NaN
+decimalLatitude                     348461
+decimalLongitude                   6284507
+class                        Magnoliopsida
+order                              Rosales
+family                            Ulmaceae
+genus                                Ulmus
+specificEpithet                  americana
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                              NaN
+acceptedNameUsage       Ulmus americana L.
+Unnamed: 14                       ACCEPTED
+Unnamed: 15                           Viva
+establishmentMeans                 Exótica
+Unnamed: 17                           2019
+Unnamed: 18                            NaN
+locationRemarks                        NaN
+sex                                    NaN
+Name: AA0673, dtype: object

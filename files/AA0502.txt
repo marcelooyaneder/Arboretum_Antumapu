@@ -1,0 +1,22 @@
+catalogNumber                              AA0502
+basisOfRecord                                 NaN
+decimalLatitude                            348517
+decimalLongitude                          6284425
+class                               Magnoliopsida
+order                                  Oxalidales
+family                                Cunoniaceae
+genus                                   Eucryphia
+specificEpithet                        cordifolia
+infraspecificEpithet                          NaN
+nameAcordingTo                               Cav.
+verbatimTaxonRank                             NaN
+taxonRank                                     NaN
+acceptedNameUsage       Eucryphia cordifolia Cav.
+Unnamed: 14                              ACCEPTED
+Unnamed: 15                                Muerto
+establishmentMeans                         Nativa
+Unnamed: 17                                  2019
+Unnamed: 18                                  2016
+locationRemarks                               NaN
+sex                                           NaN
+Name: AA0502, dtype: object
