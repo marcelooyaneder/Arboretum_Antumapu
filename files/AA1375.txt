@@ -1,0 +1,22 @@
+catalogNumber                  AA1375
+basisOfRecord                     NaN
+decimalLatitude                348351
+decimalLongitude              6284372
+class                   Magnoliopsida
+order                      Sapindales
+family                       Rutaceae
+genus                          Citrus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+nameAcordingTo                     L.
+verbatimTaxonRank                 NaN
+taxonRank                         NaN
+acceptedNameUsage           Citrus L.
+Unnamed: 14                  ACCEPTED
+Unnamed: 15                      Viva
+establishmentMeans            Exótica
+Unnamed: 17                      2019
+Unnamed: 18                       NaN
+locationRemarks                   NaN
+sex                               NaN
+Name: AA1375, dtype: object

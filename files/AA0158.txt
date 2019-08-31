@@ -1,0 +1,22 @@
+catalogNumber                                          AA0158
+basisOfRecord                                             NaN
+decimalLatitude                                        348609
+decimalLongitude                                      6284362
+class                                               Pinopsida
+order                                                 Pinales
+family                                           Cupressaceae
+genus                                               Cupressus
+specificEpithet                                    macrocarpa
+infraspecificEpithet                                      NaN
+nameAcordingTo                               Hartw. ex Gordon
+verbatimTaxonRank                                         NaN
+taxonRank                                                 NaN
+acceptedNameUsage       Cupressus macrocarpa Hartw. ex Gordon
+Unnamed: 14                                          ACCEPTED
+Unnamed: 15                                              Viva
+establishmentMeans                                    Exótica
+Unnamed: 17                                              2019
+Unnamed: 18                                               NaN
+locationRemarks                                           NaN
+sex                                                       NaN
+Name: AA0158, dtype: object

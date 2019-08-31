@@ -1,0 +1,22 @@
+catalogNumber                                     AA0365
+basisOfRecord                                        NaN
+decimalLatitude                                   348615
+decimalLongitude                                 6284412
+class                                      Magnoliopsida
+order                                        Brassicales
+family                                        Caricaceae
+genus                                       Vasconcellea
+specificEpithet                                chilensis
+infraspecificEpithet                                 NaN
+nameAcordingTo                                     Solms
+verbatimTaxonRank                                    NaN
+taxonRank                                            NaN
+acceptedNameUsage       Carica chilensis (Planch.) Solms
+Unnamed: 14                                      SYNONYM
+Unnamed: 15                                         Viva
+establishmentMeans                                Nativa
+Unnamed: 17                                         2019
+Unnamed: 18                                         2016
+locationRemarks                                      NaN
+sex                                                  NaN
+Name: AA0365, dtype: object

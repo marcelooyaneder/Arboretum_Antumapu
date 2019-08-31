@@ -1,0 +1,22 @@
+catalogNumber                       AA0972
+basisOfRecord                          NaN
+decimalLatitude                     348552
+decimalLongitude                   6284691
+class                        Magnoliopsida
+order                           Sapindales
+family                           Meliaceae
+genus                                Melia
+specificEpithet                  azedarach
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                              NaN
+acceptedNameUsage       Melia azedarach L.
+Unnamed: 14                       ACCEPTED
+Unnamed: 15                           Viva
+establishmentMeans                 Exótica
+Unnamed: 17                           2019
+Unnamed: 18                            NaN
+locationRemarks                        NaN
+sex                                    NaN
+Name: AA0972, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                        AA1561
+basisOfRecord                                           NaN
+decimalLatitude                                      348535
+decimalLongitude                                    6284288
+class                                         Magnoliopsida
+order                                          Malpighiales
+family                                           Salicaceae
+genus                                               Populus
+specificEpithet                                euramericana
+infraspecificEpithet                                    NaN
+nameAcordingTo                                      Guinier
+verbatimTaxonRank                                       NaN
+taxonRank                                               NaN
+acceptedNameUsage       Populus euramericana (Dode) Guinier
+Unnamed: 14                                         SYNONYM
+Unnamed: 15                                            Viva
+establishmentMeans                                  Exótica
+Unnamed: 17                                            2019
+Unnamed: 18                                             NaN
+locationRemarks                                         NaN
+sex                                                     NaN
+Name: AA1561, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                   AA0877
+basisOfRecord                                      NaN
+decimalLatitude                                 348621
+decimalLongitude                               6284587
+class                                       Liliopsida
+order                                         Arecales
+family                                       Arecaceae
+genus                                     Trachycarpus
+specificEpithet                               fortunei
+infraspecificEpithet                               NaN
+nameAcordingTo                                H.Wendl.
+verbatimTaxonRank                                  NaN
+taxonRank                                          NaN
+acceptedNameUsage       Trachycarpus fortunei H.Wendl.
+Unnamed: 14                                   ACCEPTED
+Unnamed: 15                                       Viva
+establishmentMeans                             Exótica
+Unnamed: 17                                       2019
+Unnamed: 18                                        NaN
+locationRemarks                                    NaN
+sex                                                NaN
+Name: AA0877, dtype: object

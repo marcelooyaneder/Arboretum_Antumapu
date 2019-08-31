@@ -1,0 +1,22 @@
+catalogNumber                  AA1039
+basisOfRecord                     NaN
+decimalLatitude                348512
+decimalLongitude              6284788
+class                   Magnoliopsida
+order                    Malpighiales
+family                     Salicaceae
+genus                         Populus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+nameAcordingTo                     L.
+verbatimTaxonRank                 NaN
+taxonRank                         NaN
+acceptedNameUsage          Populus L.
+Unnamed: 14                  ACCEPTED
+Unnamed: 15                      Viva
+establishmentMeans            Exótica
+Unnamed: 17                      2019
+Unnamed: 18                       NaN
+locationRemarks                   NaN
+sex                               NaN
+Name: AA1039, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                             AA1296
+basisOfRecord                                NaN
+decimalLatitude                           348316
+decimalLongitude                         6284372
+class                              Magnoliopsida
+order                                   Lamiales
+family                          Scrophulariaceae
+genus                                   Myoporum
+specificEpithet                           laetum
+infraspecificEpithet                         NaN
+nameAcordingTo                          G.Forst.
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Myoporum laetum G.Forst.
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                                 Viva
+establishmentMeans                       Exótica
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA1296, dtype: object

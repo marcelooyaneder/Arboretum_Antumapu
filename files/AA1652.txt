@@ -1,0 +1,22 @@
+catalogNumber                     AA1652
+basisOfRecord                        NaN
+decimalLatitude                   348579
+decimalLongitude                 6284326
+class                      Magnoliopsida
+order                            Fagales
+family                      Juglandaceae
+genus                            Juglans
+specificEpithet                    nigra
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                            NaN
+acceptedNameUsage       Juglans nigra L.
+Unnamed: 14                     ACCEPTED
+Unnamed: 15                         Viva
+establishmentMeans               Exótica
+Unnamed: 17                         2019
+Unnamed: 18                          NaN
+locationRemarks                      NaN
+sex                                  NaN
+Name: AA1652, dtype: object

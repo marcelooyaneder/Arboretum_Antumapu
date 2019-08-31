@@ -1,0 +1,22 @@
+catalogNumber                                AA1116
+basisOfRecord                                   NaN
+decimalLatitude                              348438
+decimalLongitude                            6284743
+class                                 Magnoliopsida
+order                                      Myrtales
+family                                    Myrtaceae
+genus                                    Eucalyptus
+specificEpithet                            globulus
+infraspecificEpithet                            NaN
+nameAcordingTo                              Labill.
+verbatimTaxonRank                               NaN
+taxonRank                                       NaN
+acceptedNameUsage       Eucalyptus globulus Labill.
+Unnamed: 14                                ACCEPTED
+Unnamed: 15                                    Viva
+establishmentMeans                          Exótica
+Unnamed: 17                                    2019
+Unnamed: 18                                     NaN
+locationRemarks                                 NaN
+sex                                             NaN
+Name: AA1116, dtype: object

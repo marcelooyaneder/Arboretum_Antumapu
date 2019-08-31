@@ -1,0 +1,22 @@
+catalogNumber                          AA0774
+basisOfRecord                             NaN
+decimalLatitude                        348604
+decimalLongitude                      6284498
+class                           Magnoliopsida
+order                               Solanales
+family                             Solanaceae
+genus                                 Cestrum
+specificEpithet                        parqui
+infraspecificEpithet                      NaN
+nameAcordingTo                         L'Hér.
+verbatimTaxonRank                         NaN
+taxonRank                                 NaN
+acceptedNameUsage       Cestrum parqui L'Hér.
+Unnamed: 14                          ACCEPTED
+Unnamed: 15                              Viva
+establishmentMeans                     Nativa
+Unnamed: 17                              2019
+Unnamed: 18                               NaN
+locationRemarks                           NaN
+sex                                       NaN
+Name: AA0774, dtype: object

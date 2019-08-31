@@ -1,0 +1,22 @@
+catalogNumber                              AA0150
+basisOfRecord                                 NaN
+decimalLatitude                            348627
+decimalLongitude                          6284358
+class                                   Pinopsida
+order                                     Pinales
+family                              Araucariaceae
+genus                                   Araucaria
+specificEpithet                          araucana
+infraspecificEpithet                          NaN
+nameAcordingTo                             K.Koch
+verbatimTaxonRank                             NaN
+taxonRank                                     NaN
+acceptedNameUsage       Araucaria araucana K.Koch
+Unnamed: 14                              ACCEPTED
+Unnamed: 15                                  Viva
+establishmentMeans                         Nativa
+Unnamed: 17                                  2019
+Unnamed: 18                                   NaN
+locationRemarks                               NaN
+sex                                           NaN
+Name: AA0150, dtype: object

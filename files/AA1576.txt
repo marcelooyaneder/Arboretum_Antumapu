@@ -1,0 +1,22 @@
+catalogNumber                                      AA1576
+basisOfRecord                                         NaN
+decimalLatitude                                    348517
+decimalLongitude                                  6284309
+class                                          Liliopsida
+order                                         Asparagales
+family                                       Asparagaceae
+genus                                               Yucca
+specificEpithet                              elephantipes
+infraspecificEpithet                                  NaN
+nameAcordingTo                             Regel ex Trel.
+verbatimTaxonRank                                     NaN
+taxonRank                                             NaN
+acceptedNameUsage       Yucca elephantipes Regel ex Trel.
+Unnamed: 14                                       SYNONYM
+Unnamed: 15                                          Viva
+establishmentMeans                                Exótica
+Unnamed: 17                                          2019
+Unnamed: 18                                           NaN
+locationRemarks                                       NaN
+sex                                                   NaN
+Name: AA1576, dtype: object
