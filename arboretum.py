@@ -18,13 +18,13 @@ def infowriting(ID,info):
     pass
     return 
 
-def qrcreation(ID,url)
-    filename = "qrs/"+ID+'.svg'
+def qrcreation(ID,url):
+    URL=url+ID+'.txt'
+    filename = "qrs/"+ID+'.png'
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-    URL=
-    url = pyqrcode.create('URL')
-    url.svg(filename, scale=8)
-    url.eps(filename, scale=2)
+    quick_response_code= pyqrcode.create(URL)
+    quick_response_code.png(filename, scale=8)
+    quick_response_code.eps(filename, scale=2)
 
 #Process
 #read excel
@@ -38,9 +38,4 @@ IDs=data['catalogNumber'].tolist()
 #get info into a txt document ESTA FUNCIONANDO NO EJECUTAR YA QUE CREA DEMASIADOS ARCHIVOS
 for id in IDs:
     infowriting(id,data.loc[id])
-
-#CREACION DE CODIGOS QR
-#url = pyqrcode.create('URL')
-#url.svg('uca-url.svg', scale=8)
-#url.eps('uca-url.eps', scale=2)
-#print(url.terminal(quiet_zone=1))
+    qrcreation(id,'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/')
