@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import errno
 import pyqrcode
+from pathlib import Path
 
 #http://arboretum.oost-vlaanderen.be/index.cfm?nummer=00006251 IDEA TIPO
 #EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
@@ -39,3 +40,5 @@ IDs=data['catalogNumber'].tolist()
 for id in IDs:
     infowriting(id,data.loc[id])
     qrcreation(id,'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/')
+
+#print ("File      Path:", Path(__file__).absolute()) ESTE ES EL PATH DE LA CARPETA
