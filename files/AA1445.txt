@@ -1,0 +1,22 @@
+catalogNumber                     AA1445
+basisOfRecord                        NaN
+decimalLatitude                   348337
+decimalLongitude                 6284398
+class                      Magnoliopsida
+order                           Lamiales
+family                          Oleaceae
+genus                               Olea
+specificEpithet                 europaea
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                            NaN
+acceptedNameUsage       Olea europaea L.
+Unnamed: 14                     ACCEPTED
+Unnamed: 15                         Viva
+establishmentMeans               Exótica
+Unnamed: 17                         2019
+Unnamed: 18                          NaN
+locationRemarks                      NaN
+sex                                  NaN
+Name: AA1445, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                               AA1650
+basisOfRecord                                                  NaN
+decimalLatitude                                             348466
+decimalLongitude                                           6284271
+class                                                Magnoliopsida
+order                                                      Rosales
+family                                                Elaeagnaceae
+genus                                                    Elaeagnus
+specificEpithet                                          umbellata
+infraspecificEpithet                                           NaN
+nameAcordingTo                              C.P.Thunb. ex A.Murray
+verbatimTaxonRank                                              NaN
+taxonRank                                                      NaN
+acceptedNameUsage       Elaeagnus umbellata C.P.Thunb. ex A.Murray
+Unnamed: 14                                               ACCEPTED
+Unnamed: 15                                                   Viva
+establishmentMeans                                         Exótica
+Unnamed: 17                                                   2019
+Unnamed: 18                                                    NaN
+locationRemarks                                                NaN
+sex                                                            NaN
+Name: AA1650, dtype: object

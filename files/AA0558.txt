@@ -1,0 +1,22 @@
+catalogNumber                                AA0558
+basisOfRecord                                   NaN
+decimalLatitude                              348518
+decimalLongitude                            6284418
+class                                     Pinopsida
+order                                       Pinales
+family                                Podocarpaceae
+genus                                    Podocarpus
+specificEpithet                           nubigenus
+infraspecificEpithet                            NaN
+nameAcordingTo                               Lindl.
+verbatimTaxonRank                               NaN
+taxonRank                                       NaN
+acceptedNameUsage       Podocarpus nubigenus Lindl.
+Unnamed: 14                                ACCEPTED
+Unnamed: 15                                  Muerto
+establishmentMeans                           Nativa
+Unnamed: 17                                    2019
+Unnamed: 18                                     NaN
+locationRemarks                                 NaN
+sex                                             NaN
+Name: AA0558, dtype: object

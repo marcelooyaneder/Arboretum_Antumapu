@@ -1,0 +1,22 @@
+catalogNumber                            AA0989
+basisOfRecord                               NaN
+decimalLatitude                          348583
+decimalLongitude                        6284727
+class                             Magnoliopsida
+order                                   Rosales
+family                                 Rosaceae
+genus                                    Prunus
+specificEpithet                      cerasifera
+infraspecificEpithet                        NaN
+nameAcordingTo                            Ehrh.
+verbatimTaxonRank                           NaN
+taxonRank                                   NaN
+acceptedNameUsage       Prunus cerasifera Ehrh.
+Unnamed: 14                            ACCEPTED
+Unnamed: 15                                Viva
+establishmentMeans                      Exótica
+Unnamed: 17                                2019
+Unnamed: 18                                 NaN
+locationRemarks                             NaN
+sex                                         NaN
+Name: AA0989, dtype: object

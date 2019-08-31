@@ -1,0 +1,22 @@
+catalogNumber                             AA0602
+basisOfRecord                                NaN
+decimalLatitude                           348485
+decimalLongitude                         6284490
+class                              Magnoliopsida
+order                                    Rosales
+family                                  Rosaceae
+genus                                  Crataegus
+specificEpithet                         monogyna
+infraspecificEpithet                         NaN
+nameAcordingTo                             Jacq.
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Crataegus monogyna Jacq.
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                             Extraído
+establishmentMeans                       Exótica
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA0602, dtype: object

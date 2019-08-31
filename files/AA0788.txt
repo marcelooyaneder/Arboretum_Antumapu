@@ -1,0 +1,22 @@
+catalogNumber                        AA0788
+basisOfRecord                           NaN
+decimalLatitude                      348276
+decimalLongitude                    6284427
+class                         Magnoliopsida
+order                               Rosales
+family                          Cannabaceae
+genus                                Celtis
+specificEpithet                   australis
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                               NaN
+acceptedNameUsage       Celtis australis L.
+Unnamed: 14                        ACCEPTED
+Unnamed: 15                            Viva
+establishmentMeans                  Exótica
+Unnamed: 17                            2019
+Unnamed: 18                             NaN
+locationRemarks                         NaN
+sex                                     NaN
+Name: AA0788, dtype: object

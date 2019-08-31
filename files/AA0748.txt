@@ -1,0 +1,22 @@
+catalogNumber                              AA0748
+basisOfRecord                                 NaN
+decimalLatitude                            348441
+decimalLongitude                          6284499
+class                               Magnoliopsida
+order                                     Fabales
+family                               Quillajaceae
+genus                                    Quillaja
+specificEpithet                         saponaria
+infraspecificEpithet                          NaN
+nameAcordingTo                             Molina
+verbatimTaxonRank                             NaN
+taxonRank                                     NaN
+acceptedNameUsage       Quillaja saponaria Molina
+Unnamed: 14                              ACCEPTED
+Unnamed: 15                                  Viva
+establishmentMeans                         Nativa
+Unnamed: 17                                  2019
+Unnamed: 18                                   NaN
+locationRemarks                               NaN
+sex                                           NaN
+Name: AA0748, dtype: object

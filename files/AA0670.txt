@@ -1,0 +1,22 @@
+catalogNumber                             AA0670
+basisOfRecord                                NaN
+decimalLatitude                           348468
+decimalLongitude                         6284517
+class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                     Acacia
+specificEpithet                      melanoxylon
+infraspecificEpithet                         NaN
+nameAcordingTo                             R.Br.
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Acacia melanoxylon R.Br.
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                                 Viva
+establishmentMeans                       Exótica
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA0670, dtype: object

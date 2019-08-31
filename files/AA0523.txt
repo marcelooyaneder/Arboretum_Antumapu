@@ -1,0 +1,22 @@
+catalogNumber                                        AA0523
+basisOfRecord                                           NaN
+decimalLatitude                                      348540
+decimalLongitude                                    6284408
+class                                        Polypodiopsida
+order                                          Polypodiales
+family                                          Blechnaceae
+genus                                          Lomariocycas
+specificEpithet                                magellanicum
+infraspecificEpithet                                    NaN
+nameAcordingTo                                        Mett.
+verbatimTaxonRank                                       NaN
+taxonRank                                               NaN
+acceptedNameUsage       Blechnum magellanicum (Desv.) Mett.
+Unnamed: 14                                         SYNONYM
+Unnamed: 15                                            Viva
+establishmentMeans                                   Nativa
+Unnamed: 17                                            2019
+Unnamed: 18                                            2016
+locationRemarks                                         NaN
+sex                                                     NaN
+Name: AA0523, dtype: object

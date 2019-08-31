@@ -1,0 +1,22 @@
+catalogNumber                    AA0668
+basisOfRecord                       NaN
+decimalLatitude                  348466
+decimalLongitude                6284512
+class                     Magnoliopsida
+order                        Sapindales
+family                      Sapindaceae
+genus                              Acer
+specificEpithet                 negundo
+infraspecificEpithet                NaN
+nameAcordingTo                       L.
+verbatimTaxonRank                   NaN
+taxonRank                           NaN
+acceptedNameUsage       Acer negundo L.
+Unnamed: 14                    ACCEPTED
+Unnamed: 15                        Viva
+establishmentMeans              Exótica
+Unnamed: 17                        2019
+Unnamed: 18                         NaN
+locationRemarks                     NaN
+sex                                 NaN
+Name: AA0668, dtype: object

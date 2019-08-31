@@ -1,0 +1,22 @@
+catalogNumber                             AA0321
+basisOfRecord                                NaN
+decimalLatitude                           348564
+decimalLongitude                         6284398
+class                              Magnoliopsida
+order                              Escalloniales
+family                            Escalloniaceae
+genus                                 Escallonia
+specificEpithet                              NaN
+infraspecificEpithet                         NaN
+nameAcordingTo                     Mutis ex L.f.
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Escallonia Mutis ex L.f.
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                                 Viva
+establishmentMeans                        Nativa
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA0321, dtype: object

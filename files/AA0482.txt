@@ -1,0 +1,22 @@
+catalogNumber                                 AA0482
+basisOfRecord                                    NaN
+decimalLatitude                               348536
+decimalLongitude                             6284430
+class                                  Magnoliopsida
+order                                       Myrtales
+family                                     Myrtaceae
+genus                                           Luma
+specificEpithet                              chequen
+infraspecificEpithet                             NaN
+nameAcordingTo                                A.Gray
+verbatimTaxonRank                                NaN
+taxonRank                                        NaN
+acceptedNameUsage       Luma chequen (Molina) A.Gray
+Unnamed: 14                                 ACCEPTED
+Unnamed: 15                                     Viva
+establishmentMeans                            Nativa
+Unnamed: 17                                     2019
+Unnamed: 18                                     2014
+locationRemarks                                  NaN
+sex                                              NaN
+Name: AA0482, dtype: object
