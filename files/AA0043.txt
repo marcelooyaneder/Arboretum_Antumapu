@@ -1,0 +1,22 @@
+catalogNumber                             AA0043
+basisOfRecord                                NaN
+decimalLatitude                           348674
+decimalLongitude                         6284201
+class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                  Gleditsia
+specificEpithet                      triacanthos
+infraspecificEpithet                         NaN
+nameAcordingTo                                L.
+verbatimTaxonRank                            NaN
+taxonRank                                    NaN
+acceptedNameUsage       Gleditsia triacanthos L.
+Unnamed: 14                             ACCEPTED
+Unnamed: 15                                 Viva
+establishmentMeans                       Exótica
+Unnamed: 17                                 2019
+Unnamed: 18                                  NaN
+locationRemarks                              NaN
+sex                                          NaN
+Name: AA0043, dtype: object

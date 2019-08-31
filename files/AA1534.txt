@@ -1,0 +1,22 @@
+catalogNumber                                            AA1534
+basisOfRecord                                               NaN
+decimalLatitude                                          348538
+decimalLongitude                                        6284265
+class                                                 Pinopsida
+order                                                   Pinales
+family                                            Araucariaceae
+genus                                                 Araucaria
+specificEpithet                                    angustifolia
+infraspecificEpithet                                        NaN
+nameAcordingTo                                           Kuntze
+verbatimTaxonRank                                           NaN
+taxonRank                                                   NaN
+acceptedNameUsage       Araucaria angustifolia (Bertol.) Kuntze
+Unnamed: 14                                            ACCEPTED
+Unnamed: 15                                                Viva
+establishmentMeans                                      Exótica
+Unnamed: 17                                                2019
+Unnamed: 18                                                 NaN
+locationRemarks                                             NaN
+sex                                                         NaN
+Name: AA1534, dtype: object

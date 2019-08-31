@@ -1,0 +1,22 @@
+catalogNumber                                  AA0970
+basisOfRecord                                     NaN
+decimalLatitude                                348561
+decimalLongitude                              6284694
+class                                   Magnoliopsida
+order                                      Sapindales
+family                                    Sapindaceae
+genus                                    Koelreuteria
+specificEpithet                            paniculata
+infraspecificEpithet                              NaN
+nameAcordingTo                                  Laxm.
+verbatimTaxonRank                                 NaN
+taxonRank                                         NaN
+acceptedNameUsage       Koelreuteria paniculata Laxm.
+Unnamed: 14                                  ACCEPTED
+Unnamed: 15                                      Viva
+establishmentMeans                            Exótica
+Unnamed: 17                                      2019
+Unnamed: 18                                       NaN
+locationRemarks                                   NaN
+sex                                               NaN
+Name: AA0970, dtype: object

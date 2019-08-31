@@ -1,0 +1,22 @@
+catalogNumber                                         AA1486
+basisOfRecord                                            NaN
+decimalLatitude                                       348435
+decimalLongitude                                     6284327
+class                                          Magnoliopsida
+order                                               Laurales
+family                                             Lauraceae
+genus                                          Beilschmiedia
+specificEpithet                                      miersii
+infraspecificEpithet                                     NaN
+nameAcordingTo                                      Kosterm.
+verbatimTaxonRank                                        NaN
+taxonRank                                                NaN
+acceptedNameUsage       Beilschmiedia miersii (Gay) Kosterm.
+Unnamed: 14                                         ACCEPTED
+Unnamed: 15                                             Viva
+establishmentMeans                                    Nativa
+Unnamed: 17                                             2019
+Unnamed: 18                                             2016
+locationRemarks                                          NaN
+sex                                                      NaN
+Name: AA1486, dtype: object

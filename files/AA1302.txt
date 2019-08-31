@@ -1,0 +1,22 @@
+catalogNumber                         AA1302
+basisOfRecord                            NaN
+decimalLatitude                       348266
+decimalLongitude                     6284365
+class                          Magnoliopsida
+order                                Fabales
+family                              Fabaceae
+genus                                 Acacia
+specificEpithet                     dealbata
+infraspecificEpithet                     NaN
+nameAcordingTo                          Link
+verbatimTaxonRank                        NaN
+taxonRank                                NaN
+acceptedNameUsage       Acacia dealbata Link
+Unnamed: 14                         ACCEPTED
+Unnamed: 15                             Viva
+establishmentMeans                   Exótica
+Unnamed: 17                             2019
+Unnamed: 18                              NaN
+locationRemarks                          NaN
+sex                                      NaN
+Name: AA1302, dtype: object

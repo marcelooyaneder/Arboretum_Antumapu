@@ -1,0 +1,22 @@
+catalogNumber                                      AA0520
+basisOfRecord                                         NaN
+decimalLatitude                                    348536
+decimalLongitude                                  6284397
+class                                      Polypodiopsida
+order                                        Polypodiales
+family                                        Blechnaceae
+genus                                        Parablechnum
+specificEpithet                                  cordatum
+infraspecificEpithet                                  NaN
+nameAcordingTo                                    Hieron.
+verbatimTaxonRank                                     NaN
+taxonRank                                             NaN
+acceptedNameUsage       Blechnum cordatum (Desv.) Hieron.
+Unnamed: 14                                       SYNONYM
+Unnamed: 15                                          Viva
+establishmentMeans                                 Nativa
+Unnamed: 17                                          2019
+Unnamed: 18                                          2016
+locationRemarks                                       NaN
+sex                                                   NaN
+Name: AA0520, dtype: object

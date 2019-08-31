@@ -1,0 +1,22 @@
+catalogNumber                                        AA0465
+basisOfRecord                                           NaN
+decimalLatitude                                      348546
+decimalLongitude                                    6284456
+class                                         Magnoliopsida
+order                                               Fabales
+family                                             Fabaceae
+genus                                           Caesalpinia
+specificEpithet                                     spinosa
+infraspecificEpithet                                    NaN
+nameAcordingTo                                       Kuntze
+verbatimTaxonRank                                       NaN
+taxonRank                                               NaN
+acceptedNameUsage       Caesalpinia spinosa (Molina) Kuntze
+Unnamed: 14                                        ACCEPTED
+Unnamed: 15                                            Viva
+establishmentMeans                                   Nativa
+Unnamed: 17                                            2019
+Unnamed: 18                                             NaN
+locationRemarks                                         NaN
+sex                                                     NaN
+Name: AA0465, dtype: object

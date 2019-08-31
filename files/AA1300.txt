@@ -1,0 +1,22 @@
+catalogNumber                                         AA1300
+basisOfRecord                                            NaN
+decimalLatitude                                       348312
+decimalLongitude                                     6284387
+class                                              Pinopsida
+order                                                Pinales
+family                                              Pinaceae
+genus                                            Pseudotsuga
+specificEpithet                                    menziesii
+infraspecificEpithet                                     NaN
+nameAcordingTo                                        Franco
+verbatimTaxonRank                                        NaN
+taxonRank                                                NaN
+acceptedNameUsage       Pseudotsuga menziesii (Mirb.) Franco
+Unnamed: 14                                         ACCEPTED
+Unnamed: 15                                             Viva
+establishmentMeans                                   Exótica
+Unnamed: 17                                             2019
+Unnamed: 18                                              NaN
+locationRemarks                                          NaN
+sex                                                      NaN
+Name: AA1300, dtype: object

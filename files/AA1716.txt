@@ -1,0 +1,22 @@
+catalogNumber                     AA1716
+basisOfRecord                        NaN
+decimalLatitude                   348475
+decimalLongitude                 6284205
+class                      Magnoliopsida
+order                            Fagales
+family                      Juglandaceae
+genus                            Juglans
+specificEpithet                    regia
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                            NaN
+acceptedNameUsage       Juglans regia L.
+Unnamed: 14                     ACCEPTED
+Unnamed: 15                         Viva
+establishmentMeans               Exótica
+Unnamed: 17                         2019
+Unnamed: 18                         2015
+locationRemarks                      NaN
+sex                                  NaN
+Name: AA1716, dtype: object

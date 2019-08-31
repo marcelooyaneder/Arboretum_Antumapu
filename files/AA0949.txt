@@ -1,0 +1,22 @@
+catalogNumber                  AA0949
+basisOfRecord                     NaN
+decimalLatitude                348549
+decimalLongitude              6284655
+class                   Magnoliopsida
+order                         Rosales
+family                       Ulmaceae
+genus                           Ulmus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+nameAcordingTo                     L.
+verbatimTaxonRank                 NaN
+taxonRank                         NaN
+acceptedNameUsage            Ulmus L.
+Unnamed: 14                  ACCEPTED
+Unnamed: 15                      Viva
+establishmentMeans            Exótica
+Unnamed: 17                      2019
+Unnamed: 18                       NaN
+locationRemarks                   NaN
+sex                               NaN
+Name: AA0949, dtype: object

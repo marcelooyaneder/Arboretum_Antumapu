@@ -1,0 +1,22 @@
+catalogNumber                      AA0856
+basisOfRecord                         NaN
+decimalLatitude                    348466
+decimalLongitude                  6284505
+class                       Magnoliopsida
+order                             Rosales
+family                           Rosaceae
+genus                              Prunus
+specificEpithet                   cerasus
+infraspecificEpithet                  NaN
+nameAcordingTo                         L.
+verbatimTaxonRank                     NaN
+taxonRank                             NaN
+acceptedNameUsage       Prunus cerasus L.
+Unnamed: 14                       SYNONYM
+Unnamed: 15                          Viva
+establishmentMeans                Exótica
+Unnamed: 17                          2019
+Unnamed: 18                           NaN
+locationRemarks                       NaN
+sex                                   NaN
+Name: AA0856, dtype: object

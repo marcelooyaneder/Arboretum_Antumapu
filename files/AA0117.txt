@@ -1,0 +1,22 @@
+catalogNumber                                 AA0117
+basisOfRecord                                    NaN
+decimalLatitude                               348643
+decimalLongitude                             6284250
+class                                  Magnoliopsida
+order                                     Oxalidales
+family                                Elaeocarpaceae
+genus                                    Aristotelia
+specificEpithet                            chilensis
+infraspecificEpithet                             NaN
+nameAcordingTo                                Stuntz
+verbatimTaxonRank                                NaN
+taxonRank                                        NaN
+acceptedNameUsage       Aristotelia chilensis Stuntz
+Unnamed: 14                                 ACCEPTED
+Unnamed: 15                                     Viva
+establishmentMeans                            Nativa
+Unnamed: 17                                     2019
+Unnamed: 18                                      NaN
+locationRemarks                                  NaN
+sex                                              NaN
+Name: AA0117, dtype: object

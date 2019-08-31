@@ -1,0 +1,22 @@
+catalogNumber                                                  AA0299
+basisOfRecord                                                     NaN
+decimalLatitude                                                348568
+decimalLongitude                                              6284439
+class                                                   Magnoliopsida
+order                                                      Sapindales
+family                                                  Anacardiaceae
+genus                                                         Schinus
+specificEpithet                                              polygama
+infraspecificEpithet                                              NaN
+nameAcordingTo                                  Cabrera & I.M.Johnst.
+verbatimTaxonRank                                                 NaN
+taxonRank                                                         NaN
+acceptedNameUsage       Schinus polygama (Cav.) Cabrera & I.M.Johnst.
+Unnamed: 14                                                  ACCEPTED
+Unnamed: 15                                                      Viva
+establishmentMeans                                             Nativa
+Unnamed: 17                                                      2019
+Unnamed: 18                                                       NaN
+locationRemarks                                                   NaN
+sex                                                               NaN
+Name: AA0299, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                            AA0286
+basisOfRecord                               NaN
+decimalLatitude                          348577
+decimalLongitude                        6284428
+class                                Liliopsida
+order                                  Arecales
+family                                Arecaceae
+genus                                    Jubaea
+specificEpithet                       chilensis
+infraspecificEpithet                        NaN
+nameAcordingTo                           Baill.
+verbatimTaxonRank                           NaN
+taxonRank                                   NaN
+acceptedNameUsage       Jubaea chilensis Baill.
+Unnamed: 14                            ACCEPTED
+Unnamed: 15                                Viva
+establishmentMeans                       Nativa
+Unnamed: 17                                2019
+Unnamed: 18                                 NaN
+locationRemarks                             NaN
+sex                                         NaN
+Name: AA0286, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                       AA0547
+basisOfRecord                          NaN
+decimalLatitude                     348525
+decimalLongitude                   6284421
+class                        Magnoliopsida
+order                             Laurales
+family                           Lauraceae
+genus                               Persea
+specificEpithet                     lingue
+infraspecificEpithet                   NaN
+nameAcordingTo                        Nees
+verbatimTaxonRank                      NaN
+taxonRank                              NaN
+acceptedNameUsage       Persea lingue Nees
+Unnamed: 14                       ACCEPTED
+Unnamed: 15                         Muerto
+establishmentMeans                  Nativa
+Unnamed: 17                           2019
+Unnamed: 18                            NaN
+locationRemarks                        NaN
+sex                                    NaN
+Name: AA0547, dtype: object

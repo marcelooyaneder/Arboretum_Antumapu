@@ -1,0 +1,22 @@
+catalogNumber                                      AA0556
+basisOfRecord                                         NaN
+decimalLatitude                                    348523
+decimalLongitude                                  6284409
+class                                           Pinopsida
+order                                             Pinales
+family                                       Cupressaceae
+genus                                            Fitzroya
+specificEpithet                              cupressoides
+infraspecificEpithet                                  NaN
+nameAcordingTo                                I.M.Johnst.
+verbatimTaxonRank                                     NaN
+taxonRank                                             NaN
+acceptedNameUsage       Fitzroya cupressoides I.M.Johnst.
+Unnamed: 14                                      ACCEPTED
+Unnamed: 15                                          Viva
+establishmentMeans                                 Nativa
+Unnamed: 17                                          2019
+Unnamed: 18                                           NaN
+locationRemarks                                       NaN
+sex                                                   NaN
+Name: AA0556, dtype: object

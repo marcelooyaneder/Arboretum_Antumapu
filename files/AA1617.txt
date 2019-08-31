@@ -1,0 +1,22 @@
+catalogNumber                                       AA1617
+basisOfRecord                                          NaN
+decimalLatitude                                     348516
+decimalLongitude                                   6284337
+class                                        Magnoliopsida
+order                                             Malvales
+family                                           Malvaceae
+genus                                            Lagunaria
+specificEpithet                                 patersonii
+infraspecificEpithet                                   NaN
+nameAcordingTo                                       G.Don
+verbatimTaxonRank                                      NaN
+taxonRank                                              NaN
+acceptedNameUsage       Lagunaria patersonii (R.Br.) G.Don
+Unnamed: 14                                       ACCEPTED
+Unnamed: 15                                           Viva
+establishmentMeans                                 Exótica
+Unnamed: 17                                           2019
+Unnamed: 18                                            NaN
+locationRemarks                                        NaN
+sex                                                    NaN
+Name: AA1617, dtype: object

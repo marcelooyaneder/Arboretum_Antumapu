@@ -1,0 +1,22 @@
+catalogNumber                                 AA0243
+basisOfRecord                                    NaN
+decimalLatitude                               348613
+decimalLongitude                             6284420
+class                                  Magnoliopsida
+order                                        Fabales
+family                                      Fabaceae
+genus                                      Vachellia
+specificEpithet                                caven
+infraspecificEpithet                             NaN
+nameAcordingTo                                Molina
+verbatimTaxonRank                                NaN
+taxonRank                                        NaN
+acceptedNameUsage       Acacia caven (Molina) Molina
+Unnamed: 14                                  SYNONYM
+Unnamed: 15                                     Viva
+establishmentMeans                            Nativa
+Unnamed: 17                                     2019
+Unnamed: 18                                      NaN
+locationRemarks                                  NaN
+sex                                              NaN
+Name: AA0243, dtype: object

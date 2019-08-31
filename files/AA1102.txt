@@ -1,0 +1,22 @@
+catalogNumber                      AA1102
+basisOfRecord                         NaN
+decimalLatitude                    348452
+decimalLongitude                  6284764
+class                       Magnoliopsida
+order                            Myrtales
+family                          Myrtaceae
+genus                          Eucalyptus
+specificEpithet                       NaN
+infraspecificEpithet                  NaN
+nameAcordingTo                     L'Her.
+verbatimTaxonRank                     NaN
+taxonRank                             NaN
+acceptedNameUsage       Eucalyptus L'Her.
+Unnamed: 14                      ACCEPTED
+Unnamed: 15                          Viva
+establishmentMeans                Exótica
+Unnamed: 17                          2019
+Unnamed: 18                           NaN
+locationRemarks                       NaN
+sex                                   NaN
+Name: AA1102, dtype: object
