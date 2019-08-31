@@ -3,6 +3,10 @@ import pandas as pd
 import os
 import errno
 
+#http://arboretum.oost-vlaanderen.be/index.cfm?nummer=00006251 IDEA TIPO
+#EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
+# Y SI ES QUE EXISTEN REVISAR POSIBLES CAMBIOS, AGREGAR LOS QUE NO EXISTEN   
+
 #creation of classes and functions
 
 def infowriting(ID,info):
