@@ -4,6 +4,7 @@ import os
 import errno
 import pyqrcode
 from pathlib import Path
+from pyshorteners import Shortener
 
 #http://arboretum.oost-vlaanderen.be/index.cfm?nummer=00006251 IDEA TIPO
 #EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
@@ -23,7 +24,7 @@ def qrcreation(ID,url):
     URL=url+ID+'.txt'
     filename = "qrs/"+ID+'.png'
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-    quick_response_code= pyqrcode.create(URL)
+    quick_response_code= pyqrcode.create(direction)
     quick_response_code.png(filename, scale=8)
     quick_response_code.eps(filename, scale=2)
 
