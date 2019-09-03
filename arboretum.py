@@ -24,7 +24,7 @@ def qrcreation(ID,url):
     URL=url+ID+'.txt'
     filename = "qrs/"+ID+'.png'
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-    quick_response_code= pyqrcode.create(direction)
+    quick_response_code= pyqrcode.create(URL)
     quick_response_code.png(filename, scale=8)
     quick_response_code.eps(filename, scale=2)
 
