@@ -4,7 +4,7 @@ import os
 import errno
 import pyqrcode
 from pathlib import Path
-#from pyshorteners import Shortener
+from pyshorteners import Shortener
 
 #http://arboretum.oost-vlaanderen.be/index.cfm?nummer=00006251 IDEA TIPO
 #EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
@@ -21,12 +21,10 @@ def infowriting(ID,info):
     return 
 
 def qrcreation(ID,url):
-    #shortener = Shortener('Isgd')
     URL=url+ID+'.txt'
-    #direction=shortener.short(URL)
     filename = "qrs/"+ID+'.png'
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-    quick_response_code= pyqrcode.create(URL)
+    quick_response_code= pyqrcode.create(direction)
     quick_response_code.png(filename, scale=8)
     quick_response_code.eps(filename, scale=2)
 
@@ -41,7 +39,7 @@ IDs=data['catalogNumber'].tolist()
 #verificar si los archivos existen, si es que existen comparar estos, si no crearlos.
 #get info into a txt document ESTA FUNCIONANDO NO EJECUTAR YA QUE CREA DEMASIADOS ARCHIVOS
 for id in IDs:
-    #infowriting(id,data.loc[id])
+    infowriting(id,data.loc[id])
     qrcreation(id,'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/')
 
 #print ("File      Path:", Path(__file__).absolute()) ESTE ES EL PATH DE LA CARPETA
