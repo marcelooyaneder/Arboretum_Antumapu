@@ -1,7 +1,7 @@
 catalogNumber                   AA0038
 basisOfRecord                      NaN
 decimalLatitude                 348681
-decimalLongitude               6284216
+decimalLongitude           6.28422e+06
 class                    Magnoliopsida
 order                   Caryophyllales
 family                    Tamaricaceae

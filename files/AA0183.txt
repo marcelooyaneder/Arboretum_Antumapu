@@ -1,7 +1,7 @@
 catalogNumber                     AA0183
 basisOfRecord                        NaN
 decimalLatitude                   348647
-decimalLongitude                 6284343
+decimalLongitude             6.28434e+06
 class                       Ginkgoopsida
 order                         Ginkgoales
 family                       Ginkgoaceae

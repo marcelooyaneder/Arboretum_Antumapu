@@ -1,7 +1,7 @@
 catalogNumber                              AA0013
 basisOfRecord                                 NaN
 decimalLatitude                            348653
-decimalLongitude                          6284284
+decimalLongitude                      6.28428e+06
 class                               Magnoliopsida
 order                                  Sapindales
 family                                Sapindaceae

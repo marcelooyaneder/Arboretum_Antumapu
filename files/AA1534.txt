@@ -1,7 +1,7 @@
 catalogNumber                                            AA1534
 basisOfRecord                                               NaN
 decimalLatitude                                          348538
-decimalLongitude                                        6284265
+decimalLongitude                                    6.28426e+06
 class                                                 Pinopsida
 order                                                   Pinales
 family                                            Araucariaceae

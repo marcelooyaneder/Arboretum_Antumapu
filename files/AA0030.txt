@@ -1,7 +1,7 @@
 catalogNumber                         AA0030
 basisOfRecord                            NaN
 decimalLatitude                       348655
-decimalLongitude                     6284227
+decimalLongitude                 6.28423e+06
 class                          Magnoliopsida
 order                         Caryophyllales
 family                        Phytolaccaceae

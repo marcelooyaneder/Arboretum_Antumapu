@@ -1,7 +1,7 @@
 catalogNumber                               AA1634
 basisOfRecord                                  NaN
 decimalLatitude                             348472
-decimalLongitude                           6284342
+decimalLongitude                       6.28434e+06
 class                                Magnoliopsida
 order                                 Saxifragales
 family                                Altingiaceae
