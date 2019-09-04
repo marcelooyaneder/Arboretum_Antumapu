@@ -1,7 +1,7 @@
 catalogNumber                               AA0384
 basisOfRecord                                  NaN
 decimalLatitude                             348537
-decimalLongitude                           6284405
+decimalLongitude                       6.28440e+06
 class                                Magnoliopsida
 order                                      Vitales
 family                                    Vitaceae

@@ -1,7 +1,7 @@
 catalogNumber                                 AA0372
 basisOfRecord                                    NaN
 decimalLatitude                               348541
-decimalLongitude                             6284390
+decimalLongitude                         6.28439e+06
 class                                  Magnoliopsida
 order                                     Oxalidales
 family                                Elaeocarpaceae

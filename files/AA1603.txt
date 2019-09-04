@@ -1,7 +1,7 @@
 catalogNumber                           AA1603
 basisOfRecord                              NaN
 decimalLatitude                         348512
-decimalLongitude                       6284320
+decimalLongitude                   6.28432e+06
 class                            Magnoliopsida
 order                              Celastrales
 family                            Celastraceae

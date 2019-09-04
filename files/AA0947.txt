@@ -1,7 +1,7 @@
 catalogNumber                          AA0947
 basisOfRecord                             NaN
 decimalLatitude                        348537
-decimalLongitude                      6284654
+decimalLongitude                  6.28465e+06
 class                           Magnoliopsida
 order                                Lamiales
 family                               Oleaceae

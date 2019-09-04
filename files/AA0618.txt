@@ -1,7 +1,7 @@
 catalogNumber                                      AA0618
 basisOfRecord                                         NaN
 decimalLatitude                                    348538
-decimalLongitude                                  6284513
+decimalLongitude                              6.28451e+06
 class                                       Magnoliopsida
 order                                            Myrtales
 family                                          Myrtaceae

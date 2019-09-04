@@ -1,7 +1,7 @@
 catalogNumber                  AA0075
 basisOfRecord                     NaN
 decimalLatitude                348616
-decimalLongitude              6284198
+decimalLongitude           6.2842e+06
 class                   Magnoliopsida
 order                         Rosales
 family                       Ulmaceae

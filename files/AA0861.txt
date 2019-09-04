@@ -1,7 +1,7 @@
 catalogNumber                            AA0861
 basisOfRecord                               NaN
 decimalLatitude                          348470
-decimalLongitude                        6284525
+decimalLongitude                    6.28452e+06
 class                             Magnoliopsida
 order                               Magnoliales
 family                               Annonaceae

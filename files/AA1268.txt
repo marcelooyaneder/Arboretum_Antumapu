@@ -1,7 +1,7 @@
 catalogNumber                                         AA1268
 basisOfRecord                                            NaN
 decimalLatitude                                       348383
-decimalLongitude                                     6284292
+decimalLongitude                                 6.28429e+06
 class                                             Liliopsida
 order                                            Asparagales
 family                                          Asparagaceae

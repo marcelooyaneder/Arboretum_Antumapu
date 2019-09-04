@@ -1,7 +1,7 @@
 catalogNumber                                                  AA0865
 basisOfRecord                                                     NaN
 decimalLatitude                                                348626
-decimalLongitude                                              6284457
+decimalLongitude                                          6.28446e+06
 class                                                   Magnoliopsida
 order                                                         Apiales
 family                                                 Pittosporaceae

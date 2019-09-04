@@ -1,7 +1,7 @@
 catalogNumber                            AA0108
 basisOfRecord                               NaN
 decimalLatitude                          348622
-decimalLongitude                        6284245
+decimalLongitude                    6.28424e+06
 class                             Magnoliopsida
 order                                  Myrtales
 family                               Lythraceae
