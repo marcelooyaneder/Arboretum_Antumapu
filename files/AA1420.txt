@@ -1,7 +1,7 @@
 catalogNumber                                      AA1420
 basisOfRecord                                         NaN
 decimalLatitude                                    348377
-decimalLongitude                               6.2844e+06
+decimalLongitude                                  6284398
 class                                       Magnoliopsida
 order                                            Lamiales
 family                                       Bignoniaceae

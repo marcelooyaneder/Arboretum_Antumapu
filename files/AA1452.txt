@@ -1,7 +1,7 @@
 catalogNumber                              AA1452
 basisOfRecord                                 NaN
 decimalLatitude                            348413
-decimalLongitude                      6.28430e+06
+decimalLongitude                          6284305
 class                               Magnoliopsida
 order                                     Fabales
 family                               Quillajaceae

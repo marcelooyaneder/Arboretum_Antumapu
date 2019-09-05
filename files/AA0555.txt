@@ -1,7 +1,7 @@
 catalogNumber                                      AA0555
 basisOfRecord                                         NaN
 decimalLatitude                                    348518
-decimalLongitude                               6.2844e+06
+decimalLongitude                                  6284403
 class                                           Pinopsida
 order                                             Pinales
 family                                       Cupressaceae

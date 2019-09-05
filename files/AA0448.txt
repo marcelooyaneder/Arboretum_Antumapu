@@ -1,7 +1,7 @@
 catalogNumber                          AA0448
 basisOfRecord                             NaN
 decimalLatitude                        348510
-decimalLongitude                  6.28442e+06
+decimalLongitude                      6284419
 class                           Magnoliopsida
 order                               Solanales
 family                             Solanaceae

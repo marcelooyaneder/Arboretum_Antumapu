@@ -1,7 +1,7 @@
 catalogNumber                                    AA0527
 basisOfRecord                                       NaN
 decimalLatitude                                  348537
-decimalLongitude                            6.28442e+06
+decimalLongitude                                6284421
 class                                     Magnoliopsida
 order                                           Fagales
 family                                    Nothofagaceae

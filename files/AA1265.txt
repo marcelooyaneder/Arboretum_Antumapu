@@ -1,7 +1,7 @@
 catalogNumber                                                      AA1265
 basisOfRecord                                                         NaN
 decimalLatitude                                                    348396
-decimalLongitude                                              6.28429e+06
+decimalLongitude                                                  6284289
 class                                                          Liliopsida
 order                                                            Arecales
 family                                                          Arecaceae

@@ -1,7 +1,7 @@
 catalogNumber                                        AA0647
 basisOfRecord                                           NaN
 decimalLatitude                                      348432
-decimalLongitude                                6.28448e+06
+decimalLongitude                                    6284478
 class                                         Magnoliopsida
 order                                          Malpighiales
 family                                           Salicaceae

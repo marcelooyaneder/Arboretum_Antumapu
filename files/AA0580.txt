@@ -1,7 +1,7 @@
 catalogNumber                     AA0580
 basisOfRecord                        NaN
 decimalLatitude                   348480
-decimalLongitude             6.28442e+06
+decimalLongitude                 6284425
 class                      Magnoliopsida
 order                         Sapindales
 family                     Anacardiaceae

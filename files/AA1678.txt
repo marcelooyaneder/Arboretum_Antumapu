@@ -1,7 +1,7 @@
 catalogNumber                             AA1678
 basisOfRecord                                NaN
 decimalLatitude                           348547
-decimalLongitude                     6.28436e+06
+decimalLongitude                         6284365
 class                                  Pinopsida
 order                                    Pinales
 family                              Cupressaceae

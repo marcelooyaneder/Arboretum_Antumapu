@@ -1,7 +1,7 @@
 catalogNumber                                      AA0516
 basisOfRecord                                         NaN
 decimalLatitude                                    348537
-decimalLongitude                               6.2844e+06
+decimalLongitude                                  6284395
 class                                      Polypodiopsida
 order                                        Polypodiales
 family                                        Blechnaceae

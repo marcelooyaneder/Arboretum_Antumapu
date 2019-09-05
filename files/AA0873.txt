@@ -1,7 +1,7 @@
 catalogNumber                           AA0873
 basisOfRecord                              NaN
 decimalLatitude                         348557
-decimalLongitude                   6.28457e+06
+decimalLongitude                       6284571
 class                            Magnoliopsida
 order                                Proteales
 family                             Platanaceae

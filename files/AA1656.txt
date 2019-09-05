@@ -1,7 +1,7 @@
 catalogNumber                     AA1656
 basisOfRecord                        NaN
 decimalLatitude                   348566
-decimalLongitude             6.28434e+06
+decimalLongitude                 6284340
 class                      Magnoliopsida
 order                            Fagales
 family                      Juglandaceae

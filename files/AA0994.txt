@@ -1,7 +1,7 @@
 catalogNumber                                                  AA0994
 basisOfRecord                                                     NaN
 decimalLatitude                                                348552
-decimalLongitude                                          6.28471e+06
+decimalLongitude                                              6284707
 class                                                   Magnoliopsida
 order                                                        Malvales
 family                                                      Malvaceae

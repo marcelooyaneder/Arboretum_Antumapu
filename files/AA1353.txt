@@ -1,7 +1,7 @@
 catalogNumber                  AA1353
 basisOfRecord                     NaN
 decimalLatitude                348343
-decimalLongitude          6.28431e+06
+decimalLongitude              6284311
 class                   Magnoliopsida
 order                      Sapindales
 family                       Rutaceae

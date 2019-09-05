@@ -1,7 +1,7 @@
 catalogNumber                                     AA0540
 basisOfRecord                                        NaN
 decimalLatitude                                   348537
-decimalLongitude                             6.28443e+06
+decimalLongitude                                 6284429
 class                                      Magnoliopsida
 order                                         Gunnerales
 family                                       Gunneraceae
