@@ -60,9 +60,7 @@ data=data.set_index("catalogNumber", drop = False)
 #obtaining ID data
 IDs=data['catalogNumber'].tolist()
 
-#verificar si los archivos existen, si es que existen comparar estos, si no crearlos.
-#get info a txt document ESTA FUNCIONANDO NO EJECUTAR YA QUE CREA DEMASIADOS ARCHIVOS
-
+#compare files or create them
 if os.path.isdir('/files')==True:
     for id in IDs:
         comparefiles(id.data.loc[id])
