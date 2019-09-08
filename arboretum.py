@@ -4,7 +4,6 @@ import os
 import errno
 import pyqrcode
 from pathlib import Path
-from pyshorteners import Shortener
 import filecmp
 import shutil
 
@@ -24,12 +23,16 @@ def comparefiles(ID,info):
         fil.write(str(info))
     if os.path.isfile(filename2)==True:
         if filecmp.cmp(filename1,filename2)==False:
-            print('****diferencia****')
+            print('ive found some changes since the last time, on file...'+ID+'.txt')
+            print('changes has been saved')
             shutil.move(filename1,filename2)
         else:
             pass
     else:
-        pass
+        print('a new entry has been found, file...'+ID+'.txt has been created.')
+        os.makedirs(os.path.dirname(filename2), exist_ok=True)
+        with open(filename2,'w') as fil:
+            fil.write(str(info))
     shutil.rmtree('temp/', ignore_errors=False, onerror=None)
     return 
 
@@ -38,6 +41,7 @@ def infowriting(ID,info):
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename,'w') as fil:
         fil.write(str(info))
+    print('a new entry has been found, file...'+ID+'.txt has been created.')
     return 
 
 def qrcreation(ID,url):
@@ -56,11 +60,14 @@ data=data.set_index("catalogNumber", drop = False)
 #obtaining ID data
 IDs=data['catalogNumber'].tolist()
 
-#verificar si los archivos existen, si es que existen comparar estos, si no crearlos.
-#get info a txt document ESTA FUNCIONANDO NO EJECUTAR YA QUE CREA DEMASIADOS ARCHIVOS
+#compare files or create them
+#if os.path.isdir('files')==True:
+#    for id in IDs:
+#        comparefiles(id,data.loc[id])
+#else:
+#    for id in IDs:
+#        infowriting(id,data.loc[id])
 
-for id in IDs:
-    comparefiles(id,data.loc[id])
 
 #for id in IDs:
 #    infowriting(id,data.loc[id])

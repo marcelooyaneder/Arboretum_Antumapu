@@ -1,7 +1,7 @@
 catalogNumber                             AA0529
 basisOfRecord                                NaN
 decimalLatitude                           348539
-decimalLongitude                     6.28442e+06
+decimalLongitude                         6284422
 class                              Magnoliopsida
 order                                   Myrtales
 family                                Onagraceae

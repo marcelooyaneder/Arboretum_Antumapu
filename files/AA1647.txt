@@ -1,7 +1,7 @@
 catalogNumber                          AA1647
 basisOfRecord                             NaN
 decimalLatitude                        348479
-decimalLongitude                  6.28434e+06
+decimalLongitude                      6284340
 class                           Magnoliopsida
 order                              Dipsacales
 family                         Caprifoliaceae

@@ -1,7 +1,7 @@
 catalogNumber                         AA0609
 basisOfRecord                            NaN
 decimalLatitude                       348537
-decimalLongitude                  6.2845e+06
+decimalLongitude                     6284504
 class                          Magnoliopsida
 order                               Laurales
 family                           Monimiaceae

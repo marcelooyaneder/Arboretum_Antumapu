@@ -1,7 +1,7 @@
 catalogNumber                        AA0712
 basisOfRecord                           NaN
 decimalLatitude                      348463
-decimalLongitude                6.28458e+06
+decimalLongitude                    6284583
 class                             Pinopsida
 order                               Pinales
 family                             Pinaceae

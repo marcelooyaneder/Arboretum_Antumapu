@@ -1,7 +1,7 @@
 catalogNumber                        AA1440
 basisOfRecord                           NaN
 decimalLatitude                      348277
-decimalLongitude                6.28441e+06
+decimalLongitude                    6284407
 class                         Magnoliopsida
 order                               Rosales
 family                          Cannabaceae

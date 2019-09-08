@@ -1,7 +1,7 @@
 catalogNumber                             AA0672
 basisOfRecord                                NaN
 decimalLatitude                           348462
-decimalLongitude                     6.28451e+06
+decimalLongitude                         6284511
 class                              Magnoliopsida
 order                                    Fabales
 family                                  Fabaceae

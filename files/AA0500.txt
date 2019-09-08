@@ -1,7 +1,7 @@
 catalogNumber                           AA0500
 basisOfRecord                              NaN
 decimalLatitude                         348521
-decimalLongitude                   6.28441e+06
+decimalLongitude                       6284412
 class                            Magnoliopsida
 order                            Escalloniales
 family                          Escalloniaceae

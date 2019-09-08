@@ -1,7 +1,7 @@
 catalogNumber                                         AA1485
 basisOfRecord                                            NaN
 decimalLatitude                                       348426
-decimalLongitude                                 6.28433e+06
+decimalLongitude                                     6284329
 class                                          Magnoliopsida
 order                                               Laurales
 family                                             Lauraceae

@@ -1,7 +1,7 @@
 catalogNumber                  AA1055
 basisOfRecord                     NaN
 decimalLatitude                348491
-decimalLongitude          6.28479e+06
+decimalLongitude              6284789
 class                   Magnoliopsida
 order                    Malpighiales
 family                     Salicaceae
