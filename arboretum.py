@@ -4,7 +4,6 @@ import os
 import errno
 import pyqrcode
 from pathlib import Path
-from pyshorteners import Shortener
 import filecmp
 import shutil
 
@@ -62,12 +61,13 @@ data=data.set_index("catalogNumber", drop = False)
 IDs=data['catalogNumber'].tolist()
 
 #compare files or create them
-if os.path.isdir('files')==True:
-    for id in IDs:
-        comparefiles(id,data.loc[id])
-else:
-    for id in IDs:
-        infowriting(id,data.loc[id])
+#if os.path.isdir('files')==True:
+#    for id in IDs:
+#        comparefiles(id,data.loc[id])
+#else:
+#    for id in IDs:
+#        infowriting(id,data.loc[id])
+
 
 #for id in IDs:
 #    infowriting(id,data.loc[id])
