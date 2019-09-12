@@ -6,6 +6,8 @@ import pyqrcode
 from pathlib import Path
 import filecmp
 import shutil
+from python_firebase_url_shortener.url_shortener import UrlShortener
+import time
 
 #http://arboretum.oost-vlaanderen.be/index.cfm?nummer=00006251 IDEA TIPO
 #EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
@@ -44,11 +46,19 @@ def infowriting(ID,info):
     print('a new entry has been found, file...'+ID+'.txt has been created.')
     return 
 
-def qrcreation(ID,url):
-    long_url=url+ID+'.txt'
+def dynamiclinks(longurl):
+    api_key='AIzaSyCsBqEkRDVJ8ZNp1E8HcbWDe_JEHu9Frgw' #this need to be created on firebase webpage
+    sub_domain='arboretum' #this need to be created on firebase webpage
+    url_shortener = UrlShortener(api_key,sub_domain)
+    shorturl=url_shortener.get_short_link(longurl)
+    time.sleep(0.26) #to not break the limits of firebase
+    return shorturl
+
+
+def qrcreation(ID,short_url):
     filename = "qrs/"+ID+'.png'
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-    quick_response_code= pyqrcode.create(long_url)
+    quick_response_code= pyqrcode.create(short_url)
     quick_response_code.png(filename, scale=8)
     quick_response_code.eps(filename, scale=2)
 
@@ -61,19 +71,29 @@ data=data.set_index("catalogNumber", drop = False)
 IDs=data['catalogNumber'].tolist()
 
 #compare files or create them
-#if os.path.isdir('files')==True:
-#    for id in IDs:
-#        comparefiles(id,data.loc[id])
-#else:
-#    for id in IDs:
-#        infowriting(id,data.loc[id])
+print('compare/create files...')
+if os.path.isdir('files')==True:
+    for id in IDs:
+        comparefiles(id,data.loc[id])
+else:
+    for id in IDs:
+        infowriting(id,data.loc[id])
+print ('there is nothing more to do here...')
 
-
-#for id in IDs:
-#    infowriting(id,data.loc[id])
-#    qrcreation(id,'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/')
-
-
-
-
-#print ("File      Path:", Path(__file__).absolute()) ESTE ES EL PATH DE LA CARPETA
+print('compare/create qr files...')
+if os.path.isdir('qrs')==True:
+    for id in IDs:
+        print('file '+id+' of file '+IDs[-1])
+        path="qrs/"+id+'.png'
+        if os.path.isfile(path)==False:
+            longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/'+id+'.txt'
+            shorturl=dynamiclinks(longurl)
+            qrcreation(id,shorturl)
+        else:
+            pass
+else:
+    for id in IDs:
+        print('file '+id+' of file '+IDs[-1])
+        longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/'+id+'.txt'
+        shorturl=dynamiclinks(longurl)
+        qrcreation(id,shorturl)
