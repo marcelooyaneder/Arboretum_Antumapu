@@ -50,7 +50,7 @@ def infowriting(ID,info):
 
 #agregar try y except functions
 def dynamiclinks(longurl):
-    api_key='AIzaSyCsBqEkRDVJ8ZNp1E8HcbWDe_JEHu9Frgw' #this need to be created on the firebase webpage
+    api_key='' #this need to be created on the firebase webpage
     sub_domain='arboretum' #this need to be created on firebase webpage
     url_shortener = UrlShortener(api_key,sub_domain)
     shorturl=url_shortener.get_short_link(longurl)
