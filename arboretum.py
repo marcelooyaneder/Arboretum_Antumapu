@@ -126,8 +126,11 @@ def infowriting(ID,info):
 def dynamiclinks(longurl):
     api_key='AIzaSyCsBqEkRDVJ8ZNp1E8HcbWDe_JEHu9Frgw' #this need to be created on the firebase webpage
     sub_domain='arboretum' #this need to be created on firebase webpage
-    url_shortener = UrlShortener(api_key,sub_domain)
-    shorturl=url_shortener.get_short_link(longurl)
+    try:
+        url_shortener = UrlShortener(api_key,sub_domain)
+        shorturl=url_shortener.get_short_link(longurl)
+    except:
+        print('Oops! you have reached the limit of urls')
     time.sleep(0.25) #to not break the limits of firebase
     return shorturl
 
@@ -172,7 +175,6 @@ else:
 
 if ans1 =='Y' or ans1 =='y' or ans1=='n' or ans1=='N':
     r1.change_values(data,subjects)
-    data.to_excel('Inventario_2019_Arboretum_Antumapu_Dwc.xlsx','Hoja1')
 else:
     pass
 
