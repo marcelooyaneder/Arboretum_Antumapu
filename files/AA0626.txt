@@ -2,7 +2,7 @@ catalogNumber                                           AA0626
 basisOfRecord                                              NaN
 decimalLatitude                                         348439
 decimalLongitude                                       6284499
-class                                            Magnoliopsida
+Class                                            Magnoliopsida
 order                                                Asterales
 family                                              Asteraceae
 genus                                                Baccharis

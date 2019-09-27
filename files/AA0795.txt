@@ -2,7 +2,7 @@ catalogNumber                     AA0795
 basisOfRecord                        NaN
 decimalLatitude                   348303
 decimalLongitude                 6284422
-class                      Magnoliopsida
+Class                      Magnoliopsida
 order                            Fagales
 family                          Fagaceae
 genus                            Quercus

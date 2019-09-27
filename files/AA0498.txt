@@ -2,7 +2,7 @@ catalogNumber                                     AA0498
 basisOfRecord                                        NaN
 decimalLatitude                                   348519
 decimalLongitude                                 6284417
-class                                      Magnoliopsida
+Class                                      Magnoliopsida
 order                                  Berberidopsidales
 family                                     Aextoxicaceae
 genus                                         Aextoxicon

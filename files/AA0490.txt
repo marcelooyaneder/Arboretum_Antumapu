@@ -2,7 +2,7 @@ catalogNumber                                             AA0490
 basisOfRecord                                                NaN
 decimalLatitude                                           348524
 decimalLongitude                                         6284408
-class                                              Magnoliopsida
+Class                                              Magnoliopsida
 order                                               Aquifoliales
 family                                         Cardiopteridaceae
 genus                                                 Citronella

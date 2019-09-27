@@ -2,7 +2,7 @@ catalogNumber                    AA0894
 basisOfRecord                       NaN
 decimalLatitude                  348590
 decimalLongitude                6284596
-class                     Magnoliopsida
+Class                     Magnoliopsida
 order                           Rosales
 family                         Moraceae
 genus                             Ficus

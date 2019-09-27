@@ -2,7 +2,7 @@ catalogNumber                                 AA1514
 basisOfRecord                                    NaN
 decimalLatitude                               348419
 decimalLongitude                             6284353
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                   Malpighiales
 family                                 Euphorbiaceae
 genus                                     Avellanita

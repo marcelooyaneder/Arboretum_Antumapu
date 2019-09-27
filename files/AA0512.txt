@@ -2,7 +2,7 @@ catalogNumber                              AA0512
 basisOfRecord                                 NaN
 decimalLatitude                            348504
 decimalLongitude                          6284409
-class                                   Pinopsida
+Class                                   Pinopsida
 order                                     Pinales
 family                              Podocarpaceae
 genus                                  Podocarpus

@@ -2,7 +2,7 @@ catalogNumber                        AA0786
 basisOfRecord                           NaN
 decimalLatitude                      348272
 decimalLongitude                    6284427
-class                         Magnoliopsida
+Class                         Magnoliopsida
 order                               Rosales
 family                          Cannabaceae
 genus                                Celtis

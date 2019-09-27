@@ -2,7 +2,7 @@ catalogNumber                  AA0028
 basisOfRecord                     NaN
 decimalLatitude                348656
 decimalLongitude              6284236
-class                   Magnoliopsida
+Class                   Magnoliopsida
 order                         Rosales
 family                       Rosaceae
 genus                          Sorbus

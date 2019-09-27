@@ -2,7 +2,7 @@ catalogNumber                          AA1230
 basisOfRecord                             NaN
 decimalLatitude                        348436
 decimalLongitude                      6284366
-class                           Magnoliopsida
+Class                           Magnoliopsida
 order                                 Fagales
 family                               Fagaceae
 genus                                Castanea

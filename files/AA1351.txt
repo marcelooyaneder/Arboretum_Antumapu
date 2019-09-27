@@ -2,7 +2,7 @@ catalogNumber                  AA1351
 basisOfRecord                     NaN
 decimalLatitude                348342
 decimalLongitude              6284304
-class                   Magnoliopsida
+Class                   Magnoliopsida
 order                      Sapindales
 family                       Rutaceae
 genus                          Citrus

@@ -2,7 +2,7 @@ catalogNumber                          AA0391
 basisOfRecord                             NaN
 decimalLatitude                        348527
 decimalLongitude                      6284425
-class                           Magnoliopsida
+Class                           Magnoliopsida
 order                               Solanales
 family                             Solanaceae
 genus                                 Cestrum

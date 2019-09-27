@@ -2,7 +2,7 @@ catalogNumber                                AA1618
 basisOfRecord                                   NaN
 decimalLatitude                              348518
 decimalLongitude                            6284332
-class                                 Magnoliopsida
+Class                                 Magnoliopsida
 order                                    Sapindales
 family                                Simaroubaceae
 genus                                     Ailanthus

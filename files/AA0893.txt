@@ -2,7 +2,7 @@ catalogNumber                                   AA0893
 basisOfRecord                                      NaN
 decimalLatitude                                 348601
 decimalLongitude                               6284595
-class                                       Liliopsida
+Class                                       Liliopsida
 order                                         Arecales
 family                                       Arecaceae
 genus                                     Trachycarpus

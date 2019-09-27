@@ -2,7 +2,7 @@ catalogNumber                               AA0095
 basisOfRecord                                  NaN
 decimalLatitude                             348643
 decimalLongitude                           6284209
-class                                Magnoliopsida
+Class                                Magnoliopsida
 order                                      Fagales
 family                               Casuarinaceae
 genus                                    Casuarina

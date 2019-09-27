@@ -2,7 +2,7 @@ catalogNumber                                            AA0550
 basisOfRecord                                               NaN
 decimalLatitude                                          348534
 decimalLongitude                                        6284417
-class                                             Magnoliopsida
+Class                                             Magnoliopsida
 order                                                  Lamiales
 family                                              Verbenaceae
 genus                                             Rhaphithamnus

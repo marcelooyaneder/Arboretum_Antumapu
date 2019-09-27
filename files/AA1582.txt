@@ -2,7 +2,7 @@ catalogNumber                           AA1582
 basisOfRecord                              NaN
 decimalLatitude                         348532
 decimalLongitude                       6284296
-class                            Magnoliopsida
+Class                            Magnoliopsida
 order                              Celastrales
 family                            Celastraceae
 genus                                 Maytenus

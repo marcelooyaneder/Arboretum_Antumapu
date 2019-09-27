@@ -2,7 +2,7 @@ catalogNumber                                AA0794
 basisOfRecord                                   NaN
 decimalLatitude                              348299
 decimalLongitude                            6284423
-class                                 Magnoliopsida
+Class                                 Magnoliopsida
 order                                      Lamiales
 family                                 Bignoniaceae
 genus                                     Jacaranda

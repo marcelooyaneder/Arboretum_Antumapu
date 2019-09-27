@@ -2,7 +2,7 @@ catalogNumber                                        AA0945
 basisOfRecord                                           NaN
 decimalLatitude                                      348533
 decimalLongitude                                    6284659
-class                                         Magnoliopsida
+Class                                         Magnoliopsida
 order                                               Rosales
 family                                             Rosaceae
 genus                                            Eriobotrya

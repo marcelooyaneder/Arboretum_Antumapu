@@ -2,7 +2,7 @@ catalogNumber                                AA0477
 basisOfRecord                                   NaN
 decimalLatitude                              348544
 decimalLongitude                            6284441
-class                                 Magnoliopsida
+Class                                 Magnoliopsida
 order                                      Lamiales
 family                                     Oleaceae
 genus                                     Ligustrum

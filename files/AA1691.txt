@@ -2,7 +2,7 @@ catalogNumber                                   AA1691
 basisOfRecord                                      NaN
 decimalLatitude                                 348492
 decimalLongitude                               6284372
-class                                        Pinopsida
+Class                                        Pinopsida
 order                                          Pinales
 family                                    Cupressaceae
 genus                                    Chamaecyparis

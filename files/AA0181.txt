@@ -2,7 +2,7 @@ catalogNumber                              AA0181
 basisOfRecord                                 NaN
 decimalLatitude                            348678
 decimalLongitude                          6284216
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                     Rosales
 family                               Elaeagnaceae
 genus                                   Elaeagnus

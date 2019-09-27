@@ -2,7 +2,7 @@ catalogNumber                                                  AA0307
 basisOfRecord                                                     NaN
 decimalLatitude                                                348566
 decimalLongitude                                              6284429
-class                                                   Magnoliopsida
+Class                                                   Magnoliopsida
 order                                                         Fabales
 family                                                       Fabaceae
 genus                                                           Senna

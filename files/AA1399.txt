@@ -2,7 +2,7 @@ catalogNumber                       AA1399
 basisOfRecord                          NaN
 decimalLatitude                     348369
 decimalLongitude                   6284396
-class                        Magnoliopsida
+Class                        Magnoliopsida
 order                          Gentianales
 family                         Apocynaceae
 genus                               Nerium

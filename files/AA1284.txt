@@ -2,7 +2,7 @@ catalogNumber                               AA1284
 basisOfRecord                                  NaN
 decimalLatitude                             348341
 decimalLongitude                           6284398
-class                                Magnoliopsida
+Class                                Magnoliopsida
 order                                 Saxifragales
 family                                Altingiaceae
 genus                                  Liquidambar

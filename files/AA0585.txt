@@ -2,7 +2,7 @@ catalogNumber                                AA0585
 basisOfRecord                                   NaN
 decimalLatitude                              348533
 decimalLongitude                            6284486
-class                                 Magnoliopsida
+Class                                 Magnoliopsida
 order                                    Oxalidales
 family                               Elaeocarpaceae
 genus                                  Crinodendron

@@ -2,7 +2,7 @@ catalogNumber                               AA1586
 basisOfRecord                                  NaN
 decimalLatitude                             348521
 decimalLongitude                           6284278
-class                                    Pinopsida
+Class                                    Pinopsida
 order                                      Pinales
 family                                Cupressaceae
 genus                                      Sequoia

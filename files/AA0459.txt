@@ -2,7 +2,7 @@ catalogNumber                                   AA0459
 basisOfRecord                                      NaN
 decimalLatitude                                 348544
 decimalLongitude                               6284442
-class                                    Magnoliopsida
+Class                                    Magnoliopsida
 order                                     Malpighiales
 family                                      Salicaceae
 genus                                            Azara

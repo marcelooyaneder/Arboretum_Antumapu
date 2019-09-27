@@ -2,7 +2,7 @@ catalogNumber                            AA0443
 basisOfRecord                               NaN
 decimalLatitude                          348498
 decimalLongitude                        6284459
-class                                Liliopsida
+Class                                Liliopsida
 order                                  Arecales
 family                                Arecaceae
 genus                                    Jubaea

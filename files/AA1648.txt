@@ -2,7 +2,7 @@ catalogNumber                          AA1648
 basisOfRecord                             NaN
 decimalLatitude                        348471
 decimalLongitude                      6284337
-class                           Magnoliopsida
+Class                           Magnoliopsida
 order                              Dipsacales
 family                         Caprifoliaceae
 genus                                 Zabelia

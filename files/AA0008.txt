@@ -2,7 +2,7 @@ catalogNumber                              AA0008
 basisOfRecord                                 NaN
 decimalLatitude                            348656
 decimalLongitude                          6284309
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                  Sapindales
 family                                Sapindaceae
 genus                                    Aesculus

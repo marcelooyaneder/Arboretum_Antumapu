@@ -2,7 +2,7 @@ catalogNumber                                      AA0516
 basisOfRecord                                         NaN
 decimalLatitude                                    348537
 decimalLongitude                                  6284395
-class                                      Polypodiopsida
+Class                                      Polypodiopsida
 order                                        Polypodiales
 family                                        Blechnaceae
 genus                                        Parablechnum

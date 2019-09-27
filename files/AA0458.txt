@@ -2,7 +2,7 @@ catalogNumber                         AA0458
 basisOfRecord                            NaN
 decimalLatitude                       348539
 decimalLongitude                     6284451
-class                          Magnoliopsida
+Class                          Magnoliopsida
 order                                Fabales
 family                              Fabaceae
 genus                              Ceratonia

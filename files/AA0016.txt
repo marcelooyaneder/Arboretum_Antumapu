@@ -2,7 +2,7 @@ catalogNumber                              AA0016
 basisOfRecord                                 NaN
 decimalLatitude                            348680
 decimalLongitude                          6284280
-class                                   Pinopsida
+Class                                   Pinopsida
 order                                     Pinales
 family                               Cupressaceae
 genus                                   Cupressus

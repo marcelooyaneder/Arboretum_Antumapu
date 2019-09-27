@@ -2,7 +2,7 @@ catalogNumber                                 AA0505
 basisOfRecord                                    NaN
 decimalLatitude                               348512
 decimalLongitude                             6284419
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                       Myrtales
 family                                     Myrtaceae
 genus                                           Luma

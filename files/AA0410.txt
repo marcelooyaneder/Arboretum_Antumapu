@@ -2,7 +2,7 @@ catalogNumber                                 AA0410
 basisOfRecord                                    NaN
 decimalLatitude                               348518
 decimalLongitude                             6284402
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                     Oxalidales
 family                                Elaeocarpaceae
 genus                                    Aristotelia

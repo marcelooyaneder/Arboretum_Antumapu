@@ -2,7 +2,7 @@ catalogNumber                                        AA1594
 basisOfRecord                                           NaN
 decimalLatitude                                      348487
 decimalLongitude                                    6284272
-class                                         Magnoliopsida
+Class                                         Magnoliopsida
 order                                               Fabales
 family                                             Fabaceae
 genus                                         Styphnolobium

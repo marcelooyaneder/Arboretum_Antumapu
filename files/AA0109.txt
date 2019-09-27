@@ -2,7 +2,7 @@ catalogNumber                            AA0109
 basisOfRecord                               NaN
 decimalLatitude                          348622
 decimalLongitude                        6284249
-class                             Magnoliopsida
+Class                             Magnoliopsida
 order                                  Myrtales
 family                               Lythraceae
 genus                             Lagerstroemia

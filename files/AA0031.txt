@@ -2,7 +2,7 @@ catalogNumber                                                  AA0031
 basisOfRecord                                                     NaN
 decimalLatitude                                                348663
 decimalLongitude                                              6284224
-class                                                   Magnoliopsida
+Class                                                   Magnoliopsida
 order                                                        Malvales
 family                                                      Malvaceae
 genus                                                    Brachychiton

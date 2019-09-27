@@ -2,7 +2,7 @@ catalogNumber                           AA0764
 basisOfRecord                              NaN
 decimalLatitude                         348555
 decimalLongitude                       6284517
-class                            Magnoliopsida
+Class                            Magnoliopsida
 order                                Proteales
 family                             Platanaceae
 genus                                 Platanus

@@ -2,7 +2,7 @@ catalogNumber                                                      AA0351
 basisOfRecord                                                         NaN
 decimalLatitude                                                    348633
 decimalLongitude                                                  6284418
-class                                                       Magnoliopsida
+Class                                                       Magnoliopsida
 order                                                             Fabales
 family                                                           Fabaceae
 genus                                                           Geoffroea

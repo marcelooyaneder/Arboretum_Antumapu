@@ -2,7 +2,7 @@ catalogNumber                                 AA0713
 basisOfRecord                                    NaN
 decimalLatitude                               348472
 decimalLongitude                             6284493
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                        Apiales
 family                                Pittosporaceae
 genus                                    Pittosporum

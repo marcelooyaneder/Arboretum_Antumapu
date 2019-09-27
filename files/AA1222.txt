@@ -2,7 +2,7 @@ catalogNumber                        AA1222
 basisOfRecord                           NaN
 decimalLatitude                      348419
 decimalLongitude                    6284374
-class                         Magnoliopsida
+Class                         Magnoliopsida
 order                          Malpighiales
 family                           Salicaceae
 genus                                 Salix

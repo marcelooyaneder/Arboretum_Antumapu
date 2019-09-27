@@ -2,7 +2,7 @@ catalogNumber                                AA0463
 basisOfRecord                                   NaN
 decimalLatitude                              348543
 decimalLongitude                            6284449
-class                                 Magnoliopsida
+Class                                 Magnoliopsida
 order                                  Malpighiales
 family                                Euphorbiaceae
 genus                                    Colliguaja

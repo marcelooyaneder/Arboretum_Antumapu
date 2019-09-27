@@ -2,7 +2,7 @@ catalogNumber                               AA0552
 basisOfRecord                                  NaN
 decimalLatitude                             348511
 decimalLongitude                           6284407
-class                                Magnoliopsida
+Class                                Magnoliopsida
 order                                     Laurales
 family                          Atherospermataceae
 genus                                     Laurelia

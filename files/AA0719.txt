@@ -2,7 +2,7 @@ catalogNumber                             AA0719
 basisOfRecord                                NaN
 decimalLatitude                           348415
 decimalLongitude                         6284485
-class                              Magnoliopsida
+Class                              Magnoliopsida
 order                                    Apiales
 family                                  Apiaceae
 genus                                 Foeniculum

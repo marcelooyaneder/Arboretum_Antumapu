@@ -2,7 +2,7 @@ catalogNumber                                            AA0335
 basisOfRecord                                               NaN
 decimalLatitude                                          348571
 decimalLongitude                                        6284388
-class                                                 Pinopsida
+Class                                                 Pinopsida
 order                                                   Pinales
 family                                                 Pinaceae
 genus                                                    Cedrus

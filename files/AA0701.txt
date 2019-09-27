@@ -2,7 +2,7 @@ catalogNumber                      AA0701
 basisOfRecord                         NaN
 decimalLatitude                    348470
 decimalLongitude                  6284521
-class                       Magnoliopsida
+Class                       Magnoliopsida
 order                             Vitales
 family                           Vitaceae
 genus                               Vitis

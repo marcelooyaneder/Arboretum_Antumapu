@@ -2,7 +2,7 @@ catalogNumber                                 AA0567
 basisOfRecord                                    NaN
 decimalLatitude                               348497
 decimalLongitude                             6284422
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                      Proteales
 family                                    Proteaceae
 genus                                        Lomatia

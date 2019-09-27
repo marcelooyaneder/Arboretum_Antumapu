@@ -2,7 +2,7 @@ catalogNumber                      AA1643
 basisOfRecord                         NaN
 decimalLatitude                    348469
 decimalLongitude                  6284292
-class                       Magnoliopsida
+Class                       Magnoliopsida
 order                             Apiales
 family                         Araliaceae
 genus                          Tetrapanax

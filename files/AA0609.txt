@@ -2,7 +2,7 @@ catalogNumber                         AA0609
 basisOfRecord                            NaN
 decimalLatitude                       348537
 decimalLongitude                     6284504
-class                          Magnoliopsida
+Class                          Magnoliopsida
 order                               Laurales
 family                           Monimiaceae
 genus                                 Peumus

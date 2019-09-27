@@ -2,7 +2,7 @@ catalogNumber                                                      AA0557
 basisOfRecord                                                         NaN
 decimalLatitude                                                    348504
 decimalLongitude                                                  6284411
-class                                                           Pinopsida
+Class                                                           Pinopsida
 order                                                             Pinales
 family                                                       Cupressaceae
 genus                                                        Austrocedrus

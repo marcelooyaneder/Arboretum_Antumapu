@@ -2,7 +2,7 @@ catalogNumber                         AA1125
 basisOfRecord                            NaN
 decimalLatitude                       348445
 decimalLongitude                     6284723
-class                          Magnoliopsida
+Class                          Magnoliopsida
 order                                Fabales
 family                              Fabaceae
 genus                                 Acacia

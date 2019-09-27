@@ -2,7 +2,7 @@ catalogNumber                  AA0822
 basisOfRecord                     NaN
 decimalLatitude                348461
 decimalLongitude              6284406
-class                   Magnoliopsida
+Class                   Magnoliopsida
 order                         Rosales
 family                       Rosaceae
 genus                           Pyrus
