@@ -2,7 +2,7 @@ catalogNumber                                        AA0465
 basisOfRecord                                           NaN
 decimalLatitude                                      348546
 decimalLongitude                                    6284456
-class                                         Magnoliopsida
+Class                                         Magnoliopsida
 order                                               Fabales
 family                                             Fabaceae
 genus                                           Caesalpinia

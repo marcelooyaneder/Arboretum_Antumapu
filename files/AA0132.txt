@@ -2,7 +2,7 @@ catalogNumber                             AA0132
 basisOfRecord                                NaN
 decimalLatitude                           348639
 decimalLongitude                         6284300
-class                              Magnoliopsida
+Class                              Magnoliopsida
 order                                    Fabales
 family                                  Fabaceae
 genus                                  Gleditsia

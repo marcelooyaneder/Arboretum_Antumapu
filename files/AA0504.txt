@@ -2,7 +2,7 @@ catalogNumber                              AA0504
 basisOfRecord                                 NaN
 decimalLatitude                            348514
 decimalLongitude                          6284428
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                  Oxalidales
 family                                Cunoniaceae
 genus                                   Eucryphia

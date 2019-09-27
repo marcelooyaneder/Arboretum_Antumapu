@@ -2,7 +2,7 @@ catalogNumber                                         AA0486
 basisOfRecord                                            NaN
 decimalLatitude                                       348531
 decimalLongitude                                     6284417
-class                                          Magnoliopsida
+Class                                          Magnoliopsida
 order                                             Canellales
 family                                           Winteraceae
 genus                                                 Drimys

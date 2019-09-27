@@ -2,7 +2,7 @@ catalogNumber                                           AA0866
 basisOfRecord                                              NaN
 decimalLatitude                                         348626
 decimalLongitude                                       6284454
-class                                            Magnoliopsida
+Class                                            Magnoliopsida
 order                                                 Lamiales
 family                                               Lamiaceae
 genus                                               Rosmarinus

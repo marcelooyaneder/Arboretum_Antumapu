@@ -2,7 +2,7 @@ catalogNumber                         AA1719
 basisOfRecord                            NaN
 decimalLatitude                       348456
 decimalLongitude                     6284380
-class                          Magnoliopsida
+Class                          Magnoliopsida
 order                         Caryophyllales
 family                        Phytolaccaceae
 genus                             Phytolacca

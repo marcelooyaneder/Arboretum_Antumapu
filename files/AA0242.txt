@@ -2,7 +2,7 @@ catalogNumber                                 AA0242
 basisOfRecord                                    NaN
 decimalLatitude                               348616
 decimalLongitude                             6284415
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                        Fabales
 family                                      Fabaceae
 genus                                      Vachellia

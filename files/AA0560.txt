@@ -2,7 +2,7 @@ catalogNumber                               AA0560
 basisOfRecord                                  NaN
 decimalLatitude                             348539
 decimalLongitude                           6284415
-class                                Magnoliopsida
+Class                                Magnoliopsida
 order                                    Bruniales
 family                              Columelliaceae
 genus                                 Desfontainia

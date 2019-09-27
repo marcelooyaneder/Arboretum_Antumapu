@@ -2,7 +2,7 @@ catalogNumber                       AA0415
 basisOfRecord                          NaN
 decimalLatitude                     348487
 decimalLongitude                   6284399
-class                           Liliopsida
+Class                           Liliopsida
 order                          Asparagales
 family                        Asparagaceae
 genus                                Agave

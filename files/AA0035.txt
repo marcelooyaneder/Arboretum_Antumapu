@@ -2,7 +2,7 @@ catalogNumber                   AA0035
 basisOfRecord                      NaN
 decimalLatitude                 348682
 decimalLongitude               6284221
-class                    Magnoliopsida
+Class                    Magnoliopsida
 order                   Caryophyllales
 family                    Tamaricaceae
 genus                          Tamarix

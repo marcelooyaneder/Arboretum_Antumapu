@@ -2,7 +2,7 @@ catalogNumber                             AA1296
 basisOfRecord                                NaN
 decimalLatitude                           348316
 decimalLongitude                         6284372
-class                              Magnoliopsida
+Class                              Magnoliopsida
 order                                   Lamiales
 family                          Scrophulariaceae
 genus                                   Myoporum

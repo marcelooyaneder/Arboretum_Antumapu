@@ -2,7 +2,7 @@ catalogNumber                            AA0703
 basisOfRecord                               NaN
 decimalLatitude                          348472
 decimalLongitude                        6284525
-class                             Magnoliopsida
+Class                             Magnoliopsida
 order                                   Fabales
 family                                 Fabaceae
 genus                                   Robinia

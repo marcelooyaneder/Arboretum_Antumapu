@@ -2,7 +2,7 @@ catalogNumber                  AA0149
 basisOfRecord                     NaN
 decimalLatitude                348618
 decimalLongitude              6284358
-class                   Magnoliopsida
+Class                   Magnoliopsida
 order                         Rosales
 family                       Moraceae
 genus                           Morus

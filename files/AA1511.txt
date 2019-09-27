@@ -2,7 +2,7 @@ catalogNumber                              AA1511
 basisOfRecord                                 NaN
 decimalLatitude                            348426
 decimalLongitude                          6284352
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                     Fabales
 family                               Quillajaceae
 genus                                    Quillaja

@@ -2,7 +2,7 @@ catalogNumber                  AA1401
 basisOfRecord                     NaN
 decimalLatitude                348362
 decimalLongitude              6284372
-class                   Magnoliopsida
+Class                   Magnoliopsida
 order                         Rosales
 family                       Ulmaceae
 genus                           Ulmus

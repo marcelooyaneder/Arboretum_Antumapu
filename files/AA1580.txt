@@ -2,7 +2,7 @@ catalogNumber                                      AA1580
 basisOfRecord                                         NaN
 decimalLatitude                                    348533
 decimalLongitude                                  6284302
-class                                          Liliopsida
+Class                                          Liliopsida
 order                                         Asparagales
 family                                       Asparagaceae
 genus                                               Yucca

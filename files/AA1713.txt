@@ -2,7 +2,7 @@ catalogNumber                             AA1713
 basisOfRecord                                NaN
 decimalLatitude                           348556
 decimalLongitude                         6284375
-class                              Magnoliopsida
+Class                              Magnoliopsida
 order                                   Myrtales
 family                                Onagraceae
 genus                                    Fuchsia

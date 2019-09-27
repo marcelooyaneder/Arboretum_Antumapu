@@ -2,7 +2,7 @@ catalogNumber                             AA0536
 basisOfRecord                                NaN
 decimalLatitude                           348544
 decimalLongitude                         6284422
-class                             Polypodiopsida
+Class                             Polypodiopsida
 order                               Polypodiales
 family                               Blechnaceae
 genus                                   Blechnum

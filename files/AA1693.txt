@@ -2,7 +2,7 @@ catalogNumber                       AA1693
 basisOfRecord                          NaN
 decimalLatitude                     348493
 decimalLongitude                   6284384
-class                        Magnoliopsida
+Class                        Magnoliopsida
 order                           Sapindales
 family                           Meliaceae
 genus                                Melia

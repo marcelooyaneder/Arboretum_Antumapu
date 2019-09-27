@@ -2,7 +2,7 @@ catalogNumber                                 AA0369
 basisOfRecord                                    NaN
 decimalLatitude                               348612
 decimalLongitude                             6284389
-class                                  Magnoliopsida
+Class                                  Magnoliopsida
 order                                    Boraginales
 family                                   Ehretiaceae
 genus                                         Cordia

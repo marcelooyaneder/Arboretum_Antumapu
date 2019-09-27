@@ -2,7 +2,7 @@ catalogNumber                                       AA1617
 basisOfRecord                                          NaN
 decimalLatitude                                     348516
 decimalLongitude                                   6284337
-class                                        Magnoliopsida
+Class                                        Magnoliopsida
 order                                             Malvales
 family                                           Malvaceae
 genus                                            Lagunaria

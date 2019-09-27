@@ -2,7 +2,7 @@ catalogNumber                        AA0869
 basisOfRecord                           NaN
 decimalLatitude                      348628
 decimalLongitude                    6284448
-class                         Magnoliopsida
+Class                         Magnoliopsida
 order                              Lamiales
 family                             Oleaceae
 genus                               Syringa

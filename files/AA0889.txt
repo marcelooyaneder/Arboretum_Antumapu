@@ -2,7 +2,7 @@ catalogNumber                            AA0889
 basisOfRecord                               NaN
 decimalLatitude                          348635
 decimalLongitude                        6284615
-class                             Magnoliopsida
+Class                             Magnoliopsida
 order                                   Fabales
 family                                 Fabaceae
 genus                               Parkinsonia

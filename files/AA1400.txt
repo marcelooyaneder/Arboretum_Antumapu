@@ -2,7 +2,7 @@ catalogNumber                       AA1400
 basisOfRecord                          NaN
 decimalLatitude                     348364
 decimalLongitude                   6284372
-class                        Magnoliopsida
+Class                        Magnoliopsida
 order                             Myrtales
 family                           Myrtaceae
 genus                               Myrtus

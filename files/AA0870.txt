@@ -2,7 +2,7 @@ catalogNumber                              AA0870
 basisOfRecord                                 NaN
 decimalLatitude                            348629
 decimalLongitude                          6284446
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                  Sapindales
 family                                   Rutaceae
 genus                                   Casimiroa

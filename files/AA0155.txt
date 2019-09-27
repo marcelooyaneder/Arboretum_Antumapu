@@ -2,7 +2,7 @@ catalogNumber                            AA0155
 basisOfRecord                               NaN
 decimalLatitude                          348615
 decimalLongitude                        6284369
-class                             Magnoliopsida
+Class                             Magnoliopsida
 order                               Magnoliales
 family                             Magnoliaceae
 genus                                  Magnolia

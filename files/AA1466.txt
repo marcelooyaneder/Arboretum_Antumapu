@@ -2,7 +2,7 @@ catalogNumber                                   AA1466
 basisOfRecord                                      NaN
 decimalLatitude                                 348434
 decimalLongitude                               6284317
-class                                    Magnoliopsida
+Class                                    Magnoliopsida
 order                                       Sapindales
 family                                   Anacardiaceae
 genus                                         Lithraea

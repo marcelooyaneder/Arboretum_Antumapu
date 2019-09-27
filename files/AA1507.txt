@@ -2,7 +2,7 @@ catalogNumber                           AA1507
 basisOfRecord                              NaN
 decimalLatitude                         348439
 decimalLongitude                       6284344
-class                            Magnoliopsida
+Class                            Magnoliopsida
 order                                  Fabales
 family                                Fabaceae
 genus                                  Sophora

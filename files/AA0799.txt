@@ -2,7 +2,7 @@ catalogNumber                          AA0799
 basisOfRecord                             NaN
 decimalLatitude                        348332
 decimalLongitude                      6284418
-class                           Magnoliopsida
+Class                           Magnoliopsida
 order                                Lamiales
 family                               Oleaceae
 genus                                Fraxinus

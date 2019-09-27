@@ -2,7 +2,7 @@ catalogNumber                           AA1306
 basisOfRecord                              NaN
 decimalLatitude                         348291
 decimalLongitude                       6284344
-class                            Magnoliopsida
+Class                            Magnoliopsida
 order                                 Laurales
 family                               Lauraceae
 genus                                   Persea

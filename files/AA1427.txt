@@ -2,7 +2,7 @@ catalogNumber                        AA1427
 basisOfRecord                           NaN
 decimalLatitude                      348336
 decimalLongitude                    6284400
-class                         Magnoliopsida
+Class                         Magnoliopsida
 order                               Fagales
 family                           Betulaceae
 genus                                Betula

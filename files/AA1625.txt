@@ -2,7 +2,7 @@ catalogNumber                                   AA1625
 basisOfRecord                                      NaN
 decimalLatitude                                 348532
 decimalLongitude                               6284257
-class                                       Liliopsida
+Class                                       Liliopsida
 order                                         Arecales
 family                                       Arecaceae
 genus                                          Phoenix

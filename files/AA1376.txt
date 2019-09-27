@@ -2,7 +2,7 @@ catalogNumber                                          AA1376
 basisOfRecord                                             NaN
 decimalLatitude                                        348357
 decimalLongitude                                      6284361
-class                                           Magnoliopsida
+Class                                           Magnoliopsida
 order                                                 Rosales
 family                                               Rosaceae
 genus                                                Photinia

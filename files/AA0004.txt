@@ -2,7 +2,7 @@ catalogNumber                              AA0004
 basisOfRecord                                 NaN
 decimalLatitude                            348660
 decimalLongitude                          6284330
-class                                   Pinopsida
+Class                                   Pinopsida
 order                                     Pinales
 family                              Araucariaceae
 genus                                   Araucaria

@@ -2,7 +2,7 @@ catalogNumber                              AA0359
 basisOfRecord                                 NaN
 decimalLatitude                            348625
 decimalLongitude                          6284400
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                     Rosales
 family                                   Rosaceae
 genus                                   Polylepis

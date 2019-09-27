@@ -2,7 +2,7 @@ catalogNumber                                         AA1487
 basisOfRecord                                            NaN
 decimalLatitude                                       348433
 decimalLongitude                                     6284329
-class                                          Magnoliopsida
+Class                                          Magnoliopsida
 order                                               Laurales
 family                                             Lauraceae
 genus                                          Beilschmiedia

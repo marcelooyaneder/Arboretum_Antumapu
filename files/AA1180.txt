@@ -2,7 +2,7 @@ catalogNumber                            AA1180
 basisOfRecord                               NaN
 decimalLatitude                          348616
 decimalLongitude                        6284696
-class                             Magnoliopsida
+Class                             Magnoliopsida
 order                                   Rosales
 family                                 Rosaceae
 genus                                    Prunus

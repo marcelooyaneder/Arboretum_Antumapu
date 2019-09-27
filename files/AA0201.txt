@@ -2,7 +2,7 @@ catalogNumber                              AA0201
 basisOfRecord                                 NaN
 decimalLatitude                            348599
 decimalLongitude                          6284393
-class                               Magnoliopsida
+Class                               Magnoliopsida
 order                                     Fabales
 family                                   Fabaceae
 genus                                    Prosopis

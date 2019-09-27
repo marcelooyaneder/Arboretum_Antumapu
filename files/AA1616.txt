@@ -2,7 +2,7 @@ catalogNumber                                      AA1616
 basisOfRecord                                         NaN
 decimalLatitude                                    348519
 decimalLongitude                                  6284342
-class                                       Magnoliopsida
+Class                                       Magnoliopsida
 order                                            Lamiales
 family                                       Bignoniaceae
 genus                                             Catalpa

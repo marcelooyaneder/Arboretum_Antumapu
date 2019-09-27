@@ -2,7 +2,7 @@ catalogNumber                        AA1348
 basisOfRecord                           NaN
 decimalLatitude                      348333
 decimalLongitude                    6284279
-class                             Pinopsida
+Class                             Pinopsida
 order                               Pinales
 family                             Pinaceae
 genus                                 Pinus

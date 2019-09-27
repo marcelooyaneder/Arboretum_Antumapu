@@ -2,7 +2,7 @@ catalogNumber                     AA0042
 basisOfRecord                        NaN
 decimalLatitude                   348680
 decimalLongitude                 6284198
-class                      Magnoliopsida
+Class                      Magnoliopsida
 order                         Sapindales
 family                     Anacardiaceae
 genus                            Schinus

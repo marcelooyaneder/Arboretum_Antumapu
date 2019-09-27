@@ -2,7 +2,7 @@ catalogNumber                                  AA0895
 basisOfRecord                                     NaN
 decimalLatitude                                348579
 decimalLongitude                              6284588
-class                                   Magnoliopsida
+Class                                   Magnoliopsida
 order                                        Myrtales
 family                                      Myrtaceae
 genus                                     Callistemon

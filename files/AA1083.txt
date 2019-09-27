@@ -2,7 +2,7 @@ catalogNumber                  AA1083
 basisOfRecord                     NaN
 decimalLatitude                348456
 decimalLongitude              6284790
-class                   Magnoliopsida
+Class                   Magnoliopsida
 order                    Malpighiales
 family                     Salicaceae
 genus                         Populus

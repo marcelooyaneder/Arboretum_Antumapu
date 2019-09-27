@@ -2,7 +2,7 @@ catalogNumber                                     AA0323
 basisOfRecord                                        NaN
 decimalLatitude                                   348561
 decimalLongitude                                 6284398
-class                                      Magnoliopsida
+Class                                      Magnoliopsida
 order                                           Laurales
 family                                         Lauraceae
 genus                                        Cryptocarya

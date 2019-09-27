@@ -2,7 +2,7 @@ catalogNumber                                      AA0556
 basisOfRecord                                         NaN
 decimalLatitude                                    348523
 decimalLongitude                                  6284409
-class                                           Pinopsida
+Class                                           Pinopsida
 order                                             Pinales
 family                                       Cupressaceae
 genus                                            Fitzroya

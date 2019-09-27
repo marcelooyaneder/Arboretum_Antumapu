@@ -2,7 +2,7 @@ catalogNumber                     AA1652
 basisOfRecord                        NaN
 decimalLatitude                   348579
 decimalLongitude                 6284326
-class                      Magnoliopsida
+Class                      Magnoliopsida
 order                            Fagales
 family                      Juglandaceae
 genus                            Juglans

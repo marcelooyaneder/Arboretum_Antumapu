@@ -2,7 +2,7 @@ catalogNumber                                    AA0637
 basisOfRecord                                       NaN
 decimalLatitude                                  348407
 decimalLongitude                                6284498
-class                                     Magnoliopsida
+Class                                     Magnoliopsida
 order                                          Myrtales
 family                                        Myrtaceae
 genus                                        Eucalyptus

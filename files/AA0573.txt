@@ -2,7 +2,7 @@ catalogNumber                                      AA0573
 basisOfRecord                                         NaN
 decimalLatitude                                    348500
 decimalLongitude                                  6284402
-class                                       Magnoliopsida
+Class                                       Magnoliopsida
 order                                             Fagales
 family                                      Nothofagaceae
 genus                                          Nothofagus

@@ -2,7 +2,7 @@ catalogNumber                    AA0660
 basisOfRecord                       NaN
 decimalLatitude                  348461
 decimalLongitude                6284486
-class                     Magnoliopsida
+Class                     Magnoliopsida
 order                        Sapindales
 family                      Sapindaceae
 genus                              Acer

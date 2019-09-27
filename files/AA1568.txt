@@ -2,7 +2,7 @@ catalogNumber                                  AA1568
 basisOfRecord                                     NaN
 decimalLatitude                                348572
 decimalLongitude                              6284290
-class                                   Magnoliopsida
+Class                                   Magnoliopsida
 order                                      Sapindales
 family                                    Sapindaceae
 genus                                    Koelreuteria

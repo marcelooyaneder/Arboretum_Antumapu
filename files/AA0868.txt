@@ -2,7 +2,7 @@ catalogNumber                            AA0868
 basisOfRecord                               NaN
 decimalLatitude                          348628
 decimalLongitude                        6284450
-class                             Magnoliopsida
+Class                             Magnoliopsida
 order                                   Fabales
 family                                 Fabaceae
 genus                                  Bauhinia
