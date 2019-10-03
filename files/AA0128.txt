@@ -14,7 +14,7 @@ taxonRank                       genus
 acceptedNameUsage           Citrus L.
 Unnamed: 14                  ACCEPTED
 Unnamed: 15                    Muerto
-establishmentMeans            Exótica
+establishmentMeans            Exotica
 Unnamed: 17                      2019
 Unnamed: 18                       NaN
 locationRemarks                   NaN

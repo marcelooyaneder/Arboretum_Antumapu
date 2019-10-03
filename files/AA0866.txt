@@ -8,13 +8,13 @@ family                                               Lamiaceae
 genus                                               Rosmarinus
 specificEpithet                                    officinalis
 infraspecificEpithet                                       NaN
-nameAcordingTo                                 de NoÃ« ex Lange
+nameAcordingTo                                 de Noë ex Lange
 verbatimTaxonRank                                          NaN
 taxonRank                                                  NaN
-acceptedNameUsage       Rosmarinus officinalis de NoÃ« ex Lange
+acceptedNameUsage       Rosmarinus officinalis de Noë ex Lange
 Unnamed: 14                                           ACCEPTED
 Unnamed: 15                                               Viva
-establishmentMeans                                     ExÃ³tica
+establishmentMeans                                     Exotica
 Unnamed: 17                                               2019
 Unnamed: 18                                                NaN
 locationRemarks                                            NaN

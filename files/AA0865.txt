@@ -14,7 +14,7 @@ taxonRank                                                         NaN
 acceptedNameUsage       Pittosporum nigricans hort. ex McMinn & Maino
 Unnamed: 14                                                   SYNONYM
 Unnamed: 15                                                      Viva
-establishmentMeans                                            Exótica
+establishmentMeans                                            Exotica
 Unnamed: 17                                                      2019
 Unnamed: 18                                                      2016
 locationRemarks                                                   NaN

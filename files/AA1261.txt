@@ -14,7 +14,7 @@ taxonRank                                               NaN
 acceptedNameUsage       Populus euramericana (Dode) Guinier
 Unnamed: 14                                         SYNONYM
 Unnamed: 15                                            Viva
-establishmentMeans                                  Exótica
+establishmentMeans                                  Exotica
 Unnamed: 17                                            2019
 Unnamed: 18                                             NaN
 locationRemarks                                         NaN

@@ -8,10 +8,10 @@ family                                    Ericaceae
 genus                                    Gaultheria
 specificEpithet                           mucronata
 infraspecificEpithet                            NaN
-nameAcordingTo                               J.RÃ©my
+nameAcordingTo                               J.Rémy
 verbatimTaxonRank                               NaN
 taxonRank                                       NaN
-acceptedNameUsage       Gaultheria mucronata J.RÃ©my
+acceptedNameUsage       Gaultheria mucronata J.Rémy
 Unnamed: 14                                ACCEPTED
 Unnamed: 15                                  Muerto
 establishmentMeans                           Nativa
