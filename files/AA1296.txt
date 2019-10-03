@@ -14,7 +14,7 @@ taxonRank                                    NaN
 acceptedNameUsage       Myoporum laetum G.Forst.
 Unnamed: 14                             ACCEPTED
 Unnamed: 15                                 Viva
-establishmentMeans                       Exótica
+establishmentMeans                       Exotica
 Unnamed: 17                                 2019
 Unnamed: 18                                  NaN
 locationRemarks                              NaN

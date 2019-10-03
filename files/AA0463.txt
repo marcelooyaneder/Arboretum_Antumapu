@@ -1,22 +1,22 @@
-catalogNumber                                AA0463
-basisOfRecord                                   NaN
-decimalLatitude                              348543
-decimalLongitude                            6284449
-Class                                 Magnoliopsida
-order                                  Malpighiales
-family                                Euphorbiaceae
-genus                                    Colliguaja
-specificEpithet                           odorifera
-infraspecificEpithet                            NaN
-nameAcordingTo                               Molina
-verbatimTaxonRank                               NaN
-taxonRank                                       NaN
-acceptedNameUsage       Colliguaja odorifera Molina
-Unnamed: 14                                ACCEPTED
-Unnamed: 15                                    Viva
-establishmentMeans                           Nativa
-Unnamed: 17                                    2019
-Unnamed: 18                                     NaN
-locationRemarks                                 NaN
-sex                                             NaN
+catalogNumber                                 AA0463
+basisOfRecord                                    NaN
+decimalLatitude                               348543
+decimalLongitude                             6284449
+Class                                  Magnoliopsida
+order                                   Malpighiales
+family                                 Euphorbiaceae
+genus                                     Colliguaja
+specificEpithet                            odorifera
+infraspecificEpithet                             NaN
+nameAcordingTo                               Molina.
+verbatimTaxonRank                                NaN
+taxonRank                                        NaN
+acceptedNameUsage       Colliguaja odorifera Molina.
+Unnamed: 14                                 ACCEPTED
+Unnamed: 15                                     Viva
+establishmentMeans                            Nativa
+Unnamed: 17                                     2019
+Unnamed: 18                                      NaN
+locationRemarks                                  NaN
+sex                                              NaN
 Name: AA0463, dtype: object

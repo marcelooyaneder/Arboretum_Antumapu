@@ -9,6 +9,8 @@ import shutil
 from python_firebase_url_shortener.url_shortener import UrlShortener
 import time
 import sys
+import easygui as eg
+import numpy 
 
 #http://arboretum.oost-vlaanderen.be/index.cfm?nummer=00006251 IDEA TIPO
 #EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
@@ -92,6 +94,21 @@ class subject:
             return data 
         else:
             pass 
+        
+    def add_values(self,data):
+        msg = "Enter information about the new subject"
+        title = "New subject entry "
+        last_index =data.index[-1]
+        new = int(last_index, 36) + 1
+        new_id=numpy.base_repr(new, 36)
+        fieldNames = data.columns.tolist()[1:]
+        fieldValues = []
+        fieldValues = eg.multenterbox(msg,title, fieldNames)
+        fieldValues.insert(0,new_id)
+        print (fieldValues)
+        data.loc[fieldValues[0]]=fieldValues
+        print (data.tail(5))
+        return data
 
 def comparefiles(ID,info):
     filename1 = "temp/"+ID+'.txt'
@@ -142,16 +159,16 @@ def qrcreation(ID,short_url):
 
 #MAIN
 
+file_path=eg.fileopenbox(msg='pick the file wish contain your data',title='directory',default='*',filetypes=None,multiple=False)
 #import data
 #read excel
-data=pd.read_excel('Inventario_2019_Arboretum_Antumapu_Dwc.xlsx',sheet_name='Hoja1',header=0)
+data=pd.read_excel(file_path,sheet_name='Hoja1',header=0)
 #rearrange dataframe
 data=data.set_index("catalogNumber", drop = False)
 #obtaining ID data
 IDs=data['catalogNumber'].tolist()
 
 #query data 
-
 r1=subject(data)
 ans1=str(input('The following query is by default: order-family-genus-specificEpithet, Do you want to accept it Y/n?,\nif you dont want to query write "pass": \n'))
 if ans1 =='Y' or ans1 =='y' :
@@ -173,10 +190,15 @@ elif ans1=='n' or ans1=='N':
 else: 
     pass
 
+#Change values
 if ans1 =='Y' or ans1 =='y' or ans1=='n' or ans1=='N':
     r1.change_values(data,subjects)
 else:
     pass
+
+#Add values 
+r1.add_values(data)
+
 
 #compare files or create them
 print('compare/create files...')

@@ -13,8 +13,8 @@ verbatimTaxonRank                 NaN
 taxonRank                         NaN
 acceptedNameUsage       Morus alba L.
 Unnamed: 14                  ACCEPTED
-Unnamed: 15                  Extraído
-establishmentMeans            Exótica
+Unnamed: 15                  Extraido
+establishmentMeans            Exotica
 Unnamed: 17                      2019
 Unnamed: 18                       NaN
 locationRemarks                   NaN

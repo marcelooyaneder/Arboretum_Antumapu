@@ -8,13 +8,13 @@ family                                Salicaceae
 genus                                    Populus
 specificEpithet                          simonii
 infraspecificEpithet                         NaN
-nameAcordingTo                          Carrière
+nameAcordingTo                          Carri�re
 verbatimTaxonRank                            NaN
 taxonRank                                    NaN
-acceptedNameUsage       Populus simonii Carrière
+acceptedNameUsage       Populus simonii Carri�re
 Unnamed: 14                             ACCEPTED
-Unnamed: 15                             Extraído
-establishmentMeans                       Exótica
+Unnamed: 15                             Extraido
+establishmentMeans                       Exotica
 Unnamed: 17                                 2019
 Unnamed: 18                                  NaN
 locationRemarks                              NaN

@@ -1,22 +1,22 @@
-catalogNumber                           AA0171
-basisOfRecord                              NaN
-decimalLatitude                         348590
-decimalLongitude                       6284295
-Class                            Magnoliopsida
-order                              Celastrales
-family                            Celastraceae
-genus                                 Maytenus
-specificEpithet                         boaria
-infraspecificEpithet                       NaN
-nameAcordingTo                          Molina
-verbatimTaxonRank                          NaN
-taxonRank                                  NaN
-acceptedNameUsage       Maytenus boaria Molina
-Unnamed: 14                           ACCEPTED
-Unnamed: 15                               Viva
-establishmentMeans                      Nativa
-Unnamed: 17                               2019
-Unnamed: 18                                NaN
-locationRemarks                            NaN
-sex                                        NaN
+catalogNumber                            AA0171
+basisOfRecord                               NaN
+decimalLatitude                          348590
+decimalLongitude                        6284295
+Class                             Magnoliopsida
+order                               Celastrales
+family                             Celastraceae
+genus                                  Maytenus
+specificEpithet                          boaria
+infraspecificEpithet                        NaN
+nameAcordingTo                          Molina.
+verbatimTaxonRank                           NaN
+taxonRank                                   NaN
+acceptedNameUsage       Maytenus boaria Molina.
+Unnamed: 14                            ACCEPTED
+Unnamed: 15                                Viva
+establishmentMeans                       Nativa
+Unnamed: 17                                2019
+Unnamed: 18                                 NaN
+locationRemarks                             NaN
+sex                                         NaN
 Name: AA0171, dtype: object

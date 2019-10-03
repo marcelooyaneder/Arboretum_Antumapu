@@ -1,22 +1,22 @@
-catalogNumber                              AA0224
-basisOfRecord                                 NaN
-decimalLatitude                            348626
-decimalLongitude                          6284401
-Class                               Magnoliopsida
-order                                     Fabales
-family                                   Fabaceae
-genus                                    Prosopis
-specificEpithet                         chilensis
-infraspecificEpithet                          NaN
-nameAcordingTo                             Stuntz
-verbatimTaxonRank                             NaN
-taxonRank                                     NaN
-acceptedNameUsage       Prosopis chilensis Stuntz
-Unnamed: 14                              ACCEPTED
-Unnamed: 15                                  Viva
-establishmentMeans                         Nativa
-Unnamed: 17                                  2019
-Unnamed: 18                                   NaN
-locationRemarks                               NaN
-sex                                           NaN
+catalogNumber                               AA0224
+basisOfRecord                                  NaN
+decimalLatitude                             348626
+decimalLongitude                           6284401
+Class                                Magnoliopsida
+order                                      Fabales
+family                                    Fabaceae
+genus                                     Prosopis
+specificEpithet                          chilensis
+infraspecificEpithet                           NaN
+nameAcordingTo                             Stuntz.
+verbatimTaxonRank                              NaN
+taxonRank                                      NaN
+acceptedNameUsage       Prosopis chilensis Stuntz.
+Unnamed: 14                               ACCEPTED
+Unnamed: 15                                   Viva
+establishmentMeans                          Nativa
+Unnamed: 17                                   2019
+Unnamed: 18                                    NaN
+locationRemarks                                NaN
+sex                                            NaN
 Name: AA0224, dtype: object

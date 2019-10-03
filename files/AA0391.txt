@@ -8,10 +8,10 @@ family                             Solanaceae
 genus                                 Cestrum
 specificEpithet                        parqui
 infraspecificEpithet                      NaN
-nameAcordingTo                         L'HÃ©r.
+nameAcordingTo                         L'Hér.
 verbatimTaxonRank                         NaN
 taxonRank                                 NaN
-acceptedNameUsage       Cestrum parqui L'HÃ©r.
+acceptedNameUsage       Cestrum parqui L'Hér.
 Unnamed: 14                          ACCEPTED
 Unnamed: 15                              Viva
 establishmentMeans                     Nativa

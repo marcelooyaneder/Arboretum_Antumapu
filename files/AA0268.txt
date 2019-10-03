@@ -1,22 +1,22 @@
-catalogNumber                              AA0268
-basisOfRecord                                 NaN
-decimalLatitude                            348580
-decimalLongitude                          6284450
-Class                               Magnoliopsida
-order                                     Fabales
-family                               Quillajaceae
-genus                                    Quillaja
-specificEpithet                         saponaria
-infraspecificEpithet                          NaN
-nameAcordingTo                             Molina
-verbatimTaxonRank                             NaN
-taxonRank                                     NaN
-acceptedNameUsage       Quillaja saponaria Molina
-Unnamed: 14                              ACCEPTED
-Unnamed: 15                                  Viva
-establishmentMeans                         Nativa
-Unnamed: 17                                  2019
-Unnamed: 18                                   NaN
-locationRemarks                               NaN
-sex                                           NaN
+catalogNumber                               AA0268
+basisOfRecord                                  NaN
+decimalLatitude                             348580
+decimalLongitude                           6284450
+Class                                Magnoliopsida
+order                                      Fabales
+family                                Quillajaceae
+genus                                     Quillaja
+specificEpithet                          saponaria
+infraspecificEpithet                           NaN
+nameAcordingTo                             Molina.
+verbatimTaxonRank                              NaN
+taxonRank                                      NaN
+acceptedNameUsage       Quillaja saponaria Molina.
+Unnamed: 14                               ACCEPTED
+Unnamed: 15                                   Viva
+establishmentMeans                          Nativa
+Unnamed: 17                                   2019
+Unnamed: 18                                    NaN
+locationRemarks                                NaN
+sex                                            NaN
 Name: AA0268, dtype: object
