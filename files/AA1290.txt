@@ -1,7 +1,8 @@
 catalogNumber                               AA1290
-basisOfRecord                                  NaN
+basisOfRecord                       LivingSpecimen
 decimalLatitude                             348338
 decimalLongitude                           6284376
+phylum                                Tracheophyta
 Class                                Magnoliopsida
 order                                 Saxifragales
 family                                Altingiaceae
@@ -10,13 +11,13 @@ specificEpithet                        styraciflua
 infraspecificEpithet                           NaN
 nameAcordingTo                                  L.
 verbatimTaxonRank                              NaN
-taxonRank                                      NaN
+taxonRank                                  species
 acceptedNameUsage       Liquidambar styraciflua L.
-Unnamed: 14                               ACCEPTED
-Unnamed: 15                                   Viva
-establishmentMeans                         Exotica
-Unnamed: 17                                   2019
-Unnamed: 18                                    NaN
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
 locationRemarks                                NaN
-sex                                            NaN
+sex                                  hermaphrodite
 Name: AA1290, dtype: object

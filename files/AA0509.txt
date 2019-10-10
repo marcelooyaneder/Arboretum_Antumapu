@@ -1,7 +1,8 @@
 catalogNumber                             AA0509
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348504
 decimalLongitude                         6284426
+phylum                              Tracheophyta
 Class                              Magnoliopsida
 order                               Malpighiales
 family                                Salicaceae
@@ -10,13 +11,13 @@ specificEpithet                       lanceolata
 infraspecificEpithet                         NaN
 nameAcordingTo                           Hook.f.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Azara lanceolata Hook.f.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
+Nombre común                                 NaN
+Estado                                      Viva
 establishmentMeans                        Nativa
-Unnamed: 17                                 2019
-Unnamed: 18                                 2016
+ingreso                                     2019
+plantacion                                  2016
 locationRemarks                              NaN
-sex                                          NaN
+sex                                hermaphrodite
 Name: AA0509, dtype: object

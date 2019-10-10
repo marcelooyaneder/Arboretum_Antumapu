@@ -1,22 +1,23 @@
-catalogNumber                                      AA1583
-basisOfRecord                                         NaN
-decimalLatitude                                    348530
-decimalLongitude                                  6284289
-Class                                          Liliopsida
-order                                         Asparagales
-family                                       Asparagaceae
-genus                                               Yucca
-specificEpithet                              elephantipes
-infraspecificEpithet                                  NaN
-nameAcordingTo                             Regel ex Trel.
-verbatimTaxonRank                                     NaN
-taxonRank                                             NaN
-acceptedNameUsage       Yucca elephantipes Regel ex Trel.
-Unnamed: 14                                       SYNONYM
-Unnamed: 15                                          Viva
-establishmentMeans                                Exotica
-Unnamed: 17                                          2019
-Unnamed: 18                                           NaN
-locationRemarks                                       NaN
-sex                                                   NaN
+catalogNumber                        AA1583
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348530
+decimalLongitude                    6284289
+phylum                         Tracheophyta
+Class                            Liliopsida
+order                           Asparagales
+family                         Asparagaceae
+genus                                 Yucca
+specificEpithet                    gigantea
+infraspecificEpithet                    NaN
+nameAcordingTo                         Lem.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Yucca gigantea Lem.
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+locationRemarks                         NaN
+sex                           hermaphrodite
 Name: AA1583, dtype: object

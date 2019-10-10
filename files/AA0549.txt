@@ -1,7 +1,8 @@
 catalogNumber                                AA0549
-basisOfRecord                                   NaN
+basisOfRecord                        LivingSpecimen
 decimalLatitude                              348540
 decimalLongitude                            6284429
+phylum                                 Tracheophyta
 Class                                 Magnoliopsida
 order                                      Ericales
 family                                    Ericaceae
@@ -10,13 +11,13 @@ specificEpithet                           mucronata
 infraspecificEpithet                            NaN
 nameAcordingTo                               J.Rémy
 verbatimTaxonRank                               NaN
-taxonRank                                       NaN
+taxonRank                                   species
 acceptedNameUsage       Gaultheria mucronata J.Rémy
-Unnamed: 14                                ACCEPTED
-Unnamed: 15                                  Muerto
+Nombre común                                    NaN
+Estado                                       Muerto
 establishmentMeans                           Nativa
-Unnamed: 17                                    2019
-Unnamed: 18                                     NaN
+ingreso                                        2019
+plantacion                                      NaN
 locationRemarks                                 NaN
-sex                                             NaN
+sex                                   hermaphrodite
 Name: AA0549, dtype: object

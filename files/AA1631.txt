@@ -1,7 +1,8 @@
 catalogNumber                            AA1631
-basisOfRecord                               NaN
+basisOfRecord                    LivingSpecimen
 decimalLatitude                          348499
 decimalLongitude                        6284352
+phylum                             Tracheophyta
 Class                             Magnoliopsida
 order                                  Laurales
 family                           Calycanthaceae
@@ -10,13 +11,13 @@ specificEpithet                        floridus
 infraspecificEpithet                        NaN
 nameAcordingTo                               L.
 verbatimTaxonRank                           NaN
-taxonRank                                   NaN
+taxonRank                               species
 acceptedNameUsage       Calycanthus floridus L.
-Unnamed: 14                            ACCEPTED
-Unnamed: 15                                Viva
-establishmentMeans                      Exotica
-Unnamed: 17                                2019
-Unnamed: 18                                 NaN
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
 locationRemarks                             NaN
-sex                                         NaN
+sex                               hermaphrodite
 Name: AA1631, dtype: object

@@ -1,7 +1,8 @@
 catalogNumber                            AA0045
-basisOfRecord                               NaN
+basisOfRecord                    LivingSpecimen
 decimalLatitude                          348684
 decimalLongitude                        6284187
+phylum                             Tracheophyta
 Class                             Magnoliopsida
 order                                   Fabales
 family                                 Fabaceae
@@ -10,13 +11,13 @@ specificEpithet                        aculeata
 infraspecificEpithet                        NaN
 nameAcordingTo                               L.
 verbatimTaxonRank                           NaN
-taxonRank                                   NaN
+taxonRank                               species
 acceptedNameUsage       Parkinsonia aculeata L.
-Unnamed: 14                            ACCEPTED
-Unnamed: 15                                Viva
-establishmentMeans                      Exotica
-Unnamed: 17                                2019
-Unnamed: 18                                 NaN
+Nombre común                         Palo verde
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
 locationRemarks                             NaN
-sex                                         NaN
+sex                               hermaphrodite
 Name: AA0045, dtype: object

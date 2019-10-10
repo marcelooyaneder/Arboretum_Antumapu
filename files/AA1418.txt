@@ -1,22 +1,23 @@
-catalogNumber                                      AA1418
-basisOfRecord                                         NaN
-decimalLatitude                                    348381
-decimalLongitude                                  6284398
-Class                                       Magnoliopsida
-order                                            Lamiales
-family                                       Bignoniaceae
-genus                                             Catalpa
-specificEpithet                                  speciosa
-infraspecificEpithet                                  NaN
-nameAcordingTo                                    Engelm.
-verbatimTaxonRank                                     NaN
-taxonRank                                             NaN
-acceptedNameUsage       Catalpa speciosa (Warder) Engelm.
-Unnamed: 14                                      ACCEPTED
-Unnamed: 15                                          Viva
-establishmentMeans                                Exotica
-Unnamed: 17                                          2019
-Unnamed: 18                                           NaN
-locationRemarks                                       NaN
-sex                                                   NaN
+catalogNumber                             AA1418
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348381
+decimalLongitude                         6284398
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Lamiales
+family                              Bignoniaceae
+genus                                    Catalpa
+specificEpithet                         speciosa
+infraspecificEpithet                         NaN
+nameAcordingTo                           Engelm.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Catalpa speciosa Engelm.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
+locationRemarks                              NaN
+sex                                hermaphrodite
 Name: AA1418, dtype: object

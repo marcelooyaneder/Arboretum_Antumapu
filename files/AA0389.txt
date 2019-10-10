@@ -1,22 +1,23 @@
-catalogNumber                                       AA0389
-basisOfRecord                                          NaN
-decimalLatitude                                     348532
-decimalLongitude                                   6284429
-Class                                        Magnoliopsida
-order                                             Laurales
-family                                           Lauraceae
-genus                                          Cryptocarya
-specificEpithet                                       alba
-infraspecificEpithet                                   NaN
-nameAcordingTo                                     Looser.
-verbatimTaxonRank                                      NaN
-taxonRank                                              NaN
-acceptedNameUsage       Cryptocarya alba (Molina.) Looser.
-Unnamed: 14                                       ACCEPTED
-Unnamed: 15                                           Viva
-establishmentMeans                                  Nativa
-Unnamed: 17                                           2019
-Unnamed: 18                                            NaN
-locationRemarks                                        NaN
-sex                                                    NaN
+catalogNumber                            AA0389
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348532
+decimalLongitude                        6284429
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Laurales
+family                                Lauraceae
+genus                               Cryptocarya
+specificEpithet                            alba
+infraspecificEpithet                        NaN
+nameAcordingTo                           Looser
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Cryptocarya alba Looser
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                       Nativa
+ingreso                                    2019
+plantacion                                  NaN
+locationRemarks                             NaN
+sex                               hermaphrodite
 Name: AA0389, dtype: object

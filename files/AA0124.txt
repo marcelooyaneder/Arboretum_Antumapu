@@ -1,7 +1,8 @@
 catalogNumber                            AA0124
-basisOfRecord                               NaN
+basisOfRecord                    LivingSpecimen
 decimalLatitude                          348615
 decimalLongitude                        6284280
+phylum                             Tracheophyta
 Class                             Magnoliopsida
 order                                   Rosales
 family                                 Rosaceae
@@ -12,11 +13,11 @@ nameAcordingTo                            Ehrh.
 verbatimTaxonRank                          var.
 taxonRank                              varietas
 acceptedNameUsage       Prunus cerasifera Ehrh.
-Unnamed: 14                            ACCEPTED
-Unnamed: 15                                Viva
-establishmentMeans                      Exotica
-Unnamed: 17                                2019
-Unnamed: 18                                 NaN
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
 locationRemarks                             NaN
-sex                                         NaN
+sex                               hermaphrodite
 Name: AA0124, dtype: object

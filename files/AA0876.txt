@@ -1,7 +1,8 @@
 catalogNumber                    AA0876
-basisOfRecord                       NaN
+basisOfRecord            LivingSpecimen
 decimalLatitude                  348598
 decimalLongitude                6284584
+phylum                     Tracheophyta
 Class                     Magnoliopsida
 order                           Rosales
 family                         Moraceae
@@ -10,13 +11,13 @@ specificEpithet                  carica
 infraspecificEpithet                NaN
 nameAcordingTo                       L.
 verbatimTaxonRank                   NaN
-taxonRank                           NaN
+taxonRank                       species
 acceptedNameUsage       Ficus carica L.
-Unnamed: 14                    ACCEPTED
-Unnamed: 15                        Viva
-establishmentMeans              Exotica
-Unnamed: 17                        2019
-Unnamed: 18                         NaN
+Nombre común                        NaN
+Estado                             Viva
+establishmentMeans              Exótica
+ingreso                            2019
+plantacion                          NaN
 locationRemarks                     NaN
 sex                                 NaN
 Name: AA0876, dtype: object

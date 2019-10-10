@@ -1,7 +1,8 @@
 catalogNumber                       AA1667
-basisOfRecord                          NaN
+basisOfRecord               LivingSpecimen
 decimalLatitude                     348581
 decimalLongitude                   6284369
+phylum                        Tracheophyta
 Class                        Magnoliopsida
 order                           Sapindales
 family                           Meliaceae
@@ -10,13 +11,13 @@ specificEpithet                  azedarach
 infraspecificEpithet                   NaN
 nameAcordingTo                          L.
 verbatimTaxonRank                      NaN
-taxonRank                              NaN
+taxonRank                          species
 acceptedNameUsage       Melia azedarach L.
-Unnamed: 14                       ACCEPTED
-Unnamed: 15                           Viva
-establishmentMeans                 Exotica
-Unnamed: 17                           2019
-Unnamed: 18                            NaN
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
 locationRemarks                        NaN
-sex                                    NaN
+sex                          hermaphrodite
 Name: AA1667, dtype: object

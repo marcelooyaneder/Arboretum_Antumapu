@@ -1,7 +1,8 @@
 catalogNumber                                       AA0627
-basisOfRecord                                          NaN
+basisOfRecord                               LivingSpecimen
 decimalLatitude                                     348434
 decimalLongitude                                   6284491
+phylum                                        Tracheophyta
 Class                                        Magnoliopsida
 order                                            Proteales
 family                                          Proteaceae
@@ -10,13 +11,13 @@ specificEpithet                                    robusta
 infraspecificEpithet                                   NaN
 nameAcordingTo                            A.Cunn. ex R.Br.
 verbatimTaxonRank                                      NaN
-taxonRank                                              NaN
+taxonRank                                          species
 acceptedNameUsage       Grevillea robusta A.Cunn. ex R.Br.
-Unnamed: 14                                       ACCEPTED
-Unnamed: 15                                           Viva
-establishmentMeans                                 Exotica
-Unnamed: 17                                           2019
-Unnamed: 18                                            NaN
+Nombre común                                           NaN
+Estado                                                Viva
+establishmentMeans                                 Exótica
+ingreso                                               2019
+plantacion                                             NaN
 locationRemarks                                        NaN
-sex                                                    NaN
+sex                                          hermaphrodite
 Name: AA0627, dtype: object

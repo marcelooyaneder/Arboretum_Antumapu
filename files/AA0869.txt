@@ -1,7 +1,8 @@
 catalogNumber                        AA0869
-basisOfRecord                           NaN
+basisOfRecord                LivingSpecimen
 decimalLatitude                      348628
 decimalLongitude                    6284448
+phylum                         Tracheophyta
 Class                         Magnoliopsida
 order                              Lamiales
 family                             Oleaceae
@@ -10,13 +11,13 @@ specificEpithet                    vulgaris
 infraspecificEpithet                    NaN
 nameAcordingTo                           L.
 verbatimTaxonRank                       NaN
-taxonRank                               NaN
+taxonRank                           species
 acceptedNameUsage       Syringa vulgaris L.
-Unnamed: 14                        ACCEPTED
-Unnamed: 15                            Viva
-establishmentMeans                  Exotica
-Unnamed: 17                            2019
-Unnamed: 18                             NaN
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
 locationRemarks                         NaN
 sex                                     NaN
 Name: AA0869, dtype: object

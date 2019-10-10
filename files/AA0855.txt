@@ -1,7 +1,8 @@
 catalogNumber                      AA0855
-basisOfRecord                         NaN
+basisOfRecord              LivingSpecimen
 decimalLatitude                    348469
 decimalLongitude                  6284507
+phylum                       Tracheophyta
 Class                       Magnoliopsida
 order                             Rosales
 family                           Rosaceae
@@ -10,13 +11,13 @@ specificEpithet                   cerasus
 infraspecificEpithet                  NaN
 nameAcordingTo                         L.
 verbatimTaxonRank                     NaN
-taxonRank                             NaN
+taxonRank                         species
 acceptedNameUsage       Prunus cerasus L.
-Unnamed: 14                       SYNONYM
-Unnamed: 15                          Viva
-establishmentMeans                Exotica
-Unnamed: 17                          2019
-Unnamed: 18                           NaN
+Nombre común                          NaN
+Estado                               Viva
+establishmentMeans                Exótica
+ingreso                              2019
+plantacion                            NaN
 locationRemarks                       NaN
-sex                                   NaN
+sex                         hermaphrodite
 Name: AA0855, dtype: object

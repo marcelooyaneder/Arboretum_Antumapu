@@ -1,7 +1,8 @@
 catalogNumber                            AA0315
-basisOfRecord                               NaN
+basisOfRecord                    LivingSpecimen
 decimalLatitude                          348558
 decimalLongitude                        6284412
+phylum                             Tracheophyta
 Class                             Magnoliopsida
 order                                   Rosales
 family                                 Rosaceae
@@ -10,13 +11,13 @@ specificEpithet                      cerasifera
 infraspecificEpithet                        NaN
 nameAcordingTo                            Ehrh.
 verbatimTaxonRank                           NaN
-taxonRank                                   NaN
+taxonRank                               species
 acceptedNameUsage       Prunus cerasifera Ehrh.
-Unnamed: 14                            ACCEPTED
-Unnamed: 15                                Viva
-establishmentMeans                      Exotica
-Unnamed: 17                                2019
-Unnamed: 18                                 NaN
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
 locationRemarks                             NaN
-sex                                         NaN
+sex                               hermaphrodite
 Name: AA0315, dtype: object

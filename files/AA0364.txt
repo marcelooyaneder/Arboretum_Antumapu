@@ -1,7 +1,8 @@
 catalogNumber                               AA0364
-basisOfRecord                                  NaN
+basisOfRecord                       LivingSpecimen
 decimalLatitude                             348620
 decimalLongitude                           6284408
+phylum                                Tracheophyta
 Class                                Magnoliopsida
 order                                      Rosales
 family                                    Rosaceae
@@ -10,13 +11,13 @@ specificEpithet                         tarapacana
 infraspecificEpithet                           NaN
 nameAcordingTo                               Phil.
 verbatimTaxonRank                              NaN
-taxonRank                                      NaN
+taxonRank                                  species
 acceptedNameUsage       Polylepis tarapacana Phil.
-Unnamed: 14                               ACCEPTED
-Unnamed: 15                                   Viva
+Nombre común                                   NaN
+Estado                                        Viva
 establishmentMeans                          Nativa
-Unnamed: 17                                   2019
-Unnamed: 18                                   2016
+ingreso                                       2019
+plantacion                                    2016
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA0364, dtype: object

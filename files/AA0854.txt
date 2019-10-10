@@ -1,7 +1,8 @@
 catalogNumber                        AA0854
-basisOfRecord                           NaN
+basisOfRecord                LivingSpecimen
 decimalLatitude                      348471
 decimalLongitude                    6284500
+phylum                         Tracheophyta
 Class                         Magnoliopsida
 order                               Rosales
 family                             Rosaceae
@@ -10,13 +11,13 @@ specificEpithet                   domestica
 infraspecificEpithet                    NaN
 nameAcordingTo                           L.
 verbatimTaxonRank                       NaN
-taxonRank                               NaN
+taxonRank                           species
 acceptedNameUsage       Prunus domestica L.
-Unnamed: 14                        ACCEPTED
-Unnamed: 15                            Viva
-establishmentMeans                  Exotica
-Unnamed: 17                            2019
-Unnamed: 18                             NaN
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
 locationRemarks                         NaN
-sex                                     NaN
+sex                           hermaphrodite
 Name: AA0854, dtype: object

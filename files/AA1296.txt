@@ -1,7 +1,8 @@
 catalogNumber                             AA1296
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348316
 decimalLongitude                         6284372
+phylum                              Tracheophyta
 Class                              Magnoliopsida
 order                                   Lamiales
 family                          Scrophulariaceae
@@ -10,13 +11,13 @@ specificEpithet                           laetum
 infraspecificEpithet                         NaN
 nameAcordingTo                          G.Forst.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Myoporum laetum G.Forst.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
-establishmentMeans                       Exotica
-Unnamed: 17                                 2019
-Unnamed: 18                                  NaN
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
 locationRemarks                              NaN
-sex                                          NaN
+sex                                hermaphrodite
 Name: AA1296, dtype: object

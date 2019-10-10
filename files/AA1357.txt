@@ -1,22 +1,23 @@
-catalogNumber                                        AA1357
-basisOfRecord                                           NaN
-decimalLatitude                                      348350
-decimalLongitude                                    6284321
-Class                                         Magnoliopsida
-order                                               Fabales
-family                                             Fabaceae
-genus                                                Acacia
-specificEpithet                                     saligna
-infraspecificEpithet                                    NaN
-nameAcordingTo                                   H.L.Wendl.
-verbatimTaxonRank                                       NaN
-taxonRank                                               NaN
-acceptedNameUsage       Acacia saligna (Labill.) H.L.Wendl.
-Unnamed: 14                                        ACCEPTED
-Unnamed: 15                                            Viva
-establishmentMeans                                  Exotica
-Unnamed: 17                                            2019
-Unnamed: 18                                             NaN
-locationRemarks                                         NaN
-sex                                                     NaN
+catalogNumber                              AA1357
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348350
+decimalLongitude                          6284321
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+family                                   Fabaceae
+genus                                      Acacia
+specificEpithet                           saligna
+infraspecificEpithet                          NaN
+nameAcordingTo                         H.L.Wendl.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Acacia saligna H.L.Wendl.
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                        Exótica
+ingreso                                      2019
+plantacion                                    NaN
+locationRemarks                               NaN
+sex                                 hermaphrodite
 Name: AA1357, dtype: object

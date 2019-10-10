@@ -1,22 +1,23 @@
-catalogNumber                               AA1479
-basisOfRecord                                  NaN
-decimalLatitude                             348419
-decimalLongitude                           6284326
-Class                                Magnoliopsida
-order                                      Fabales
-family                                Quillajaceae
-genus                                     Quillaja
-specificEpithet                          saponaria
-infraspecificEpithet                           NaN
-nameAcordingTo                             Molina.
-verbatimTaxonRank                              NaN
-taxonRank                                      NaN
-acceptedNameUsage       Quillaja saponaria Molina.
-Unnamed: 14                               ACCEPTED
-Unnamed: 15                                   Viva
-establishmentMeans                          Nativa
-Unnamed: 17                                   2019
-Unnamed: 18                                    NaN
-locationRemarks                                NaN
-sex                                            NaN
+catalogNumber                                       AA1479
+basisOfRecord                               LivingSpecimen
+decimalLatitude                                     348419
+decimalLongitude                                   6284326
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                              Fabales
+family                                        Quillajaceae
+genus                                             Quillaja
+specificEpithet                                  saponaria
+infraspecificEpithet                                   NaN
+nameAcordingTo                             (Molina) Molina
+verbatimTaxonRank                                      NaN
+taxonRank                                          species
+acceptedNameUsage       Quillaja saponaria (Molina) Molina
+Nombre común                                           NaN
+Estado                                                Viva
+establishmentMeans                                  Nativa
+ingreso                                               2019
+plantacion                                             NaN
+locationRemarks                                        NaN
+sex                                          hermaphrodite
 Name: AA1479, dtype: object

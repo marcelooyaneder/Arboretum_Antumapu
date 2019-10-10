@@ -1,7 +1,8 @@
 catalogNumber                                         AA0145
-basisOfRecord                                            NaN
+basisOfRecord                                 LivingSpecimen
 decimalLatitude                                       348642
 decimalLongitude                                     6284356
+phylum                                          Tracheophyta
 Class                                          Magnoliopsida
 order                                             Canellales
 family                                           Winteraceae
@@ -10,13 +11,13 @@ specificEpithet                                      winteri
 infraspecificEpithet                                     NaN
 nameAcordingTo                         J.R.Forst. & G.Forst.
 verbatimTaxonRank                                        NaN
-taxonRank                                                NaN
+taxonRank                                            species
 acceptedNameUsage       Drimys winteri J.R.Forst. & G.Forst.
-Unnamed: 14                                         ACCEPTED
-Unnamed: 15                                           Muerto
+Nombre común                                             NaN
+Estado                                                Muerto
 establishmentMeans                                    Nativa
-Unnamed: 17                                             2019
-Unnamed: 18                                              NaN
+ingreso                                                 2019
+plantacion                                               NaN
 locationRemarks                                          NaN
-sex                                                      NaN
+sex                                            hermaphrodite
 Name: AA0145, dtype: object

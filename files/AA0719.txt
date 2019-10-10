@@ -1,7 +1,8 @@
 catalogNumber                             AA0719
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348415
 decimalLongitude                         6284485
+phylum                              Tracheophyta
 Class                              Magnoliopsida
 order                                    Apiales
 family                                  Apiaceae
@@ -10,13 +11,13 @@ specificEpithet                          vulgare
 infraspecificEpithet                         NaN
 nameAcordingTo                             Mill.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Foeniculum vulgare Mill.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
-establishmentMeans                       Exotica
-Unnamed: 17                                 2019
-Unnamed: 18                                  NaN
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
 locationRemarks                              NaN
 sex                                          NaN
 Name: AA0719, dtype: object

@@ -1,22 +1,23 @@
-catalogNumber                  AA1312
-basisOfRecord                     NaN
-decimalLatitude                348311
-decimalLongitude              6284351
-Class                   Magnoliopsida
-order                      Sapindales
-family                       Rutaceae
-genus                          Citrus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-nameAcordingTo                     L.
-verbatimTaxonRank                 NaN
-taxonRank                         NaN
-acceptedNameUsage           Citrus L.
-Unnamed: 14                  ACCEPTED
-Unnamed: 15                      Viva
-establishmentMeans            Exotica
-Unnamed: 17                      2019
-Unnamed: 18                       NaN
-locationRemarks                   NaN
-sex                               NaN
+catalogNumber                   AA1312
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348311
+decimalLongitude               6284351
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                       Sapindales
+family                        Rutaceae
+genus                           Citrus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage           Citrus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
 Name: AA1312, dtype: object

@@ -1,7 +1,8 @@
 catalogNumber                           AA1721
-basisOfRecord                              NaN
+basisOfRecord                   LivingSpecimen
 decimalLatitude                         348535
 decimalLongitude                       6284257
+phylum                            Tracheophyta
 Class                               Liliopsida
 order                                 Arecales
 family                               Arecaceae
@@ -10,13 +11,13 @@ specificEpithet                         armata
 infraspecificEpithet                       NaN
 nameAcordingTo                        S.Watson
 verbatimTaxonRank                          NaN
-taxonRank                                  NaN
+taxonRank                              species
 acceptedNameUsage       Brahea armata S.Watson
-Unnamed: 14                           ACCEPTED
-Unnamed: 15                               Viva
-establishmentMeans                     Exotica
-Unnamed: 17                               2019
-Unnamed: 18                               2015
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                     Exótica
+ingreso                                   2019
+plantacion                                2015
 locationRemarks                            NaN
 sex                                        NaN
 Name: AA1721, dtype: object

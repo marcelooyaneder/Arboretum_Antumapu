@@ -1,22 +1,23 @@
-catalogNumber                                                  AA0937
-basisOfRecord                                                     NaN
-decimalLatitude                                                348579
-decimalLongitude                                              6284591
-Class                                                   Magnoliopsida
-order                                                         Fabales
-family                                                       Fabaceae
-genus                                                           Senna
-specificEpithet                                           candolleana
-infraspecificEpithet                                              NaN
-nameAcordingTo                                    H.S.Irwin & Barneby
-verbatimTaxonRank                                                 NaN
-taxonRank                                                         NaN
-acceptedNameUsage       Senna candolleana (Vogel) H.S.Irwin & Barneby
-Unnamed: 14                                                  ACCEPTED
-Unnamed: 15                                                      Viva
-establishmentMeans                                             Nativa
-Unnamed: 17                                                      2019
-Unnamed: 18                                                       NaN
-locationRemarks                                                   NaN
-sex                                                               NaN
+catalogNumber                                          AA0937
+basisOfRecord                                  LivingSpecimen
+decimalLatitude                                        348579
+decimalLongitude                                      6284591
+phylum                                           Tracheophyta
+Class                                           Magnoliopsida
+order                                                 Fabales
+family                                               Fabaceae
+genus                                                   Senna
+specificEpithet                                   candolleana
+infraspecificEpithet                                      NaN
+nameAcordingTo                            H.S.Irwin & Barneby
+verbatimTaxonRank                                         NaN
+taxonRank                                             species
+acceptedNameUsage       Senna candolleana H.S.Irwin & Barneby
+Nombre común                                              NaN
+Estado                                                   Viva
+establishmentMeans                                     Nativa
+ingreso                                                  2019
+plantacion                                                NaN
+locationRemarks                                           NaN
+sex                                             hermaphrodite
 Name: AA0937, dtype: object

@@ -1,7 +1,8 @@
 catalogNumber                         AA1719
-basisOfRecord                            NaN
+basisOfRecord                 LivingSpecimen
 decimalLatitude                       348456
 decimalLongitude                     6284380
+phylum                          Tracheophyta
 Class                          Magnoliopsida
 order                         Caryophyllales
 family                        Phytolaccaceae
@@ -10,13 +11,13 @@ specificEpithet                       dioica
 infraspecificEpithet                     NaN
 nameAcordingTo                            L.
 verbatimTaxonRank                        NaN
-taxonRank                                NaN
+taxonRank                            species
 acceptedNameUsage       Phytolacca dioica L.
-Unnamed: 14                         ACCEPTED
-Unnamed: 15                             Viva
-establishmentMeans                   Exotica
-Unnamed: 17                             2019
-Unnamed: 18                             2016
+Nombre común                             NaN
+Estado                                  Viva
+establishmentMeans                   Exótica
+ingreso                                 2019
+plantacion                              2016
 locationRemarks                          NaN
 sex                                      NaN
 Name: AA1719, dtype: object

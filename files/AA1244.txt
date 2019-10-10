@@ -1,7 +1,8 @@
 catalogNumber                          AA1244
-basisOfRecord                             NaN
+basisOfRecord                  LivingSpecimen
 decimalLatitude                        348432
 decimalLongitude                      6284317
+phylum                           Tracheophyta
 Class                           Magnoliopsida
 order                                Lamiales
 family                               Oleaceae
@@ -10,13 +11,13 @@ specificEpithet                     excelsior
 infraspecificEpithet                      NaN
 nameAcordingTo                             L.
 verbatimTaxonRank                         NaN
-taxonRank                                 NaN
+taxonRank                             species
 acceptedNameUsage       Fraxinus excelsior L.
-Unnamed: 14                          ACCEPTED
-Unnamed: 15                              Viva
-establishmentMeans                    Exotica
-Unnamed: 17                              2019
-Unnamed: 18                               NaN
+Nombre común                              NaN
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                                NaN
 locationRemarks                           NaN
-sex                                       NaN
+sex                             hermaphrodite
 Name: AA1244, dtype: object

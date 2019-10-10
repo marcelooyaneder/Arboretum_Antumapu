@@ -1,7 +1,8 @@
 catalogNumber                            AA0287
-basisOfRecord                               NaN
+basisOfRecord                    LivingSpecimen
 decimalLatitude                          348577
 decimalLongitude                        6284435
+phylum                             Tracheophyta
 Class                                Liliopsida
 order                                  Arecales
 family                                Arecaceae
@@ -10,13 +11,13 @@ specificEpithet                       chilensis
 infraspecificEpithet                        NaN
 nameAcordingTo                           Baill.
 verbatimTaxonRank                           NaN
-taxonRank                                   NaN
+taxonRank                               species
 acceptedNameUsage       Jubaea chilensis Baill.
-Unnamed: 14                            ACCEPTED
-Unnamed: 15                                Viva
+Nombre común                                NaN
+Estado                                     Viva
 establishmentMeans                       Nativa
-Unnamed: 17                                2019
-Unnamed: 18                                 NaN
+ingreso                                    2019
+plantacion                                  NaN
 locationRemarks                             NaN
-sex                                         NaN
+sex                               hermaphrodite
 Name: AA0287, dtype: object

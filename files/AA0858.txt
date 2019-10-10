@@ -1,7 +1,8 @@
 catalogNumber                          AA0858
-basisOfRecord                             NaN
+basisOfRecord                  LivingSpecimen
 decimalLatitude                        348475
 decimalLongitude                      6284515
+phylum                           Tracheophyta
 Class                           Magnoliopsida
 order                                 Rosales
 family                               Rosaceae
@@ -10,13 +11,13 @@ specificEpithet                       oblonga
 infraspecificEpithet                      NaN
 nameAcordingTo                          Mill.
 verbatimTaxonRank                         NaN
-taxonRank                                 NaN
+taxonRank                             species
 acceptedNameUsage       Cydonia oblonga Mill.
-Unnamed: 14                          ACCEPTED
-Unnamed: 15                              Viva
-establishmentMeans                    Exotica
-Unnamed: 17                              2019
-Unnamed: 18                              2015
+Nombre común                              NaN
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                               2015
 locationRemarks                           NaN
 sex                                       NaN
 Name: AA0858, dtype: object

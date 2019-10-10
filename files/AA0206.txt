@@ -1,22 +1,23 @@
-catalogNumber                               AA0206
-basisOfRecord                                  NaN
-decimalLatitude                             348601
-decimalLongitude                           6284394
-Class                                Magnoliopsida
-order                                      Fabales
-family                                    Fabaceae
-genus                                     Prosopis
-specificEpithet                          chilensis
-infraspecificEpithet                           NaN
-nameAcordingTo                             Stuntz.
-verbatimTaxonRank                              NaN
-taxonRank                                      NaN
-acceptedNameUsage       Prosopis chilensis Stuntz.
-Unnamed: 14                               ACCEPTED
-Unnamed: 15                                   Viva
-establishmentMeans                          Nativa
-Unnamed: 17                                   2019
-Unnamed: 18                                    NaN
-locationRemarks                                NaN
-sex                                            NaN
+catalogNumber                              AA0206
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348601
+decimalLongitude                          6284394
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+family                                   Fabaceae
+genus                                    Prosopis
+specificEpithet                         chilensis
+infraspecificEpithet                          NaN
+nameAcordingTo                             Stuntz
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Prosopis chilensis Stuntz
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                         Nativa
+ingreso                                      2019
+plantacion                                    NaN
+locationRemarks                               NaN
+sex                                 hermaphrodite
 Name: AA0206, dtype: object

@@ -1,22 +1,23 @@
-catalogNumber                                            AA0551
-basisOfRecord                                               NaN
-decimalLatitude                                          348526
-decimalLongitude                                        6284413
-Class                                             Magnoliopsida
-order                                                  Lamiales
-family                                              Verbenaceae
-genus                                             Rhaphithamnus
-specificEpithet                                        spinosus
-infraspecificEpithet                                        NaN
-nameAcordingTo                                         Moldenke
-verbatimTaxonRank                                           NaN
-taxonRank                                                   NaN
-acceptedNameUsage       Rhaphithamnus spinosus (Juss.) Moldenke
-Unnamed: 14                                            ACCEPTED
-Unnamed: 15                                              muerto
-establishmentMeans                                       Nativa
-Unnamed: 17                                                2019
-Unnamed: 18                                                 NaN
-locationRemarks                                             NaN
-sex                                                         NaN
+catalogNumber                                    AA0551
+basisOfRecord                            LivingSpecimen
+decimalLatitude                                  348526
+decimalLongitude                                6284413
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                          Lamiales
+family                                      Verbenaceae
+genus                                     Rhaphithamnus
+specificEpithet                                spinosus
+infraspecificEpithet                                NaN
+nameAcordingTo                                 Moldenke
+verbatimTaxonRank                                   NaN
+taxonRank                                       species
+acceptedNameUsage       Rhaphithamnus spinosus Moldenke
+Nombre común                                        NaN
+Estado                                           muerto
+establishmentMeans                               Nativa
+ingreso                                            2019
+plantacion                                          NaN
+locationRemarks                                     NaN
+sex                                       hermaphrodite
 Name: AA0551, dtype: object
