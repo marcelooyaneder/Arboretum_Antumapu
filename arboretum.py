@@ -52,12 +52,25 @@ class file_opening:
                     data.drop(label,axis=1,inplace=True)
             except:
                 pass
-        msg='select a column to be the indexo of the dataframe'
-        title='select indexo'       
+        msg='select a column to be the index of the dataframe'
+        title='select index'       
         indexo=eg.choicebox(msg,title,columns_df)
         data=data.set_index(indexo, drop = False)
         return data,indexo
+    
+    def file_creation(self):
+        columns_dwc=pd.read_csv('simple_dwc_horizontal.csv',header=0,sep=',').columns.tolist() #ver como variar de ; o , 
+        msg='select terms to be in your dataframe'
+        title='select terms'       
+        choicebox=eg.multchoicebox(msg,title,columns_dwc)
+        dataframe=pd.DataFrame(columns=choicebox)
+        msg='select a index for the dataframe'
+        title='select index'       
+        indexo=eg.choicebox(msg,title,choicebox)
+        dataframe=data.set_index(indexo, drop = False)
+        return dataframe,indexo
 
+#autosugerir el nombre cientifico
 class subject:
     def __init__(self,data):
         self.data=data
@@ -136,7 +149,7 @@ class subject:
     def add_values(self,data):
         msg = "Enter information about the new subject"
         title = "New subject entry "
-        last_indexo =data.indexo[-1]
+        last_indexo =data.index[-1]
         new = int(last_indexo, 36) + 1
         new_id=numpy.base_repr(new, 36)
         fieldNames = data.columns.tolist()[1:]
@@ -145,6 +158,9 @@ class subject:
         fieldValues.insert(0,new_id)
         data.loc[fieldValues[0]]=fieldValues
         return data
+
+    def save_values(self,data): #programar para que tire a csv
+        pass
 
 def comparefiles(ID,info):
     filename1 = "temp/"+ID+'.txt'
@@ -168,11 +184,14 @@ def comparefiles(ID,info):
     return 
 
 def infowriting(ID,info):
-    filename = "files/"+ID+'.txt'
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    with open(filename,'w') as fil:
-        fil.write(str(info))
-    print('a new entry has been found, file...'+ID+'.txt has been created.')
+    try: 
+        filename = "files/"+ID+'.txt'
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename,'w') as fil:
+            fil.write(str(info))
+        print('a new entry has been found, file...'+ID+'.txt has been created.')
+    except:
+        print('permission to write in {0} has been denied...').format(filename)
     return 
 
 def dynamiclinks(longurl):
@@ -189,20 +208,23 @@ def dynamiclinks(longurl):
 #crear un Qr para showroom 
 #Crear un Qr para manejo del lab
 def qrcreation(ID,short_url):
-    filename = "qrs/"+ID+'.png'
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    quick_response_code= pyqrcode.create(short_url)
-    with open(filename, 'wb') as f:
-            quick_response_code.png(f, scale=8,module_color=(0,102,0,255),background=(255, 255, 255, 255))
-    img = Image.open(filename)
-    width, height = img.size
-    logo_size =50
-    logo = Image.open('118px-Leaf_icon_15.png')
-    xmin = ymin = int((width / 2) - (logo_size / 2))
-    xmax = ymax = int((width / 2) + (logo_size / 2))
-    logo = logo.resize((xmax - xmin, ymax - ymin))
-    img.paste(logo, (xmin, ymin, xmax, ymax))
-    img.save(filename)
+    try:
+        filename = "qrs/"+ID+'.png'
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        quick_response_code= pyqrcode.create(short_url)
+        with open(filename, 'wb') as f:
+                quick_response_code.png(f, scale=8,module_color=(0,102,0,255),background=(255, 255, 255, 255))
+        img = Image.open(filename)
+        width, height = img.size
+        logo_size =50
+        logo = Image.open('118px-Leaf_icon_15.png')
+        xmin = ymin = int((width / 2) - (logo_size / 2))
+        xmax = ymax = int((width / 2) + (logo_size / 2))
+        logo = logo.resize((xmax - xmin, ymax - ymin))
+        img.paste(logo, (xmin, ymin, xmax, ymax))
+        img.save(filename)
+    except:
+        print('permission to write in {0} has been denied...').format(filename)
 
 ####################################################################
 ##############################MAIN##################################
