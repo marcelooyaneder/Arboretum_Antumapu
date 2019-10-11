@@ -1,22 +1,23 @@
-catalogNumber                                        AA1261
-basisOfRecord                                           NaN
-decimalLatitude                                      348423
-decimalLongitude                                    6284291
-Class                                         Magnoliopsida
-order                                          Malpighiales
-family                                           Salicaceae
-genus                                               Populus
-specificEpithet                                euramericana
-infraspecificEpithet                                    NaN
-nameAcordingTo                                      Guinier
-verbatimTaxonRank                                       NaN
-taxonRank                                               NaN
-acceptedNameUsage       Populus euramericana (Dode) Guinier
-Unnamed: 14                                         SYNONYM
-Unnamed: 15                                            Viva
-establishmentMeans                                  Exotica
-Unnamed: 17                                            2019
-Unnamed: 18                                             NaN
-locationRemarks                                         NaN
-sex                                                     NaN
+catalogNumber                               AA1261
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348423
+decimalLongitude                           6284291
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Malpighiales
+family                                  Salicaceae
+genus                                      Populus
+specificEpithet                         canadensis
+infraspecificEpithet                         I-214
+nameAcordingTo                              Moench
+verbatimTaxonRank       Populus x canadensis I-214
+taxonRank                                 varietas
+acceptedNameUsage        Populus canadensis Moench
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+locationRemarks                                NaN
+sex                                  hermaphrodite
 Name: AA1261, dtype: object

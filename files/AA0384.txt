@@ -1,22 +1,23 @@
-catalogNumber                               AA0384
-basisOfRecord                                  NaN
-decimalLatitude                             348537
-decimalLongitude                           6284405
-Class                                Magnoliopsida
-order                                      Vitales
-family                                    Vitaceae
-genus                                Clematicissus
-specificEpithet                            striata
-infraspecificEpithet                           NaN
-nameAcordingTo                         Ruiz & Pav.
-verbatimTaxonRank                              NaN
-taxonRank                                      NaN
-acceptedNameUsage       Cissus striata Ruiz & Pav.
-Unnamed: 14                                SYNONYM
-Unnamed: 15                                   Viva
-establishmentMeans                          Nativa
-Unnamed: 17                                   2019
-Unnamed: 18                                    NaN
-locationRemarks                                NaN
-sex                                            NaN
+catalogNumber                                      AA0384
+basisOfRecord                              LivingSpecimen
+decimalLatitude                                    348537
+decimalLongitude                                  6284405
+phylum                                       Tracheophyta
+Class                                       Magnoliopsida
+order                                             Vitales
+family                                           Vitaceae
+genus                                       Clematicissus
+specificEpithet                                   striata
+infraspecificEpithet                                  NaN
+nameAcordingTo                                Ruiz & Pav.
+verbatimTaxonRank                                     NaN
+taxonRank                                         species
+acceptedNameUsage       Clematicissus striata Ruiz & Pav.
+Nombre común                                          NaN
+Estado                                               Viva
+establishmentMeans                                 Nativa
+ingreso                                              2019
+plantacion                                            NaN
+locationRemarks                                       NaN
+sex                                                   NaN
 Name: AA0384, dtype: object

@@ -1,22 +1,23 @@
 catalogNumber                                                AA0370
-basisOfRecord                                                   NaN
+basisOfRecord                                        LivingSpecimen
 decimalLatitude                                              348601
 decimalLongitude                                            6284410
+phylum                                                 Tracheophyta
 Class                                                 Magnoliopsida
 order                                                       Fabales
 family                                                     Fabaceae
-genus                                                     Vachellia
+genus                                                        Acacia
 specificEpithet                                         macracantha
 infraspecificEpithet                                            NaN
 nameAcordingTo                             Humb. & Bonpl. ex Willd.
 verbatimTaxonRank                                               NaN
-taxonRank                                                       NaN
+taxonRank                                                   species
 acceptedNameUsage       Acacia macracantha Humb. & Bonpl. ex Willd.
-Unnamed: 14                                                 SYNONYM
-Unnamed: 15                                                    Viva
+Nombre común                                                    NaN
+Estado                                                         Viva
 establishmentMeans                                           Nativa
-Unnamed: 17                                                    2019
-Unnamed: 18                                                    2016
+ingreso                                                        2019
+plantacion                                                     2016
 locationRemarks                                                 NaN
-sex                                                             NaN
+sex                                                   hermaphrodite
 Name: AA0370, dtype: object

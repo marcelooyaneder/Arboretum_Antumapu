@@ -1,22 +1,23 @@
-catalogNumber                                      AA0545
-basisOfRecord                                         NaN
-decimalLatitude                                    348527
-decimalLongitude                                  6284424
-Class                                       Magnoliopsida
-order                                            Laurales
-family                                      Gomortegaceae
-genus                                           Gomortega
-specificEpithet                                     keule
-infraspecificEpithet                                  NaN
-nameAcordingTo                                    Gunckel
-verbatimTaxonRank                                     NaN
-taxonRank                                             NaN
-acceptedNameUsage       Gomortega keule (Molina.) Gunckel
-Unnamed: 14                                      ACCEPTED
-Unnamed: 15                                          Viva
-establishmentMeans                                 Nativa
-Unnamed: 17                                          2019
-Unnamed: 18                                          2017
-locationRemarks                                       NaN
-sex                                                   NaN
+catalogNumber                            AA0545
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348527
+decimalLongitude                        6284424
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Laurales
+family                            Gomortegaceae
+genus                                 Gomortega
+specificEpithet                           keule
+infraspecificEpithet                        NaN
+nameAcordingTo                          Gunckel
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Gomortega keule Gunckel
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                       Nativa
+ingreso                                    2019
+plantacion                                 2017
+locationRemarks                             NaN
+sex                                         NaN
 Name: AA0545, dtype: object

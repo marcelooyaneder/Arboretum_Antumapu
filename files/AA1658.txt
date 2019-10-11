@@ -1,22 +1,23 @@
-catalogNumber                                         AA1658
-basisOfRecord                                            NaN
-decimalLatitude                                       348553
-decimalLongitude                                     6284350
-Class                                          Magnoliopsida
-order                                               Laurales
-family                                             Lauraceae
-genus                                          Beilschmiedia
-specificEpithet                                      miersii
-infraspecificEpithet                                     NaN
-nameAcordingTo                                      Kosterm.
-verbatimTaxonRank                                        NaN
-taxonRank                                                NaN
-acceptedNameUsage       Beilschmiedia miersii (Gay) Kosterm.
-Unnamed: 14                                         ACCEPTED
-Unnamed: 15                                             Viva
-establishmentMeans                                    Nativa
-Unnamed: 17                                             2019
-Unnamed: 18                                              NaN
-locationRemarks                                          NaN
-sex                                                      NaN
+catalogNumber                                   AA1658
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348553
+decimalLongitude                               6284350
+phylum                                    Tracheophyta
+Class                                    Magnoliopsida
+order                                         Laurales
+family                                       Lauraceae
+genus                                    Beilschmiedia
+specificEpithet                                miersii
+infraspecificEpithet                               NaN
+nameAcordingTo                                Kosterm.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Beilschmiedia miersii Kosterm.
+Nombre común                                       NaN
+Estado                                            Viva
+establishmentMeans                              Nativa
+ingreso                                           2019
+plantacion                                         NaN
+locationRemarks                                    NaN
+sex                                      hermaphrodite
 Name: AA1658, dtype: object

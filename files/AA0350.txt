@@ -1,22 +1,23 @@
-catalogNumber                                                      AA0350
-basisOfRecord                                                         NaN
-decimalLatitude                                                    348640
-decimalLongitude                                                  6284401
-Class                                                       Magnoliopsida
-order                                                             Fabales
-family                                                           Fabaceae
-genus                                                           Geoffroea
-specificEpithet                                               decorticans
-infraspecificEpithet                                                  NaN
-nameAcordingTo                                                    Burkart
-verbatimTaxonRank                                                     NaN
-taxonRank                                                             NaN
-acceptedNameUsage       Geoffroea decorticans (Gillies ex Hook. & Arn....
-Unnamed: 14                                                      ACCEPTED
-Unnamed: 15                                                          Viva
-establishmentMeans                                                 Nativa
-Unnamed: 17                                                          2019
-Unnamed: 18                                                          2015
-locationRemarks                                                       NaN
-sex                                                                   NaN
+catalogNumber                                  AA0350
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348640
+decimalLongitude                              6284401
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                                         Fabales
+family                                       Fabaceae
+genus                                       Geoffroea
+specificEpithet                           decorticans
+infraspecificEpithet                              NaN
+nameAcordingTo                                Burkart
+verbatimTaxonRank                                 NaN
+taxonRank                                     species
+acceptedNameUsage       Geoffroea decorticans Burkart
+Nombre común                                      NaN
+Estado                                           Viva
+establishmentMeans                             Nativa
+ingreso                                          2019
+plantacion                                       2015
+locationRemarks                                   NaN
+sex                                     hermaphrodite
 Name: AA0350, dtype: object

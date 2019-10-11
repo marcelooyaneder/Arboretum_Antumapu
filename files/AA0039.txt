@@ -1,7 +1,8 @@
 catalogNumber                   AA0039
-basisOfRecord                      NaN
+basisOfRecord           LivingSpecimen
 decimalLatitude                 348676
 decimalLongitude               6284217
+phylum                    Tracheophyta
 Class                    Magnoliopsida
 order                   Caryophyllales
 family                    Tamaricaceae
@@ -9,14 +10,14 @@ genus                          Tamarix
 specificEpithet                    NaN
 infraspecificEpithet               NaN
 nameAcordingTo                      L.
-verbatimTaxonRank                  NaN
-taxonRank                          NaN
-acceptedNameUsage           Tamarix L.
-Unnamed: 14                   ACCEPTED
-Unnamed: 15                       Viva
-establishmentMeans             Exotica
-Unnamed: 17                       2019
-Unnamed: 18                        NaN
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage          Tamarix  L.
+Nombre común                 Tamarisco
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
 locationRemarks                    NaN
 sex                                NaN
 Name: AA0039, dtype: object

@@ -1,22 +1,23 @@
-catalogNumber                                   AA0258
-basisOfRecord                                      NaN
-decimalLatitude                                 348589
-decimalLongitude                               6284416
-Class                                    Magnoliopsida
-order                                          Fabales
-family                                        Fabaceae
-genus                                        Vachellia
-specificEpithet                                  caven
-infraspecificEpithet                               NaN
-nameAcordingTo                                 Molina.
-verbatimTaxonRank                                  NaN
-taxonRank                                          NaN
-acceptedNameUsage       Acacia caven (Molina.) Molina.
-Unnamed: 14                                    SYNONYM
-Unnamed: 15                                       Viva
-establishmentMeans                              Nativa
-Unnamed: 17                                       2019
-Unnamed: 18                                        NaN
-locationRemarks                                    NaN
-sex                                                NaN
+catalogNumber                                 AA0258
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348589
+decimalLongitude                             6284416
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                        Fabales
+family                                      Fabaceae
+genus                                         Acacia
+specificEpithet                                caven
+infraspecificEpithet                             NaN
+nameAcordingTo                       (Molina) Molina
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Acacia caven (Molina) Molina
+Nombre común                                     NaN
+Estado                                          Viva
+establishmentMeans                            Nativa
+ingreso                                         2019
+plantacion                                       NaN
+locationRemarks                                  NaN
+sex                                    hermaphrodite
 Name: AA0258, dtype: object

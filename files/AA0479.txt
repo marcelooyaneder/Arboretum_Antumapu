@@ -1,7 +1,8 @@
 catalogNumber                          AA0479
-basisOfRecord                             NaN
+basisOfRecord                  LivingSpecimen
 decimalLatitude                        348538
 decimalLongitude                      6284448
+phylum                           Tracheophyta
 Class                           Magnoliopsida
 order                                Lamiales
 family                               Oleaceae
@@ -10,13 +11,13 @@ specificEpithet                        mesnyi
 infraspecificEpithet                      NaN
 nameAcordingTo                          Hance
 verbatimTaxonRank                         NaN
-taxonRank                                 NaN
+taxonRank                             species
 acceptedNameUsage       Jasminum mesnyi Hance
-Unnamed: 14                          ACCEPTED
-Unnamed: 15                              Viva
-establishmentMeans                    Exotica
-Unnamed: 17                              2019
-Unnamed: 18                               NaN
+Nombre común                              NaN
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                                NaN
 locationRemarks                           NaN
 sex                                       NaN
 Name: AA0479, dtype: object

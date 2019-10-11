@@ -1,22 +1,23 @@
-catalogNumber                                             AA0490
-basisOfRecord                                                NaN
-decimalLatitude                                           348524
-decimalLongitude                                         6284408
-Class                                              Magnoliopsida
-order                                               Aquifoliales
-family                                         Cardiopteridaceae
-genus                                                 Citronella
-specificEpithet                                        mucronata
-infraspecificEpithet                                         NaN
-nameAcordingTo                                             D.Don
-verbatimTaxonRank                                            NaN
-taxonRank                                                    NaN
-acceptedNameUsage       Citronella mucronata (Ruiz & Pav.) D.Don
-Unnamed: 14                                             ACCEPTED
-Unnamed: 15                                                 Viva
-establishmentMeans                                        Nativa
-Unnamed: 17                                                 2019
-Unnamed: 18                                                 2016
-locationRemarks                                              NaN
-sex                                                          NaN
+catalogNumber                               AA0490
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348524
+decimalLongitude                           6284408
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Aquifoliales
+family                           Cardiopteridaceae
+genus                                   Citronella
+specificEpithet                          mucronata
+infraspecificEpithet                           NaN
+nameAcordingTo                               D.Don
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Citronella mucronata D.Don
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                          Nativa
+ingreso                                       2019
+plantacion                                    2016
+locationRemarks                                NaN
+sex                                            NaN
 Name: AA0490, dtype: object

@@ -1,7 +1,8 @@
 catalogNumber                                AA0946
-basisOfRecord                                   NaN
+basisOfRecord                        LivingSpecimen
 decimalLatitude                              348536
 decimalLongitude                            6284657
+phylum                                 Tracheophyta
 Class                                 Magnoliopsida
 order                                      Lamiales
 family                                     Oleaceae
@@ -10,13 +11,13 @@ specificEpithet                             lucidum
 infraspecificEpithet                            NaN
 nameAcordingTo                            W.T.Aiton
 verbatimTaxonRank                               NaN
-taxonRank                                       NaN
+taxonRank                                   species
 acceptedNameUsage       Ligustrum lucidum W.T.Aiton
-Unnamed: 14                                ACCEPTED
-Unnamed: 15                                    Viva
-establishmentMeans                          Exotica
-Unnamed: 17                                    2019
-Unnamed: 18                                     NaN
+Nombre común                                    NaN
+Estado                                         Viva
+establishmentMeans                          Exótica
+ingreso                                        2019
+plantacion                                      NaN
 locationRemarks                                 NaN
-sex                                             NaN
+sex                                   hermaphrodite
 Name: AA0946, dtype: object

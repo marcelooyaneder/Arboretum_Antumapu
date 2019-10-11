@@ -1,7 +1,8 @@
 catalogNumber                             AA1264
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348437
 decimalLongitude                         6284275
+phylum                              Tracheophyta
 Class                              Magnoliopsida
 order                                   Myrtales
 family                                Onagraceae
@@ -10,13 +11,13 @@ specificEpithet                      magellanica
 infraspecificEpithet                         NaN
 nameAcordingTo                              Lam.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Fuchsia magellanica Lam.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
+Nombre común                                 NaN
+Estado                                      Viva
 establishmentMeans                        Nativa
-Unnamed: 17                                 2019
-Unnamed: 18                                  NaN
+ingreso                                     2019
+plantacion                                   NaN
 locationRemarks                              NaN
-sex                                          NaN
+sex                                hermaphrodite
 Name: AA1264, dtype: object

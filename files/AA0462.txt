@@ -1,7 +1,8 @@
 catalogNumber                             AA0462
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348545
 decimalLongitude                         6284446
+phylum                              Tracheophyta
 Class                              Magnoliopsida
 order                                 Sapindales
 family                             Anacardiaceae
@@ -10,13 +11,13 @@ specificEpithet                       latifolius
 infraspecificEpithet                         NaN
 nameAcordingTo                             Engl.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Schinus latifolius Engl.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
+Nombre común                                 NaN
+Estado                                      Viva
 establishmentMeans                        Nativa
-Unnamed: 17                                 2019
-Unnamed: 18                                  NaN
+ingreso                                     2019
+plantacion                                   NaN
 locationRemarks                              NaN
-sex                                          NaN
+sex                                hermaphrodite
 Name: AA0462, dtype: object

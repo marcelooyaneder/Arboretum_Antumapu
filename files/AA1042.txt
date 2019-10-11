@@ -1,22 +1,23 @@
-catalogNumber                  AA1042
-basisOfRecord                     NaN
-decimalLatitude                348508
-decimalLongitude              6284788
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                         Populus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-nameAcordingTo                     L.
-verbatimTaxonRank                 NaN
-taxonRank                         NaN
-acceptedNameUsage          Populus L.
-Unnamed: 14                  ACCEPTED
-Unnamed: 15                      Viva
-establishmentMeans            Exotica
-Unnamed: 17                      2019
-Unnamed: 18                       NaN
-locationRemarks                   NaN
-sex                               NaN
+catalogNumber                   AA1042
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348508
+decimalLongitude               6284788
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                     Malpighiales
+family                      Salicaceae
+genus                          Populus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage          Populus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
 Name: AA1042, dtype: object

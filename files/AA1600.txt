@@ -1,22 +1,23 @@
 catalogNumber                             AA1600
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348497
 decimalLongitude                         6284321
+phylum                              Tracheophyta
 Class                                  Pinopsida
-order                                    Pinales
+order                                Cupressales
 family                              Cupressaceae
 genus                                  Cupressus
 specificEpithet                         funebris
 infraspecificEpithet                         NaN
 nameAcordingTo                             Endl.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Cupressus funebris Endl.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
-establishmentMeans                       Exotica
-Unnamed: 17                                 2019
-Unnamed: 18                                  NaN
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
 locationRemarks                              NaN
 sex                                          NaN
 Name: AA1600, dtype: object

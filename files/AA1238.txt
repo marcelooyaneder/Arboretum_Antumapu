@@ -1,7 +1,8 @@
 catalogNumber                       AA1238
-basisOfRecord                          NaN
+basisOfRecord               LivingSpecimen
 decimalLatitude                     348449
 decimalLongitude                   6284331
+phylum                        Tracheophyta
 Class                           Liliopsida
 order                          Asparagales
 family                        Asparagaceae
@@ -10,13 +11,13 @@ specificEpithet                  americana
 infraspecificEpithet                   NaN
 nameAcordingTo                          L.
 verbatimTaxonRank                      NaN
-taxonRank                              NaN
+taxonRank                          species
 acceptedNameUsage       Agave americana L.
-Unnamed: 14                       ACCEPTED
-Unnamed: 15                           Viva
-establishmentMeans                 Exotica
-Unnamed: 17                           2019
-Unnamed: 18                            NaN
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
 locationRemarks                        NaN
 sex                                    NaN
 Name: AA1238, dtype: object

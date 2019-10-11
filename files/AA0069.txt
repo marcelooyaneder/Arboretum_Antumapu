@@ -1,22 +1,23 @@
-catalogNumber                  AA0069
-basisOfRecord                     NaN
-decimalLatitude                348626
-decimalLongitude              6284197
-Class                   Magnoliopsida
-order                         Rosales
-family                       Ulmaceae
-genus                           Ulmus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-nameAcordingTo                     L.
-verbatimTaxonRank                 NaN
-taxonRank                         NaN
-acceptedNameUsage            Ulmus L.
-Unnamed: 14                  ACCEPTED
-Unnamed: 15                      Viva
-establishmentMeans            Exotica
-Unnamed: 17                      2019
-Unnamed: 18                       NaN
-locationRemarks                   NaN
-sex                               NaN
+catalogNumber                   AA0069
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348626
+decimalLongitude               6284197
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Ulmaceae
+genus                            Ulmus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage            Ulmus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
 Name: AA0069, dtype: object

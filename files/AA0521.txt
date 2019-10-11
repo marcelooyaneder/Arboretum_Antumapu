@@ -1,22 +1,23 @@
-catalogNumber                                        AA0521
-basisOfRecord                                           NaN
-decimalLatitude                                      348538
-decimalLongitude                                    6284409
-Class                                        Polypodiopsida
-order                                          Polypodiales
-family                                          Blechnaceae
-genus                                          Lomariocycas
-specificEpithet                                magellanicum
-infraspecificEpithet                                    NaN
-nameAcordingTo                                        Mett.
-verbatimTaxonRank                                       NaN
-taxonRank                                               NaN
-acceptedNameUsage       Blechnum magellanicum (Desv.) Mett.
-Unnamed: 14                                         SYNONYM
-Unnamed: 15                                            Viva
-establishmentMeans                                   Nativa
-Unnamed: 17                                            2019
-Unnamed: 18                                            2016
-locationRemarks                                         NaN
-sex                                                     NaN
+catalogNumber                                                      AA0521
+basisOfRecord                                              LivingSpecimen
+decimalLatitude                                                    348538
+decimalLongitude                                                  6284409
+phylum                                                       Tracheophyta
+Class                                                      Polypodiopsida
+order                                                        Polypodiales
+family                                                        Blechnaceae
+genus                                                        Lomariocycas
+specificEpithet                                              magellanicum
+infraspecificEpithet                                                  NaN
+nameAcordingTo                                  (Mett.) Gasper & A.R. Sm.
+verbatimTaxonRank                                                     NaN
+taxonRank                                                         species
+acceptedNameUsage       Lomariocycas magellanicum (Mett.) Gasper & A.R...
+Nombre común                                                          NaN
+Estado                                                               Viva
+establishmentMeans                                                 Nativa
+ingreso                                                              2019
+plantacion                                                           2016
+locationRemarks                                                       NaN
+sex                                                                   NaN
 Name: AA0521, dtype: object

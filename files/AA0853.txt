@@ -1,22 +1,23 @@
-catalogNumber                                   AA0853
-basisOfRecord                                      NaN
-decimalLatitude                                 348475
-decimalLongitude                               6284493
-Class                                    Magnoliopsida
-order                                          Rosales
-family                                        Rosaceae
-genus                                           Prunus
-specificEpithet                                 dulcis
-infraspecificEpithet                               NaN
-nameAcordingTo                                D.A.Webb
-verbatimTaxonRank                                  NaN
-taxonRank                                          NaN
-acceptedNameUsage       Prunus dulcis (Mill.) D.A.Webb
-Unnamed: 14                                   ACCEPTED
-Unnamed: 15                                       Viva
-establishmentMeans                             Exotica
-Unnamed: 17                                       2019
-Unnamed: 18                                        NaN
-locationRemarks                                    NaN
-sex                                                NaN
+catalogNumber                           AA0853
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348475
+decimalLongitude                       6284493
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                  Rosales
+family                                Rosaceae
+genus                                   Prunus
+specificEpithet                         dulcis
+infraspecificEpithet                       NaN
+nameAcordingTo                        D.A.Webb
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Prunus dulcis D.A.Webb
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                     Exótica
+ingreso                                   2019
+plantacion                                 NaN
+locationRemarks                            NaN
+sex                              hermaphrodite
 Name: AA0853, dtype: object

@@ -1,22 +1,23 @@
-catalogNumber                                                      AA1265
-basisOfRecord                                                         NaN
-decimalLatitude                                                    348396
-decimalLongitude                                                  6284289
-Class                                                          Liliopsida
-order                                                            Arecales
-family                                                          Arecaceae
-genus                                                        Washingtonia
-specificEpithet                                                  filifera
-infraspecificEpithet                                                  NaN
-nameAcordingTo                                        H.Wendl. ex de Bary
-verbatimTaxonRank                                                     NaN
-taxonRank                                                             NaN
-acceptedNameUsage       Washingtonia filifera (Rafarin) H.Wendl. ex de...
-Unnamed: 14                                                      ACCEPTED
-Unnamed: 15                                                          Viva
-establishmentMeans                                                Exotica
-Unnamed: 17                                                          2019
-Unnamed: 18                                                           NaN
-locationRemarks                                                       NaN
-sex                                                                   NaN
+catalogNumber                                              AA1265
+basisOfRecord                                      LivingSpecimen
+decimalLatitude                                            348396
+decimalLongitude                                          6284289
+phylum                                               Tracheophyta
+Class                                                  Liliopsida
+order                                                    Arecales
+family                                                  Arecaceae
+genus                                                Washingtonia
+specificEpithet                                          filifera
+infraspecificEpithet                                          NaN
+nameAcordingTo                                H.Wendl. ex de Bary
+verbatimTaxonRank                                             NaN
+taxonRank                                                 species
+acceptedNameUsage       Washingtonia filifera H.Wendl. ex de Bary
+Nombre común                                                  NaN
+Estado                                                       Viva
+establishmentMeans                                        Exótica
+ingreso                                                      2019
+plantacion                                                    NaN
+locationRemarks                                               NaN
+sex                                                 hermaphrodite
 Name: AA1265, dtype: object

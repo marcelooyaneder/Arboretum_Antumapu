@@ -1,22 +1,23 @@
-catalogNumber                                 AA0713
-basisOfRecord                                    NaN
-decimalLatitude                               348472
-decimalLongitude                             6284493
-Class                                  Magnoliopsida
-order                                        Apiales
-family                                Pittosporaceae
-genus                                    Pittosporum
-specificEpithet                                  NaN
-infraspecificEpithet                             NaN
-nameAcordingTo                      Banks ex Gaertn.
-verbatimTaxonRank                                NaN
-taxonRank                                        NaN
-acceptedNameUsage       Pittosporum Banks ex Gaertn.
-Unnamed: 14                                 ACCEPTED
-Unnamed: 15                                     Viva
-establishmentMeans                           Exotica
-Unnamed: 17                                     2019
-Unnamed: 18                                      NaN
-locationRemarks                                  NaN
-sex                                              NaN
+catalogNumber                                  AA0713
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348472
+decimalLongitude                              6284493
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                                         Apiales
+family                                 Pittosporaceae
+genus                                     Pittosporum
+specificEpithet                                   NaN
+infraspecificEpithet                              NaN
+nameAcordingTo                       Banks ex Gaertn.
+verbatimTaxonRank                                 sp.
+taxonRank                                       genus
+acceptedNameUsage       Pittosporum  Banks ex Gaertn.
+Nombre común                                      NaN
+Estado                                           Viva
+establishmentMeans                            Exótica
+ingreso                                          2019
+plantacion                                        NaN
+locationRemarks                                   NaN
+sex                                     hermaphrodite
 Name: AA0713, dtype: object

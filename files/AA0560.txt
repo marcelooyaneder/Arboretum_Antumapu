@@ -1,7 +1,8 @@
 catalogNumber                               AA0560
-basisOfRecord                                  NaN
+basisOfRecord                       LivingSpecimen
 decimalLatitude                             348539
 decimalLongitude                           6284415
+phylum                                Tracheophyta
 Class                                Magnoliopsida
 order                                    Bruniales
 family                              Columelliaceae
@@ -10,13 +11,13 @@ specificEpithet                            fulgens
 infraspecificEpithet                           NaN
 nameAcordingTo                               D.Don
 verbatimTaxonRank                              NaN
-taxonRank                                      NaN
+taxonRank                                  species
 acceptedNameUsage       Desfontainia fulgens D.Don
-Unnamed: 14                                SYNONYM
-Unnamed: 15                                 Muerto
+Nombre común                                   NaN
+Estado                                      Muerto
 establishmentMeans                          Nativa
-Unnamed: 17                                   2019
-Unnamed: 18                                    NaN
+ingreso                                       2019
+plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA0560, dtype: object

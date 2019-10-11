@@ -1,22 +1,23 @@
-catalogNumber                                         AA1491
-basisOfRecord                                            NaN
-decimalLatitude                                       348423
-decimalLongitude                                     6284333
-Class                                          Magnoliopsida
-order                                                Fabales
-family                                              Fabaceae
-genus                                            Caesalpinia
-specificEpithet                                      spinosa
-infraspecificEpithet                                     NaN
-nameAcordingTo                                        Kuntze
-verbatimTaxonRank                                        NaN
-taxonRank                                                NaN
-acceptedNameUsage       Caesalpinia spinosa (Molina.) Kuntze
-Unnamed: 14                                         ACCEPTED
-Unnamed: 15                                             Viva
-establishmentMeans                                    Nativa
-Unnamed: 17                                             2019
-Unnamed: 18                                             2016
-locationRemarks                                          NaN
-sex                                                      NaN
+catalogNumber                               AA1491
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348423
+decimalLongitude                           6284333
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fabales
+family                                    Fabaceae
+genus                                  Caesalpinia
+specificEpithet                            spinosa
+infraspecificEpithet                           NaN
+nameAcordingTo                              Kuntze
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Caesalpinia spinosa Kuntze
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                          Nativa
+ingreso                                       2019
+plantacion                                    2016
+locationRemarks                                NaN
+sex                                  hermaphrodite
 Name: AA1491, dtype: object

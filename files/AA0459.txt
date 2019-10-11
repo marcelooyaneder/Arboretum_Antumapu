@@ -1,7 +1,8 @@
 catalogNumber                                   AA0459
-basisOfRecord                                      NaN
+basisOfRecord                           LivingSpecimen
 decimalLatitude                                 348544
 decimalLongitude                               6284442
+phylum                                    Tracheophyta
 Class                                    Magnoliopsida
 order                                     Malpighiales
 family                                      Salicaceae
@@ -10,13 +11,13 @@ specificEpithet                           integrifolia
 infraspecificEpithet                               NaN
 nameAcordingTo                             Ruiz & Pav.
 verbatimTaxonRank                                  NaN
-taxonRank                                          NaN
+taxonRank                                      species
 acceptedNameUsage       Azara integrifolia Ruiz & Pav.
-Unnamed: 14                                   ACCEPTED
-Unnamed: 15                                       Viva
+Nombre común                                       NaN
+Estado                                            Viva
 establishmentMeans                              Nativa
-Unnamed: 17                                       2019
-Unnamed: 18                                        NaN
+ingreso                                           2019
+plantacion                                         NaN
 locationRemarks                                    NaN
-sex                                                NaN
+sex                                      hermaphrodite
 Name: AA0459, dtype: object

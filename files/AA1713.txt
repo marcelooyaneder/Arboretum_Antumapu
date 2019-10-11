@@ -1,7 +1,8 @@
 catalogNumber                             AA1713
-basisOfRecord                                NaN
+basisOfRecord                     LivingSpecimen
 decimalLatitude                           348556
 decimalLongitude                         6284375
+phylum                              Tracheophyta
 Class                              Magnoliopsida
 order                                   Myrtales
 family                                Onagraceae
@@ -10,13 +11,13 @@ specificEpithet                      magellanica
 infraspecificEpithet                         NaN
 nameAcordingTo                              Lam.
 verbatimTaxonRank                            NaN
-taxonRank                                    NaN
+taxonRank                                species
 acceptedNameUsage       Fuchsia magellanica Lam.
-Unnamed: 14                             ACCEPTED
-Unnamed: 15                                 Viva
-establishmentMeans                       Exotica
-Unnamed: 17                                 2019
-Unnamed: 18                                 2015
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                        Nativa
+ingreso                                     2019
+plantacion                                  2015
 locationRemarks                              NaN
-sex                                          NaN
+sex                                hermaphrodite
 Name: AA1713, dtype: object

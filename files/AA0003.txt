@@ -1,22 +1,23 @@
-catalogNumber                                            AA0003
-basisOfRecord                                               NaN
-decimalLatitude                                          348663
-decimalLongitude                                        6284341
-Class                                                 Pinopsida
-order                                                   Pinales
-family                                            Araucariaceae
-genus                                                 Araucaria
-specificEpithet                                    heterophylla
-infraspecificEpithet                                        NaN
-nameAcordingTo                                           Franco
-verbatimTaxonRank                                           NaN
-taxonRank                                                   NaN
-acceptedNameUsage       Araucaria heterophylla (Salisb.) Franco
-Unnamed: 14                                            ACCEPTED
-Unnamed: 15                                                Viva
-establishmentMeans                                      Exotica
-Unnamed: 17                                                2019
-Unnamed: 18                                                 NaN
-locationRemarks                                             NaN
-sex                                                         NaN
+catalogNumber                                  AA0003
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348663
+decimalLongitude                              6284341
+phylum                                   Tracheophyta
+Class                                       Pinopsida
+order                                     Cupressales
+family                                  Araucariaceae
+genus                                       Araucaria
+specificEpithet                          heterophylla
+infraspecificEpithet                              NaN
+nameAcordingTo                                 Franco
+verbatimTaxonRank                                 NaN
+taxonRank                                     species
+acceptedNameUsage       Araucaria heterophylla Franco
+Nombre común                          Pino de Norfolk
+Estado                                           Viva
+establishmentMeans                            Exótica
+ingreso                                          2019
+plantacion                                        NaN
+locationRemarks                                   NaN
+sex                                               NaN
 Name: AA0003, dtype: object

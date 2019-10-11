@@ -1,22 +1,23 @@
 catalogNumber                                      AA0555
-basisOfRecord                                         NaN
+basisOfRecord                              LivingSpecimen
 decimalLatitude                                    348518
 decimalLongitude                                  6284403
+phylum                                       Tracheophyta
 Class                                           Pinopsida
-order                                             Pinales
+order                                         Cupressales
 family                                       Cupressaceae
 genus                                            Fitzroya
 specificEpithet                              cupressoides
 infraspecificEpithet                                  NaN
 nameAcordingTo                                I.M.Johnst.
 verbatimTaxonRank                                     NaN
-taxonRank                                             NaN
+taxonRank                                         species
 acceptedNameUsage       Fitzroya cupressoides I.M.Johnst.
-Unnamed: 14                                      ACCEPTED
-Unnamed: 15                                        Muerto
+Nombre común                                          NaN
+Estado                                             Muerto
 establishmentMeans                                 Nativa
-Unnamed: 17                                          2019
-Unnamed: 18                                           NaN
+ingreso                                              2019
+plantacion                                            NaN
 locationRemarks                                       NaN
 sex                                                   NaN
 Name: AA0555, dtype: object

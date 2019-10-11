@@ -1,22 +1,23 @@
-catalogNumber                                 AA0564
-basisOfRecord                                    NaN
-decimalLatitude                               348499
-decimalLongitude                             6284416
-Class                                  Magnoliopsida
-order                                      Proteales
-family                                    Proteaceae
-genus                                        Lomatia
-specificEpithet                              hirsuta
-infraspecificEpithet                             NaN
-nameAcordingTo                                 Diels
-verbatimTaxonRank                                NaN
-taxonRank                                        NaN
-acceptedNameUsage       Lomatia hirsuta (Lam.) Diels
-Unnamed: 14                                 ACCEPTED
-Unnamed: 15                                   Muerto
-establishmentMeans                            Nativa
-Unnamed: 17                                     2019
-Unnamed: 18                                      NaN
-locationRemarks                                  NaN
-sex                                              NaN
+catalogNumber                          AA0564
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348499
+decimalLongitude                      6284416
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                               Proteales
+family                             Proteaceae
+genus                                 Lomatia
+specificEpithet                       hirsuta
+infraspecificEpithet                      NaN
+nameAcordingTo                          Diels
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Lomatia hirsuta Diels
+Nombre común                              NaN
+Estado                                 Muerto
+establishmentMeans                     Nativa
+ingreso                                  2019
+plantacion                                NaN
+locationRemarks                           NaN
+sex                             hermaphrodite
 Name: AA0564, dtype: object

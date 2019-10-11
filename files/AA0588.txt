@@ -1,22 +1,23 @@
-catalogNumber                                            AA0588
-basisOfRecord                                               NaN
-decimalLatitude                                          348535
-decimalLongitude                                        6284515
-Class                                             Magnoliopsida
-order                                                  Laurales
-family                                                Lauraceae
-genus                                             Beilschmiedia
-specificEpithet                                      berteroana
-infraspecificEpithet                                        NaN
-nameAcordingTo                                         Kosterm.
-verbatimTaxonRank                                           NaN
-taxonRank                                                   NaN
-acceptedNameUsage       Beilschmiedia berteroana (Gay) Kosterm.
-Unnamed: 14                                            ACCEPTED
-Unnamed: 15                                                Viva
-establishmentMeans                                       Nativa
-Unnamed: 17                                                2019
-Unnamed: 18                                                 NaN
-locationRemarks                                             NaN
-sex                                                         NaN
+catalogNumber                                      AA0588
+basisOfRecord                              LivingSpecimen
+decimalLatitude                                    348535
+decimalLongitude                                  6284515
+phylum                                       Tracheophyta
+Class                                       Magnoliopsida
+order                                            Laurales
+family                                          Lauraceae
+genus                                       Beilschmiedia
+specificEpithet                                berteroana
+infraspecificEpithet                                  NaN
+nameAcordingTo                                   Kosterm.
+verbatimTaxonRank                                     NaN
+taxonRank                                         species
+acceptedNameUsage       Beilschmiedia berteroana Kosterm.
+Nombre común                                          NaN
+Estado                                               Viva
+establishmentMeans                                 Nativa
+ingreso                                              2019
+plantacion                                            NaN
+locationRemarks                                       NaN
+sex                                         hermaphrodite
 Name: AA0588, dtype: object

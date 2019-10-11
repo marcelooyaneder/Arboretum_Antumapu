@@ -1,7 +1,8 @@
 catalogNumber                    AA0705
-basisOfRecord                       NaN
+basisOfRecord            LivingSpecimen
 decimalLatitude                  348477
 decimalLongitude                6284521
+phylum                     Tracheophyta
 Class                     Magnoliopsida
 order                        Sapindales
 family                      Sapindaceae
@@ -10,13 +11,13 @@ specificEpithet                 negundo
 infraspecificEpithet                NaN
 nameAcordingTo                       L.
 verbatimTaxonRank                   NaN
-taxonRank                           NaN
+taxonRank                       species
 acceptedNameUsage       Acer negundo L.
-Unnamed: 14                    ACCEPTED
-Unnamed: 15                        Viva
-establishmentMeans              Exotica
-Unnamed: 17                        2019
-Unnamed: 18                         NaN
+Nombre común                        NaN
+Estado                             Viva
+establishmentMeans              Exótica
+ingreso                            2019
+plantacion                          NaN
 locationRemarks                     NaN
-sex                                 NaN
+sex                       hermaphrodite
 Name: AA0705, dtype: object

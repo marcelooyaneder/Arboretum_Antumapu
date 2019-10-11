@@ -1,22 +1,23 @@
-catalogNumber                                              AA0553
-basisOfRecord                                                 NaN
-decimalLatitude                                            348509
-decimalLongitude                                          6284426
-Class                                               Magnoliopsida
-order                                                    Myrtales
-family                                                  Myrtaceae
-genus                                                   Amomyrtus
-specificEpithet                                              meli
-infraspecificEpithet                                          NaN
-nameAcordingTo                                 D.Legrand & Kausel
-verbatimTaxonRank                                             NaN
-taxonRank                                                     NaN
-acceptedNameUsage       Amomyrtus meli (Phil.) D.Legrand & Kausel
-Unnamed: 14                                              ACCEPTED
-Unnamed: 15                                                Muerto
-establishmentMeans                                         Nativa
-Unnamed: 17                                                  2019
-Unnamed: 18                                                   NaN
-locationRemarks                                               NaN
-sex                                                           NaN
+catalogNumber                                      AA0553
+basisOfRecord                              LivingSpecimen
+decimalLatitude                                    348509
+decimalLongitude                                  6284426
+phylum                                       Tracheophyta
+Class                                       Magnoliopsida
+order                                            Myrtales
+family                                          Myrtaceae
+genus                                           Amomyrtus
+specificEpithet                                      meli
+infraspecificEpithet                                  NaN
+nameAcordingTo                         D.Legrand & Kausel
+verbatimTaxonRank                                     NaN
+taxonRank                                         species
+acceptedNameUsage       Amomyrtus meli D.Legrand & Kausel
+Nombre común                                          NaN
+Estado                                             Muerto
+establishmentMeans                                 Nativa
+ingreso                                              2019
+plantacion                                            NaN
+locationRemarks                                       NaN
+sex                                         hermaphrodite
 Name: AA0553, dtype: object

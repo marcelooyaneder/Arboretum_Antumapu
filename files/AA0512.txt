@@ -1,22 +1,23 @@
 catalogNumber                              AA0512
-basisOfRecord                                 NaN
+basisOfRecord                      LivingSpecimen
 decimalLatitude                            348504
 decimalLongitude                          6284409
+phylum                               Tracheophyta
 Class                                   Pinopsida
-order                                     Pinales
+order                                 Cupressales
 family                              Podocarpaceae
 genus                                  Podocarpus
 specificEpithet                          salignus
 infraspecificEpithet                          NaN
 nameAcordingTo                              D.Don
 verbatimTaxonRank                             NaN
-taxonRank                                     NaN
+taxonRank                                 species
 acceptedNameUsage       Podocarpus salignus D.Don
-Unnamed: 14                              ACCEPTED
-Unnamed: 15                                  Viva
+Nombre común                                  NaN
+Estado                                       Viva
 establishmentMeans                         Nativa
-Unnamed: 17                                  2019
-Unnamed: 18                                   NaN
+ingreso                                      2019
+plantacion                                    NaN
 locationRemarks                               NaN
 sex                                           NaN
 Name: AA0512, dtype: object

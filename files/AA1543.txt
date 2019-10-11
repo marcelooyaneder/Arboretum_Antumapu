@@ -1,7 +1,8 @@
 catalogNumber                           AA1543
-basisOfRecord                              NaN
+basisOfRecord                   LivingSpecimen
 decimalLatitude                         348574
 decimalLongitude                       6284257
+phylum                            Tracheophyta
 Class                            Magnoliopsida
 order                                  Fabales
 family                                Fabaceae
@@ -10,13 +11,13 @@ specificEpithet                     macrocarpa
 infraspecificEpithet                       NaN
 nameAcordingTo                             Sm.
 verbatimTaxonRank                          NaN
-taxonRank                                  NaN
+taxonRank                              species
 acceptedNameUsage       Sophora macrocarpa Sm.
-Unnamed: 14                           ACCEPTED
-Unnamed: 15                               Viva
+Nombre común                               NaN
+Estado                                    Viva
 establishmentMeans                      Nativa
-Unnamed: 17                               2019
-Unnamed: 18                                NaN
+ingreso                                   2019
+plantacion                                 NaN
 locationRemarks                            NaN
-sex                                        NaN
+sex                              hermaphrodite
 Name: AA1543, dtype: object

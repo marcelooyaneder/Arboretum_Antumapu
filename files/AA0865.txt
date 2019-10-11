@@ -1,22 +1,23 @@
-catalogNumber                                                  AA0865
-basisOfRecord                                                     NaN
-decimalLatitude                                                348626
-decimalLongitude                                              6284457
-Class                                                   Magnoliopsida
-order                                                         Apiales
-family                                                 Pittosporaceae
-genus                                                     Pittosporum
-specificEpithet                                             nigricans
-infraspecificEpithet                                              NaN
-nameAcordingTo                                hort. ex McMinn & Maino
-verbatimTaxonRank                                                 NaN
-taxonRank                                                         NaN
-acceptedNameUsage       Pittosporum nigricans hort. ex McMinn & Maino
-Unnamed: 14                                                   SYNONYM
-Unnamed: 15                                                      Viva
-establishmentMeans                                            Exotica
-Unnamed: 17                                                      2019
-Unnamed: 18                                                      2016
-locationRemarks                                                   NaN
-sex                                                               NaN
+catalogNumber                                                    AA0865
+basisOfRecord                                            LivingSpecimen
+decimalLatitude                                                  348626
+decimalLongitude                                                6284457
+phylum                                                     Tracheophyta
+Class                                                     Magnoliopsida
+order                                                           Apiales
+family                                                   Pittosporaceae
+genus                                                       Pittosporum
+specificEpithet                                             tenuifolium
+infraspecificEpithet                                                NaN
+nameAcordingTo                                  Banks & Sol. ex Gaertn.
+verbatimTaxonRank                                                   NaN
+taxonRank                                                       species
+acceptedNameUsage       Pittosporum tenuifolium Banks & Sol. ex Gaertn.
+Nombre común                                                        NaN
+Estado                                                             Viva
+establishmentMeans                                              Exótica
+ingreso                                                            2019
+plantacion                                                         2016
+locationRemarks                                                     NaN
+sex                                                       hermaphrodite
 Name: AA0865, dtype: object

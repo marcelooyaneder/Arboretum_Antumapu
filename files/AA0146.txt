@@ -1,22 +1,23 @@
-catalogNumber                                 AA0146
-basisOfRecord                                    NaN
-decimalLatitude                               348635
-decimalLongitude                             6284356
-Class                                  Magnoliopsida
-order                                     Oxalidales
-family                                Elaeocarpaceae
-genus                                   Crinodendron
-specificEpithet                              patagua
-infraspecificEpithet                             NaN
-nameAcordingTo                               Molina.
-verbatimTaxonRank                                NaN
-taxonRank                                        NaN
-acceptedNameUsage       Crinodendron patagua Molina.
-Unnamed: 14                                 ACCEPTED
-Unnamed: 15                                     Viva
-establishmentMeans                            Nativa
-Unnamed: 17                                     2019
-Unnamed: 18                                      NaN
-locationRemarks                                  NaN
-sex                                              NaN
+catalogNumber                                         AA0146
+basisOfRecord                                 LivingSpecimen
+decimalLatitude                                       348635
+decimalLongitude                                     6284356
+phylum                                          Tracheophyta
+Class                                          Magnoliopsida
+order                                             Oxalidales
+family                                        Elaeocarpaceae
+genus                                           Crinodendron
+specificEpithet                                      patagua
+infraspecificEpithet                                     NaN
+nameAcordingTo                               (Molina) Molina
+verbatimTaxonRank                                        NaN
+taxonRank                                            species
+acceptedNameUsage       Crinodendron patagua (Molina) Molina
+Nombre común                                             NaN
+Estado                                                  Viva
+establishmentMeans                                    Nativa
+ingreso                                                 2019
+plantacion                                               NaN
+locationRemarks                                          NaN
+sex                                            hermaphrodite
 Name: AA0146, dtype: object

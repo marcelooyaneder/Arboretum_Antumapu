@@ -1,22 +1,23 @@
 catalogNumber                              AA1698
-basisOfRecord                                 NaN
+basisOfRecord                      LivingSpecimen
 decimalLatitude                            348480
 decimalLongitude                          6284373
+phylum                               Tracheophyta
 Class                                   Pinopsida
-order                                     Pinales
+order                                 Cupressales
 family                              Araucariaceae
 genus                                   Araucaria
 specificEpithet                          araucana
 infraspecificEpithet                          NaN
 nameAcordingTo                             K.Koch
 verbatimTaxonRank                             NaN
-taxonRank                                     NaN
+taxonRank                                 species
 acceptedNameUsage       Araucaria araucana K.Koch
-Unnamed: 14                              ACCEPTED
-Unnamed: 15                                  Viva
+Nombre común                                  NaN
+Estado                                       Viva
 establishmentMeans                         Nativa
-Unnamed: 17                                  2019
-Unnamed: 18                                   NaN
+ingreso                                      2019
+plantacion                                    NaN
 locationRemarks                               NaN
 sex                                           NaN
 Name: AA1698, dtype: object
