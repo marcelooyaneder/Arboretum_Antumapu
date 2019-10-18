@@ -1,23 +1,4 @@
-catalogNumber                               AA1261
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348423
-decimalLongitude                           6284291
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                 Malpighiales
-family                                  Salicaceae
-genus                                      Populus
-specificEpithet                         canadensis
-infraspecificEpithet                         I-214
-nameAcordingTo                              Moench
-verbatimTaxonRank       Populus x canadensis I-214
-taxonRank                                 varietas
-acceptedNameUsage        Populus canadensis Moench
-Nombre común                                   NaN
-Estado                                        Viva
-establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
-locationRemarks                                NaN
-sex                                  hermaphrodite
+acceptedNameUsage    Populus canadensis Moench
+Nombre común                               NaN
+sex                              hermaphrodite
 Name: AA1261, dtype: object

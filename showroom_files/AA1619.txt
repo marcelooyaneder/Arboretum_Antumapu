@@ -1,23 +1,4 @@
-catalogNumber                                AA1619
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348522
-decimalLongitude                            6284331
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                    Sapindales
-family                                Simaroubaceae
-genus                                     Ailanthus
-specificEpithet                           altissima
-infraspecificEpithet                            NaN
-nameAcordingTo                              Swingle
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Ailanthus altissima Swingle
-Nombre común                                    NaN
-Estado                                         Viva
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
-locationRemarks                                 NaN
-sex                                   hermaphrodite
+acceptedNameUsage    Ailanthus altissima Swingle
+Nombre común                                 NaN
+sex                                hermaphrodite
 Name: AA1619, dtype: object

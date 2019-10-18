@@ -1,23 +1,4 @@
-catalogNumber                            AA1165
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348553
-decimalLongitude                        6284727
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fabales
-family                                 Fabaceae
-genus                                   Robinia
-specificEpithet                    pseudoacacia
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Robinia pseudoacacia L.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-locationRemarks                             NaN
-sex                               hermaphrodite
+acceptedNameUsage    Robinia pseudoacacia L.
+Nombre común                             NaN
+sex                            hermaphrodite
 Name: AA1165, dtype: object

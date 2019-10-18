@@ -1,23 +1,4 @@
-catalogNumber                                      AA0587
-basisOfRecord                              LivingSpecimen
-decimalLatitude                                    348535
-decimalLongitude                                  6284509
-phylum                                       Tracheophyta
-Class                                       Magnoliopsida
-order                                            Laurales
-family                                          Lauraceae
-genus                                       Beilschmiedia
-specificEpithet                                berteroana
-infraspecificEpithet                                  NaN
-nameAcordingTo                                   Kosterm.
-verbatimTaxonRank                                     NaN
-taxonRank                                         species
-acceptedNameUsage       Beilschmiedia berteroana Kosterm.
-Nombre común                                          NaN
-Estado                                               Viva
-establishmentMeans                                 Nativa
-ingreso                                              2019
-plantacion                                            NaN
-locationRemarks                                       NaN
-sex                                         hermaphrodite
+acceptedNameUsage    Beilschmiedia berteroana Kosterm.
+Nombre común                                       NaN
+sex                                      hermaphrodite
 Name: AA0587, dtype: object

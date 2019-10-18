@@ -1,23 +1,4 @@
-catalogNumber                                AA0477
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348544
-decimalLongitude                            6284441
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                      Lamiales
-family                                     Oleaceae
-genus                                     Ligustrum
-specificEpithet                             lucidum
-infraspecificEpithet                            NaN
-nameAcordingTo                            W.T.Aiton
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Ligustrum lucidum W.T.Aiton
-Nombre común                                    NaN
-Estado                                     Extraído
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
-locationRemarks                                 NaN
-sex                                   hermaphrodite
+acceptedNameUsage    Ligustrum lucidum W.T.Aiton
+Nombre común                                 NaN
+sex                                hermaphrodite
 Name: AA0477, dtype: object

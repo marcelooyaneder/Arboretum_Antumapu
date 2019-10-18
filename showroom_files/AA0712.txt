@@ -1,23 +1,4 @@
-catalogNumber                        AA0712
-basisOfRecord                LivingSpecimen
-decimalLatitude                      348463
-decimalLongitude                    6284583
-phylum                         Tracheophyta
-Class                             Pinopsida
-order                               Pinales
-family                             Pinaceae
-genus                                 Pinus
-specificEpithet                     radiata
-infraspecificEpithet                    NaN
-nameAcordingTo                        D.Don
-verbatimTaxonRank                       NaN
-taxonRank                           species
-acceptedNameUsage       Pinus radiata D.Don
-Nombre común                            NaN
-Estado                                 Viva
-establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
-locationRemarks                         NaN
-sex                           hermaphrodite
+acceptedNameUsage    Pinus radiata D.Don
+Nombre común                         NaN
+sex                        hermaphrodite
 Name: AA0712, dtype: object

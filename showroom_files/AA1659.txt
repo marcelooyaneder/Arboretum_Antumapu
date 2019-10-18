@@ -1,23 +1,4 @@
-catalogNumber                              AA1659
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348553
-decimalLongitude                          6284363
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                  Sapindales
-family                                Sapindaceae
-genus                                    Aesculus
-specificEpithet                     hippocastanum
-infraspecificEpithet                          NaN
-nameAcordingTo                                 L.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Aesculus hippocastanum L.
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                        Exótica
-ingreso                                      2019
-plantacion                                    NaN
-locationRemarks                               NaN
-sex                                 hermaphrodite
+acceptedNameUsage    Aesculus hippocastanum L.
+Nombre común                               NaN
+sex                              hermaphrodite
 Name: AA1659, dtype: object

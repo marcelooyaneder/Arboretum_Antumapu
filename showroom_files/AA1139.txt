@@ -1,23 +1,4 @@
-catalogNumber                       AA1139
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348451
-decimalLongitude                   6284712
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                             Myrtales
-family                           Myrtaceae
-genus                           Eucalyptus
-specificEpithet                        NaN
-infraspecificEpithet                   NaN
-nameAcordingTo                      L'Her.
-verbatimTaxonRank                      sp.
-taxonRank                            genus
-acceptedNameUsage       Eucalyptus  L'Her.
-Nombre común                           NaN
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-locationRemarks                        NaN
-sex                          hermaphrodite
+acceptedNameUsage    Eucalyptus  L'Her.
+Nombre común                        NaN
+sex                       hermaphrodite
 Name: AA1139, dtype: object

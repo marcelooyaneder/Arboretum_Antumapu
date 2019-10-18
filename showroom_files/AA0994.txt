@@ -1,23 +1,4 @@
-catalogNumber                                 AA0994
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348552
-decimalLongitude                             6284707
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                       Malvales
-family                                     Malvaceae
-genus                                   Brachychiton
-specificEpithet                            populneus
-infraspecificEpithet                             NaN
-nameAcordingTo                                 R.Br.
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Brachychiton populneus R.Br.
-Nombre común                                     NaN
-Estado                                          Viva
-establishmentMeans                           Exótica
-ingreso                                         2019
-plantacion                                       NaN
-locationRemarks                                  NaN
-sex                                    hermaphrodite
+acceptedNameUsage    Brachychiton populneus R.Br.
+Nombre común                                  NaN
+sex                                 hermaphrodite
 Name: AA0994, dtype: object

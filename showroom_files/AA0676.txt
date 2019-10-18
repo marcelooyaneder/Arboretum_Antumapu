@@ -1,23 +1,4 @@
-catalogNumber                    AA0676
-basisOfRecord            LivingSpecimen
-decimalLatitude                  348458
-decimalLongitude                6284491
-phylum                     Tracheophyta
-Class                     Magnoliopsida
-order                        Sapindales
-family                      Sapindaceae
-genus                              Acer
-specificEpithet                 negundo
-infraspecificEpithet                NaN
-nameAcordingTo                       L.
-verbatimTaxonRank                   NaN
-taxonRank                       species
-acceptedNameUsage       Acer negundo L.
-Nombre común                        NaN
-Estado                             Viva
-establishmentMeans              Exótica
-ingreso                            2019
-plantacion                          NaN
-locationRemarks                     NaN
-sex                       hermaphrodite
+acceptedNameUsage    Acer negundo L.
+Nombre común                     NaN
+sex                    hermaphrodite
 Name: AA0676, dtype: object

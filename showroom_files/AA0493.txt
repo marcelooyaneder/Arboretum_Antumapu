@@ -1,23 +1,4 @@
-catalogNumber                              AA0493
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348526
-decimalLongitude                          6284395
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                     Fagales
-family                              Nothofagaceae
-genus                                  Nothofagus
-specificEpithet                           dombeyi
-infraspecificEpithet                          NaN
-nameAcordingTo                             Oerst.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Nothofagus dombeyi Oerst.
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2016
-locationRemarks                               NaN
-sex                                 hermaphrodite
+acceptedNameUsage    Nothofagus dombeyi Oerst.
+Nombre común                               NaN
+sex                              hermaphrodite
 Name: AA0493, dtype: object

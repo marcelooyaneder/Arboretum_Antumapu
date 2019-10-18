@@ -1,23 +1,4 @@
-catalogNumber                             AA0509
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348504
-decimalLongitude                         6284426
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                               Malpighiales
-family                                Salicaceae
-genus                                      Azara
-specificEpithet                       lanceolata
-infraspecificEpithet                         NaN
-nameAcordingTo                           Hook.f.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Azara lanceolata Hook.f.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                  2016
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Azara lanceolata Hook.f.
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA0509, dtype: object

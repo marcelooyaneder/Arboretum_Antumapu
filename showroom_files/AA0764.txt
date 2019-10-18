@@ -1,23 +1,4 @@
-catalogNumber                           AA0764
-basisOfRecord                   LivingSpecimen
-decimalLatitude                         348555
-decimalLongitude                       6284517
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                                Proteales
-family                             Platanaceae
-genus                                 Platanus
-specificEpithet                     orientalis
-infraspecificEpithet                       NaN
-nameAcordingTo                              L.
-verbatimTaxonRank                          NaN
-taxonRank                              species
-acceptedNameUsage       Platanus orientalis L.
-Nombre común                               NaN
-Estado                                    Viva
-establishmentMeans                     Exótica
-ingreso                                   2019
-plantacion                                 NaN
-locationRemarks                            NaN
-sex                              hermaphrodite
+acceptedNameUsage    Platanus orientalis L.
+Nombre común                            NaN
+sex                           hermaphrodite
 Name: AA0764, dtype: object

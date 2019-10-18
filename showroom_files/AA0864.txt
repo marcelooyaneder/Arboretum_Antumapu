@@ -1,23 +1,4 @@
-catalogNumber                             AA0864
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348626
-decimalLongitude                         6284459
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                    Rosales
-family                                  Rosaceae
-genus                                     Prunus
-specificEpithet                      salicifolia
-infraspecificEpithet                         NaN
-nameAcordingTo                             Kunth
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Prunus salicifolia Kunth
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Prunus salicifolia Kunth
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA0864, dtype: object

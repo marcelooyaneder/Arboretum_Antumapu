@@ -1,23 +1,4 @@
-catalogNumber                                 AA0117
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348643
-decimalLongitude                             6284250
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                     Oxalidales
-family                                Elaeocarpaceae
-genus                                    Aristotelia
-specificEpithet                            chilensis
-infraspecificEpithet                             NaN
-nameAcordingTo                                Stuntz
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Aristotelia chilensis Stuntz
-Nombre común                                     NaN
-Estado                                          Viva
-establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                       NaN
-locationRemarks                                  NaN
-sex                                    hermaphrodite
+acceptedNameUsage    Aristotelia chilensis Stuntz
+Nombre común                                  NaN
+sex                                 hermaphrodite
 Name: AA0117, dtype: object

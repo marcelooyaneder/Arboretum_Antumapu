@@ -1,23 +1,4 @@
-catalogNumber                         AA1125
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348445
-decimalLongitude                     6284723
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                                Fabales
-family                              Fabaceae
-genus                                 Acacia
-specificEpithet                     dealbata
-infraspecificEpithet                     NaN
-nameAcordingTo                          Link
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Acacia dealbata Link
-Nombre común                             NaN
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-locationRemarks                          NaN
-sex                            hermaphrodite
+acceptedNameUsage    Acacia dealbata Link
+Nombre común                          NaN
+sex                         hermaphrodite
 Name: AA1125, dtype: object

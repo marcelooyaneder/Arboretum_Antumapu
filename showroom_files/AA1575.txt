@@ -1,23 +1,4 @@
-catalogNumber                        AA1575
-basisOfRecord                LivingSpecimen
-decimalLatitude                      348512
-decimalLongitude                    6284310
-phylum                         Tracheophyta
-Class                            Liliopsida
-order                           Asparagales
-family                         Asparagaceae
-genus                                 Yucca
-specificEpithet                    gigantea
-infraspecificEpithet                    NaN
-nameAcordingTo                         Lem.
-verbatimTaxonRank                       NaN
-taxonRank                           species
-acceptedNameUsage       Yucca gigantea Lem.
-Nombre común                            NaN
-Estado                                 Viva
-establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
-locationRemarks                         NaN
-sex                           hermaphrodite
+acceptedNameUsage    Yucca gigantea Lem.
+Nombre común                         NaN
+sex                        hermaphrodite
 Name: AA1575, dtype: object

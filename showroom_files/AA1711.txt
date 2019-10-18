@@ -1,23 +1,4 @@
-catalogNumber                                                    AA1711
-basisOfRecord                                            LivingSpecimen
-decimalLatitude                                                  348522
-decimalLongitude                                                6284372
-phylum                                                     Tracheophyta
-Class                                                         Pinopsida
-order                                                       Cupressales
-family                                                     Cupressaceae
-genus                                                      Austrocedrus
-specificEpithet                                               chilensis
-infraspecificEpithet                                                NaN
-nameAcordingTo                                 Pic.Serm. & M.P.Bizzarri
-verbatimTaxonRank                                                   NaN
-taxonRank                                                       species
-acceptedNameUsage       Austrocedrus chilensis Pic.Serm. & M.P.Bizzarri
-Nombre común                                                        NaN
-Estado                                                             Viva
-establishmentMeans                                               Nativa
-ingreso                                                            2019
-plantacion                                                         2015
-locationRemarks                                                     NaN
-sex                                                                 NaN
+acceptedNameUsage    Austrocedrus chilensis Pic.Serm. & M.P.Bizzarri
+Nombre común                                                     NaN
+sex                                                              NaN
 Name: AA1711, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                      AA0701
-basisOfRecord              LivingSpecimen
-decimalLatitude                    348470
-decimalLongitude                  6284521
-phylum                       Tracheophyta
-Class                       Magnoliopsida
-order                             Vitales
-family                           Vitaceae
-genus                               Vitis
-specificEpithet                  vinifera
-infraspecificEpithet                  NaN
-nameAcordingTo                         L.
-verbatimTaxonRank                     NaN
-taxonRank                         species
-acceptedNameUsage       Vitis vinifera L.
-Nombre común                          NaN
-Estado                               Viva
-establishmentMeans                Exótica
-ingreso                              2019
-plantacion                            NaN
-locationRemarks                       NaN
-sex                                   NaN
+acceptedNameUsage    Vitis vinifera L.
+Nombre común                       NaN
+sex                                NaN
 Name: AA0701, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                              AA0321
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348564
-decimalLongitude                          6284398
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                               Escalloniales
-family                             Escalloniaceae
-genus                                  Escallonia
-specificEpithet                               NaN
-infraspecificEpithet                          NaN
-nameAcordingTo                      Mutis ex L.f.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Escallonia  Mutis ex L.f.
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                    NaN
-locationRemarks                               NaN
-sex                                 hermaphrodite
+acceptedNameUsage    Escallonia  Mutis ex L.f.
+Nombre común                               NaN
+sex                              hermaphrodite
 Name: AA0321, dtype: object

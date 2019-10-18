@@ -1,23 +1,4 @@
-catalogNumber                             AA0296
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348563
-decimalLongitude                         6284447
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                    Fabales
-family                                  Fabaceae
-genus                                  Gleditsia
-specificEpithet                      triacanthos
-infraspecificEpithet                         NaN
-nameAcordingTo                                L.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Gleditsia triacanthos L.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Gleditsia triacanthos L.
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA0296, dtype: object

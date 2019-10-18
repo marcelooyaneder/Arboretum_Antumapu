@@ -1,23 +1,4 @@
-catalogNumber                         AA1301
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348269
-decimalLongitude                     6284377
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                                Fabales
-family                              Fabaceae
-genus                                 Acacia
-specificEpithet                     dealbata
-infraspecificEpithet                     NaN
-nameAcordingTo                          Link
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Acacia dealbata Link
-Nombre común                             NaN
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-locationRemarks                          NaN
-sex                            hermaphrodite
+acceptedNameUsage    Acacia dealbata Link
+Nombre común                          NaN
+sex                         hermaphrodite
 Name: AA1301, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                                   AA0435
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348497
-decimalLongitude                               6284430
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Laurales
-family                                       Lauraceae
-genus                                    Beilschmiedia
-specificEpithet                                miersii
-infraspecificEpithet                               NaN
-nameAcordingTo                                Kosterm.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Beilschmiedia miersii Kosterm.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                         NaN
-locationRemarks                                    NaN
-sex                                      hermaphrodite
+acceptedNameUsage    Beilschmiedia miersii Kosterm.
+Nombre común                                    NaN
+sex                                   hermaphrodite
 Name: AA0435, dtype: object

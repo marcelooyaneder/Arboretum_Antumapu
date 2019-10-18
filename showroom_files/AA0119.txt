@@ -1,23 +1,4 @@
-catalogNumber                             AA0119
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348649
-decimalLongitude                         6284255
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                   Lamiales
-family                              Bignoniaceae
-genus                                    Catalpa
-specificEpithet                         speciosa
-infraspecificEpithet                         NaN
-nameAcordingTo                           Engelm.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Catalpa speciosa Engelm.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Catalpa speciosa Engelm.
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA0119, dtype: object

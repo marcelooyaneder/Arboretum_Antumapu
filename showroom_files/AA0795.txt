@@ -1,23 +1,4 @@
-catalogNumber                     AA0795
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348303
-decimalLongitude                 6284422
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                            Fagales
-family                          Fagaceae
-genus                            Quercus
-specificEpithet                    nigra
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Quercus nigra L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans               Exótica
-ingreso                             2019
-plantacion                           NaN
-locationRemarks                      NaN
-sex                                  NaN
+acceptedNameUsage    Quercus nigra L.
+Nombre común                      NaN
+sex                               NaN
 Name: AA0795, dtype: object

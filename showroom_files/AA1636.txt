@@ -1,23 +1,4 @@
-catalogNumber                             AA1636
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348482
-decimalLongitude                         6284345
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                   Myrtales
-family                                Onagraceae
-genus                                    Fuchsia
-specificEpithet                      magellanica
-infraspecificEpithet                         NaN
-nameAcordingTo                              Lam.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Fuchsia magellanica Lam.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Fuchsia magellanica Lam.
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA1636, dtype: object

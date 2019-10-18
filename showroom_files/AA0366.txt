@@ -1,23 +1,4 @@
-catalogNumber                            AA0366
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348610
-decimalLongitude                        6284412
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fabales
-family                                 Fabaceae
-genus                                  Prosopis
-specificEpithet                        tamarugo
-infraspecificEpithet                        NaN
-nameAcordingTo                            Phil.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Prosopis tamarugo Phil.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                  NaN
-locationRemarks                             NaN
-sex                               hermaphrodite
+acceptedNameUsage    Prosopis tamarugo Phil.
+Nombre común                             NaN
+sex                            hermaphrodite
 Name: AA0366, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                         AA0715
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348435
-decimalLongitude                     6284501
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                                Fabales
-family                              Fabaceae
-genus                              Ceratonia
-specificEpithet                      siliqua
-infraspecificEpithet                     NaN
-nameAcordingTo                            L.
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Ceratonia siliqua L.
-Nombre común                             NaN
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-locationRemarks                          NaN
-sex                            hermaphrodite
+acceptedNameUsage    Ceratonia siliqua L.
+Nombre común                          NaN
+sex                         hermaphrodite
 Name: AA0715, dtype: object

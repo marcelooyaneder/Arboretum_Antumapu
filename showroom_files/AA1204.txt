@@ -1,23 +1,4 @@
-catalogNumber                   AA1204
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348415
-decimalLongitude               6284378
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                          Rosales
-family                        Moraceae
-genus                            Morus
-specificEpithet                   alba
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  NaN
-taxonRank                      species
-acceptedNameUsage        Morus alba L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-locationRemarks                    NaN
-sex                      hermaphrodite
+acceptedNameUsage    Morus alba L.
+Nombre común                   NaN
+sex                  hermaphrodite
 Name: AA1204, dtype: object

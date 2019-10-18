@@ -1,23 +1,4 @@
-catalogNumber                                    AA0551
-basisOfRecord                            LivingSpecimen
-decimalLatitude                                  348526
-decimalLongitude                                6284413
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                          Lamiales
-family                                      Verbenaceae
-genus                                     Rhaphithamnus
-specificEpithet                                spinosus
-infraspecificEpithet                                NaN
-nameAcordingTo                                 Moldenke
-verbatimTaxonRank                                   NaN
-taxonRank                                       species
-acceptedNameUsage       Rhaphithamnus spinosus Moldenke
-Nombre común                                        NaN
-Estado                                           muerto
-establishmentMeans                               Nativa
-ingreso                                            2019
-plantacion                                          NaN
-locationRemarks                                     NaN
-sex                                       hermaphrodite
+acceptedNameUsage    Rhaphithamnus spinosus Moldenke
+Nombre común                                     NaN
+sex                                    hermaphrodite
 Name: AA0551, dtype: object

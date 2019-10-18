@@ -1,23 +1,4 @@
-catalogNumber                                   AA0888
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348643
-decimalLongitude                               6284636
-phylum                                    Tracheophyta
-Class                                       Liliopsida
-order                                         Arecales
-family                                       Arecaceae
-genus                                          Phoenix
-specificEpithet                            canariensis
-infraspecificEpithet                               NaN
-nameAcordingTo                              H.Wildpret
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Phoenix canariensis H.Wildpret
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-locationRemarks                                    NaN
-sex                                      hermaphrodite
+acceptedNameUsage    Phoenix canariensis H.Wildpret
+Nombre común                                    NaN
+sex                                   hermaphrodite
 Name: AA0888, dtype: object

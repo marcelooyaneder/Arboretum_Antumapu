@@ -1,23 +1,4 @@
-catalogNumber                                    AA0543
-basisOfRecord                            LivingSpecimen
-decimalLatitude                                  348524
-decimalLongitude                                6284399
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                           Fagales
-family                                    Nothofagaceae
-genus                                        Nothofagus
-specificEpithet                             alessandrii
-infraspecificEpithet                                NaN
-nameAcordingTo                                 Espinosa
-verbatimTaxonRank                                   NaN
-taxonRank                                       species
-acceptedNameUsage       Nothofagus alessandrii Espinosa
-Nombre común                                        NaN
-Estado                                             Viva
-establishmentMeans                               Nativa
-ingreso                                            2019
-plantacion                                         2017
-locationRemarks                                     NaN
-sex                                       hermaphrodite
+acceptedNameUsage    Nothofagus alessandrii Espinosa
+Nombre común                                     NaN
+sex                                    hermaphrodite
 Name: AA0543, dtype: object

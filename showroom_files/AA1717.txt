@@ -1,23 +1,4 @@
-catalogNumber                          AA1717
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348478
-decimalLongitude                      6284204
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                 Rosales
-family                               Rosaceae
-genus                                  Prunus
-specificEpithet                       persica
-infraspecificEpithet                      NaN
-nameAcordingTo                         Stokes
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Prunus persica Stokes
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                    Exótica
-ingreso                                  2019
-plantacion                                NaN
-locationRemarks                           NaN
-sex                             hermaphrodite
+acceptedNameUsage    Prunus persica Stokes
+Nombre común                           NaN
+sex                          hermaphrodite
 Name: AA1717, dtype: object

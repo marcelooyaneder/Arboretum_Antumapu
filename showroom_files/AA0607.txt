@@ -1,23 +1,4 @@
-catalogNumber                                         AA0607
-basisOfRecord                                 LivingSpecimen
-decimalLatitude                                       348532
-decimalLongitude                                     6284509
-phylum                                          Tracheophyta
-Class                                          Magnoliopsida
-order                                             Oxalidales
-family                                        Elaeocarpaceae
-genus                                           Crinodendron
-specificEpithet                                      patagua
-infraspecificEpithet                                     NaN
-nameAcordingTo                               (Molina) Molina
-verbatimTaxonRank                                        NaN
-taxonRank                                            species
-acceptedNameUsage       Crinodendron patagua (Molina) Molina
-Nombre común                                             NaN
-Estado                                                  Viva
-establishmentMeans                                    Nativa
-ingreso                                                 2019
-plantacion                                               NaN
-locationRemarks                                          NaN
-sex                                            hermaphrodite
+acceptedNameUsage    Crinodendron patagua (Molina) Molina
+Nombre común                                          NaN
+sex                                         hermaphrodite
 Name: AA0607, dtype: object

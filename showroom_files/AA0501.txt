@@ -1,23 +1,4 @@
-catalogNumber                                     AA0501
-basisOfRecord                             LivingSpecimen
-decimalLatitude                                   348520
-decimalLongitude                                 6284429
-phylum                                      Tracheophyta
-Class                                      Magnoliopsida
-order                                  Berberidopsidales
-family                                     Aextoxicaceae
-genus                                         Aextoxicon
-specificEpithet                                punctatum
-infraspecificEpithet                                 NaN
-nameAcordingTo                               Ruiz & Pav.
-verbatimTaxonRank                                    NaN
-taxonRank                                        species
-acceptedNameUsage       Aextoxicon punctatum Ruiz & Pav.
-Nombre común                                         NaN
-Estado                                              Viva
-establishmentMeans                                Nativa
-ingreso                                             2019
-plantacion                                          2016
-locationRemarks                                      NaN
-sex                                                  NaN
+acceptedNameUsage    Aextoxicon punctatum Ruiz & Pav.
+Nombre común                                      NaN
+sex                                               NaN
 Name: AA0501, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                                  AA0348
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348640
-decimalLongitude                              6284387
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                         Fabales
-family                                       Fabaceae
-genus                                       Geoffroea
-specificEpithet                           decorticans
-infraspecificEpithet                              NaN
-nameAcordingTo                                Burkart
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Geoffroea decorticans Burkart
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                       2015
-locationRemarks                                   NaN
-sex                                     hermaphrodite
+acceptedNameUsage    Geoffroea decorticans Burkart
+Nombre común                                   NaN
+sex                                  hermaphrodite
 Name: AA0348, dtype: object

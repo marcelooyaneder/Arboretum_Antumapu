@@ -1,23 +1,4 @@
-catalogNumber                           AA1503
-basisOfRecord                   LivingSpecimen
-decimalLatitude                         348416
-decimalLongitude                       6284336
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                                  Fabales
-family                                Fabaceae
-genus                                  Sophora
-specificEpithet                     macrocarpa
-infraspecificEpithet                       NaN
-nameAcordingTo                             Sm.
-verbatimTaxonRank                          NaN
-taxonRank                              species
-acceptedNameUsage       Sophora macrocarpa Sm.
-Nombre común                               NaN
-Estado                                    Viva
-establishmentMeans                      Nativa
-ingreso                                   2019
-plantacion                                 NaN
-locationRemarks                            NaN
-sex                              hermaphrodite
+acceptedNameUsage    Sophora macrocarpa Sm.
+Nombre común                            NaN
+sex                           hermaphrodite
 Name: AA1503, dtype: object

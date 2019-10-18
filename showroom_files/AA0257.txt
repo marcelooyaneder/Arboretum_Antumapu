@@ -1,23 +1,4 @@
-catalogNumber                                 AA0257
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348591
-decimalLongitude                             6284419
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                        Fabales
-family                                      Fabaceae
-genus                                         Acacia
-specificEpithet                                caven
-infraspecificEpithet                             NaN
-nameAcordingTo                       (Molina) Molina
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Acacia caven (Molina) Molina
-Nombre común                                     NaN
-Estado                                          Viva
-establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                       NaN
-locationRemarks                                  NaN
-sex                                    hermaphrodite
+acceptedNameUsage    Acacia caven (Molina) Molina
+Nombre común                                  NaN
+sex                                 hermaphrodite
 Name: AA0257, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                     AA1224
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348432
-decimalLongitude                 6284375
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                            Fagales
-family                      Juglandaceae
-genus                            Juglans
-specificEpithet                    nigra
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Juglans nigra L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans               Exótica
-ingreso                             2019
-plantacion                           NaN
-locationRemarks                      NaN
-sex                        hermaphrodite
+acceptedNameUsage    Juglans nigra L.
+Nombre común                      NaN
+sex                     hermaphrodite
 Name: AA1224, dtype: object

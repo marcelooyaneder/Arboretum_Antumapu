@@ -1,23 +1,4 @@
-catalogNumber                             AA0420
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348510
-decimalLongitude                         6284408
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                 Sapindales
-family                             Anacardiaceae
-genus                                    Schinus
-specificEpithet                       latifolius
-infraspecificEpithet                         NaN
-nameAcordingTo                             Engl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Schinus latifolius Engl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Schinus latifolius Engl.
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA0420, dtype: object

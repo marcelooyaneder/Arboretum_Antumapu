@@ -1,23 +1,4 @@
-catalogNumber                                  AA0374
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348534
-decimalLongitude                              6284394
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                        Laurales
-family                                    Monimiaceae
-genus                                          Peumus
-specificEpithet                                boldus
-infraspecificEpithet                              NaN
-nameAcordingTo                        (Molina) Molina
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Peumus boldus (Molina) Molina
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                        NaN
-locationRemarks                                   NaN
-sex                                            female
+acceptedNameUsage    Peumus boldus (Molina) Molina
+Nombre común                                   NaN
+sex                                         female
 Name: AA0374, dtype: object
