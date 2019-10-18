@@ -1,0 +1,23 @@
+catalogNumber                     AA0470
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348515
+decimalLongitude                 6284467
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Schinus molle L.
+Nombre común                         NaN
+Estado                              Viva
+establishmentMeans                Nativa
+ingreso                             2019
+plantacion                           NaN
+locationRemarks                      NaN
+sex                        hermaphrodite
+Name: AA0470, dtype: object

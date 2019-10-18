@@ -1,0 +1,23 @@
+catalogNumber                       AA1253
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348406
+decimalLongitude                   6284298
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                           Sapindales
+family                           Meliaceae
+genus                                Melia
+specificEpithet                  azedarach
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Melia azedarach L.
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+locationRemarks                        NaN
+sex                          hermaphrodite
+Name: AA1253, dtype: object

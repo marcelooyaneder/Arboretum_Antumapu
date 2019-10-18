@@ -1,0 +1,23 @@
+catalogNumber                        AA1425
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348338
+decimalLongitude                    6284399
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Fagales
+family                           Betulaceae
+genus                                Betula
+specificEpithet                     pendula
+infraspecificEpithet                    NaN
+nameAcordingTo                         Roth
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Betula pendula Roth
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+locationRemarks                         NaN
+sex                                     NaN
+Name: AA1425, dtype: object

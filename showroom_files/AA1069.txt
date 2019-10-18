@@ -1,0 +1,23 @@
+catalogNumber                   AA1069
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348472
+decimalLongitude               6284789
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                     Malpighiales
+family                      Salicaceae
+genus                          Populus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage          Populus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
+Name: AA1069, dtype: object

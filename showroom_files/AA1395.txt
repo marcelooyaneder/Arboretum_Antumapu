@@ -1,0 +1,23 @@
+catalogNumber                       AA1395
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348354
+decimalLongitude                   6284393
+phylum                        Tracheophyta
+Class                           Liliopsida
+order                          Asparagales
+family                        Asparagaceae
+genus                                Agave
+specificEpithet                  americana
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Agave americana L.
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+locationRemarks                        NaN
+sex                                    NaN
+Name: AA1395, dtype: object

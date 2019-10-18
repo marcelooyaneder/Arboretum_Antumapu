@@ -1,0 +1,23 @@
+catalogNumber                     AA0469
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348511
+decimalLongitude                 6284467
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                            Fagales
+family                          Fagaceae
+genus                            Quercus
+specificEpithet                    suber
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Quercus suber L.
+Nombre común                         NaN
+Estado                              Viva
+establishmentMeans               Exótica
+ingreso                             2019
+plantacion                           NaN
+locationRemarks                      NaN
+sex                                  NaN
+Name: AA0469, dtype: object

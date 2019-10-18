@@ -1,0 +1,23 @@
+catalogNumber                   AA0028
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348656
+decimalLongitude               6284236
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Rosaceae
+genus                           Sorbus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage           Sorbus  L.
+Nombre común                    Serbal
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                                NaN
+Name: AA0028, dtype: object

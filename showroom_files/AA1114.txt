@@ -1,0 +1,23 @@
+catalogNumber                                    AA1114
+basisOfRecord                            LivingSpecimen
+decimalLatitude                                  348431
+decimalLongitude                                6284752
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                          Myrtales
+family                                        Myrtaceae
+genus                                        Eucalyptus
+specificEpithet                           camaldulensis
+infraspecificEpithet                                NaN
+nameAcordingTo                                   Dehnh.
+verbatimTaxonRank                                   NaN
+taxonRank                                       species
+acceptedNameUsage       Eucalyptus camaldulensis Dehnh.
+Nombre común                                        NaN
+Estado                                             Viva
+establishmentMeans                              Exótica
+ingreso                                            2019
+plantacion                                          NaN
+locationRemarks                                     NaN
+sex                                       hermaphrodite
+Name: AA1114, dtype: object

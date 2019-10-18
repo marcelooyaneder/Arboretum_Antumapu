@@ -1,0 +1,23 @@
+catalogNumber                              AA0765
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348571
+decimalLongitude                          6284516
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                Malpighiales
+family                                 Salicaceae
+genus                                       Salix
+specificEpithet                      humboldtiana
+infraspecificEpithet                          NaN
+nameAcordingTo                             Willd.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Salix humboldtiana Willd.
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                         Nativa
+ingreso                                      2019
+plantacion                                    NaN
+locationRemarks                               NaN
+sex                                 hermaphrodite
+Name: AA0765, dtype: object

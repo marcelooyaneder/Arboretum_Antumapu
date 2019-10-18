@@ -1,0 +1,23 @@
+catalogNumber                        AA0780
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348251
+decimalLongitude                    6284429
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Rosales
+family                          Cannabaceae
+genus                                Celtis
+specificEpithet                   australis
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Celtis australis L.
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+locationRemarks                         NaN
+sex                                     NaN
+Name: AA0780, dtype: object

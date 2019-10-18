@@ -1,0 +1,23 @@
+catalogNumber                     AA1185
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348580
+decimalLongitude                 6284680
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Schinus molle L.
+Nombre común                         NaN
+Estado                              Viva
+establishmentMeans                Nativa
+ingreso                             2019
+plantacion                           NaN
+locationRemarks                      NaN
+sex                        hermaphrodite
+Name: AA1185, dtype: object

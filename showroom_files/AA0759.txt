@@ -1,0 +1,23 @@
+catalogNumber                             AA0759
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348538
+decimalLongitude                         6284519
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                    Rosales
+family                                  Rosaceae
+genus                                  Crataegus
+specificEpithet                         monogyna
+infraspecificEpithet                         NaN
+nameAcordingTo                             Jacq.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Crataegus monogyna Jacq.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
+locationRemarks                              NaN
+sex                                hermaphrodite
+Name: AA0759, dtype: object

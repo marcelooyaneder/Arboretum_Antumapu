@@ -1,0 +1,23 @@
+catalogNumber                              AA0184
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348682
+decimalLongitude                          6284314
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fagales
+family                              Nothofagaceae
+genus                                  Nothofagus
+specificEpithet                           obliqua
+infraspecificEpithet                          NaN
+nameAcordingTo                             Oerst.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Nothofagus obliqua Oerst.
+Nombre común                                  NaN
+Estado                                     Muerto
+establishmentMeans                         Nativa
+ingreso                                      2019
+plantacion                                   2015
+locationRemarks                               NaN
+sex                                 hermaphrodite
+Name: AA0184, dtype: object

@@ -1,0 +1,23 @@
+catalogNumber                         AA1123
+basisOfRecord                 LivingSpecimen
+decimalLatitude                       348444
+decimalLongitude                     6284729
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Fabales
+family                              Fabaceae
+genus                                 Acacia
+specificEpithet                     dealbata
+infraspecificEpithet                     NaN
+nameAcordingTo                          Link
+verbatimTaxonRank                        NaN
+taxonRank                            species
+acceptedNameUsage       Acacia dealbata Link
+Nombre común                             NaN
+Estado                                  Viva
+establishmentMeans                   Exótica
+ingreso                                 2019
+plantacion                               NaN
+locationRemarks                          NaN
+sex                            hermaphrodite
+Name: AA1123, dtype: object

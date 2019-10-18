@@ -1,0 +1,23 @@
+catalogNumber                                 AA0372
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348541
+decimalLongitude                             6284390
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                     Oxalidales
+family                                Elaeocarpaceae
+genus                                    Aristotelia
+specificEpithet                            chilensis
+infraspecificEpithet                             NaN
+nameAcordingTo                                Stuntz
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Aristotelia chilensis Stuntz
+Nombre común                                     NaN
+Estado                                          Viva
+establishmentMeans                            Nativa
+ingreso                                         2019
+plantacion                                       NaN
+locationRemarks                                  NaN
+sex                                    hermaphrodite
+Name: AA0372, dtype: object

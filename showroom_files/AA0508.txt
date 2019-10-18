@@ -1,0 +1,23 @@
+catalogNumber                               AA0508
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348503
+decimalLongitude                           6284431
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Apiales
+family                                  Araliaceae
+genus                                      Raukaua
+specificEpithet                        laetevirens
+infraspecificEpithet                           NaN
+nameAcordingTo                              Frodin
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Raukaua laetevirens Frodin
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                          Nativa
+ingreso                                       2019
+plantacion                                     NaN
+locationRemarks                                NaN
+sex                                            NaN
+Name: AA0508, dtype: object

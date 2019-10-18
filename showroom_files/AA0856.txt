@@ -1,0 +1,23 @@
+catalogNumber                      AA0856
+basisOfRecord              LivingSpecimen
+decimalLatitude                    348466
+decimalLongitude                  6284505
+phylum                       Tracheophyta
+Class                       Magnoliopsida
+order                             Rosales
+family                           Rosaceae
+genus                              Prunus
+specificEpithet                   cerasus
+infraspecificEpithet                  NaN
+nameAcordingTo                         L.
+verbatimTaxonRank                     NaN
+taxonRank                         species
+acceptedNameUsage       Prunus cerasus L.
+Nombre común                          NaN
+Estado                               Viva
+establishmentMeans                Exótica
+ingreso                              2019
+plantacion                            NaN
+locationRemarks                       NaN
+sex                         hermaphrodite
+Name: AA0856, dtype: object

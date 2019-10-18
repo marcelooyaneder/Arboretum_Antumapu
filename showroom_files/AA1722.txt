@@ -1,0 +1,23 @@
+catalogNumber                              AA1722
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348515
+decimalLongitude                          6284235
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+family                                   Fabaceae
+genus                                    Prosopis
+specificEpithet                         chilensis
+infraspecificEpithet                          NaN
+nameAcordingTo                             Stuntz
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Prosopis chilensis Stuntz
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                         Nativa
+ingreso                                      2019
+plantacion                                   2016
+locationRemarks                               NaN
+sex                                 hermaphrodite
+Name: AA1722, dtype: object

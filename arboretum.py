@@ -27,7 +27,7 @@ from PIL import Image
 #si el archivo no existe pasarlo a la otra carpeta.
 
 #autoidenficar el separator en csv ; o ,
-class file_opening:
+class file_manager:
     def file_opener(self):
         #search if a csv file has been created previusly 
         try:
@@ -39,12 +39,12 @@ class file_opening:
             elif file_path.endswith('.csv'):
                 data=pd.read_csv(file_path,header=0,sep=';') #ver como variar de ; o ,
         columns_df=data.columns.tolist()
-        columns_dwc=pd.read_csv('simple_dwc_horizontal.csv',header=0,sep=',').columns.tolist() #ver como variar de ; o , 
+        columns_dwc=pd.read_csv('dwc_terms\simple_dwc_horizontal.csv',header=0,sep=';').columns.tolist() #ver como variar de ; o , 
         columns_difference=list(set(columns_df)-set(columns_dwc))
         if not columns_difference:
             pass
         else:
-            msg='select the columns to delete from your analysis'
+            msg='select columns to delete from your analysis'
             title='select to delete'       
             choicebox=eg.multchoicebox(msg,title,columns_difference)
             try:
@@ -56,19 +56,30 @@ class file_opening:
         title='select index'       
         indexo=eg.choicebox(msg,title,columns_df)
         data=data.set_index(indexo, drop = False)
-        return data,indexo
+        return data,indexo,columns_df
     
     def file_creation(self):
-        columns_dwc=pd.read_csv('simple_dwc_horizontal.csv',header=0,sep=',').columns.tolist() #ver como variar de ; o , 
-        msg='select terms to be in your dataframe'
-        title='select terms'       
-        choicebox=eg.multchoicebox(msg,title,columns_dwc)
-        dataframe=pd.DataFrame(columns=choicebox)
-        msg='select a index for the dataframe'
-        title='select index'       
-        indexo=eg.choicebox(msg,title,choicebox)
-        dataframe=data.set_index(indexo, drop = False)
-        return dataframe,indexo
+        Record_level=pd.read_csv('dwc_terms\Record_level.csv',header=0,sep=';').columns.tolist()
+        Ocurrence=pd.read_csv('dwc_terms\Ocurrence.csv',header=0,sep=';').columns.tolist()
+        Organism=pd.read_csv('dwc_terms\organism.csv',header=0,sep=';').columns.tolist()
+        Material_sample=pd.read_csv('dwc_terms\MaterialSample.csv',header=0,sep=';').columns.tolist()
+        Event=pd.read_csv('dwc_terms\event.csv',header=0,sep=';').columns.tolist()
+        Location=pd.read_csv('dwc_terms\location.csv',header=0,sep=';').columns.tolist()
+        Geological_Context=pd.read_csv('dwc_terms\GeologicalContext.csv',header=0,sep=';').columns.tolist()
+        Identification=pd.read_csv('dwc_terms\identification.csv',header=0,sep=';').columns.tolist()
+        Taxon=pd.read_csv('dwc_terms\Taxon.csv',header=0,sep=';').columns.tolist()
+        columns_dwc=[Record_level,Ocurrence,Organism,Material_sample,Event,Location,Geological_Context,Identification,Taxon]
+        dwc_columns=[]
+        for labels in columns_dwc:
+            msg='select the terms for your custom dwc dataframe'
+            title='select terms'       
+            choicebox=eg.multchoicebox(msg,title,labels)
+            try:
+                dwc_columns.extend(choicebox)
+            except:
+                dwc_columns
+        dataframe=pd.DataFrame(columns=dwc_columns)
+        return dataframe
 
 #autosugerir el nombre cientifico
 class subject:
@@ -183,9 +194,12 @@ def comparefiles(ID,info):
     shutil.rmtree('temp/', ignore_errors=False, onerror=None)
     return 
 
-def infowriting(ID,info):
+def infowriting(ID,info,option):
     try: 
-        filename = "files/"+ID+'.txt'
+        if option ==0:
+            filename = "files/"+ID+'.txt' #no showroom option
+        elif option==1:
+            filename = "showroom_files/"+ID+'.txt' #showroom option
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename,'w') as fil:
             fil.write(str(info))
@@ -202,14 +216,19 @@ def dynamiclinks(longurl):
         shorturl=url_shortener.get_short_link(longurl)
     except:
         print('Oops! you have reached the limit of urls')
-    time.sleep(0.25) #to not break the limits of firebase
+    time.sleep(0.2) #to not break the limits of firebase
     return shorturl
 
 #crear un Qr para showroom 
 #Crear un Qr para manejo del lab
-def qrcreation(ID,short_url):
+def qr_manager(ID,short_url,option):
+    #option 1 for dwc file management
+    #option 0 for dwc showroom file management
     try:
-        filename = "qrs/"+ID+'.png'
+        if option ==1:
+            filename = "qrs/"+ID+'.png'
+        else:
+            filename = "qrs_showroom/"+ID+'.png'
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         quick_response_code= pyqrcode.create(short_url)
         with open(filename, 'wb') as f:
@@ -230,9 +249,29 @@ def qrcreation(ID,short_url):
 ##############################MAIN##################################
 ####################################################################
 
-dataframe=file_opening()
-data,indexo=dataframe.file_opener()
-IDs=data.index.tolist()
+dataframe=file_manager()
+buttons1=eg.buttonbox(msg='select an option',title='select an option',choices=['Open a file','Create a custom dwc file'])
+if buttons1=='Open a file':
+    data,indexo,columns_df=dataframe.file_opener() #no considerar para file_creation
+    IDs=data.index.tolist() #no considerar para file_creation 
+    buttons2=eg.buttonbox(msg='do you wish to create files for a showroom',title='select a option',choices=['Yes','No'])
+    if buttons2=='Yes':
+        data_showroom=data.copy()
+        msg='select the columns to keep on your showroom dataframe'
+        title='select'
+        choicebox=eg.multchoicebox(msg,title,columns_df)
+        showroom_columns=list(set(columns_df)-set(choicebox)) #columnas que no estan presentes
+        try:
+            for label in showroom_columns:
+                data_showroom=data_showroom.drop(label,axis=1,inplace=True)
+        except:
+            pass
+    elif buttons2=='No':
+        pass
+elif buttons1=='Create a custom dwc file':
+    data=dataframe.file_creation() #no considerar para file_opener
+    data.to_csv('custom_dwc_frame.csv',sep=';', encoding='utf-8') #considerar para file opener
+    print ('your file is ready....')
 
 print (data)
 input('pause')
@@ -268,7 +307,6 @@ else:
 #Add values 
 #r1.add_values(data)
 
-
 #compare files or create them
 print('compare/create files...')
 if os.path.isdir('files')==True:
@@ -276,7 +314,15 @@ if os.path.isdir('files')==True:
         comparefiles(id,data.loc[id])
 else:
     for id in IDs:
-        infowriting(id,data.loc[id])
+        infowriting(id,data.loc[id],0)
+
+if buttons2=='Yes':
+    if os.path.isdir('showroom_files')==True:
+        for id in IDs:
+            comparefiles(id,data_showroom.loc[id])
+    else:
+        for id in IDs:
+            infowriting(id,data_showroom.loc[id],1)
 print ('there is nothing more to do here...')
 
 #compare qr files or create them
@@ -288,7 +334,7 @@ if os.path.isdir('qrs')==True:
         if os.path.isfile(path)==False:
             longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/'+id+'.txt'
             shorturl=dynamiclinks(longurl)
-            qrcreation(id,shorturl)
+            qr_manager(id,shorturl,1)
         else:
             pass
 else:
@@ -296,4 +342,25 @@ else:
         print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
         longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/'+id+'.txt'
         shorturl=dynamiclinks(longurl)
-        qrcreation(id,shorturl)
+        qr_manager(id,shorturl,1)
+
+if buttons2=='Yes':
+    if os.path.isdir('showroom_qrs')==True:
+        for id in IDs:
+            print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
+            path="showroom_qrs/"+id+'.png'
+            if os.path.isfile(path)==False:
+                longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/'+id+'.txt'
+                shorturl=dynamiclinks(longurl)
+                qr_manager(id,shorturl,0)
+            else:
+                pass
+    else:
+        for id in IDs:
+            print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
+            longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/'+id+'.txt'
+            shorturl=dynamiclinks(longurl)
+            qr_manager(id,shorturl,0)
+else:
+    pass
+print ('there is nothing more to do here...')

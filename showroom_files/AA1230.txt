@@ -1,0 +1,23 @@
+catalogNumber                          AA1230
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348436
+decimalLongitude                      6284366
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                 Fagales
+family                               Fagaceae
+genus                                Castanea
+specificEpithet                        sativa
+infraspecificEpithet                      NaN
+nameAcordingTo                          Mill.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Castanea sativa Mill.
+Nombre común                              NaN
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                                NaN
+locationRemarks                           NaN
+sex                             hermaphrodite
+Name: AA1230, dtype: object

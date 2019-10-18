@@ -1,0 +1,23 @@
+catalogNumber                   AA0603
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348488
+decimalLongitude               6284515
+phylum                    Tracheophyta
+Class                        Pinopsida
+order                          Pinales
+family                        Pinaceae
+genus                            Pinus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage            Pinus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
+Name: AA0603, dtype: object

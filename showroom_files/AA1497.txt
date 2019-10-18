@@ -1,0 +1,23 @@
+catalogNumber                           AA1497
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348438
+decimalLongitude                       6284343
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                  Fabales
+family                                Fabaceae
+genus                                  Sophora
+specificEpithet                     macrocarpa
+infraspecificEpithet                       NaN
+nameAcordingTo                             Sm.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Sophora macrocarpa Sm.
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                      Nativa
+ingreso                                   2019
+plantacion                                 NaN
+locationRemarks                            NaN
+sex                              hermaphrodite
+Name: AA1497, dtype: object

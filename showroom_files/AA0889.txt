@@ -1,0 +1,23 @@
+catalogNumber                            AA0889
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348635
+decimalLongitude                        6284615
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                               Parkinsonia
+specificEpithet                        aculeata
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Parkinsonia aculeata L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+locationRemarks                             NaN
+sex                               hermaphrodite
+Name: AA0889, dtype: object

@@ -1,0 +1,23 @@
+catalogNumber                              AA0181
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348678
+decimalLongitude                          6284216
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Rosales
+family                               Elaeagnaceae
+genus                                   Elaeagnus
+specificEpithet                      angustifolia
+infraspecificEpithet                          NaN
+nameAcordingTo                                 L.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Elaeagnus angustifolia L.
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                        Exótica
+ingreso                                      2019
+plantacion                                    NaN
+locationRemarks                               NaN
+sex                                           NaN
+Name: AA0181, dtype: object

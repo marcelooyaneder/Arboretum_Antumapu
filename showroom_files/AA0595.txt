@@ -1,0 +1,23 @@
+catalogNumber                            AA0595
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348506
+decimalLongitude                        6284524
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                                   Robinia
+specificEpithet                    pseudoacacia
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Robinia pseudoacacia L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+locationRemarks                             NaN
+sex                               hermaphrodite
+Name: AA0595, dtype: object

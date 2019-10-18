@@ -1,0 +1,23 @@
+catalogNumber                   AA1375
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348351
+decimalLongitude               6284372
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                       Sapindales
+family                        Rutaceae
+genus                           Citrus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage           Citrus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
+Name: AA1375, dtype: object
