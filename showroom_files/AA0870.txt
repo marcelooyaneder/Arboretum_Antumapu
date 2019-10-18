@@ -1,0 +1,23 @@
+catalogNumber                              AA0870
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348629
+decimalLongitude                          6284446
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                  Sapindales
+family                                   Rutaceae
+genus                                   Casimiroa
+specificEpithet                            edulis
+infraspecificEpithet                          NaN
+nameAcordingTo                           La Llave
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Casimiroa edulis La Llave
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                        Exótica
+ingreso                                      2019
+plantacion                                   2016
+locationRemarks                               NaN
+sex                                           NaN
+Name: AA0870, dtype: object

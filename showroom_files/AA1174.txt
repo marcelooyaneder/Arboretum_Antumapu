@@ -1,0 +1,23 @@
+catalogNumber                          AA1174
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348534
+decimalLongitude                      6284781
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+family                               Oleaceae
+genus                                Fraxinus
+specificEpithet                     excelsior
+infraspecificEpithet                      NaN
+nameAcordingTo                             L.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Fraxinus excelsior L.
+Nombre común                              NaN
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                                NaN
+locationRemarks                           NaN
+sex                             hermaphrodite
+Name: AA1174, dtype: object

@@ -1,0 +1,23 @@
+catalogNumber                                                      AA0522
+basisOfRecord                                              LivingSpecimen
+decimalLatitude                                                    348540
+decimalLongitude                                                  6284410
+phylum                                                       Tracheophyta
+Class                                                      Polypodiopsida
+order                                                        Polypodiales
+family                                                        Blechnaceae
+genus                                                        Lomariocycas
+specificEpithet                                              magellanicum
+infraspecificEpithet                                                  NaN
+nameAcordingTo                                  (Mett.) Gasper & A.R. Sm.
+verbatimTaxonRank                                                     NaN
+taxonRank                                                         species
+acceptedNameUsage       Lomariocycas magellanicum (Mett.) Gasper & A.R...
+Nombre común                                                          NaN
+Estado                                                               Viva
+establishmentMeans                                                 Nativa
+ingreso                                                              2019
+plantacion                                                           2016
+locationRemarks                                                       NaN
+sex                                                                   NaN
+Name: AA0522, dtype: object

@@ -1,0 +1,23 @@
+catalogNumber                                      AA0556
+basisOfRecord                              LivingSpecimen
+decimalLatitude                                    348523
+decimalLongitude                                  6284409
+phylum                                       Tracheophyta
+Class                                           Pinopsida
+order                                         Cupressales
+family                                       Cupressaceae
+genus                                            Fitzroya
+specificEpithet                              cupressoides
+infraspecificEpithet                                  NaN
+nameAcordingTo                                I.M.Johnst.
+verbatimTaxonRank                                     NaN
+taxonRank                                         species
+acceptedNameUsage       Fitzroya cupressoides I.M.Johnst.
+Nombre común                                          NaN
+Estado                                               Viva
+establishmentMeans                                 Nativa
+ingreso                                              2019
+plantacion                                            NaN
+locationRemarks                                       NaN
+sex                                                   NaN
+Name: AA0556, dtype: object

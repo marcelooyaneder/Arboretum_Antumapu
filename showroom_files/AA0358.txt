@@ -1,0 +1,23 @@
+catalogNumber                            AA0358
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348625
+decimalLongitude                        6284392
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Lamiales
+family                           Plantaginaceae
+genus                                   Monttea
+specificEpithet                       chilensis
+infraspecificEpithet                        NaN
+nameAcordingTo                            J.Gay
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Monttea chilensis J.Gay
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                       Nativa
+ingreso                                    2019
+plantacion                                 2016
+locationRemarks                             NaN
+sex                                         NaN
+Name: AA0358, dtype: object

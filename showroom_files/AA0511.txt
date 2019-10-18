@@ -1,0 +1,23 @@
+catalogNumber                             AA0511
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348508
+decimalLongitude                         6284407
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                    Sophora
+specificEpithet                      microphylla
+infraspecificEpithet                         NaN
+nameAcordingTo                              Ait.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Sophora microphylla Ait.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                        Nativa
+ingreso                                     2019
+plantacion                                   NaN
+locationRemarks                              NaN
+sex                                hermaphrodite
+Name: AA0511, dtype: object

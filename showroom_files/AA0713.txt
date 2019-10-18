@@ -1,0 +1,23 @@
+catalogNumber                                  AA0713
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348472
+decimalLongitude                              6284493
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                                         Apiales
+family                                 Pittosporaceae
+genus                                     Pittosporum
+specificEpithet                                   NaN
+infraspecificEpithet                              NaN
+nameAcordingTo                       Banks ex Gaertn.
+verbatimTaxonRank                                 sp.
+taxonRank                                       genus
+acceptedNameUsage       Pittosporum  Banks ex Gaertn.
+Nombre común                                      NaN
+Estado                                           Viva
+establishmentMeans                            Exótica
+ingreso                                          2019
+plantacion                                        NaN
+locationRemarks                                   NaN
+sex                                     hermaphrodite
+Name: AA0713, dtype: object

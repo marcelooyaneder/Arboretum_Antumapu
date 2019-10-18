@@ -1,0 +1,23 @@
+catalogNumber                   AA0948
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348541
+decimalLongitude               6284657
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Ulmaceae
+genus                            Ulmus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage            Ulmus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
+Name: AA0948, dtype: object

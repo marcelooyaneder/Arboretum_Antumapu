@@ -1,0 +1,23 @@
+catalogNumber                                                      AA0528
+basisOfRecord                                              LivingSpecimen
+decimalLatitude                                                    348538
+decimalLongitude                                                  6284417
+phylum                                                       Tracheophyta
+Class                                                      Polypodiopsida
+order                                                        Polypodiales
+family                                                        Blechnaceae
+genus                                                      Austroblechnum
+specificEpithet                                              penna-marina
+infraspecificEpithet                                                  NaN
+nameAcordingTo                           (Poir.) Gasper & V.A.O. Dittrich
+verbatimTaxonRank                                                     NaN
+taxonRank                                                         species
+acceptedNameUsage       Austroblechnum penna-marina (Poir.) Gasper & V...
+Nombre común                                                          NaN
+Estado                                                               Viva
+establishmentMeans                                                 Nativa
+ingreso                                                              2019
+plantacion                                                           2016
+locationRemarks                                                       NaN
+sex                                                                   NaN
+Name: AA0528, dtype: object

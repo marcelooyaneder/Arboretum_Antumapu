@@ -1,0 +1,23 @@
+catalogNumber                               AA1586
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348521
+decimalLongitude                           6284278
+phylum                                Tracheophyta
+Class                                    Pinopsida
+order                                  Cupressales
+family                                Cupressaceae
+genus                                      Sequoia
+specificEpithet                       sempervirens
+infraspecificEpithet                           NaN
+nameAcordingTo                               Endl.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Sequoia sempervirens Endl.
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+locationRemarks                                NaN
+sex                                            NaN
+Name: AA1586, dtype: object

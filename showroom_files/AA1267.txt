@@ -1,0 +1,23 @@
+catalogNumber                        AA1267
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348391
+decimalLongitude                    6284291
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Rosales
+family                             Rosaceae
+genus                                Prunus
+specificEpithet                   armeniaca
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Prunus armeniaca L.
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+locationRemarks                         NaN
+sex                           hermaphrodite
+Name: AA1267, dtype: object

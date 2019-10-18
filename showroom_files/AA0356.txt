@@ -1,0 +1,23 @@
+catalogNumber                               AA0356
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348632
+decimalLongitude                           6284393
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fabales
+family                                    Fabaceae
+genus                                  Caesalpinia
+specificEpithet                            spinosa
+infraspecificEpithet                           NaN
+nameAcordingTo                              Kuntze
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Caesalpinia spinosa Kuntze
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                          Nativa
+ingreso                                       2019
+plantacion                                    2016
+locationRemarks                                NaN
+sex                                  hermaphrodite
+Name: AA0356, dtype: object

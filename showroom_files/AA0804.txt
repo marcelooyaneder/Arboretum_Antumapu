@@ -1,0 +1,23 @@
+catalogNumber                   AA0804
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348360
+decimalLongitude               6284419
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Rosaceae
+genus                            Pyrus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage            Pyrus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+locationRemarks                    NaN
+sex                      hermaphrodite
+Name: AA0804, dtype: object

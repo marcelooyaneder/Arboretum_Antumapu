@@ -1,0 +1,23 @@
+catalogNumber                             AA0134
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348626
+decimalLongitude                         6284287
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                  Gleditsia
+specificEpithet                      triacanthos
+infraspecificEpithet                         NaN
+nameAcordingTo                                L.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Gleditsia triacanthos L.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
+locationRemarks                              NaN
+sex                                hermaphrodite
+Name: AA0134, dtype: object

@@ -1,0 +1,23 @@
+catalogNumber                               AA1614
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348516
+decimalLongitude                           6284350
+phylum                                Tracheophyta
+Class                                    Pinopsida
+order                                  Cupressales
+family                                Cupressaceae
+genus                                      Sequoia
+specificEpithet                       sempervirens
+infraspecificEpithet                           NaN
+nameAcordingTo                               Endl.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Sequoia sempervirens Endl.
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+locationRemarks                                NaN
+sex                                            NaN
+Name: AA1614, dtype: object

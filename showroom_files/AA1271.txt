@@ -1,0 +1,23 @@
+catalogNumber                        AA1271
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348365
+decimalLongitude                    6284285
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Fagales
+family                           Betulaceae
+genus                                Betula
+specificEpithet                     pendula
+infraspecificEpithet                    NaN
+nameAcordingTo                         Roth
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Betula pendula Roth
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+locationRemarks                         NaN
+sex                                     NaN
+Name: AA1271, dtype: object

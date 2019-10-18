@@ -1,0 +1,23 @@
+catalogNumber                             AA0396
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348514
+decimalLongitude                         6284423
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                 Sapindales
+family                             Anacardiaceae
+genus                                    Schinus
+specificEpithet                       latifolius
+infraspecificEpithet                         NaN
+nameAcordingTo                             Engl.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Schinus latifolius Engl.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                        Nativa
+ingreso                                     2019
+plantacion                                   NaN
+locationRemarks                              NaN
+sex                                hermaphrodite
+Name: AA0396, dtype: object

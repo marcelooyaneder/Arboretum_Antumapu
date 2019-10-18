@@ -1,0 +1,23 @@
+catalogNumber                        AA1608
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348502
+decimalLongitude                    6284337
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                          Malpighiales
+family                           Salicaceae
+genus                                 Salix
+specificEpithet                  babylonica
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Salix babylonica L.
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+locationRemarks                         NaN
+sex                           hermaphrodite
+Name: AA1608, dtype: object

@@ -1,0 +1,23 @@
+catalogNumber                                           AA0871
+basisOfRecord                                   LivingSpecimen
+decimalLatitude                                         348630
+decimalLongitude                                       6284444
+phylum                                            Tracheophyta
+Class                                            Magnoliopsida
+order                                                 Lamiales
+family                                               Lamiaceae
+genus                                               Rosmarinus
+specificEpithet                                    officinalis
+infraspecificEpithet                                       NaN
+nameAcordingTo                                 de Noë ex Lange
+verbatimTaxonRank                                          NaN
+taxonRank                                              species
+acceptedNameUsage       Rosmarinus officinalis de Noë ex Lange
+Nombre común                                               NaN
+Estado                                                    Viva
+establishmentMeans                                     Exótica
+ingreso                                                   2019
+plantacion                                                 NaN
+locationRemarks                                            NaN
+sex                                              hermaphrodite
+Name: AA0871, dtype: object

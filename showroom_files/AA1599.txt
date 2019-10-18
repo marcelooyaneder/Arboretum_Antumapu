@@ -1,0 +1,23 @@
+catalogNumber                            AA1599
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348497
+decimalLongitude                        6284317
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Myrtales
+family                               Lythraceae
+genus                             Lagerstroemia
+specificEpithet                          indica
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Lagerstroemia indica L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+locationRemarks                             NaN
+sex                               hermaphrodite
+Name: AA1599, dtype: object

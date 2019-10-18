@@ -1,0 +1,23 @@
+catalogNumber                        AA0505
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348512
+decimalLongitude                    6284419
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                              Myrtales
+family                            Myrtaceae
+genus                                  Luma
+specificEpithet                     chequen
+infraspecificEpithet                    NaN
+nameAcordingTo                       A.Gray
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Luma chequen A.Gray
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                   Nativa
+ingreso                                2019
+plantacion                             2016
+locationRemarks                         NaN
+sex                           hermaphrodite
+Name: AA0505, dtype: object

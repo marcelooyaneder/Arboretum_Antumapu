@@ -1,0 +1,23 @@
+catalogNumber                                   AA1564
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348541
+decimalLongitude                               6284282
+phylum                                    Tracheophyta
+Class                                       Liliopsida
+order                                         Arecales
+family                                       Arecaceae
+genus                                     Trachycarpus
+specificEpithet                               fortunei
+infraspecificEpithet                               NaN
+nameAcordingTo                                H.Wendl.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Trachycarpus fortunei H.Wendl.
+Nombre común                                       NaN
+Estado                                            Viva
+establishmentMeans                             Exótica
+ingreso                                           2019
+plantacion                                         NaN
+locationRemarks                                    NaN
+sex                                                NaN
+Name: AA1564, dtype: object

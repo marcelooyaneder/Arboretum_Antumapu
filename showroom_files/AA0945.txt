@@ -1,0 +1,23 @@
+catalogNumber                               AA0945
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348533
+decimalLongitude                           6284659
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Rosales
+family                                    Rosaceae
+genus                                   Eriobotrya
+specificEpithet                           japonica
+infraspecificEpithet                           NaN
+nameAcordingTo                              Lindl.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Eriobotrya japonica Lindl.
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+locationRemarks                                NaN
+sex                                            NaN
+Name: AA0945, dtype: object

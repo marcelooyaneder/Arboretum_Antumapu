@@ -1,0 +1,23 @@
+catalogNumber                                AA0946
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348536
+decimalLongitude                            6284657
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Lamiales
+family                                     Oleaceae
+genus                                     Ligustrum
+specificEpithet                             lucidum
+infraspecificEpithet                            NaN
+nameAcordingTo                            W.T.Aiton
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Ligustrum lucidum W.T.Aiton
+Nombre común                                    NaN
+Estado                                         Viva
+establishmentMeans                          Exótica
+ingreso                                        2019
+plantacion                                      NaN
+locationRemarks                                 NaN
+sex                                   hermaphrodite
+Name: AA0946, dtype: object

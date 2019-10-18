@@ -1,0 +1,23 @@
+catalogNumber                                AA1335
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348319
+decimalLongitude                            6284273
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Lamiales
+family                                 Bignoniaceae
+genus                                     Jacaranda
+specificEpithet                         mimosifolia
+infraspecificEpithet                            NaN
+nameAcordingTo                                D.Don
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Jacaranda mimosifolia D.Don
+Nombre común                                    NaN
+Estado                                         Viva
+establishmentMeans                          Exótica
+ingreso                                        2019
+plantacion                                      NaN
+locationRemarks                                 NaN
+sex                                   hermaphrodite
+Name: AA1335, dtype: object
