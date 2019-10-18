@@ -1,23 +1,4 @@
-catalogNumber                   AA0128
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348656
-decimalLongitude               6284285
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                       Sapindales
-family                        Rutaceae
-genus                           Citrus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage           Citrus  L.
-Nombre común                       NaN
-Estado                          Muerto
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-locationRemarks                    NaN
-sex                      hermaphrodite
+acceptedNameUsage       Citrus  L.
+Nombre común                   NaN
+sex                  hermaphrodite
 Name: AA0128, dtype: object

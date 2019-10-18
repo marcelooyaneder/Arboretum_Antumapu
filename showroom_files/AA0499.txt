@@ -1,23 +1,4 @@
-catalogNumber                                     AA0499
-basisOfRecord                             LivingSpecimen
-decimalLatitude                                   348522
-decimalLongitude                                 6284413
-phylum                                      Tracheophyta
-Class                                      Magnoliopsida
-order                                         Sapindales
-family                                          Rutaceae
-genus                                            Pitavia
-specificEpithet                                 punctata
-infraspecificEpithet                                 NaN
-nameAcordingTo                           (Molina) Molina
-verbatimTaxonRank                                    NaN
-taxonRank                                        species
-acceptedNameUsage       Pitavia punctata (Molina) Molina
-Nombre común                                         NaN
-Estado                                              Viva
-establishmentMeans                                Nativa
-ingreso                                             2019
-plantacion                                          2016
-locationRemarks                                      NaN
-sex                                        hermaphrodite
+acceptedNameUsage    Pitavia punctata (Molina) Molina
+Nombre común                                      NaN
+sex                                     hermaphrodite
 Name: AA0499, dtype: object

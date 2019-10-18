@@ -1,23 +1,4 @@
-catalogNumber                            AA1180
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348616
-decimalLongitude                        6284696
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Rosales
-family                                 Rosaceae
-genus                                    Prunus
-specificEpithet                      cerasifera
-infraspecificEpithet                        NaN
-nameAcordingTo                            Ehrh.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Prunus cerasifera Ehrh.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-locationRemarks                             NaN
-sex                               hermaphrodite
+acceptedNameUsage    Prunus cerasifera Ehrh.
+Nombre común                             NaN
+sex                            hermaphrodite
 Name: AA1180, dtype: object

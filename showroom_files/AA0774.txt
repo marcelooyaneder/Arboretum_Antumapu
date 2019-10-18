@@ -1,23 +1,4 @@
-catalogNumber                          AA0774
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348604
-decimalLongitude                      6284498
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                               Solanales
-family                             Solanaceae
-genus                                 Cestrum
-specificEpithet                        parqui
-infraspecificEpithet                      NaN
-nameAcordingTo                         L'Hér.
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Cestrum parqui L'Hér.
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
-locationRemarks                           NaN
-sex                                       NaN
+acceptedNameUsage    Cestrum parqui L'Hér.
+Nombre común                           NaN
+sex                                    NaN
 Name: AA0774, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                               AA0552
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348511
-decimalLongitude                           6284407
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                     Laurales
-family                          Atherospermataceae
-genus                                     Laurelia
-specificEpithet                       sempervirens
-infraspecificEpithet                           NaN
-nameAcordingTo                                Tul.
-verbatimTaxonRank                              NaN
-taxonRank                                  species
-acceptedNameUsage       Laurelia sempervirens Tul.
-Nombre común                                   NaN
-Estado                                      Muerto
-establishmentMeans                          Nativa
-ingreso                                       2019
-plantacion                                     NaN
-locationRemarks                                NaN
-sex                                  hermaphrodite
+acceptedNameUsage    Laurelia sempervirens Tul.
+Nombre común                                NaN
+sex                               hermaphrodite
 Name: AA0552, dtype: object

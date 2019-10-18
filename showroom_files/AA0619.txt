@@ -1,23 +1,4 @@
-catalogNumber                                      AA0619
-basisOfRecord                              LivingSpecimen
-decimalLatitude                                    348539
-decimalLongitude                                  6284511
-phylum                                       Tracheophyta
-Class                                       Magnoliopsida
-order                                            Myrtales
-family                                          Myrtaceae
-genus                                       Blepharocalyx
-specificEpithet                             cruckshanksii
-infraspecificEpithet                                  NaN
-nameAcordingTo                                      Nied.
-verbatimTaxonRank                                     NaN
-taxonRank                                         species
-acceptedNameUsage       Blepharocalyx cruckshanksii Nied.
-Nombre común                                          NaN
-Estado                                               Viva
-establishmentMeans                                 Nativa
-ingreso                                              2019
-plantacion                                            NaN
-locationRemarks                                       NaN
-sex                                                   NaN
+acceptedNameUsage    Blepharocalyx cruckshanksii Nied.
+Nombre común                                       NaN
+sex                                                NaN
 Name: AA0619, dtype: object

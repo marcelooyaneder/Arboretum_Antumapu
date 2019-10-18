@@ -1,23 +1,4 @@
-catalogNumber                              AA1542
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348573
-decimalLongitude                          6284257
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                     Fabales
-family                                   Fabaceae
-genus                                      Acacia
-specificEpithet                           saligna
-infraspecificEpithet                          NaN
-nameAcordingTo                         H.L.Wendl.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Acacia saligna H.L.Wendl.
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                        Exótica
-ingreso                                      2019
-plantacion                                    NaN
-locationRemarks                               NaN
-sex                                 hermaphrodite
+acceptedNameUsage    Acacia saligna H.L.Wendl.
+Nombre común                               NaN
+sex                              hermaphrodite
 Name: AA1542, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                          AA0485
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348532
-decimalLongitude                      6284421
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                Myrtales
-family                              Myrtaceae
-genus                                    Luma
-specificEpithet                     apiculata
-infraspecificEpithet                      NaN
-nameAcordingTo                         Burret
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Luma apiculata Burret
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                               2014
-locationRemarks                           NaN
-sex                             hermaphrodite
+acceptedNameUsage    Luma apiculata Burret
+Nombre común                           NaN
+sex                          hermaphrodite
 Name: AA0485, dtype: object

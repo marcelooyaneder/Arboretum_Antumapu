@@ -1,23 +1,4 @@
-catalogNumber                       AA1649
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348477
-decimalLongitude                   6284266
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                             Myrtales
-family                           Myrtaceae
-genus                               Myrtus
-specificEpithet                   communis
-infraspecificEpithet                   NaN
-nameAcordingTo                          L.
-verbatimTaxonRank                      NaN
-taxonRank                          species
-acceptedNameUsage       Myrtus communis L.
-Nombre común                           NaN
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-locationRemarks                        NaN
-sex                          hermaphrodite
+acceptedNameUsage    Myrtus communis L.
+Nombre común                        NaN
+sex                       hermaphrodite
 Name: AA1649, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                                    AA1101
-basisOfRecord                            LivingSpecimen
-decimalLatitude                                  348452
-decimalLongitude                                6284771
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                          Myrtales
-family                                        Myrtaceae
-genus                                        Eucalyptus
-specificEpithet                           camaldulensis
-infraspecificEpithet                                NaN
-nameAcordingTo                                   Dehnh.
-verbatimTaxonRank                                   NaN
-taxonRank                                       species
-acceptedNameUsage       Eucalyptus camaldulensis Dehnh.
-Nombre común                                        NaN
-Estado                                             Viva
-establishmentMeans                              Exótica
-ingreso                                            2019
-plantacion                                          NaN
-locationRemarks                                     NaN
-sex                                       hermaphrodite
+acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
+Nombre común                                     NaN
+sex                                    hermaphrodite
 Name: AA1101, dtype: object

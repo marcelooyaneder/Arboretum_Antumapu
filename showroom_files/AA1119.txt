@@ -1,23 +1,4 @@
-catalogNumber                                AA1119
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348438
-decimalLongitude                            6284737
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                      Myrtales
-family                                    Myrtaceae
-genus                                    Eucalyptus
-specificEpithet                            globulus
-infraspecificEpithet                            NaN
-nameAcordingTo                              Labill.
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Eucalyptus globulus Labill.
-Nombre común                                    NaN
-Estado                                         Viva
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
-locationRemarks                                 NaN
-sex                                   hermaphrodite
+acceptedNameUsage    Eucalyptus globulus Labill.
+Nombre común                                 NaN
+sex                                hermaphrodite
 Name: AA1119, dtype: object

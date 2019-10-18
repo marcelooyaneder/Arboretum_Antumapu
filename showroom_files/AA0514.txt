@@ -1,23 +1,4 @@
-catalogNumber                                 AA0514
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348518
-decimalLongitude                             6284423
-phylum                                  Tracheophyta
-Class                                      Pinopsida
-order                                    Cupressales
-family                                 Podocarpaceae
-genus                                    Saxegothaea
-specificEpithet                            conspicua
-infraspecificEpithet                             NaN
-nameAcordingTo                                Lindl.
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Saxegothaea conspicua Lindl.
-Nombre común                                     NaN
-Estado                                        Muerto
-establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                       NaN
-locationRemarks                                  NaN
-sex                                    hermaphrodite
+acceptedNameUsage    Saxegothaea conspicua Lindl.
+Nombre común                                  NaN
+sex                                 hermaphrodite
 Name: AA0514, dtype: object

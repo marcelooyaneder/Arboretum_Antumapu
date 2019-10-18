@@ -1,23 +1,4 @@
-catalogNumber                                       AA0740
-basisOfRecord                               LivingSpecimen
-decimalLatitude                                     348432
-decimalLongitude                                   6284506
-phylum                                        Tracheophyta
-Class                                        Magnoliopsida
-order                                              Fabales
-family                                        Quillajaceae
-genus                                             Quillaja
-specificEpithet                                  saponaria
-infraspecificEpithet                                   NaN
-nameAcordingTo                             (Molina) Molina
-verbatimTaxonRank                                      NaN
-taxonRank                                          species
-acceptedNameUsage       Quillaja saponaria (Molina) Molina
-Nombre común                                           NaN
-Estado                                                Viva
-establishmentMeans                                  Nativa
-ingreso                                               2019
-plantacion                                             NaN
-locationRemarks                                        NaN
-sex                                          hermaphrodite
+acceptedNameUsage    Quillaja saponaria (Molina) Molina
+Nombre común                                        NaN
+sex                                       hermaphrodite
 Name: AA0740, dtype: object

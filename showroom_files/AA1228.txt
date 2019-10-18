@@ -1,23 +1,4 @@
-catalogNumber                            AA1228
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348437
-decimalLongitude                        6284373
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fagales
-family                               Betulaceae
-genus                                     Alnus
-specificEpithet                       glutinosa
-infraspecificEpithet                        NaN
-nameAcordingTo                          Gaertn.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Alnus glutinosa Gaertn.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-locationRemarks                             NaN
-sex                               hermaphrodite
+acceptedNameUsage    Alnus glutinosa Gaertn.
+Nombre común                             NaN
+sex                            hermaphrodite
 Name: AA1228, dtype: object

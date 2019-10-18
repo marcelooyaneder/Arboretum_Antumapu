@@ -1,23 +1,4 @@
-catalogNumber                                   AA1626
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348526
-decimalLongitude                               6284262
-phylum                                    Tracheophyta
-Class                                       Liliopsida
-order                                         Arecales
-family                                       Arecaceae
-genus                                          Phoenix
-specificEpithet                            canariensis
-infraspecificEpithet                               NaN
-nameAcordingTo                              H.Wildpret
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Phoenix canariensis H.Wildpret
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-locationRemarks                                    NaN
-sex                                      hermaphrodite
+acceptedNameUsage    Phoenix canariensis H.Wildpret
+Nombre común                                    NaN
+sex                                   hermaphrodite
 Name: AA1626, dtype: object

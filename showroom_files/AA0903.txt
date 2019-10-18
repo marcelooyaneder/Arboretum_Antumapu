@@ -1,23 +1,4 @@
-catalogNumber                   AA0903
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348562
-decimalLongitude               6284637
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                     Malpighiales
-family                      Salicaceae
-genus                          Populus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage          Populus  L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-locationRemarks                    NaN
-sex                      hermaphrodite
+acceptedNameUsage      Populus  L.
+Nombre común                   NaN
+sex                  hermaphrodite
 Name: AA0903, dtype: object

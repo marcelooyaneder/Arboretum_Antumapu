@@ -173,9 +173,12 @@ class subject:
     def save_values(self,data): #programar para que tire a csv
         pass
 
-def comparefiles(ID,info):
+def comparefiles(ID,info,option): #option 0 for showroom, 1 for normal use
     filename1 = "temp/"+ID+'.txt'
-    filename2= "files/"+ID+'.txt'
+    if option==0:
+        filename2= "showroom_files/"+ID+'.txt'
+    else:
+        filename2= "files/"+ID+'.txt'
     os.makedirs(os.path.dirname(filename1), exist_ok=True)
     with open(filename1,'w') as fil:
         fil.write(str(info))
@@ -263,7 +266,7 @@ if buttons1=='Open a file':
         showroom_columns=list(set(columns_df)-set(choicebox)) #columnas que no estan presentes
         try:
             for label in showroom_columns:
-                data_showroom=data_showroom.drop(label,axis=1,inplace=True)
+                data_showroom.drop(label,axis=1,inplace=True)
         except:
             pass
     elif buttons2=='No':
@@ -273,8 +276,7 @@ elif buttons1=='Create a custom dwc file':
     data.to_csv('custom_dwc_frame.csv',sep=';', encoding='utf-8') #considerar para file opener
     print ('your file is ready....')
 
-print (data)
-input('pause')
+print(data)
 
 #query data 
 r1=subject(data)
@@ -311,7 +313,7 @@ else:
 print('compare/create files...')
 if os.path.isdir('files')==True:
     for id in IDs:
-        comparefiles(id,data.loc[id])
+        comparefiles(id,data.loc[id],1)
 else:
     for id in IDs:
         infowriting(id,data.loc[id],0)
@@ -319,7 +321,7 @@ else:
 if buttons2=='Yes':
     if os.path.isdir('showroom_files')==True:
         for id in IDs:
-            comparefiles(id,data_showroom.loc[id])
+            comparefiles(id,data_showroom.loc[id],0)
     else:
         for id in IDs:
             infowriting(id,data_showroom.loc[id],1)

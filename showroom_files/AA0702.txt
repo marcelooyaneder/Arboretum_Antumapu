@@ -1,23 +1,4 @@
-catalogNumber                               AA0702
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348471
-decimalLongitude                           6284519
-phylum                                Tracheophyta
-Class                                    Pinopsida
-order                                  Cupressales
-family                                Cupressaceae
-genus                                      Sequoia
-specificEpithet                       sempervirens
-infraspecificEpithet                           NaN
-nameAcordingTo                               Endl.
-verbatimTaxonRank                              NaN
-taxonRank                                  species
-acceptedNameUsage       Sequoia sempervirens Endl.
-Nombre común                                   NaN
-Estado                                        Viva
-establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
-locationRemarks                                NaN
-sex                                            NaN
+acceptedNameUsage    Sequoia sempervirens Endl.
+Nombre común                                NaN
+sex                                         NaN
 Name: AA0702, dtype: object

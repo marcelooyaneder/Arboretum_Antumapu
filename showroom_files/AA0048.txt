@@ -1,23 +1,4 @@
-catalogNumber                       AA0048
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348665
-decimalLongitude                   6284217
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                           Sapindales
-family                           Meliaceae
-genus                                Melia
-specificEpithet                  azedarach
-infraspecificEpithet                   NaN
-nameAcordingTo                          L.
-verbatimTaxonRank                      NaN
-taxonRank                          species
-acceptedNameUsage       Melia azedarach L.
-Nombre común             Arbol del paraíso
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-locationRemarks                        NaN
-sex                          hermaphrodite
+acceptedNameUsage    Melia azedarach L.
+Nombre común          Arbol del paraíso
+sex                       hermaphrodite
 Name: AA0048, dtype: object

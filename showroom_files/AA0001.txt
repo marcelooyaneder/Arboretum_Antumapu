@@ -1,23 +1,4 @@
-catalogNumber                       AA0001
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348663
-decimalLongitude                   6284356
-phylum                        Tracheophyta
-Class                           Liliopsida
-order                          Asparagales
-family                        Asparagaceae
-genus                                Agave
-specificEpithet                  americana
-infraspecificEpithet                   NaN
-nameAcordingTo                          L.
-verbatimTaxonRank                      NaN
-taxonRank                          species
-acceptedNameUsage       Agave americana L.
-Nombre común                         Agave
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-locationRemarks                        NaN
-sex                                    NaN
+acceptedNameUsage    Agave americana L.
+Nombre común                      Agave
+sex                                 NaN
 Name: AA0001, dtype: object

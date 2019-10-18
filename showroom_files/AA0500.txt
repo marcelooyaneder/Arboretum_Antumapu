@@ -1,23 +1,4 @@
-catalogNumber                           AA0500
-basisOfRecord                   LivingSpecimen
-decimalLatitude                         348521
-decimalLongitude                       6284412
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                            Escalloniales
-family                          Escalloniaceae
-genus                               Escallonia
-specificEpithet                          rubra
-infraspecificEpithet                       NaN
-nameAcordingTo                           Pers.
-verbatimTaxonRank                          NaN
-taxonRank                              species
-acceptedNameUsage       Escallonia rubra Pers.
-Nombre común                               NaN
-Estado                                    Viva
-establishmentMeans                      Nativa
-ingreso                                   2019
-plantacion                                2016
-locationRemarks                            NaN
-sex                              hermaphrodite
+acceptedNameUsage    Escallonia rubra Pers.
+Nombre común                            NaN
+sex                           hermaphrodite
 Name: AA0500, dtype: object

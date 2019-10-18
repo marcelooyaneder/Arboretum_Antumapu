@@ -1,23 +1,4 @@
-catalogNumber                            AA0290
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348574
-decimalLongitude                        6284441
-phylum                             Tracheophyta
-Class                                Liliopsida
-order                                  Arecales
-family                                Arecaceae
-genus                                    Jubaea
-specificEpithet                       chilensis
-infraspecificEpithet                        NaN
-nameAcordingTo                           Baill.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Jubaea chilensis Baill.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                  NaN
-locationRemarks                             NaN
-sex                               hermaphrodite
+acceptedNameUsage    Jubaea chilensis Baill.
+Nombre común                             NaN
+sex                            hermaphrodite
 Name: AA0290, dtype: object

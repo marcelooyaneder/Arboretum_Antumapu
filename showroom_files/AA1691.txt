@@ -1,23 +1,4 @@
-catalogNumber                                   AA1691
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348492
-decimalLongitude                               6284372
-phylum                                    Tracheophyta
-Class                                        Pinopsida
-order                                      Cupressales
-family                                    Cupressaceae
-genus                                    Chamaecyparis
-specificEpithet                             lawsoniana
-infraspecificEpithet                               NaN
-nameAcordingTo                                   Parl.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Chamaecyparis lawsoniana Parl.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-locationRemarks                                    NaN
-sex                                                NaN
+acceptedNameUsage    Chamaecyparis lawsoniana Parl.
+Nombre común                                    NaN
+sex                                             NaN
 Name: AA1691, dtype: object

@@ -1,23 +1,4 @@
-catalogNumber                                AA0058
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348649
-decimalLongitude                            6284189
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                      Myrtales
-family                                    Myrtaceae
-genus                                    Eucalyptus
-specificEpithet                            globulus
-infraspecificEpithet                            NaN
-nameAcordingTo                              Labill.
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Eucalyptus globulus Labill.
-Nombre común                                    NaN
-Estado                                     Extraído
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
-locationRemarks                                 NaN
-sex                                   hermaphrodite
+acceptedNameUsage    Eucalyptus globulus Labill.
+Nombre común                                 NaN
+sex                                hermaphrodite
 Name: AA0058, dtype: object

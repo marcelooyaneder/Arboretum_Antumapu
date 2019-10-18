@@ -1,23 +1,4 @@
-catalogNumber                             AA1546
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348567
-decimalLongitude                         6284261
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                 Sapindales
-family                             Anacardiaceae
-genus                                    Schinus
-specificEpithet                       latifolius
-infraspecificEpithet                         NaN
-nameAcordingTo                             Engl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Schinus latifolius Engl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-locationRemarks                              NaN
-sex                                hermaphrodite
+acceptedNameUsage    Schinus latifolius Engl.
+Nombre común                              NaN
+sex                             hermaphrodite
 Name: AA1546, dtype: object

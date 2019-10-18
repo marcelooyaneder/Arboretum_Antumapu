@@ -1,23 +1,4 @@
-catalogNumber                            AA0519
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348533
-decimalLongitude                        6284402
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                  Laurales
-family                            Gomortegaceae
-genus                                 Gomortega
-specificEpithet                           keule
-infraspecificEpithet                        NaN
-nameAcordingTo                          Gunckel
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Gomortega keule Gunckel
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                 2016
-locationRemarks                             NaN
-sex                                         NaN
+acceptedNameUsage    Gomortega keule Gunckel
+Nombre común                             NaN
+sex                                      NaN
 Name: AA0519, dtype: object

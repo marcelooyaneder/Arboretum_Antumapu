@@ -1,23 +1,4 @@
-catalogNumber                                  AA0616
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348539
-decimalLongitude                              6284494
-phylum                                   Tracheophyta
-Class                                       Pinopsida
-order                                     Cupressales
-family                                  Araucariaceae
-genus                                       Araucaria
-specificEpithet                          angustifolia
-infraspecificEpithet                              NaN
-nameAcordingTo                                 Kuntze
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Araucaria angustifolia Kuntze
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
-locationRemarks                                   NaN
-sex                                               NaN
+acceptedNameUsage    Araucaria angustifolia Kuntze
+Nombre común                                   NaN
+sex                                            NaN
 Name: AA0616, dtype: object
