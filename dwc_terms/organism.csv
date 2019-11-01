@@ -1,1 +1,8 @@
-organismID;organismName;organismScope;associatedOccurrences;associatedOrganisms;previousIdentifications;organismRemarks
+standardFieldName;verbatimFieldName;uri
+organismID;ID del organismo;http://rs.tdwg.org/dwc/terms/organismID
+organismName;Nombre del organismo;http://rs.tdwg.org/dwc/terms/organismName
+organismScope;Alcance del organismo;http://rs.tdwg.org/dwc/terms/organismScope
+associatedOccurrences;Registros biológicos asociados;http://rs.tdwg.org/dwc/terms/associatedOccurrences
+associatedOrganisms;Organismos asociados;http://rs.tdwg.org/dwc/terms/associatedOrganisms
+previousIdentifications;Identificaciones Previas;http://rs.tdwg.org/dwc/terms/previousIdentifications
+organismRemarks;Comentarios del organismo;http://rs.tdwg.org/dwc/terms/organismRemarks

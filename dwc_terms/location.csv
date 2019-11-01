@@ -1,1 +1,44 @@
-locationID;higherGeographyID;higherGeography;continent;waterBody;islandGroup;island;country;countryCode;stateProvince;county;municipality;locality;verbatimLocality;minimumElevationInMeters;maximumElevationInMeters;verbatimElevation;minimumDepthInMeters;maximumDepthInMeters;verbatimDepth;minimumDistanceAboveSurfaceInMeters;maximumDistanceAboveSurfaceInMeters;locationAccordingTo;locationRemarks;decimalLatitude;decimalLongitude;geodeticDatum;coordinateUncertaintyInMeters;coordinatePrecision;pointRadiusSpatialFit;verbatimCoordinates;verbatimLatitude;verbatimLongitude;verbatimCoordinateSystem;verbatimSRS;footprintWKT;footprintSRS;footprintSpatialFit;georeferencedBy;georeferencedDate;georeferenceProtocol;georeferenceSources;georeferenceVerificationStatus;georeferenceRemarks
+standardFieldName;verbatimFieldName;uri
+locationID;ID de la ubicación;http://rs.tdwg.org/dwc/terms/locationID
+higherGeographyID;ID de la geografía superior;http://rs.tdwg.org/dwc/terms/higherGeographyID
+higherGeography;Geografía superior;http://rs.tdwg.org/dwc/terms/higherGeography
+continent;Continente;http://rs.tdwg.org/dwc/terms/continent
+waterBody;Cuerpo de agua;http://rs.tdwg.org/dwc/terms/waterBody
+islandGroup;Grupo de islas;http://rs.tdwg.org/dwc/terms/islandGroup
+island;Isla;http://rs.tdwg.org/dwc/terms/island
+countryCode;Código del país;http://rs.tdwg.org/dwc/terms/countryCode
+stateProvince;Departamento;http://rs.tdwg.org/dwc/terms/stateProvince
+county;Municipio;http://rs.tdwg.org/dwc/terms/county
+municipality;Centro poblado / Cabecera municipal;http://rs.tdwg.org/dwc/terms/municipality
+locality;Localidad;http://rs.tdwg.org/dwc/terms/locality
+verbatimLocality;Localidad original;http://rs.tdwg.org/dwc/terms/verbatimLocality
+minimumElevationInMeters;Elevación mínima en metros;http://rs.tdwg.org/dwc/terms/minimumElevationInMeters
+maximumElevationInMeters;Elevación máxima en metros;http://rs.tdwg.org/dwc/terms/maximumElevationInMeters
+verbatimElevation;Elevación original;http://rs.tdwg.org/dwc/terms/verbatimElevation
+minimumDepthInMeters;Profundidad mínima en metros;http://rs.tdwg.org/dwc/terms/minimumDepthInMeters
+maximumDepthInMeters;Profundidad máxima en metros;http://rs.tdwg.org/dwc/terms/maximumDepthInMeters
+verbatimDepth;Profundidad original;http://rs.tdwg.org/dwc/terms/verbatimDepth
+minimumDistanceAboveSurfaceInMeters;Distancia mínima de la superficie metros;http://rs.tdwg.org/dwc/terms/minimumDistanceAboveSurfaceInMeters
+maximumDistanceAboveSurfaceInMeters;Distancia máxima de la superficie metros;http://rs.tdwg.org/dwc/terms/maximumDistanceAboveSurfaceInMeters
+locationAccordingTo;Ubicación de acuerdo con;http://rs.tdwg.org/dwc/terms/locationAccordingTo
+locationRemarks;Comentarios de la ubicación;http://rs.tdwg.org/dwc/terms/locationRemarks
+decimalLatitude;Latitud decimal;http://rs.tdwg.org/dwc/terms/decimalLatitude
+decimalLongitude;Longitud decimal;http://rs.tdwg.org/dwc/terms/decimalLongitude
+geodeticDatum;Datum geodésico;http://rs.tdwg.org/dwc/terms/geodeticDatum
+coordinateUncertaintyInMeters;Incertidumbre de las coordenadas en metros;http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters
+coordinatePrecision;Precisión de las coordenadas;http://rs.tdwg.org/dwc/terms/coordinatePrecision
+pointRadiusSpatialFit;Ajuste espacial del radio-punto;http://rs.tdwg.org/dwc/terms/pointRadiusSpatialFit
+verbatimCoordinates;Coordenadas originales;http://rs.tdwg.org/dwc/terms/verbatimCoordinates
+verbatimLatitude;Latitud original;http://rs.tdwg.org/dwc/terms/verbatimLatitude
+verbatimLongitude;Longitud original;http://rs.tdwg.org/dwc/terms/verbatimLongitude
+verbatimCoordinateSystem;Sistema original de coordenadas;http://rs.tdwg.org/dwc/terms/verbatimCoordinateSystem
+verbatimSRS;SRS original;http://rs.tdwg.org/dwc/terms/verbatimSRS
+footprintWKT;WKT footprint;http://rs.tdwg.org/dwc/terms/footprintWKT
+footprintSRS;SRS footprint;http://rs.tdwg.org/dwc/terms/footprintSRS
+footprintSpatialFit;Ajuste espacial de footprint;http://rs.tdwg.org/dwc/terms/footprintSpatialFit
+georeferencedBy;Georreferenciado por;http://rs.tdwg.org/dwc/terms/georeferencedBy
+georeferencedDate;Fecha de georreferenciación;http://rs.tdwg.org/dwc/terms/georeferencedDate
+georeferenceProtocol;Protocolo de georreferenciación;http://rs.tdwg.org/dwc/terms/georeferenceProtocol
+georeferenceSources;Fuentes de georreferenciación;http://rs.tdwg.org/dwc/terms/georeferenceSources
+georeferenceVerificationStatus;Estado de la verificación de la georreferenciación;http://rs.tdwg.org/dwc/terms/georeferenceVerificationStatus
+georeferenceRemarks;Comentarios de la georreferenciación;http://rs.tdwg.org/dwc/terms/georeferenceRemarks

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #package imports
 import pandas as pd
 import os

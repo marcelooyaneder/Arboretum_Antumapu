@@ -1,1 +1,9 @@
-identificationID;identificationQualifier;typeStatus;identifiedBy;dateIdentified;identificationReferences;identificationVerificationStatus;identificationRemarks
+standardFieldName;verbatimFieldName;uri
+identificationID;ID de la identificación;http://rs.tdwg.org/dwc/terms/identificationID
+identificationQualifier;Calificador de la identificación;http://rs.tdwg.org/dwc/terms/identificationQualifier
+typeStatus;Estado del tipo;http://rs.tdwg.org/dwc/terms/typeStatus
+identifiedBy;Identificado por;http://rs.tdwg.org/dwc/terms/identifiedBy
+dateIdentified;Fecha de identificación;http://rs.tdwg.org/dwc/terms/dateIdentified
+identificationReferences;Referencias de la identificación;http://rs.tdwg.org/dwc/terms/identificationReferences
+identificationVerificationStatus;Estado de la verificación de la identificación;http://rs.tdwg.org/dwc/terms/identificationVerificationStatus
+identificationRemarks;Comentarios de la Identificación;http://rs.tdwg.org/dwc/terms/identificationRemarks

@@ -1,1 +1,20 @@
-type;modified;language;license;rightsHolder;accessRights;bibliographicCitation;references;institutionID;collectionID;datasetID;institutionCode;collectionCode;datasetName;ownerInstitutionCode;basisOfRecord;informationWithheld;dataGeneralizations;dynamicProperties
+standardFieldName;verbatimFieldName;uri
+type;Tipo;http://purl.org/dc/terms/type
+modified;Modificado;http://purl.org/dc/terms/modified
+language;Idioma;http://purl.org/dc/terms/language
+license;Licencia;http://purl.org/dc/terms/license
+rightsHolder;Titular de los derechos;http://purl.org/dc/terms/rightsHolder
+accessRights;Derechos de acceso;http://purl.org/dc/terms/accessRights
+bibliographicCitation;Citación bibliográfica;http://purl.org/dc/terms/bibliographicCitation
+references;Referencias;http://purl.org/dc/terms/references
+institutionID;ID de la institución;http://rs.tdwg.org/dwc/terms/institutionID
+collectionID;ID de la colección;http://rs.tdwg.org/dwc/terms/collectionID
+datasetID;ID del conjunto de datos;http://rs.tdwg.org/dwc/terms/datasetID
+institutionCode;Código de la institución;http://rs.tdwg.org/dwc/terms/institutionCode
+collectionCode;Código de la colección;http://rs.tdwg.org/dwc/terms/collectionCode
+datasetName;Nombre del conjunto de datos;http://rs.tdwg.org/dwc/terms/datasetName
+ownerInstitutionCode;Código de la institución propietaria;http://rs.tdwg.org/dwc/terms/ownerInstitutionCode
+basisOfRecord;Base del registro;http://rs.tdwg.org/dwc/terms/basisOfRecord
+informationWithheld;Información retenida;http://rs.tdwg.org/dwc/terms/informationWithheld
+dataGeneralizations;Generalización de los datos;http://rs.tdwg.org/dwc/terms/dataGeneralizations
+dynamicProperties;Propiedades dinámicas;http://rs.tdwg.org/dwc/terms/dynamicProperties
