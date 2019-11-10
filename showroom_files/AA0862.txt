@@ -1,4 +1,3 @@
 acceptedNameUsage    Annona cherimola Miller
 Nombre común                             NaN
-sex                                      NaN
 Name: AA0862, dtype: object

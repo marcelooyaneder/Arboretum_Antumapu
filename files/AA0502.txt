@@ -13,11 +13,7 @@ nameAcordingTo                               Cav.
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Eucryphia cordifolia Cav.
-Nombre común                                  NaN
-Estado                                     Muerto
 establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2016
 locationRemarks                               NaN
 sex                                 hermaphrodite
 Name: AA0502, dtype: object

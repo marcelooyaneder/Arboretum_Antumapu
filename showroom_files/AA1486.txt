@@ -1,4 +1,3 @@
 acceptedNameUsage    Beilschmiedia miersii Kosterm.
 Nombre común                                    NaN
-sex                                   hermaphrodite
 Name: AA1486, dtype: object

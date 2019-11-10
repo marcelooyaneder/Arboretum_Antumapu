@@ -1,4 +1,3 @@
 acceptedNameUsage    Grevillea robusta A.Cunn. ex R.Br.
 Nombre común                                        NaN
-sex                                       hermaphrodite
 Name: AA0620, dtype: object

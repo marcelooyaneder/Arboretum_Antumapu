@@ -1,4 +1,3 @@
 acceptedNameUsage    Senna multiglandulosa H.S.Irwin & Barneby
 Nombre común                                               NaN
-sex                                              hermaphrodite
 Name: AA1499, dtype: object

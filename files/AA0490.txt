@@ -13,11 +13,7 @@ nameAcordingTo                               D.Don
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Citronella mucronata D.Don
-Nombre común                                   NaN
-Estado                                        Viva
 establishmentMeans                          Nativa
-ingreso                                       2019
-plantacion                                    2016
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA0490, dtype: object

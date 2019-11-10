@@ -1,4 +1,3 @@
 acceptedNameUsage    Araucaria araucana K.Koch
 Nombre común                               NaN
-sex                                        NaN
 Name: AA1698, dtype: object

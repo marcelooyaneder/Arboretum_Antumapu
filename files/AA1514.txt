@@ -13,11 +13,7 @@ nameAcordingTo                                 Phil.
 verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Avellanita bustillosii Phil.
-Nombre común                                     NaN
-Estado                                        Muerto
 establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                      2016
 locationRemarks                                  NaN
 sex                                              NaN
 Name: AA1514, dtype: object

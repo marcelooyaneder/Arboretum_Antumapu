@@ -1,4 +1,3 @@
 acceptedNameUsage    Jasminum mesnyi Hance
 Nombre común                           NaN
-sex                                    NaN
 Name: AA0479, dtype: object

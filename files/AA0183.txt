@@ -13,11 +13,7 @@ nameAcordingTo                        L.
 verbatimTaxonRank                    NaN
 taxonRank                        species
 acceptedNameUsage       Ginkgo biloba L.
-Nombre común                         NaN
-Estado                              Viva
 establishmentMeans               Exótica
-ingreso                             2019
-plantacion                          2015
 locationRemarks                      NaN
 sex                                  NaN
 Name: AA0183, dtype: object

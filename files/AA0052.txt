@@ -13,11 +13,7 @@ nameAcordingTo                                 R.Br.
 verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Brachychiton populneus R.Br.
-Nombre común                             Braquiquito
-Estado                                          Viva
 establishmentMeans                           Exótica
-ingreso                                         2019
-plantacion                                       NaN
 locationRemarks                                  NaN
 sex                                    hermaphrodite
 Name: AA0052, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Lomatia ferruginea R.Br.
 Nombre común                              NaN
-sex                             hermaphrodite
 Name: AA0566, dtype: object

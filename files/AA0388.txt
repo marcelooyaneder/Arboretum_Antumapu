@@ -13,11 +13,7 @@ nameAcordingTo                      L.
 verbatimTaxonRank                  NaN
 taxonRank                      species
 acceptedNameUsage        Morus alba L.
-Nombre común                       NaN
-Estado                        Extraído
 establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
 locationRemarks                    NaN
 sex                      hermaphrodite
 Name: AA0388, dtype: object

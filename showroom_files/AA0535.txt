@@ -1,4 +1,3 @@
 acceptedNameUsage    Nothofagus nitida Krasser
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA0535, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Lagerstroemia indica L.
 Nombre común                             NaN
-sex                            hermaphrodite
 Name: AA1679, dtype: object

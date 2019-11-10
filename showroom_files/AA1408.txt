@@ -1,4 +1,3 @@
 acceptedNameUsage    Catalpa speciosa Engelm.
 Nombre común                              NaN
-sex                             hermaphrodite
 Name: AA1408, dtype: object

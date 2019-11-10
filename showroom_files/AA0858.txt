@@ -1,4 +1,3 @@
 acceptedNameUsage    Cydonia oblonga Mill.
 Nombre común                           NaN
-sex                                    NaN
 Name: AA0858, dtype: object

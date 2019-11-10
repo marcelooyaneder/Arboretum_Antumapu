@@ -1,1 +1,18 @@
-geologicalContextID;earliestEonOrLowestEonothem;latestEonOrHighestEonothem;earliestEraOrLowestErathem;latestEraOrHighestErathem;earliestPeriodOrLowestSystem;latestPeriodOrHighestSystem;earliestEpochOrLowestSeries;latestEpochOrHighestSeries;earliestAgeOrLowestStage;latestAgeOrHighestStage;lowestBiostratigraphicZone;highestBiostratigraphicZone;lithostratigraphicTerms;group;formation;member;bed
+standardFieldName;verbatimFieldName;uri
+geologicalContextID;ID del contexto geológico;http://rs.tdwg.org/dwc/terms/geologicalContextID
+earliestEonOrLowestEonothem;Eón temprano o eonotema inferior;http://rs.tdwg.org/dwc/terms/earliestEonOrLowestEonothem
+earliestEraOrLowestErathem;Era temprana o eratema inferior;http://rs.tdwg.org/dwc/terms/earliestEraOrLowestErathem
+latestEraOrHighestErathem;Era tardía o eratema superior;http://rs.tdwg.org/dwc/terms/latestEraOrHighestErathem
+earliestPeriodOrLowestSystem;Periodo temprano o sistema inferior;http://rs.tdwg.org/dwc/terms/earliestPeriodOrLowestSystem
+latestPeriodOrHighestSystem;Periodo tardío o sistema superior;http://rs.tdwg.org/dwc/terms/latestPeriodOrHighestSystem
+earliestEpochOrLowestSeries;Época temprana o serie inferior;http://rs.tdwg.org/dwc/terms/earliestEpochOrLowestSeries
+latestEpochOrHighestSeries;Época tardía o serie superior;http://rs.tdwg.org/dwc/terms/latestEpochOrHighestSeries
+earliestAgeOrLowestStage;Edad temprana o piso inferior;http://rs.tdwg.org/dwc/terms/earliestAgeOrLowestStage
+latestAgeOrHighestStage;Edad tardía o piso superior;http://rs.tdwg.org/dwc/terms/latestAgeOrHighestStage
+lowestBiostratigraphicZone;Zona bioestratigráfica inferior;http://rs.tdwg.org/dwc/terms/lowestBiostratigraphicZone
+highestBiostratigraphicZone;Zona bioestratigráfica superior;http://rs.tdwg.org/dwc/terms/highestBiostratigraphicZone
+lithostratigraphicTerms;Términos litoestratigráficos;http://rs.tdwg.org/dwc/terms/lithostratigraphicTerms
+group;Grupo;http://rs.tdwg.org/dwc/terms/group
+formation;Formación;http://rs.tdwg.org/dwc/terms/formation
+member;Miembro;http://rs.tdwg.org/dwc/terms/member
+bed;Capa;http://rs.tdwg.org/dwc/terms/bed

@@ -1,4 +1,3 @@
 acceptedNameUsage    Polylepis tarapacana Phil.
 Nombre común                                NaN
-sex                                         NaN
 Name: AA0364, dtype: object

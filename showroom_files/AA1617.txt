@@ -1,4 +1,3 @@
 acceptedNameUsage    Lagunaria patersonii G.Don
 Nombre común                                NaN
-sex                                         NaN
 Name: AA1617, dtype: object

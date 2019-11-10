@@ -1,4 +1,3 @@
 acceptedNameUsage    Morus alba L.
 Nombre común                   NaN
-sex                  hermaphrodite
 Name: AA0878, dtype: object

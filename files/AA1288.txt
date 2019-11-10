@@ -13,11 +13,7 @@ nameAcordingTo                           Thunb.
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Cussonia spicata Thunb.
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
 locationRemarks                             NaN
 sex                                         NaN
 Name: AA1288, dtype: object

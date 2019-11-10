@@ -1,4 +1,3 @@
 acceptedNameUsage    Sequoia sempervirens Endl.
 Nombre común                                NaN
-sex                                         NaN
 Name: AA1589, dtype: object

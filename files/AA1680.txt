@@ -13,11 +13,7 @@ nameAcordingTo                               D.Don
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Cryptomeria japonica D.Don
-Nombre común                                   NaN
-Estado                                    Extraído
 establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA1680, dtype: object

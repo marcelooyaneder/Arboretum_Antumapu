@@ -13,11 +13,7 @@ nameAcordingTo                              Frodin
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Raukaua laetevirens Frodin
-Nombre común                                   NaN
-Estado                                        Viva
 establishmentMeans                          Nativa
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA0508, dtype: object

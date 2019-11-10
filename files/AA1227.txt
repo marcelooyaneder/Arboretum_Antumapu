@@ -13,11 +13,7 @@ nameAcordingTo                          Gaertn.
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Alnus glutinosa Gaertn.
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
 locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA1227, dtype: object

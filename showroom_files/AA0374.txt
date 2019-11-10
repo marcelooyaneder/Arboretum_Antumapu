@@ -1,4 +1,3 @@
 acceptedNameUsage    Peumus boldus (Molina) Molina
 Nombre común                                   NaN
-sex                                         female
 Name: AA0374, dtype: object

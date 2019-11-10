@@ -1,4 +1,3 @@
 acceptedNameUsage    Acer japonicum C.P.Thunberg ex A.Murray
 Nombre común                                             NaN
-sex                                            hermaphrodite
 Name: AA0849, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                                Lindl.
 verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Saxegothaea conspicua Lindl.
-Nombre común                                     NaN
-Estado                                        Muerto
 establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                       NaN
 locationRemarks                                  NaN
 sex                                    hermaphrodite
 Name: AA0514, dtype: object

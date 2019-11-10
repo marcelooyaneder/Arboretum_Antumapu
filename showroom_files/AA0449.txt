@@ -1,4 +1,3 @@
 acceptedNameUsage    Nothofagus obliqua Oerst.
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA0449, dtype: object

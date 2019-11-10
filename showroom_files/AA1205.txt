@@ -1,4 +1,3 @@
 acceptedNameUsage    Quercus nigra L.
 Nombre común                      NaN
-sex                               NaN
 Name: AA1205, dtype: object

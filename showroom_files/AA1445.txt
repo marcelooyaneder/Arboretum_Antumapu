@@ -1,4 +1,3 @@
 acceptedNameUsage    Olea europaea L.
 Nombre común                      NaN
-sex                     hermaphrodite
 Name: AA1445, dtype: object

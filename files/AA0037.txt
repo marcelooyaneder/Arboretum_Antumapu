@@ -13,11 +13,7 @@ nameAcordingTo                      L.
 verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage          Tamarix  L.
-Nombre común                 Tamarisco
-Estado                            Viva
 establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
 locationRemarks                    NaN
 sex                                NaN
 Name: AA0037, dtype: object

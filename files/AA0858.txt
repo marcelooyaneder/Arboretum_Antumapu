@@ -13,11 +13,7 @@ nameAcordingTo                          Mill.
 verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Cydonia oblonga Mill.
-Nombre común                              NaN
-Estado                                   Viva
 establishmentMeans                    Exótica
-ingreso                                  2019
-plantacion                               2015
 locationRemarks                           NaN
 sex                                       NaN
 Name: AA0858, dtype: object

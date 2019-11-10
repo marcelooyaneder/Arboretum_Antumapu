@@ -13,11 +13,7 @@ nameAcordingTo                      L.
 verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage          Populus  L.
-Nombre común                       NaN
-Estado                            Viva
 establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
 locationRemarks                    NaN
 sex                      hermaphrodite
 Name: AA1086, dtype: object

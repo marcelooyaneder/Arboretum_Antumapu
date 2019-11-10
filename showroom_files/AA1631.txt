@@ -1,4 +1,3 @@
 acceptedNameUsage    Calycanthus floridus L.
 Nombre común                             NaN
-sex                            hermaphrodite
 Name: AA1631, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Araucaria bidwillii Hook.
 Nombre común             Araucaria australiana
-sex                                        NaN
 Name: AA0002, dtype: object

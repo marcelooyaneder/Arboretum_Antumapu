@@ -1,4 +1,3 @@
 acceptedNameUsage    Brachychiton discolor F.Muell.
 Nombre común                                    NaN
-sex                                   hermaphrodite
 Name: AA0175, dtype: object

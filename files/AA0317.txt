@@ -13,11 +13,7 @@ nameAcordingTo                             (Molina) Molina
 verbatimTaxonRank                                      NaN
 taxonRank                                          species
 acceptedNameUsage       Quillaja saponaria (Molina) Molina
-Nombre común                                           NaN
-Estado                                                Viva
 establishmentMeans                                  Nativa
-ingreso                                               2019
-plantacion                                             NaN
 locationRemarks                                        NaN
 sex                                          hermaphrodite
 Name: AA0317, dtype: object

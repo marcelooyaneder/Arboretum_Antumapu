@@ -1,4 +1,3 @@
 acceptedNameUsage    Robinia pseudoacacia L.
 Nombre común                    Falsa acacia
-sex                            hermaphrodite
 Name: AA0033, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                                  L.
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Liquidambar styraciflua L.
-Nombre común                           Liquidambar
-Estado                                        Viva
 establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                  hermaphrodite
 Name: AA0022, dtype: object

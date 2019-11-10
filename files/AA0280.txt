@@ -13,11 +13,7 @@ nameAcordingTo                            Ehrh.
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Prunus cerasifera Ehrh.
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
 locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA0280, dtype: object

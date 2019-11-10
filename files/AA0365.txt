@@ -13,11 +13,7 @@ nameAcordingTo                                 Solms
 verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Vasconcellea chilensis Solms
-Nombre común                                     NaN
-Estado                                          Viva
 establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                      2016
 locationRemarks                                  NaN
 sex                                              NaN
 Name: AA0365, dtype: object

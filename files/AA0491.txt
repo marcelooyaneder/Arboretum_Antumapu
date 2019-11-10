@@ -13,11 +13,7 @@ nameAcordingTo                       A.Gray
 verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Luma chequen A.Gray
-Nombre común                            NaN
-Estado                                 Viva
 establishmentMeans                   Nativa
-ingreso                                2019
-plantacion                             2014
 locationRemarks                         NaN
 sex                           hermaphrodite
 Name: AA0491, dtype: object

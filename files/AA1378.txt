@@ -13,11 +13,7 @@ nameAcordingTo                                Kalkman
 verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Photinia serratifolia Kalkman
-Nombre común                                      NaN
-Estado                                           Viva
 establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
 locationRemarks                                   NaN
 sex                                               NaN
 Name: AA1378, dtype: object

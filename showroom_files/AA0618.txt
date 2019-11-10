@@ -1,4 +1,3 @@
 acceptedNameUsage    Blepharocalyx cruckshanksii Nied.
 Nombre común                                       NaN
-sex                                                NaN
 Name: AA0618, dtype: object

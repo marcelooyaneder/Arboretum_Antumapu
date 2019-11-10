@@ -1,1 +1,34 @@
-taxonID;scientificNameID;acceptedNameUsageID;parentNameUsageID;originalNameUsageID;nameAccordingToID;namePublishedInID;taxonConceptID;scientificName;acceptedNameUsage;parentNameUsage;originalNameUsage;nameAccordingTo;namePublishedIn;namePublishedInYear;higherClassification;kingdom;phylum;class;order;family;genus;subgenus;specificEpithet;infraspecificEpithet;taxonRank;verbatimTaxonRank;scientificNameAuthorship;vernacularName;nomenclaturalCode;taxonomicStatus;nomenclaturalStatus;taxonRemarks
+standardFieldName;verbatimFieldName;uri
+taxonID;ID del taxón;http://rs.tdwg.org/dwc/terms/taxonID
+scientificNameID;ID del nombre científico;http://rs.tdwg.org/dwc/terms/scientificNameID
+acceptedNameUsageID;ID del nombre aceptado usado;http://rs.tdwg.org/dwc/terms/acceptedNameUsageID
+parentNameUsageID;ID del nombre parental usado;http://rs.tdwg.org/dwc/terms/parentNameUsageID
+originalNameUsageID;ID del nombre original usado;http://rs.tdwg.org/dwc/terms/originalNameUsageID
+nameAccordingToID;ID del nombre de acuerdo con;http://rs.tdwg.org/dwc/terms/nameAccordingToID
+namePublishedInID;ID del nombre publicado en;http://rs.tdwg.org/dwc/terms/namePublishedInID
+taxonConceptID;ID del concepto del taxón;http://rs.tdwg.org/dwc/terms/taxonConceptID
+scientificName;Nombre científico;http://rs.tdwg.org/dwc/terms/scientificName
+acceptedNameUsage;Nombre aceptado usado;http://rs.tdwg.org/dwc/terms/acceptedNameUsage
+parentNameUsage;Nombre parental usado;http://rs.tdwg.org/dwc/terms/parentNameUsage
+originalNameUsage;Nombre original usado;http://rs.tdwg.org/dwc/terms/originalNameUsage
+nameAccordingTo;Nombre de acuerdo con;http://rs.tdwg.org/dwc/terms/nameAccordingTo
+namePublishedIn;Nombre publicado en;http://rs.tdwg.org/dwc/terms/namePublishedIn
+namePublishedInYear;Nombre publicado en el año;http://rs.tdwg.org/dwc/terms/namePublishedInYear
+higherClassification;Clasificación superior;http://rs.tdwg.org/dwc/terms/higherClassification
+kingdom;Reino;http://rs.tdwg.org/dwc/terms/kingdom
+phylum;Filo;http://rs.tdwg.org/dwc/terms/phylum
+class;Clase;http://rs.tdwg.org/dwc/terms/class
+order;Orden;http://rs.tdwg.org/dwc/terms/order
+family;Familia;http://rs.tdwg.org/dwc/terms/family
+genus;Género;http://rs.tdwg.org/dwc/terms/genus
+subgenus;Subgénero;http://rs.tdwg.org/dwc/terms/subgenus
+specificEpithet;Epíteto específico;http://rs.tdwg.org/dwc/terms/specificEpithet
+infraspecificEpithet;Epíteto infraespecífico;http://rs.tdwg.org/dwc/terms/infraspecificEpithet
+taxonRank;Categoría del taxón;http://rs.tdwg.org/dwc/terms/taxonRank
+verbatimTaxonRank;Categoría original del taxón;http://rs.tdwg.org/dwc/terms/verbatimTaxonRank
+scientificNameAuthorship;Autoría del nombre científico;http://rs.tdwg.org/dwc/terms/scientificNameAuthorship
+vernacularName;Nombre común;http://rs.tdwg.org/dwc/terms/vernacularName
+nomenclaturalCode;Código nomenclatural;http://rs.tdwg.org/dwc/terms/nomenclaturalCode
+taxonomicStatus;Estado taxonómico;http://rs.tdwg.org/dwc/terms/taxonomicStatus
+nomenclaturalStatus;Estado nomenclatural;http://rs.tdwg.org/dwc/terms/nomenclaturalStatus
+taxonRemarks;Comentarios del taxón;http://rs.tdwg.org/dwc/terms/taxonRemarks

@@ -13,11 +13,7 @@ nameAcordingTo                              Lam.
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Fuchsia magellanica Lam.
-Nombre común                                 NaN
-Estado                                      Viva
 establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
 locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA1264, dtype: object

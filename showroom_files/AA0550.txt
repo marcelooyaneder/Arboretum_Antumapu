@@ -1,4 +1,3 @@
 acceptedNameUsage    Rhaphithamnus spinosus Moldenke
 Nombre común                                     NaN
-sex                                    hermaphrodite
 Name: AA0550, dtype: object

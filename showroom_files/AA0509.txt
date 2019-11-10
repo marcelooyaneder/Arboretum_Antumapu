@@ -1,4 +1,3 @@
 acceptedNameUsage    Azara lanceolata Hook.f.
 Nombre común                              NaN
-sex                             hermaphrodite
 Name: AA0509, dtype: object

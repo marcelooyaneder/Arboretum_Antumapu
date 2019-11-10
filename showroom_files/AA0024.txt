@@ -1,4 +1,3 @@
 acceptedNameUsage    Acer pseudoplatanus L.
 Nombre común                    Arce blanco
-sex                           hermaphrodite
 Name: AA0024, dtype: object

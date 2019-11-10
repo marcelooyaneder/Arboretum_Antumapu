@@ -1,4 +1,3 @@
 acceptedNameUsage    Yucca gigantea Regel ex Trel.
 Nombre común                                   NaN
-sex                                  hermaphrodite
 Name: AA1624, dtype: object

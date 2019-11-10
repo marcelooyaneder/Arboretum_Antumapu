@@ -13,11 +13,7 @@ nameAcordingTo                        L.
 verbatimTaxonRank                    NaN
 taxonRank                        species
 acceptedNameUsage       Schinus molle L.
-Nombre común                    Pimiento
-Estado                              Viva
 establishmentMeans                Nativa
-ingreso                             2019
-plantacion                           NaN
 locationRemarks                      NaN
 sex                        hermaphrodite
 Name: AA0040, dtype: object

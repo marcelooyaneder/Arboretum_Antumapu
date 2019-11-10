@@ -1,4 +1,3 @@
 acceptedNameUsage    Desfontainia fulgens D.Don
 Nombre común                                NaN
-sex                                         NaN
 Name: AA0560, dtype: object

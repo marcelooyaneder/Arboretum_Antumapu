@@ -1,4 +1,3 @@
 acceptedNameUsage    Liquidambar styraciflua L.
 Nombre común                        Liquidambar
-sex                               hermaphrodite
 Name: AA0025, dtype: object

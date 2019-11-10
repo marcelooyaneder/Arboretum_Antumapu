@@ -1,4 +1,3 @@
 acceptedNameUsage    Crataegus monogyna Jacq.
 Nombre común                              NaN
-sex                             hermaphrodite
 Name: AA0759, dtype: object

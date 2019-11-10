@@ -1,4 +1,3 @@
 acceptedNameUsage    Crinodendron patagua (Molina) Molina
 Nombre común                                          NaN
-sex                                         hermaphrodite
 Name: AA0586, dtype: object

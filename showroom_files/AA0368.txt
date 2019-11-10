@@ -1,4 +1,3 @@
 acceptedNameUsage    Cordia decandra Hook. & Arn.
 Nombre común                                  NaN
-sex                                           NaN
 Name: AA0368, dtype: object

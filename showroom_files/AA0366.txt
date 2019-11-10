@@ -1,4 +1,3 @@
 acceptedNameUsage    Prosopis tamarugo Phil.
 Nombre común                             NaN
-sex                            hermaphrodite
 Name: AA0366, dtype: object

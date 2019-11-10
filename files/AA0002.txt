@@ -13,11 +13,7 @@ nameAcordingTo                              Hook.
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Araucaria bidwillii Hook.
-Nombre común                Araucaria australiana
-Estado                                       Viva
 establishmentMeans                        Exótica
-ingreso                                      2019
-plantacion                                    NaN
 locationRemarks                               NaN
 sex                                           NaN
 Name: AA0002, dtype: object

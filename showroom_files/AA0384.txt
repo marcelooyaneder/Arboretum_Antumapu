@@ -1,4 +1,3 @@
 acceptedNameUsage    Clematicissus striata Ruiz & Pav.
 Nombre común                                       NaN
-sex                                                NaN
 Name: AA0384, dtype: object

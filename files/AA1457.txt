@@ -13,11 +13,7 @@ nameAcordingTo                            Hook. & Arn.
 verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Lithraea caustica Hook. & Arn.
-Nombre común                                       NaN
-Estado                                            Viva
 establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                        2016
 locationRemarks                                    NaN
 sex                                      hermaphrodite
 Name: AA1457, dtype: object

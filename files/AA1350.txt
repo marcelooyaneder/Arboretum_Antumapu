@@ -13,11 +13,7 @@ nameAcordingTo                               L.
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Lagerstroemia indica L.
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
 locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA1350, dtype: object

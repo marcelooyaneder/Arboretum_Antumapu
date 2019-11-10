@@ -1,4 +1,3 @@
 acceptedNameUsage    Fraxinus ornus L.
 Nombre común                       NaN
-sex                      hermaphrodite
 Name: AA0078, dtype: object

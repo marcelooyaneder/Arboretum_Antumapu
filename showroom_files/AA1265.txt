@@ -1,4 +1,3 @@
 acceptedNameUsage    Washingtonia filifera H.Wendl. ex de Bary
 Nombre común                                               NaN
-sex                                              hermaphrodite
 Name: AA1265, dtype: object

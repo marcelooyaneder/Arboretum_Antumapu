@@ -1,4 +1,3 @@
 acceptedNameUsage    Nothofagus alessandrii Espinosa
 Nombre común                                     NaN
-sex                                    hermaphrodite
 Name: AA0527, dtype: object

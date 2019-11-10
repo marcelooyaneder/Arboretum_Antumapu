@@ -1,4 +1,3 @@
 acceptedNameUsage    Juglans nigra L.
 Nombre común                      NaN
-sex                     hermaphrodite
 Name: AA1655, dtype: object

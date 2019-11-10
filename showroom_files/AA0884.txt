@@ -1,4 +1,3 @@
 acceptedNameUsage    Phoenix canariensis H.Wildpret
 Nombre común                                    NaN
-sex                                   hermaphrodite
 Name: AA0884, dtype: object

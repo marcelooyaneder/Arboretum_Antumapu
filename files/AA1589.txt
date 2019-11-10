@@ -13,11 +13,7 @@ nameAcordingTo                               Endl.
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Sequoia sempervirens Endl.
-Nombre común                                   NaN
-Estado                                        Viva
 establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA1589, dtype: object

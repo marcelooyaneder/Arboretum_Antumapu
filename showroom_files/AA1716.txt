@@ -1,4 +1,3 @@
 acceptedNameUsage    Juglans regia L.
 Nombre común                      NaN
-sex                     hermaphrodite
 Name: AA1716, dtype: object

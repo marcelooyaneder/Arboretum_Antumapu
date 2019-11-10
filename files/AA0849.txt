@@ -13,11 +13,7 @@ nameAcordingTo                         C.P.Thunberg ex A.Murray
 verbatimTaxonRank                                           NaN
 taxonRank                                               species
 acceptedNameUsage       Acer japonicum C.P.Thunberg ex A.Murray
-Nombre común                                                NaN
-Estado                                                     Viva
 establishmentMeans                                      Exótica
-ingreso                                                    2019
-plantacion                                                 2016
 locationRemarks                                             NaN
 sex                                               hermaphrodite
 Name: AA0849, dtype: object

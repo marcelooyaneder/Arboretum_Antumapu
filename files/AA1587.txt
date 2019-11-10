@@ -13,11 +13,7 @@ nameAcordingTo                         Lem.
 verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Yucca gigantea Lem.
-Nombre común                            NaN
-Estado                                 Viva
 establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
 locationRemarks                         NaN
 sex                           hermaphrodite
 Name: AA1587, dtype: object

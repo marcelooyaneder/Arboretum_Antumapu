@@ -1,4 +1,3 @@
 acceptedNameUsage    Quillaja saponaria (Molina) Molina
 Nombre común                                        NaN
-sex                                       hermaphrodite
 Name: AA0695, dtype: object

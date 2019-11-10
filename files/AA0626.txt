@@ -13,11 +13,7 @@ nameAcordingTo                             Pers.
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Baccharis linearis Pers.
-Nombre común                                 NaN
-Estado                                      Viva
 establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
 locationRemarks                              NaN
 sex                                          NaN
 Name: AA0626, dtype: object

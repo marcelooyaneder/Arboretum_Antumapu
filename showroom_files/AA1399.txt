@@ -1,4 +1,3 @@
 acceptedNameUsage    Nerium oleander L.
 Nombre común                        NaN
-sex                       hermaphrodite
 Name: AA1399, dtype: object

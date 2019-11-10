@@ -1,4 +1,3 @@
 acceptedNameUsage    Peumus boldus (Molina) Molina
 Nombre común                                   NaN
-sex                                           male
 Name: AA0613, dtype: object

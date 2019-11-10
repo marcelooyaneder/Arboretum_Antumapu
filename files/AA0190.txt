@@ -13,11 +13,7 @@ nameAcordingTo                        L.
 verbatimTaxonRank                    NaN
 taxonRank                        species
 acceptedNameUsage       Schinus molle L.
-Nombre común                         NaN
-Estado                              Viva
 establishmentMeans                Nativa
-ingreso                             2019
-plantacion                           NaN
 locationRemarks                      NaN
 sex                        hermaphrodite
 Name: AA0190, dtype: object

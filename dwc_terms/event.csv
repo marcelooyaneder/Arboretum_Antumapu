@@ -1,1 +1,19 @@
-eventID;parentEventID;fieldNumber;eventDate;eventTime;startDayOfYear;endDayOfYear;year;month;day;verbatimEventDate;habitat;samplingProtocol;sampleSizeValue;sampleSizeUnit;samplingEffort;fieldNotes;eventRemarks
+standardFieldName;verbatimFieldName;uri
+eventID;ID del evento;http://rs.tdwg.org/dwc/terms/eventID
+parentEventID;ID del evento parental;http://rs.tdwg.org/dwc/terms/parentEventID
+fieldNumber;N�mero de campo;http://rs.tdwg.org/dwc/terms/fieldNumber
+eventDate;Fecha del evento;http://rs.tdwg.org/dwc/terms/eventDate
+eventTime;Hora del evento;http://rs.tdwg.org/dwc/terms/eventTime
+startDayOfYear;Día inicial del año;http://rs.tdwg.org/dwc/terms/startDayOfYear
+endDayOfYear;Día final del año;http://rs.tdwg.org/dwc/terms/endDayOfYear
+year;Año;http://rs.tdwg.org/dwc/terms/year
+month;Mes;http://rs.tdwg.org/dwc/terms/month
+day;Día;http://rs.tdwg.org/dwc/terms/day
+verbatimEventDate;Fecha original del evento;http://rs.tdwg.org/dwc/terms/verbatimEventDate
+habitat;Hábitat;http://rs.tdwg.org/dwc/terms/habitat
+samplingProtocol;Protocolo de muestreo;http://rs.tdwg.org/dwc/terms/samplingProtocol
+sampleSizeValue;Tamaño de la muestra;http://rs.tdwg.org/dwc/terms/sampleSizeValue
+sampleSizeUnit;Unidad del tamaño de la muestra;http://rs.tdwg.org/dwc/terms/sampleSizeUnit
+samplingEffort;Esfuerzo de muestreo;http://rs.tdwg.org/dwc/terms/samplingEffort
+fieldNotes;Notas de campo;http://rs.tdwg.org/dwc/terms/fieldNotes
+eventRemarks;Comentarios del evento;http://rs.tdwg.org/dwc/terms/eventRemarks

@@ -1,4 +1,3 @@
 acceptedNameUsage    Ficus carica L.
 Nombre común                     NaN
-sex                              NaN
 Name: AA0876, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Senna candolleana H.S.Irwin & Barneby
 Nombre común                                           NaN
-sex                                          hermaphrodite
 Name: AA1501, dtype: object

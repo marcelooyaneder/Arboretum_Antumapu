@@ -13,11 +13,7 @@ nameAcordingTo                            L.
 verbatimTaxonRank                        NaN
 taxonRank                            species
 acceptedNameUsage       Phytolacca dioica L.
-Nombre común                             NaN
-Estado                                  Viva
 establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                              2016
 locationRemarks                          NaN
 sex                                      NaN
 Name: AA1719, dtype: object

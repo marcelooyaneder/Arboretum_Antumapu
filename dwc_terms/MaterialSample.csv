@@ -1,1 +1,2 @@
-materialSampleID
+standardFieldName;verbatimFieldName;uri
+materialSampleID;ID de muestra del ejemplar;http://rs.tdwg.org/dwc/terms/materialSampleID

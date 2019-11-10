@@ -1,4 +1,3 @@
 acceptedNameUsage    Austroblechnum penna-marina (Poir.) Gasper & V...
 Nombre común                                                       NaN
-sex                                                                NaN
 Name: AA0528, dtype: object

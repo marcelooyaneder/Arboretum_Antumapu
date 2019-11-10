@@ -1,4 +1,3 @@
 acceptedNameUsage    Salix humboldtiana Willd.
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA0765, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                        Hayne
 verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Acacia karroo Hayne
-Nombre común                            NaN
-Estado                                 Viva
 establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
 locationRemarks                         NaN
 sex                           hermaphrodite
 Name: AA0189, dtype: object

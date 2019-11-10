@@ -1,4 +1,3 @@
 acceptedNameUsage    Celtis australis L.
 Nombre común                         NaN
-sex                                  NaN
 Name: AA0780, dtype: object

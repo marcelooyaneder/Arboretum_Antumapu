@@ -13,11 +13,7 @@ nameAcordingTo                          Ruiz & Pav.
 verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Lapageria rosea Ruiz & Pav.
-Nombre común                                    NaN
-Estado                                       Muerto
 establishmentMeans                           Nativa
-ingreso                                        2019
-plantacion                                     2016
 locationRemarks                                 NaN
 sex                                             NaN
 Name: AA0524, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                          Carrière
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Populus simonii Carrière
-Nombre común                                 NaN
-Estado                                  Extraído
 establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
 locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0413, dtype: object

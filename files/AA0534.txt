@@ -13,11 +13,7 @@ nameAcordingTo                            Krasser
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Nothofagus nitida Krasser
-Nombre común                                  NaN
-Estado                                       Viva
 establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2016
 locationRemarks                               NaN
 sex                                 hermaphrodite
 Name: AA0534, dtype: object

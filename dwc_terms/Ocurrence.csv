@@ -1,1 +1,22 @@
-occurrenceID;catalogNumber;recordNumber;recordedBy;individualCount;organismQuantity;organismQuantityType;sex;lifeStage;reproductiveCondition;behavior;establishmentMeans;occurrenceStatus;preparations;disposition;associatedMedia;associatedReferences;associatedSequences;associatedTaxa;otherCatalogNumbers;occurrenceRemarks
+standardFieldName;verbatimFieldName;uri
+occurrenceID;ID del registro biológico;http://rs.tdwg.org/dwc/terms/occurrenceID
+catalogNumber;Número de catálogo;http://rs.tdwg.org/dwc/terms/catalogNumber
+recordNumber;Número de registro;http://rs.tdwg.org/dwc/terms/recordNumber
+recordedBy;Registrado por;http://rs.tdwg.org/dwc/terms/recordedBy
+individualCount;Número de individuos;http://rs.tdwg.org/dwc/terms/individualCount
+organismQuantity;Cantidad del organismo;http://rs.tdwg.org/dwc/terms/organismQuantity
+organismQuantityType;Tipo de cantidad del organismo;http://rs.tdwg.org/dwc/terms/organismQuantityType
+sex;Sexo;http://rs.tdwg.org/dwc/terms/sex
+lifeStage;Etapa de vida;http://rs.tdwg.org/dwc/terms/lifeStage
+reproductiveCondition;Condición reproductiva;http://rs.tdwg.org/dwc/terms/reproductiveCondition
+behavior;Comportamiento;http://rs.tdwg.org/dwc/terms/behavior
+establishmentMeans;Medios de establecimiento;http://rs.tdwg.org/dwc/terms/establishmentMeans
+occurrenceStatus;Estado del registro biológico;http://rs.tdwg.org/dwc/terms/occurrenceStatus
+preparations;Preparaciones;http://rs.tdwg.org/dwc/terms/preparations
+disposition;Disposición;http://rs.tdwg.org/dwc/terms/disposition
+associatedMedia;Medios asociados;http://rs.tdwg.org/dwc/terms/associatedMedia
+associatedReferences;Referencias asociadas;http://rs.tdwg.org/dwc/terms/associatedReferences
+associatedSequences;Secuencias asociadas;http://rs.tdwg.org/dwc/terms/associatedSequences
+associatedTaxa;Taxones asociados;http://rs.tdwg.org/dwc/terms/associatedTaxa
+otherCatalogNumbers;Otros números de catálogo;http://rs.tdwg.org/dwc/terms/otherCatalogNumbers
+occurrenceRemarks;Comentarios del registro biológico;http://rs.tdwg.org/dwc/terms/occurrenceRemarks

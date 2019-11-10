@@ -1,4 +1,3 @@
 acceptedNameUsage    Cryptomeria japonica D.Don
 Nombre común                                NaN
-sex                                         NaN
 Name: AA1680, dtype: object

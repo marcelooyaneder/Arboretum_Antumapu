@@ -13,11 +13,7 @@ nameAcordingTo                           (Poir.) Gasper & V.A.O. Dittrich
 verbatimTaxonRank                                                     NaN
 taxonRank                                                         species
 acceptedNameUsage       Austroblechnum penna-marina (Poir.) Gasper & V...
-Nombre común                                                          NaN
-Estado                                                               Viva
 establishmentMeans                                                 Nativa
-ingreso                                                              2019
-plantacion                                                           2016
 locationRemarks                                                       NaN
 sex                                                                   NaN
 Name: AA0528, dtype: object
