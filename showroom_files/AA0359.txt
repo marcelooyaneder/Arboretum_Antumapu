@@ -1,3 +1,5 @@
 acceptedNameUsage    Polylepis rugulosa Bitter
 Nombre común                               NaN
+Estado                                    Viva
+sex                                        NaN
 Name: AA0359, dtype: object

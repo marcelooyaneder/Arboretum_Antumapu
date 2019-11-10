@@ -1,3 +1,5 @@
 acceptedNameUsage    Desfontainia fulgens D.Don
 Nombre común                                NaN
+Estado                                   Muerto
+sex                                         NaN
 Name: AA0560, dtype: object

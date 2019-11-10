@@ -1,3 +1,5 @@
 acceptedNameUsage    Crinodendron patagua (Molina) Molina
 Nombre común                                          NaN
+Estado                                               Viva
+sex                                         hermaphrodite
 Name: AA1629, dtype: object

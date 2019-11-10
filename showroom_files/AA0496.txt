@@ -1,3 +1,5 @@
 acceptedNameUsage    Drimys winteri J.R.Forst. & G.Forst.
 Nombre común                                          NaN
+Estado                                               Viva
+sex                                         hermaphrodite
 Name: AA0496, dtype: object

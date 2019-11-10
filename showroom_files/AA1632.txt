@@ -1,3 +1,5 @@
-acceptedNameUsage    Prunus  L.
-Nombre común                NaN
+acceptedNameUsage       Prunus  L.
+Nombre común                   NaN
+Estado                        Viva
+sex                  hermaphrodite
 Name: AA1632, dtype: object

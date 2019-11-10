@@ -1,3 +1,5 @@
 acceptedNameUsage    Pittosporum tenuifolium Banks & Sol. ex Gaertn.
 Nombre común                                                     NaN
+Estado                                                          Viva
+sex                                                    hermaphrodite
 Name: AA0865, dtype: object

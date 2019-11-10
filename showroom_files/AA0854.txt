@@ -1,3 +1,5 @@
 acceptedNameUsage    Prunus domestica L.
 Nombre común                         NaN
+Estado                              Viva
+sex                        hermaphrodite
 Name: AA0854, dtype: object

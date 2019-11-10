@@ -1,3 +1,5 @@
 acceptedNameUsage    Phytolacca dioica L.
 Nombre común                          NaN
+Estado                               Viva
+sex                                   NaN
 Name: AA1719, dtype: object

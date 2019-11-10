@@ -1,3 +1,5 @@
 acceptedNameUsage    Podocarpus salignus D.Don
 Nombre común                               NaN
+Estado                                    Viva
+sex                                        NaN
 Name: AA0512, dtype: object

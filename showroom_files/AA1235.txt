@@ -1,3 +1,5 @@
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
+Estado                             Viva
+sex                                 NaN
 Name: AA1235, dtype: object

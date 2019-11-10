@@ -1,3 +1,5 @@
 acceptedNameUsage    Vitis vinifera L.
 Nombre común                       NaN
+Estado                            Viva
+sex                                NaN
 Name: AA0701, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Styphnolobium japonicum Schott
 Nombre común                                    NaN
+Estado                                         Viva
+sex                                             NaN
 Name: AA0718, dtype: object

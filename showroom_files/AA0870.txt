@@ -1,3 +1,5 @@
 acceptedNameUsage    Casimiroa edulis La Llave
 Nombre común                               NaN
+Estado                                    Viva
+sex                                        NaN
 Name: AA0870, dtype: object

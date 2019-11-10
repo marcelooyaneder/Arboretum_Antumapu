@@ -1,3 +1,5 @@
 acceptedNameUsage    Luma chequen A.Gray
 Nombre común                         NaN
+Estado                              Viva
+sex                        hermaphrodite
 Name: AA0482, dtype: object

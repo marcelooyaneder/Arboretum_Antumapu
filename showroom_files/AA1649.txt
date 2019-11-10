@@ -1,3 +1,5 @@
 acceptedNameUsage    Myrtus communis L.
 Nombre común                        NaN
+Estado                             Viva
+sex                       hermaphrodite
 Name: AA1649, dtype: object

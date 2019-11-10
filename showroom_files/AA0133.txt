@@ -1,3 +1,5 @@
 acceptedNameUsage    Gleditsia triacanthos L.
 Nombre común                              NaN
+Estado                                   Viva
+sex                             hermaphrodite
 Name: AA0133, dtype: object

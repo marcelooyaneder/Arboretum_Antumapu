@@ -1,3 +1,5 @@
 acceptedNameUsage    Castanea sativa Mill.
 Nombre común                           NaN
+Estado                                Viva
+sex                          hermaphrodite
 Name: AA1230, dtype: object

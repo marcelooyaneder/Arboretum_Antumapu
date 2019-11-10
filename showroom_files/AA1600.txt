@@ -1,3 +1,5 @@
 acceptedNameUsage    Cupressus funebris Endl.
 Nombre común                              NaN
+Estado                                   Viva
+sex                                       NaN
 Name: AA1600, dtype: object

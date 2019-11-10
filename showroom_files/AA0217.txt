@@ -1,3 +1,5 @@
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
+Estado                                          Viva
+sex                                              NaN
 Name: AA0217, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Nerium oleander L.
 Nombre común                        NaN
+Estado                             Viva
+sex                       hermaphrodite
 Name: AA1399, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Blechnum hastatum Kaulf.
 Nombre común                              NaN
+Estado                                   Viva
+sex                                       NaN
 Name: AA0536, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Pittosporum  Banks ex Gaertn.
 Nombre común                                   NaN
+Estado                                        Viva
+sex                                  hermaphrodite
 Name: AA1627, dtype: object

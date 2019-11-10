@@ -1,3 +1,5 @@
 acceptedNameUsage    Baccharis linearis Pers.
 Nombre común                              NaN
+Estado                                   Viva
+sex                                       NaN
 Name: AA1181, dtype: object

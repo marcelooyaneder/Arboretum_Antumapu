@@ -1,3 +1,5 @@
 acceptedNameUsage    Araucaria angustifolia Kuntze
 Nombre común                                   NaN
+Estado                                        Viva
+sex                                            NaN
 Name: AA1534, dtype: object

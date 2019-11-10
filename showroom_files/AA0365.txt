@@ -1,3 +1,5 @@
 acceptedNameUsage    Vasconcellea chilensis Solms
 Nombre común                                  NaN
+Estado                                       Viva
+sex                                           NaN
 Name: AA0365, dtype: object

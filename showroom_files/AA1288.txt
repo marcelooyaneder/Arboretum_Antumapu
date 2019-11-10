@@ -1,3 +1,5 @@
 acceptedNameUsage    Cussonia spicata Thunb.
 Nombre común                             NaN
+Estado                                  Viva
+sex                                      NaN
 Name: AA1288, dtype: object

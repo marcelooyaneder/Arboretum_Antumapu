@@ -1,3 +1,5 @@
 acceptedNameUsage    Nothofagus alpina Oerst.
 Nombre común                              NaN
+Estado                                 Muerto
+sex                             hermaphrodite
 Name: AA0570, dtype: object

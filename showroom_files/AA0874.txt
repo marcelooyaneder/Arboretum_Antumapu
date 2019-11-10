@@ -1,3 +1,5 @@
 acceptedNameUsage    Platanus orientalis L.
 Nombre común                            NaN
+Estado                                 Viva
+sex                           hermaphrodite
 Name: AA0874, dtype: object

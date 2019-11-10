@@ -1,3 +1,5 @@
 acceptedNameUsage    Tilia  L.
 Nombre común               NaN
+Estado                    Viva
+sex                        NaN
 Name: AA0956, dtype: object
