@@ -1,3 +1,5 @@
 acceptedNameUsage    Phytolacca dioica L.
 Nombre común                         Ombú
+Estado                               Viva
+sex                                   NaN
 Name: AA0030, dtype: object

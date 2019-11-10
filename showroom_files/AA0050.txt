@@ -1,3 +1,5 @@
 acceptedNameUsage    Acacia dealbata Link
 Nombre común                        Aromo
+Estado                               Viva
+sex                         hermaphrodite
 Name: AA0050, dtype: object

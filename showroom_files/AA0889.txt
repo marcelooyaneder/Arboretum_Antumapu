@@ -1,3 +1,5 @@
 acceptedNameUsage    Parkinsonia aculeata L.
 Nombre común                             NaN
+Estado                                  Viva
+sex                            hermaphrodite
 Name: AA0889, dtype: object

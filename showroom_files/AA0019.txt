@@ -1,3 +1,5 @@
 acceptedNameUsage    Cupressus sempervirens L.
 Nombre común                      Ciprés común
+Estado                                    Viva
+sex                                        NaN
 Name: AA0019, dtype: object

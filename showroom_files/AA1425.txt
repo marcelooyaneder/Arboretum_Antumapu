@@ -1,3 +1,5 @@
 acceptedNameUsage    Betula pendula Roth
 Nombre común                         NaN
+Estado                              Viva
+sex                                  NaN
 Name: AA1425, dtype: object

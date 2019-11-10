@@ -1,3 +1,5 @@
 acceptedNameUsage    Bauhinia forficata Link
 Nombre común                             NaN
+Estado                                  Viva
+sex                                      NaN
 Name: AA0868, dtype: object

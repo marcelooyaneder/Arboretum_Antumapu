@@ -1,3 +1,5 @@
 acceptedNameUsage    Ficus religiosa L.
 Nombre común                        NaN
+Estado                             Viva
+sex                                 NaN
 Name: AA0137, dtype: object

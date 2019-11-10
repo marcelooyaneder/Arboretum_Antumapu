@@ -1,3 +1,5 @@
 acceptedNameUsage    Austrocedrus chilensis Pic.Serm. & M.P.Bizzarri
 Nombre común                                                     NaN
+Estado                                                          Viva
+sex                                                              NaN
 Name: AA1711, dtype: object

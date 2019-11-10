@@ -1,3 +1,5 @@
 acceptedNameUsage    Fitzroya cupressoides I.M.Johnst.
 Nombre común                                       NaN
+Estado                                          Muerto
+sex                                                NaN
 Name: AA0555, dtype: object

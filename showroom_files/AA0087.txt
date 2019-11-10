@@ -1,3 +1,5 @@
 acceptedNameUsage    Fraxinus ornus L.
 Nombre común                       NaN
+Estado                            Viva
+sex                      hermaphrodite
 Name: AA0087, dtype: object

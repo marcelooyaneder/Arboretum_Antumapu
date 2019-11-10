@@ -1,3 +1,5 @@
 acceptedNameUsage    Araucaria araucana K.Koch
 Nombre común                               NaN
+Estado                                    Viva
+sex                                        NaN
 Name: AA1698, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Grevillea robusta A.Cunn. ex R.Br.
 Nombre común                                        NaN
+Estado                                             Viva
+sex                                       hermaphrodite
 Name: AA1121, dtype: object

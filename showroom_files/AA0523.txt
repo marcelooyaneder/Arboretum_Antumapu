@@ -1,3 +1,5 @@
 acceptedNameUsage    Lomariocycas magellanicum (Mett.) Gasper & A.R...
 Nombre común                                                       NaN
+Estado                                                            Viva
+sex                                                                NaN
 Name: AA0523, dtype: object

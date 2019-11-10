@@ -1,3 +1,5 @@
 acceptedNameUsage    Eucryphia cordifolia Cav.
 Nombre común                               NaN
+Estado                                    Viva
+sex                              hermaphrodite
 Name: AA0504, dtype: object

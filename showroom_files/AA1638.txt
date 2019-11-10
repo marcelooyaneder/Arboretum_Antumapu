@@ -1,3 +1,5 @@
 acceptedNameUsage    Acer palmatum C.P.Thunberg ex A.Murray
 Nombre común                                            NaN
+Estado                                                 Viva
+sex                                           hermaphrodite
 Name: AA1638, dtype: object

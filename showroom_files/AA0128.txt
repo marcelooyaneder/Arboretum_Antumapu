@@ -1,3 +1,5 @@
-acceptedNameUsage    Citrus  L.
-Nombre común                NaN
+acceptedNameUsage       Citrus  L.
+Nombre común                   NaN
+Estado                      Muerto
+sex                  hermaphrodite
 Name: AA0128, dtype: object

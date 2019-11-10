@@ -1,3 +1,5 @@
 acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
 Nombre común                                     NaN
+Estado                                          Viva
+sex                                    hermaphrodite
 Name: AA1093, dtype: object

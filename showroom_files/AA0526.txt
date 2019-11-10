@@ -1,3 +1,5 @@
 acceptedNameUsage    Raukaua laetevirens Frodin
 Nombre común                                NaN
+Estado                                     Viva
+sex                                         NaN
 Name: AA0526, dtype: object

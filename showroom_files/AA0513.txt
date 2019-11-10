@@ -1,3 +1,5 @@
 acceptedNameUsage    Escallonia pulverulenta Pers.
 Nombre común                                   NaN
+Estado                                        Viva
+sex                                  hermaphrodite
 Name: AA0513, dtype: object

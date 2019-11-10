@@ -1,3 +1,5 @@
 acceptedNameUsage    Foeniculum vulgare Mill.
 Nombre común                              NaN
+Estado                                   Viva
+sex                                       NaN
 Name: AA0719, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Elaeagnus angustifolia L.
 Nombre común                               NaN
+Estado                                    Viva
+sex                                        NaN
 Name: AA0180, dtype: object

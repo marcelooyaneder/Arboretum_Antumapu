@@ -1,3 +1,5 @@
 acceptedNameUsage    Acer negundo L.
 Nombre común                     NaN
+Estado                          Viva
+sex                    hermaphrodite
 Name: AA0975, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Prosopis tamarugo Phil.
 Nombre común                             NaN
+Estado                                  Viva
+sex                            hermaphrodite
 Name: AA0366, dtype: object

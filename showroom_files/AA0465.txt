@@ -1,3 +1,5 @@
 acceptedNameUsage    Caesalpinia spinosa Kuntze
 Nombre común                                NaN
+Estado                                     Viva
+sex                               hermaphrodite
 Name: AA0465, dtype: object

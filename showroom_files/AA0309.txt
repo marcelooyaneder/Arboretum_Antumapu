@@ -1,3 +1,5 @@
 acceptedNameUsage    Quercus ilex L.
 Nombre común                     NaN
+Estado                          Viva
+sex                              NaN
 Name: AA0309, dtype: object

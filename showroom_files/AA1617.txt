@@ -1,3 +1,5 @@
 acceptedNameUsage    Lagunaria patersonii G.Don
 Nombre común                                NaN
+Estado                                     Viva
+sex                                         NaN
 Name: AA1617, dtype: object

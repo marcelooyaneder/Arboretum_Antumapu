@@ -1,3 +1,5 @@
 acceptedNameUsage    Gomortega keule Gunckel
 Nombre común                             NaN
+Estado                                  Viva
+sex                                      NaN
 Name: AA0519, dtype: object

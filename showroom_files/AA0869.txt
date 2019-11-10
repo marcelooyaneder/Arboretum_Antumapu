@@ -1,3 +1,5 @@
 acceptedNameUsage    Syringa vulgaris L.
 Nombre común                         NaN
+Estado                              Viva
+sex                                  NaN
 Name: AA0869, dtype: object

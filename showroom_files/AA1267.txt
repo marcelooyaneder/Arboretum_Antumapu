@@ -1,3 +1,5 @@
 acceptedNameUsage    Prunus armeniaca L.
 Nombre común                         NaN
+Estado                              Viva
+sex                        hermaphrodite
 Name: AA1267, dtype: object

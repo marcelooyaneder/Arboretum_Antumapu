@@ -1,3 +1,5 @@
 acceptedNameUsage    Cupressus macrocarpa Hartw. ex Gordon
 Nombre común                           Ciprés de Monterrey
+Estado                                                Viva
+sex                                                    NaN
 Name: AA0014, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Trachycarpus fortunei H.Wendl.
 Nombre común                                    NaN
+Estado                                         Viva
+sex                                             NaN
 Name: AA1591, dtype: object

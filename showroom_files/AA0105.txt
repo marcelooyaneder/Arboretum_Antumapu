@@ -1,3 +1,5 @@
 acceptedNameUsage    Acer pseudoplatanus L.
 Nombre común                            NaN
+Estado                                 Viva
+sex                           hermaphrodite
 Name: AA0105, dtype: object

@@ -1,3 +1,5 @@
 acceptedNameUsage    Sorbus  L.
 Nombre común             Serbal
+Estado                     Viva
+sex                         NaN
 Name: AA0028, dtype: object
