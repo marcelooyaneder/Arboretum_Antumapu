@@ -13,11 +13,7 @@ nameAcordingTo                             K.Koch
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Araucaria araucana K.Koch
-Nombre común                                  NaN
-Estado                                       Viva
 establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                    NaN
 locationRemarks                               NaN
 sex                                           NaN
 Name: AA1698, dtype: object

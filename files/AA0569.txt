@@ -13,11 +13,7 @@ nameAcordingTo                            Oerst.
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Nothofagus alpina Oerst.
-Nombre común                                 NaN
-Estado                                    Muerto
 establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                  2017
 locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0569, dtype: object

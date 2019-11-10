@@ -13,11 +13,7 @@ nameAcordingTo                      L.
 verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage            Ulmus  L.
-Nombre común                       NaN
-Estado                            Viva
 establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
 locationRemarks                    NaN
 sex                      hermaphrodite
 Name: AA0073, dtype: object

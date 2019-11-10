@@ -13,11 +13,7 @@ nameAcordingTo                          Diels
 verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Lomatia hirsuta Diels
-Nombre común                              NaN
-Estado                                 Muerto
 establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
 locationRemarks                           NaN
 sex                             hermaphrodite
 Name: AA0567, dtype: object

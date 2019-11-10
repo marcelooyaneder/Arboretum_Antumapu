@@ -13,11 +13,7 @@ nameAcordingTo                            W.T.Aiton
 verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Ligustrum lucidum W.T.Aiton
-Nombre común                                    NaN
-Estado                                     Extraído
 establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
 locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA0477, dtype: object

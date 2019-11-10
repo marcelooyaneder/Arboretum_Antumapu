@@ -13,11 +13,7 @@ nameAcordingTo                             Oerst.
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Nothofagus obliqua Oerst.
-Nombre común                                  NaN
-Estado                                       Viva
 establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2017
 locationRemarks                               NaN
 sex                                 hermaphrodite
 Name: AA0450, dtype: object

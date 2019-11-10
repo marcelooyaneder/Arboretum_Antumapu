@@ -1,4 +1,3 @@
 acceptedNameUsage    Aristotelia chilensis Stuntz
 Nombre común                                  NaN
-sex                                 hermaphrodite
 Name: AA0387, dtype: object

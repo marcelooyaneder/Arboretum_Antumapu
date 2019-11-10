@@ -1,4 +1,3 @@
-acceptedNameUsage       Citrus  L.
-Nombre común                   NaN
-sex                  hermaphrodite
+acceptedNameUsage    Citrus  L.
+Nombre común                NaN
 Name: AA1352, dtype: object

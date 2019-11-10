@@ -1,4 +1,3 @@
 acceptedNameUsage    Gleditsia triacanthos L.
 Nombre común           Acacia de tres espinas
-sex                             hermaphrodite
 Name: AA0043, dtype: object

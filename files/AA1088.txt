@@ -13,11 +13,7 @@ nameAcordingTo                                   Dehnh.
 verbatimTaxonRank                                   NaN
 taxonRank                                       species
 acceptedNameUsage       Eucalyptus camaldulensis Dehnh.
-Nombre común                                        NaN
-Estado                                             Viva
 establishmentMeans                              Exótica
-ingreso                                            2019
-plantacion                                          NaN
 locationRemarks                                     NaN
 sex                                       hermaphrodite
 Name: AA1088, dtype: object

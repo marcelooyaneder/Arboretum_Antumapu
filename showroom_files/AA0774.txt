@@ -1,4 +1,3 @@
 acceptedNameUsage    Cestrum parqui L'Hér.
 Nombre común                           NaN
-sex                                    NaN
 Name: AA0774, dtype: object

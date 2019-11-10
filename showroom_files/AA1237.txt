@@ -1,4 +1,3 @@
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-sex                                 NaN
 Name: AA1237, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Nothofagus dombeyi Oerst.
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA0494, dtype: object

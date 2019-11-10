@@ -13,11 +13,7 @@ nameAcordingTo                            H.S.Irwin & Barneby
 verbatimTaxonRank                                         NaN
 taxonRank                                             species
 acceptedNameUsage       Senna candolleana H.S.Irwin & Barneby
-Nombre común                                              NaN
-Estado                                                   Viva
 establishmentMeans                                     Nativa
-ingreso                                                  2019
-plantacion                                                NaN
 locationRemarks                                           NaN
 sex                                             hermaphrodite
 Name: AA0308, dtype: object

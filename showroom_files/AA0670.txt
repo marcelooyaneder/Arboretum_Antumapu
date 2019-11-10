@@ -1,4 +1,3 @@
 acceptedNameUsage    Acacia melanoxylon R.Br.
 Nombre común                              NaN
-sex                             hermaphrodite
 Name: AA0670, dtype: object

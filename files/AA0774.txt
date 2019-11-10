@@ -13,11 +13,7 @@ nameAcordingTo                         L'Hér.
 verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Cestrum parqui L'Hér.
-Nombre común                              NaN
-Estado                                   Viva
 establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
 locationRemarks                           NaN
 sex                                       NaN
 Name: AA0774, dtype: object

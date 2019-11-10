@@ -1,4 +1,3 @@
 acceptedNameUsage    Acer palmatum C.P.Thunberg ex A.Murray
 Nombre común                                            NaN
-sex                                           hermaphrodite
 Name: AA1638, dtype: object

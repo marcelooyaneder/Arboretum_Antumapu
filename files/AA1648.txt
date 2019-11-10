@@ -13,11 +13,7 @@ nameAcordingTo                          R.Br. Ex Wall
 verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Abelia triflora R.Br. Ex Wall
-Nombre común                                      NaN
-Estado                                           Viva
 establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
 locationRemarks                                   NaN
 sex                                               NaN
 Name: AA1648, dtype: object

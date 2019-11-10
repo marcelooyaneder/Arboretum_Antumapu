@@ -13,11 +13,7 @@ nameAcordingTo                      L'Her.
 verbatimTaxonRank                      sp.
 taxonRank                            genus
 acceptedNameUsage       Eucalyptus  L'Her.
-Nombre común                           NaN
-Estado                                Viva
 establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
 locationRemarks                        NaN
 sex                          hermaphrodite
 Name: AA1092, dtype: object

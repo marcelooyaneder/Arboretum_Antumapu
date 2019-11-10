@@ -1,4 +1,3 @@
 acceptedNameUsage    Styphnolobium japonicum Schott
 Nombre común                                    NaN
-sex                                             NaN
 Name: AA1592, dtype: object

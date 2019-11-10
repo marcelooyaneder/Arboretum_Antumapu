@@ -13,11 +13,7 @@ nameAcordingTo                                L.
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Gleditsia triacanthos L.
-Nombre común              Acacia de tres espinas
-Estado                                      Viva
 establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
 locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0043, dtype: object

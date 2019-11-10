@@ -1,4 +1,3 @@
 acceptedNameUsage    Melia azedarach L.
 Nombre común          Arbol del paraíso
-sex                       hermaphrodite
 Name: AA0055, dtype: object

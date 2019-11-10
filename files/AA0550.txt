@@ -13,11 +13,7 @@ nameAcordingTo                                 Moldenke
 verbatimTaxonRank                                   NaN
 taxonRank                                       species
 acceptedNameUsage       Rhaphithamnus spinosus Moldenke
-Nombre común                                        NaN
-Estado                                           Muerto
 establishmentMeans                               Nativa
-ingreso                                            2019
-plantacion                                          NaN
 locationRemarks                                     NaN
 sex                                       hermaphrodite
 Name: AA0550, dtype: object

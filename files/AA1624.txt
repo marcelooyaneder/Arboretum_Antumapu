@@ -13,11 +13,7 @@ nameAcordingTo                         Regel ex Trel.
 verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Yucca gigantea Regel ex Trel.
-Nombre común                                      NaN
-Estado                                           Viva
 establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
 locationRemarks                                   NaN
 sex                                     hermaphrodite
 Name: AA1624, dtype: object

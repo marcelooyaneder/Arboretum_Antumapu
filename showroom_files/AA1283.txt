@@ -1,4 +1,3 @@
-acceptedNameUsage     Malus  Mill.
-Nombre común                   NaN
-sex                  hermaphrodite
+acceptedNameUsage    Malus  Mill.
+Nombre común                  NaN
 Name: AA1283, dtype: object

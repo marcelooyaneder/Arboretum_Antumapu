@@ -1,4 +1,3 @@
-acceptedNameUsage      Populus  L.
-Nombre común                   NaN
-sex                  hermaphrodite
+acceptedNameUsage    Populus  L.
+Nombre común                 NaN
 Name: AA1017, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Agave americana Trel.
 Nombre común                           NaN
-sex                          hermaphrodite
 Name: AA1268, dtype: object

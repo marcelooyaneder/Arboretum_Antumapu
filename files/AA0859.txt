@@ -13,11 +13,7 @@ nameAcordingTo                          (L.) Osbeck
 verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Citrus sinensis (L.) Osbeck
-Nombre común                                    NaN
-Estado                                         Viva
 establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                     2015
 locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA0859, dtype: object

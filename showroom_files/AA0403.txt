@@ -1,4 +1,3 @@
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
-sex                                              NaN
 Name: AA0403, dtype: object

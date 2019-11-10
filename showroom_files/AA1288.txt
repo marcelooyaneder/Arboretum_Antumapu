@@ -1,4 +1,3 @@
 acceptedNameUsage    Cussonia spicata Thunb.
 Nombre común                             NaN
-sex                                      NaN
 Name: AA1288, dtype: object

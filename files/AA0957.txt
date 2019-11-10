@@ -13,11 +13,7 @@ nameAcordingTo                              Moench
 verbatimTaxonRank       Populus x canadensis I-214
 taxonRank                                 varietas
 acceptedNameUsage        Populus canadensis Moench
-Nombre común                                   NaN
-Estado                                        Viva
 establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                  hermaphrodite
 Name: AA0957, dtype: object

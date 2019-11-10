@@ -1,4 +1,3 @@
 acceptedNameUsage    Eucalyptus globulus Labill.
 Nombre común                           Eucalipto
-sex                                hermaphrodite
 Name: AA0056, dtype: object

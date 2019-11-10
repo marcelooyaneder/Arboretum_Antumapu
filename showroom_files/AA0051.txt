@@ -1,4 +1,3 @@
 acceptedNameUsage    Brachychiton populneus R.Br.
 Nombre común                          Braquiquito
-sex                                 hermaphrodite
 Name: AA0051, dtype: object

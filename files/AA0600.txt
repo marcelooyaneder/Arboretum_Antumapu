@@ -13,11 +13,7 @@ nameAcordingTo                             Jacq.
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Crataegus monogyna Jacq.
-Nombre común                                 NaN
-Estado                                  Extraído
 establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
 locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0600, dtype: object

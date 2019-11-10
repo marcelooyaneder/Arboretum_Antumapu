@@ -1,4 +1,3 @@
 acceptedNameUsage    Rosmarinus officinalis de Noë ex Lange
 Nombre común                                            NaN
-sex                                           hermaphrodite
 Name: AA0871, dtype: object

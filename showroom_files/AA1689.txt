@@ -1,4 +1,3 @@
 acceptedNameUsage    Phytolacca dioica L.
 Nombre común                          NaN
-sex                                   NaN
 Name: AA1689, dtype: object

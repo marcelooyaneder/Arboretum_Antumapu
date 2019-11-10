@@ -1,4 +1,3 @@
 acceptedNameUsage    Acacia macracantha Humb. & Bonpl. ex Willd.
 Nombre común                                                 NaN
-sex                                                hermaphrodite
 Name: AA0370, dtype: object

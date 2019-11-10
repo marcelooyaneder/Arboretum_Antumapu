@@ -1,4 +1,3 @@
 acceptedNameUsage    Aesculus hippocastanum L.
 Nombre común                 Castaño de Indias
-sex                              hermaphrodite
 Name: AA0011, dtype: object

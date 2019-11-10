@@ -13,11 +13,7 @@ nameAcordingTo                        C.P.Thunberg ex A.Murray
 verbatimTaxonRank                                          NaN
 taxonRank                                              species
 acceptedNameUsage       Acer palmatum C.P.Thunberg ex A.Murray
-Nombre común                                               NaN
-Estado                                                    Viva
 establishmentMeans                                     Exótica
-ingreso                                                   2019
-plantacion                                                 NaN
 locationRemarks                                            NaN
 sex                                              hermaphrodite
 Name: AA1638, dtype: object

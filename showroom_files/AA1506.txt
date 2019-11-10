@@ -1,4 +1,3 @@
 acceptedNameUsage    Proustia pyrifolia Lag.
 Nombre común                             NaN
-sex                            hermaphrodite
 Name: AA1506, dtype: object

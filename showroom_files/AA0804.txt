@@ -1,4 +1,3 @@
-acceptedNameUsage        Pyrus  L.
-Nombre común                   NaN
-sex                  hermaphrodite
+acceptedNameUsage    Pyrus  L.
+Nombre común               NaN
 Name: AA0804, dtype: object

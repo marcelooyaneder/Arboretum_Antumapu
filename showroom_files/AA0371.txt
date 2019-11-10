@@ -1,4 +1,3 @@
-acceptedNameUsage     Prosopis  L.
-Nombre común                   NaN
-sex                  hermaphrodite
+acceptedNameUsage    Prosopis  L.
+Nombre común                  NaN
 Name: AA0371, dtype: object

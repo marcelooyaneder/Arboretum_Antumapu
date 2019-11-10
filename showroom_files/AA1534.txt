@@ -1,4 +1,3 @@
 acceptedNameUsage    Araucaria angustifolia Kuntze
 Nombre común                                   NaN
-sex                                            NaN
 Name: AA1534, dtype: object

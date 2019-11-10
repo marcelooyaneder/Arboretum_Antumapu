@@ -13,11 +13,7 @@ nameAcordingTo                                Kosterm.
 verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Beilschmiedia miersii Kosterm.
-Nombre común                                       NaN
-Estado                                            Viva
 establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                         NaN
 locationRemarks                                    NaN
 sex                                      hermaphrodite
 Name: AA1658, dtype: object

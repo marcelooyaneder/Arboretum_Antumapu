@@ -1,4 +1,3 @@
 acceptedNameUsage    Populus canadensis Moench
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA1254, dtype: object

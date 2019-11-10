@@ -13,11 +13,7 @@ nameAcordingTo                        Nees
 verbatimTaxonRank                      NaN
 taxonRank                          species
 acceptedNameUsage       Persea lingue Nees
-Nombre común                           NaN
-Estado                              Muerto
 establishmentMeans                  Nativa
-ingreso                               2019
-plantacion                             NaN
 locationRemarks                        NaN
 sex                          hermaphrodite
 Name: AA0547, dtype: object

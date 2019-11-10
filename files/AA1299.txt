@@ -13,11 +13,7 @@ nameAcordingTo                              Lindl.
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Eriobotrya japonica Lindl.
-Nombre común                                   NaN
-Estado                                        Viva
 establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA1299, dtype: object

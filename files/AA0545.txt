@@ -13,11 +13,7 @@ nameAcordingTo                          Gunckel
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Gomortega keule Gunckel
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                 2017
 locationRemarks                             NaN
 sex                                         NaN
 Name: AA0545, dtype: object

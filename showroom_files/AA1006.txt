@@ -1,4 +1,3 @@
 acceptedNameUsage    Pinus radiata D.Don
 Nombre común                         NaN
-sex                        hermaphrodite
 Name: AA1006, dtype: object

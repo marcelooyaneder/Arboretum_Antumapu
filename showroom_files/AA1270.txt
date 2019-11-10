@@ -1,4 +1,3 @@
 acceptedNameUsage    Tamarix  L.
 Nombre común                 NaN
-sex                          NaN
 Name: AA1270, dtype: object

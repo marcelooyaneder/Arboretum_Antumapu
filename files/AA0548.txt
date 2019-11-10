@@ -13,11 +13,7 @@ nameAcordingTo                                   Gay
 verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Crinodendron hookerianum Gay
-Nombre común                                     NaN
-Estado                                        Muerto
 establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                       NaN
 locationRemarks                                  NaN
 sex                                    hermaphrodite
 Name: AA0548, dtype: object

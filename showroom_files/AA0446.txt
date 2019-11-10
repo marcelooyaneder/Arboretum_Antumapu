@@ -1,4 +1,3 @@
 acceptedNameUsage    Sophora cassioides Sparre
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA0446, dtype: object

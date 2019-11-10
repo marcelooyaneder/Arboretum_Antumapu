@@ -1,4 +1,3 @@
 acceptedNameUsage    Laurelia sempervirens Tul.
 Nombre común                                NaN
-sex                               hermaphrodite
 Name: AA0552, dtype: object

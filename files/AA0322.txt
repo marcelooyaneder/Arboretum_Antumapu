@@ -13,11 +13,7 @@ nameAcordingTo                           Looser
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Cryptocarya alba Looser
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                  NaN
 locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA0322, dtype: object

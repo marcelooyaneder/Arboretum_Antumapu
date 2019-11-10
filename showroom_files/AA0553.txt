@@ -1,4 +1,3 @@
 acceptedNameUsage    Amomyrtus meli D.Legrand & Kausel
 Nombre común                                       NaN
-sex                                      hermaphrodite
 Name: AA0553, dtype: object

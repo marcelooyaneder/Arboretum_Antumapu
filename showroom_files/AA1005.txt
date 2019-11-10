@@ -1,4 +1,3 @@
 acceptedNameUsage    Acacia saligna H.L.Wendl.
 Nombre común                               NaN
-sex                              hermaphrodite
 Name: AA1005, dtype: object

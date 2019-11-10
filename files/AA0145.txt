@@ -13,11 +13,7 @@ nameAcordingTo                         J.R.Forst. & G.Forst.
 verbatimTaxonRank                                        NaN
 taxonRank                                            species
 acceptedNameUsage       Drimys winteri J.R.Forst. & G.Forst.
-Nombre común                                             NaN
-Estado                                                Muerto
 establishmentMeans                                    Nativa
-ingreso                                                 2019
-plantacion                                               NaN
 locationRemarks                                          NaN
 sex                                            hermaphrodite
 Name: AA0145, dtype: object

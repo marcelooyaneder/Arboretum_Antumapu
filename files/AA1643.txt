@@ -13,11 +13,7 @@ nameAcordingTo                      K.Koch
 verbatimTaxonRank                      sp.
 taxonRank                            genus
 acceptedNameUsage       Tetrapanax  K.Koch
-Nombre común                           NaN
-Estado                                Viva
 establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
 locationRemarks                        NaN
 sex                                    NaN
 Name: AA1643, dtype: object

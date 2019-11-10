@@ -13,11 +13,7 @@ nameAcordingTo                               G.Don
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Lagunaria patersonii G.Don
-Nombre común                                   NaN
-Estado                                        Viva
 establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA1617, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                        Fresno
-sex                          hermaphrodite
 Name: AA0027, dtype: object

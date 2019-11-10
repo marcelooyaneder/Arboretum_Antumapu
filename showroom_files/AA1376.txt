@@ -1,4 +1,3 @@
 acceptedNameUsage    Photinia serratifolia Kalkman
 Nombre común                                   NaN
-sex                                            NaN
 Name: AA1376, dtype: object

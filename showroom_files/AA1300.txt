@@ -1,4 +1,3 @@
 acceptedNameUsage    Pseudotsuga menziesii Franco
 Nombre común                                  NaN
-sex                                 hermaphrodite
 Name: AA1300, dtype: object

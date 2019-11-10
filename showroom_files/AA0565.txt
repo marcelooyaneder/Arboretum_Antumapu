@@ -1,4 +1,3 @@
 acceptedNameUsage    Lomatia hirsuta Diels
 Nombre común                           NaN
-sex                          hermaphrodite
 Name: AA0565, dtype: object

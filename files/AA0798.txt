@@ -13,11 +13,7 @@ nameAcordingTo                                D.Don
 verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Jacaranda mimosifolia D.Don
-Nombre común                                    NaN
-Estado                                         Viva
 establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
 locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA0798, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                                  (Mett.) Gasper & A.R. Sm.
 verbatimTaxonRank                                                     NaN
 taxonRank                                                         species
 acceptedNameUsage       Lomariocycas magellanicum (Mett.) Gasper & A.R...
-Nombre común                                                          NaN
-Estado                                                               Viva
 establishmentMeans                                                 Nativa
-ingreso                                                              2019
-plantacion                                                           2016
 locationRemarks                                                       NaN
 sex                                                                   NaN
 Name: AA0523, dtype: object

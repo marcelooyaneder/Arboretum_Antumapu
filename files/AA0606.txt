@@ -13,11 +13,7 @@ nameAcordingTo                        (Molina) Molina
 verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Peumus boldus (Molina) Molina
-Nombre común                                      NaN
-Estado                                           Viva
 establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                        NaN
 locationRemarks                                   NaN
 sex                                               NaN
 Name: AA0606, dtype: object

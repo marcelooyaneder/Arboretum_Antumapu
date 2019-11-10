@@ -1,4 +1,3 @@
 acceptedNameUsage    Acacia dealbata Link
 Nombre común                          NaN
-sex                         hermaphrodite
 Name: AA1301, dtype: object

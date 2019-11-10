@@ -13,11 +13,7 @@ nameAcordingTo                           Hook.f.
 verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Azara lanceolata Hook.f.
-Nombre común                                 NaN
-Estado                                      Viva
 establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                  2016
 locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0509, dtype: object

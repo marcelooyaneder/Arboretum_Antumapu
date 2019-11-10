@@ -13,11 +13,7 @@ nameAcordingTo                               D.Don
 verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Desfontainia fulgens D.Don
-Nombre común                                   NaN
-Estado                                      Muerto
 establishmentMeans                          Nativa
-ingreso                                       2019
-plantacion                                     NaN
 locationRemarks                                NaN
 sex                                            NaN
 Name: AA0560, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Lapageria rosea Ruiz & Pav.
 Nombre común                                 NaN
-sex                                          NaN
 Name: AA0524, dtype: object

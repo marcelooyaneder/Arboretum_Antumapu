@@ -1,4 +1,3 @@
 acceptedNameUsage    Eriobotrya japonica Lindl.
 Nombre común                                NaN
-sex                                         NaN
 Name: AA1164, dtype: object

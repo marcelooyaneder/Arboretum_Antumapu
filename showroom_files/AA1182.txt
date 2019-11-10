@@ -1,4 +1,3 @@
 acceptedNameUsage    Schinus molle L.
 Nombre común                      NaN
-sex                     hermaphrodite
 Name: AA1182, dtype: object

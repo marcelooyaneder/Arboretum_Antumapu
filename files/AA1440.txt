@@ -13,11 +13,7 @@ nameAcordingTo                           L.
 verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Celtis australis L.
-Nombre común                            NaN
-Estado                                 Viva
 establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
 locationRemarks                         NaN
 sex                                     NaN
 Name: AA1440, dtype: object

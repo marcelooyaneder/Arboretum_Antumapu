@@ -13,11 +13,7 @@ nameAcordingTo                              L.
 verbatimTaxonRank                          NaN
 taxonRank                              species
 acceptedNameUsage       Acer pseudoplatanus L.
-Nombre común                       Arce blanco
-Estado                                    Viva
 establishmentMeans                     Exótica
-ingreso                                   2019
-plantacion                                 NaN
 locationRemarks                            NaN
 sex                              hermaphrodite
 Name: AA0021, dtype: object

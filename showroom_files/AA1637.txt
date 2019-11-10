@@ -1,4 +1,3 @@
 acceptedNameUsage    Cupressus funebris Endl.
 Nombre común                              NaN
-sex                                       NaN
 Name: AA1637, dtype: object

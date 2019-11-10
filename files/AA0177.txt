@@ -13,11 +13,7 @@ nameAcordingTo                               Hartw. ex Gordon
 verbatimTaxonRank                                         NaN
 taxonRank                                             species
 acceptedNameUsage       Cupressus macrocarpa Hartw. ex Gordon
-Nombre común                                              NaN
-Estado                                                   Viva
 establishmentMeans                                    Exótica
-ingreso                                                  2019
-plantacion                                                NaN
 locationRemarks                                           NaN
 sex                                                       NaN
 Name: AA0177, dtype: object

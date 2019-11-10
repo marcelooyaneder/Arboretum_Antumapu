@@ -1,4 +1,3 @@
 acceptedNameUsage    Podocarpus nubigenus Lindl.
 Nombre común                                 NaN
-sex                                          NaN
 Name: AA0554, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                                I.M.Johnst.
 verbatimTaxonRank                                     NaN
 taxonRank                                         species
 acceptedNameUsage       Fitzroya cupressoides I.M.Johnst.
-Nombre común                                          NaN
-Estado                                             Muerto
 establishmentMeans                                 Nativa
-ingreso                                              2019
-plantacion                                            NaN
 locationRemarks                                       NaN
 sex                                                   NaN
 Name: AA0555, dtype: object

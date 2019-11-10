@@ -13,11 +13,7 @@ nameAcordingTo                           Miller
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Annona cherimola Miller
-Nombre común                                NaN
-Estado                                     Viva
 establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                 2016
 locationRemarks                             NaN
 sex                                         NaN
 Name: AA0862, dtype: object

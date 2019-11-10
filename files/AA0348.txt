@@ -13,11 +13,7 @@ nameAcordingTo                                Burkart
 verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Geoffroea decorticans Burkart
-Nombre común                                      NaN
-Estado                                           Viva
 establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                       2015
 locationRemarks                                   NaN
 sex                                     hermaphrodite
 Name: AA0348, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                      L.
 verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage           Sorbus  L.
-Nombre común                    Serbal
-Estado                            Viva
 establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
 locationRemarks                    NaN
 sex                                NaN
 Name: AA0028, dtype: object

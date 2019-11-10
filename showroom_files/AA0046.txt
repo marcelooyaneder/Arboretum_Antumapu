@@ -1,4 +1,3 @@
 acceptedNameUsage    Schinus molle L.
 Nombre común                 Pimiento
-sex                     hermaphrodite
 Name: AA0046, dtype: object

@@ -1,4 +1,3 @@
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
-sex                                             male
 Name: AA1607, dtype: object

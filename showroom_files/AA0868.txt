@@ -1,4 +1,3 @@
 acceptedNameUsage    Bauhinia forficata Link
 Nombre común                             NaN
-sex                                      NaN
 Name: AA0868, dtype: object

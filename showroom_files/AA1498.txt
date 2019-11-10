@@ -1,4 +1,3 @@
 acceptedNameUsage    Luma chequen A.Gray
 Nombre común                         NaN
-sex                        hermaphrodite
 Name: AA1498, dtype: object

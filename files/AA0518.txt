@@ -13,11 +13,7 @@ nameAcordingTo                                (Desv.) Gasper & Salino
 verbatimTaxonRank                                                 NaN
 taxonRank                                                     species
 acceptedNameUsage       Parablechnum cordatum (Desv.) Gasper & Salino
-Nombre común                                                      NaN
-Estado                                                           Viva
 establishmentMeans                                             Nativa
-ingreso                                                          2019
-plantacion                                                       2016
 locationRemarks                                                   NaN
 sex                                                               NaN
 Name: AA0518, dtype: object

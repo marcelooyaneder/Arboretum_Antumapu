@@ -1,4 +1,3 @@
 acceptedNameUsage    Avellanita bustillosii Phil.
 Nombre común                                  NaN
-sex                                           NaN
 Name: AA1514, dtype: object

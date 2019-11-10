@@ -1,4 +1,3 @@
 acceptedNameUsage    Tetrapanax  K.Koch
 Nombre común                        NaN
-sex                                 NaN
 Name: AA1643, dtype: object

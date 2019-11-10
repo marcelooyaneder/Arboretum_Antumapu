@@ -13,11 +13,7 @@ nameAcordingTo                          Link
 verbatimTaxonRank                        NaN
 taxonRank                            species
 acceptedNameUsage       Acacia dealbata Link
-Nombre común                           Aromo
-Estado                                  Viva
 establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
 locationRemarks                          NaN
 sex                            hermaphrodite
 Name: AA0054, dtype: object

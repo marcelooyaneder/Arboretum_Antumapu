@@ -1,4 +1,3 @@
 acceptedNameUsage    Elaeagnus umbellata C.P.Thunb. ex A.Murray
 Nombre común                                                NaN
-sex                                                         NaN
 Name: AA1650, dtype: object

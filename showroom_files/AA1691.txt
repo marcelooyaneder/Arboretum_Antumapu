@@ -1,4 +1,3 @@
 acceptedNameUsage    Chamaecyparis lawsoniana Parl.
 Nombre común                                    NaN
-sex                                             NaN
 Name: AA1691, dtype: object

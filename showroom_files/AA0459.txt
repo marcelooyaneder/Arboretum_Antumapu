@@ -1,4 +1,3 @@
 acceptedNameUsage    Azara integrifolia Ruiz & Pav.
 Nombre común                                    NaN
-sex                                   hermaphrodite
 Name: AA0459, dtype: object

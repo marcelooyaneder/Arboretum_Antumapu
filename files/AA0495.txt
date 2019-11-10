@@ -13,11 +13,7 @@ nameAcordingTo                            Krasser
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Nothofagus glauca Krasser
-Nombre común                                  NaN
-Estado                                     Muerto
 establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2016
 locationRemarks                               NaN
 sex                                 hermaphrodite
 Name: AA0495, dtype: object

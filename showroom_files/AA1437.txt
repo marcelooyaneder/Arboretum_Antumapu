@@ -1,4 +1,3 @@
 acceptedNameUsage    Acer negundo L.
 Nombre común                     NaN
-sex                    hermaphrodite
 Name: AA1437, dtype: object

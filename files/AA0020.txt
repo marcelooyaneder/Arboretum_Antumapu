@@ -13,11 +13,7 @@ nameAcordingTo                                 L.
 verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Cupressus sempervirens L.
-Nombre común                         Ciprés común
-Estado                                   Extraído
 establishmentMeans                        Exótica
-ingreso                                      2019
-plantacion                                    NaN
 locationRemarks                               NaN
 sex                                           NaN
 Name: AA0020, dtype: object

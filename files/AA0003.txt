@@ -13,11 +13,7 @@ nameAcordingTo                                 Franco
 verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Araucaria heterophylla Franco
-Nombre común                          Pino de Norfolk
-Estado                                           Viva
 establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
 locationRemarks                                   NaN
 sex                                               NaN
 Name: AA0003, dtype: object

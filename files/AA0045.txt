@@ -13,11 +13,7 @@ nameAcordingTo                               L.
 verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Parkinsonia aculeata L.
-Nombre común                         Palo verde
-Estado                                     Viva
 establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
 locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA0045, dtype: object

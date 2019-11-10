@@ -1,4 +1,3 @@
 acceptedNameUsage    Parkinsonia aculeata L.
 Nombre común                      Palo verde
-sex                            hermaphrodite
 Name: AA0047, dtype: object

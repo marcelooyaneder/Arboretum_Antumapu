@@ -13,11 +13,7 @@ nameAcordingTo                                   Parl.
 verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Chamaecyparis lawsoniana Parl.
-Nombre común                                       NaN
-Estado                                            Viva
 establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
 locationRemarks                                    NaN
 sex                                                NaN
 Name: AA1691, dtype: object

@@ -13,11 +13,7 @@ nameAcordingTo                           Mill.
 verbatimTaxonRank                          NaN
 taxonRank                              species
 acceptedNameUsage       Persea americana Mill.
-Nombre común                               NaN
-Estado                                    Viva
 establishmentMeans                     Exótica
-ingreso                                   2019
-plantacion                                 NaN
 locationRemarks                            NaN
 sex                              hermaphrodite
 Name: AA1304, dtype: object

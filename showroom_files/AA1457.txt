@@ -1,4 +1,3 @@
 acceptedNameUsage    Lithraea caustica Hook. & Arn.
 Nombre común                                    NaN
-sex                                   hermaphrodite
 Name: AA1457, dtype: object

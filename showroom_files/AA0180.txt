@@ -1,4 +1,3 @@
 acceptedNameUsage    Elaeagnus angustifolia L.
 Nombre común                               NaN
-sex                                        NaN
 Name: AA0180, dtype: object

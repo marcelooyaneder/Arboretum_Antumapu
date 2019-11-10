@@ -1,4 +1,3 @@
 acceptedNameUsage    Pittosporum  Banks ex Gaertn.
 Nombre común                                   NaN
-sex                                  hermaphrodite
 Name: AA0713, dtype: object
