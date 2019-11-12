@@ -14,6 +14,5 @@ verbatimTaxonRank                                   NaN
 taxonRank                                       species
 acceptedNameUsage       Eucalyptus camaldulensis Dehnh.
 establishmentMeans                              Exótica
-locationRemarks                                     NaN
 sex                                       hermaphrodite
 Name: AA0637, dtype: object

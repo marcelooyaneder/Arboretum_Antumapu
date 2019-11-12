@@ -14,6 +14,5 @@ verbatimTaxonRank                                   NaN
 taxonRank                                       species
 acceptedNameUsage       Maytenus boaria (Molina) Molina
 establishmentMeans                               Nativa
-locationRemarks                                     NaN
 sex                                                 NaN
 Name: AA1432, dtype: object

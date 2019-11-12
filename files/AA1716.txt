@@ -14,6 +14,5 @@ verbatimTaxonRank                    NaN
 taxonRank                        species
 acceptedNameUsage       Juglans regia L.
 establishmentMeans               Exótica
-locationRemarks                      NaN
 sex                        hermaphrodite
 Name: AA1716, dtype: object

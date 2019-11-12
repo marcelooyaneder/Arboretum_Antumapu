@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#ver forma de eliminar columnas vacias del dataframe
+
 #package imports
 import pandas as pd
 import os
@@ -47,6 +49,11 @@ class file_manager:
                     data.drop(label,axis=1,inplace=True)
             except:
                 pass
+        empty_columns_drop_answer=eg.ynbox(msg='Do you wish to delete the empty columns?...',title='Drop empty columns') #a way to drop fully empty columns
+        if empty_columns_drop_answer==True:
+            data.dropna(axis=1, how='all',inplace=True)
+        else:
+            pass
         return og_data,data,indexo,og_columns_df
     
     def file_creation(self):

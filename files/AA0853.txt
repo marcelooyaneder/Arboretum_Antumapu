@@ -14,6 +14,5 @@ verbatimTaxonRank                          NaN
 taxonRank                              species
 acceptedNameUsage       Prunus dulcis D.A.Webb
 establishmentMeans                     Exótica
-locationRemarks                            NaN
 sex                              hermaphrodite
 Name: AA0853, dtype: object

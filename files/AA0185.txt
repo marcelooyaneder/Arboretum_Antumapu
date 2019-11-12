@@ -14,6 +14,5 @@ verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Metrosideros excelsa Gaertn.
 establishmentMeans                           Exótica
-locationRemarks                                  NaN
 sex                                    hermaphrodite
 Name: AA0185, dtype: object

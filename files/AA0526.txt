@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Raukaua laetevirens Frodin
 establishmentMeans                          Nativa
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA0526, dtype: object

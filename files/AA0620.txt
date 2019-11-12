@@ -14,6 +14,5 @@ verbatimTaxonRank                                      NaN
 taxonRank                                          species
 acceptedNameUsage       Grevillea robusta A.Cunn. ex R.Br.
 establishmentMeans                                 Exótica
-locationRemarks                                        NaN
 sex                                          hermaphrodite
 Name: AA0620, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Syringa vulgaris L.
 establishmentMeans                  Exótica
-locationRemarks                         NaN
 sex                                     NaN
 Name: AA0869, dtype: object

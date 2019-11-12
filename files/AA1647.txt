@@ -14,6 +14,5 @@ verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Abelia triflora R.Br. Ex Wall
 establishmentMeans                            Exótica
-locationRemarks                                   NaN
 sex                                               NaN
 Name: AA1647, dtype: object

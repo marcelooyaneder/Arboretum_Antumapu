@@ -14,6 +14,5 @@ verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Celtis australis L.
 establishmentMeans                  Exótica
-locationRemarks                         NaN
 sex                                     NaN
 Name: AA0780, dtype: object

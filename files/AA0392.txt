@@ -14,6 +14,5 @@ verbatimTaxonRank                          NaN
 taxonRank                              species
 acceptedNameUsage       Azara celastrina D.Don
 establishmentMeans                      Nativa
-locationRemarks                            NaN
 sex                              hermaphrodite
 Name: AA0392, dtype: object

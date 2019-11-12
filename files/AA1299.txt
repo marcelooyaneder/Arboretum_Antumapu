@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Eriobotrya japonica Lindl.
 establishmentMeans                         Exótica
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA1299, dtype: object

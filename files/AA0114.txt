@@ -14,6 +14,5 @@ verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Prunus cerasifera Ehrh.
 establishmentMeans                      Exótica
-locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA0114, dtype: object

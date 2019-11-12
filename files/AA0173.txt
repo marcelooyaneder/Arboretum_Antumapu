@@ -14,6 +14,5 @@ verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Chamaecyparis lawsoniana Parl.
 establishmentMeans                             Exótica
-locationRemarks                                    NaN
 sex                                                NaN
 Name: AA0173, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Luma apiculata Burret
 establishmentMeans                     Nativa
-locationRemarks                           NaN
 sex                             hermaphrodite
 Name: AA0484, dtype: object

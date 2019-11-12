@@ -14,6 +14,5 @@ verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Podocarpus nubigenus Lindl.
 establishmentMeans                           Nativa
-locationRemarks                                 NaN
 sex                                             NaN
 Name: AA0558, dtype: object

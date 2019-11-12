@@ -14,6 +14,5 @@ verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Betula pendula Roth
 establishmentMeans                  Exótica
-locationRemarks                         NaN
 sex                                     NaN
 Name: AA1426, dtype: object

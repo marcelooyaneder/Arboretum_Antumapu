@@ -14,6 +14,5 @@ verbatimTaxonRank                      NaN
 taxonRank                          species
 acceptedNameUsage       Agave americana L.
 establishmentMeans                 Exótica
-locationRemarks                        NaN
 sex                                    NaN
 Name: AA1395, dtype: object

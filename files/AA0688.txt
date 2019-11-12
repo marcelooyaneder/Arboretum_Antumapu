@@ -14,6 +14,5 @@ verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Eucalyptus globulus Labill.
 establishmentMeans                          Exótica
-locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA0688, dtype: object

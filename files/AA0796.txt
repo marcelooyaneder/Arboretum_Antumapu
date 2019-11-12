@@ -14,6 +14,5 @@ verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Jacaranda mimosifolia D.Don
 establishmentMeans                          Exótica
-locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA0796, dtype: object

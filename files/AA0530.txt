@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Fuchsia magellanica Lam.
 establishmentMeans                        Nativa
-locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0530, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Fraxinus excelsior L.
 establishmentMeans                    Exótica
-locationRemarks                           NaN
 sex                             hermaphrodite
 Name: AA0836, dtype: object

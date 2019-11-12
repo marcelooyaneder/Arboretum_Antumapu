@@ -14,6 +14,5 @@ verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Yucca gigantea Regel ex Trel.
 establishmentMeans                            Exótica
-locationRemarks                                   NaN
 sex                                     hermaphrodite
 Name: AA1624, dtype: object

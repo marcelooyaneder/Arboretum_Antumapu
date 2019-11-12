@@ -14,6 +14,5 @@ verbatimTaxonRank                          NaN
 taxonRank                              species
 acceptedNameUsage       Sophora macrocarpa Sm.
 establishmentMeans                      Nativa
-locationRemarks                            NaN
 sex                              hermaphrodite
 Name: AA0318, dtype: object

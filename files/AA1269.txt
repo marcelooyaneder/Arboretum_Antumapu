@@ -14,6 +14,5 @@ verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage          Tamarix  L.
 establishmentMeans             Exótica
-locationRemarks                    NaN
 sex                                NaN
 Name: AA1269, dtype: object

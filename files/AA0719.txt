@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Foeniculum vulgare Mill.
 establishmentMeans                       Exótica
-locationRemarks                              NaN
 sex                                          NaN
 Name: AA0719, dtype: object

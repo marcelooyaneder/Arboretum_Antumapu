@@ -14,6 +14,5 @@ verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Jasminum mesnyi Hance
 establishmentMeans                    Exótica
-locationRemarks                           NaN
 sex                                       NaN
 Name: AA0479, dtype: object

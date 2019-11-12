@@ -14,6 +14,5 @@ verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Yucca gigantea Lem.
 establishmentMeans                  Exótica
-locationRemarks                         NaN
 sex                           hermaphrodite
 Name: AA1588, dtype: object

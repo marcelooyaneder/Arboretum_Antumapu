@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Cryptomeria japonica D.Don
 establishmentMeans                         Exótica
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA1680, dtype: object

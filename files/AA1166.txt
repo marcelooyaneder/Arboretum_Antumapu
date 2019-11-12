@@ -14,6 +14,5 @@ verbatimTaxonRank                                         NaN
 taxonRank                                             species
 acceptedNameUsage       Cupressus macrocarpa Hartw. ex Gordon
 establishmentMeans                                    Exótica
-locationRemarks                                           NaN
 sex                                                       NaN
 Name: AA1166, dtype: object

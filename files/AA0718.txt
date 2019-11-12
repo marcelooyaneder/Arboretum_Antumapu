@@ -14,6 +14,5 @@ verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Styphnolobium japonicum Schott
 establishmentMeans                             Exótica
-locationRemarks                                    NaN
 sex                                                NaN
 Name: AA0718, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                    NaN
 taxonRank                        species
 acceptedNameUsage       Schinus molle L.
 establishmentMeans                Nativa
-locationRemarks                      NaN
 sex                        hermaphrodite
 Name: AA0578, dtype: object

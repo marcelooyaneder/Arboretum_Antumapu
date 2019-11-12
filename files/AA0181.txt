@@ -14,6 +14,5 @@ verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Elaeagnus angustifolia L.
 establishmentMeans                        Exótica
-locationRemarks                               NaN
 sex                                           NaN
 Name: AA0181, dtype: object

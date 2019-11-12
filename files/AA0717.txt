@@ -14,6 +14,5 @@ verbatimTaxonRank                                 sp.
 taxonRank                                       genus
 acceptedNameUsage       Pittosporum  Banks ex Gaertn.
 establishmentMeans                            Exótica
-locationRemarks                                   NaN
 sex                                     hermaphrodite
 Name: AA0717, dtype: object

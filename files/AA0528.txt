@@ -14,6 +14,5 @@ verbatimTaxonRank                                                     NaN
 taxonRank                                                         species
 acceptedNameUsage       Austroblechnum penna-marina (Poir.) Gasper & V...
 establishmentMeans                                                 Nativa
-locationRemarks                                                       NaN
 sex                                                                   NaN
 Name: AA0528, dtype: object

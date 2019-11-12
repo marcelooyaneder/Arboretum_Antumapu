@@ -14,6 +14,5 @@ verbatimTaxonRank                                                 NaN
 taxonRank                                                     species
 acceptedNameUsage       Parablechnum cordatum (Desv.) Gasper & Salino
 establishmentMeans                                             Nativa
-locationRemarks                                                   NaN
 sex                                                               NaN
 Name: AA0517, dtype: object

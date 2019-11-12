@@ -14,6 +14,5 @@ verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Azara integrifolia Ruiz & Pav.
 establishmentMeans                              Nativa
-locationRemarks                                    NaN
 sex                                      hermaphrodite
 Name: AA0459, dtype: object

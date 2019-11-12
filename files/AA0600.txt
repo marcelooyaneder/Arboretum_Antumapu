@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Crataegus monogyna Jacq.
 establishmentMeans                       Exótica
-locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0600, dtype: object

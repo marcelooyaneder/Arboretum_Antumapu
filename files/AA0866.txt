@@ -14,6 +14,5 @@ verbatimTaxonRank                                          NaN
 taxonRank                                              species
 acceptedNameUsage       Rosmarinus officinalis de Noë ex Lange
 establishmentMeans                                     Exótica
-locationRemarks                                            NaN
 sex                                              hermaphrodite
 Name: AA0866, dtype: object

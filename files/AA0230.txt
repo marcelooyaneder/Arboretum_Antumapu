@@ -14,6 +14,5 @@ verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Prosopis chilensis Stuntz
 establishmentMeans                         Nativa
-locationRemarks                               NaN
 sex                                 hermaphrodite
 Name: AA0230, dtype: object

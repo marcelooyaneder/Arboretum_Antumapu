@@ -14,6 +14,5 @@ verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Geoffroea decorticans Burkart
 establishmentMeans                             Nativa
-locationRemarks                                   NaN
 sex                                     hermaphrodite
 Name: AA0350, dtype: object

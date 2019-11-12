@@ -14,6 +14,5 @@ verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage            Pinus  L.
 establishmentMeans             Exótica
-locationRemarks                    NaN
 sex                      hermaphrodite
 Name: AA0603, dtype: object

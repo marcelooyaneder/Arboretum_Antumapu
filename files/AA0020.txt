@@ -14,6 +14,5 @@ verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Cupressus sempervirens L.
 establishmentMeans                        Exótica
-locationRemarks                               NaN
 sex                                           NaN
 Name: AA0020, dtype: object

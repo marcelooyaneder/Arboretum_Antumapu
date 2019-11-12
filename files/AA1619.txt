@@ -14,6 +14,5 @@ verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Ailanthus altissima Swingle
 establishmentMeans                          Exótica
-locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA1619, dtype: object
