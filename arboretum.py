@@ -96,23 +96,22 @@ class subject:
         return data
 
     def change_values(self,data,subjects): 
-        print('These are the following IDs who meet your query')
-        for indexo, values in enumerate(subjects):
-            print(indexo,values)        
-        print('The following values are available for change: ')
-        columns=data.columns.tolist()[:]
-        for indexo, values in enumerate(columns):
-            print(indexo,values)
-        indexo1=int(input('Insert the number of the value you wish to update: '))
-        set_value=input('enter the new value: ')
-        ans=input('Are you sure you want to change the value from {0} to {1}\nY/n ?'.format(data.at[subjects[0],columns[indexo1]],set_value))
-        if ans=='Y' or ans=='y':    
-            for values in subjects:
-                data.at[values,columns[indexo1]]=set_value
-                data.at[values,'acceptedNameUsage']= '{0} {1} {2}'.format(data.at[values,'genus'],data.at[values,'specificEpithet'],data.at[values,'nameAcordingTo'])
-            return data 
-        else:
-            pass 
+        """el ciclo debe ser de set_values
+        luego values to channge
+        luego a sujects """
+        IDs_for_change=eg.multchoicebox(msg='Select the subject(s) for a change: ',title='Select...',choices=subjects)    
+        columns=data.columns.tolist()
+        values_to_change=eg.choicebox(msg='The following values are available for change: ',title='Select...',choices=columns)
+        set_value=eg.multenterbox(msg='Enter the new value: ',title='New value...',fields=values_to_change)
+        #ans=input('Are you sure you want to change the value from {0} to {1}\nY/n ?'.format(data.at[subjects[0],columns[indexo1]],set_value))
+        #for columns_values in values_to_change:
+        #if ans=='Y' or ans=='y':    
+        #    for values in subjects:
+        #        data.at[values,columns[indexo1]]=set_value
+        #        data.at[values,'acceptedNameUsage']= '{0} {1} {2}'.format(data.at[values,'genus'],data.at[values,'specificEpithet'],data.at[values,'nameAcordingTo'])
+        #    return data 
+        #else:
+        #    pass 
         
     def add_values(self,data):
         msg = "Enter information about the new subject"
@@ -128,26 +127,30 @@ class subject:
         return data
 
     def save_values(self,data): #programar para que tire a csv
-        pass
+        path_choice=eg.diropenbox(msg='choose a folder to save a file',title='select a path')
+        folder_name=eg.enterbox(msg='Enter the filename', title='Filename', default='DataFrame', strip=True, image=None, root=None)
+        with pd.ExcelWriter(f"{path_choice}\{folder_name}.xlsx") as writer:
+            data.to_excel(writer, sheet_name='DataFrame')
+    
 
 def comparefiles(ID,info,option): #option 1 for showroom, 0 files 
-    filename1 = "temp/"+ID+'.txt'
+    filename1 = f"temp/{ID}.txt"
     if option==1:
-        filename2= "showroom_files/"+ID+'.txt'
+        filename2= f"showroom_files/{ID}.txt"
     elif option==0:
-        filename2= "files/"+ID+'.txt'
+        filename2= f"files/{ID}.txt"
     os.makedirs(os.path.dirname(filename1), exist_ok=True)
     with open(filename1,'w') as fil:
         fil.write(str(info))
     if os.path.isfile(filename2)==True:
         if filecmp.cmp(filename1,filename2)==False:
-            print('ive found some changes since the last time, on file... {0}.txt'.format(ID))
+            print(f'ive found some changes since the last time, on file... {ID}.txt')
             print('changes has been saved')
             shutil.move(filename1,filename2)
         else:
             pass
     else:
-        print('a new entry has been found, file... {0}.txt has been created.'.format(ID))
+        print(f'a new entry has been found, file... {ID}.txt has been created.')
         os.makedirs(os.path.dirname(filename2), exist_ok=True)
         with open(filename2,'w') as fil:
             fil.write(str(info))
@@ -157,15 +160,15 @@ def comparefiles(ID,info,option): #option 1 for showroom, 0 files
 def infowriting(ID,info,option):  #option 1 for showroom, 0 files
     try: 
         if option ==0:
-            filename = "files/"+ID+'.txt' 
+            filename = f"files/{ID}.txt" 
         elif option==1:
-            filename = "showroom_files/"+ID+'.txt' 
+            filename = f"showroom_files/{ID}.txt" 
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename,'w') as fil:
             fil.write(str(info))
-        print('a new entry has been found, file...'+ID+'.txt has been created.')
+        print(f'a new entry has been found, file...{ID}.txt has been created.')
     except:
-        print('permission to write in {0} has been denied...').format(filename)
+        print(f'permission to write in {filename} has been denied...')
     return 
 
 def dynamiclinks(longurl):
@@ -184,9 +187,9 @@ def dynamiclinks(longurl):
 def qr_manager(ID,short_url,option): #option 1 for showroom, 0 files
     try:
         if option ==0:
-            filename = "qrs/"+ID+'.png'
+            filename = f"qrs/{ID}.png"
         elif option==1:
-            filename = "qrs_showroom/"+ID+'.png'
+            filename = f"qrs_showroom/{ID}.png"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         quick_response_code= pyqrcode.create(short_url)
         with open(filename, 'wb') as f:
@@ -201,7 +204,7 @@ def qr_manager(ID,short_url,option): #option 1 for showroom, 0 files
         img.paste(logo, (xmin, ymin, xmax, ymax))
         img.save(filename)
     except:
-        print('permission to write in {0} has been denied...').format(filename)
+        print(f'permission to write in {filename} has been denied...')
 
 ####################################################################
 ##############################MAIN##################################
@@ -283,25 +286,20 @@ if not query_choicebox==query_choicebox_options[3] or query_choicebox==None:
     choicebox_for_after_query=eg.choicebox(msg='Choose an option for your query...',title='Query options',choices=choicebox_for_after_query_options)
     if choicebox_for_after_query==choicebox_for_after_query_options[0]:
         #export your query to a xlsx file (readable for excel)
-        pass
+        r1.save_values(data_for_query)
     elif choicebox_for_after_query==choicebox_for_after_query_options[1]:
         #make changes on your query and export them to a xlsx file (this changes will be saved on your original file)
-        pass
+        query_subjects=data_for_query[indexo].tolist()
+        r1.change_values(data,query_subjects) #TERMINAR ESTA SECCION
+        r1.save_values(data_for_query) 
     elif choicebox_for_after_query==choicebox_for_after_query_options[2]:
         #show the subjects wich match your query
-        subjects=data_for_query[indexo].tolist()
-        for values in subject:
+        query_subjects=data_for_query[indexo].tolist()
+        for values in query_subjects:
             print(values)
     else:
         pass
 
-
-#Change values
-""" if ans1 =='Y' or ans1 =='y' or ans1=='n' or ans1=='N':
-    r1.change_values(data,subjects)
-else:
-    pass
- """
 #Add values 
 #r1.add_values(data)
 
@@ -327,18 +325,18 @@ print ('there is nothing more to do here...')
 print('create non existing qrs files...')
 if os.path.isdir('qrs')==True:
     for id in IDs:
-        print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
-        path="qrs/"+id+'.png'
+        print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
+        path=f"qrs/{id}.png"
         if os.path.isfile(path)==False:
-            longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/'+id+'.txt'
+            longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/{id}.txt'
             shorturl=dynamiclinks(longurl)
             qr_manager(id,shorturl,0)
         else:
             pass
 else:
     for id in IDs:
-        print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
-        longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/'+id+'.txt'
+        print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
+        longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/{id}.txt'
         shorturl=dynamiclinks(longurl)
         qr_manager(id,shorturl,0)
 
@@ -346,18 +344,18 @@ if showroom_option_button=='Yes':
     print('create non existing qrs shorwoom files...')
     if os.path.isdir('showroom_qrs')==True:
         for id in IDs:
-            print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
-            path="showroom_qrs/"+id+'.png'
+            print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
+            path=f"showroom_qrs/{id}.png"
             if os.path.isfile(path)==False:
-                longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/'+id+'.txt'
+                longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/{id}.txt'
                 shorturl=dynamiclinks(longurl)
                 qr_manager(id,shorturl,1)
             else:
                 pass
     else:
         for id in IDs:
-            print('file {0} of file {1}'.format(id,IDs[-1]),end='\r', flush=True)
-            longurl='https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/'+id+'.txt'
+            print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
+            longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/{id}.txt'
             shorturl=dynamiclinks(longurl)
             qr_manager(id,shorturl,1)
 else:
