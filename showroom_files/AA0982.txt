@@ -1,5 +1,4 @@
+catalogNumber                        AA0982
 acceptedNameUsage    Acer pseudoplatanus L.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA0982, dtype: object

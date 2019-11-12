@@ -1,5 +1,4 @@
+catalogNumber                         AA0443
 acceptedNameUsage    Jubaea chilensis Baill.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0443, dtype: object

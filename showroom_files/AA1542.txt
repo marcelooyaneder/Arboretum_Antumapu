@@ -1,5 +1,4 @@
+catalogNumber                           AA1542
 acceptedNameUsage    Acacia saligna H.L.Wendl.
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA1542, dtype: object

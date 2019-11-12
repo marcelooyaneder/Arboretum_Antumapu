@@ -1,5 +1,4 @@
+catalogNumber                 AA0894
 acceptedNameUsage    Ficus carica L.
 Nombre común                     NaN
-Estado                          Viva
-sex                              NaN
 Name: AA0894, dtype: object

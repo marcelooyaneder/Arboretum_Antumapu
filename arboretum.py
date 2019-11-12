@@ -15,19 +15,6 @@ import easygui as eg
 import numpy 
 from PIL import Image
 
-
-#FORMA DE ELIMINAR COLUMNAS QUE NO ME SIRVAN GUI CON MULTIOPCIONES
-#FORMA PARA GUARDAR QR CON HOJAS
-
-#http://arboretum.oost-vlaanderen.be/indexo.cfm?nummer=00006251 IDEA TIPO
-#EL PASO SIGUIENTE ES CREAR UNA CARPETA EN QUE VAYAN LOS ARCHIVOS TXT, COMPARAR SI ES QUE EXISTEN EN ESTA, 
-# Y SI ES QUE EXISTEN REVISAR POSIBLES CAMBIOS, AGREGAR LOS QUE NO EXISTEN   
-
-#creation of classes and functions
-#comparar archivos, crear una carpeta que contenga el output, verificar si los archivos de la carpeta original son iguales
-#si estos son iguales borrar el archivo de la carpeta de comparación si es que no moverlo a la carpeta de info
-#si el archivo no existe pasarlo a la otra carpeta.
-
 #autoidenficar el separator en csv ; o ,
 class file_manager:
     def file_opener(self):

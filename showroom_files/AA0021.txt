@@ -1,5 +1,4 @@
+catalogNumber                        AA0021
 acceptedNameUsage    Acer pseudoplatanus L.
 Nombre común                    Arce blanco
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA0021, dtype: object

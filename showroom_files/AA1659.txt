@@ -1,5 +1,4 @@
+catalogNumber                           AA1659
 acceptedNameUsage    Aesculus hippocastanum L.
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA1659, dtype: object

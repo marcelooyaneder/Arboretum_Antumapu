@@ -1,5 +1,4 @@
+catalogNumber                        AA0318
 acceptedNameUsage    Sophora macrocarpa Sm.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA0318, dtype: object

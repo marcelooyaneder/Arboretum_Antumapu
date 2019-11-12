@@ -1,5 +1,4 @@
+catalogNumber                                        AA0299
 acceptedNameUsage    Schinus polygama Cabrera & I.M.Johnst.
 Nombre común                                            NaN
-Estado                                                 Viva
-sex                                           hermaphrodite
 Name: AA0299, dtype: object

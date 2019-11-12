@@ -1,5 +1,4 @@
+catalogNumber                             AA1116
 acceptedNameUsage    Eucalyptus globulus Labill.
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA1116, dtype: object

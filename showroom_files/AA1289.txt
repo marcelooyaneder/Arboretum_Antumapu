@@ -1,5 +1,4 @@
+catalogNumber                            AA1289
 acceptedNameUsage    Liquidambar styraciflua L.
 Nombre común                                NaN
-Estado                                     Viva
-sex                               hermaphrodite
 Name: AA1289, dtype: object

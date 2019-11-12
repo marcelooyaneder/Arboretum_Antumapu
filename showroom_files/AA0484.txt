@@ -1,5 +1,4 @@
+catalogNumber                       AA0484
 acceptedNameUsage    Luma apiculata Burret
 Nombre común                           NaN
-Estado                              Muerto
-sex                          hermaphrodite
 Name: AA0484, dtype: object

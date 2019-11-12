@@ -1,5 +1,4 @@
+catalogNumber                    AA1203
 acceptedNameUsage    Melia azedarach L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA1203, dtype: object

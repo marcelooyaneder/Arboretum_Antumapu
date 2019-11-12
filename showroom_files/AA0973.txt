@@ -1,5 +1,4 @@
+catalogNumber                    AA0973
 acceptedNameUsage    Melia azedarach L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA0973, dtype: object

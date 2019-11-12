@@ -1,5 +1,4 @@
+catalogNumber                              AA0514
 acceptedNameUsage    Saxegothaea conspicua Lindl.
 Nombre común                                  NaN
-Estado                                     Muerto
-sex                                 hermaphrodite
 Name: AA0514, dtype: object

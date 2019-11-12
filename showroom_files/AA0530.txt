@@ -1,5 +1,4 @@
+catalogNumber                          AA0530
 acceptedNameUsage    Fuchsia magellanica Lam.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0530, dtype: object

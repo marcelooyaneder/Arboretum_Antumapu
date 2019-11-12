@@ -1,5 +1,4 @@
+catalogNumber               AA1204
 acceptedNameUsage    Morus alba L.
 Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
 Name: AA1204, dtype: object

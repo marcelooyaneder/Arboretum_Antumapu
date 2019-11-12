@@ -1,5 +1,4 @@
+catalogNumber                    AA1665
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                                 NaN
 Name: AA1665, dtype: object

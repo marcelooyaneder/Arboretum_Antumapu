@@ -1,5 +1,4 @@
+catalogNumber                  AA1445
 acceptedNameUsage    Olea europaea L.
 Nombre común                      NaN
-Estado                           Viva
-sex                     hermaphrodite
 Name: AA1445, dtype: object

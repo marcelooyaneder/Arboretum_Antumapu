@@ -1,5 +1,4 @@
+catalogNumber                     AA1502
 acceptedNameUsage    Luma chequen A.Gray
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA1502, dtype: object

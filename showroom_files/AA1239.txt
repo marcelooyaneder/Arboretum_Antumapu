@@ -1,5 +1,4 @@
+catalogNumber                    AA1239
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                                 NaN
 Name: AA1239, dtype: object

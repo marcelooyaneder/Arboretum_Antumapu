@@ -1,5 +1,4 @@
+catalogNumber                          AA1544
 acceptedNameUsage    Schinus latifolius Engl.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA1544, dtype: object

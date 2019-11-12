@@ -1,5 +1,4 @@
+catalogNumber                    AA1545
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                                 NaN
 Name: AA1545, dtype: object

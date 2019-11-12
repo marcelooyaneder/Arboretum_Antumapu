@@ -1,5 +1,4 @@
+catalogNumber                       AA0029
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                        Fresno
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA0029, dtype: object

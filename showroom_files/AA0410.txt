@@ -1,5 +1,4 @@
+catalogNumber                              AA0410
 acceptedNameUsage    Aristotelia chilensis Stuntz
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA0410, dtype: object

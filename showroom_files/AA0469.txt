@@ -1,5 +1,4 @@
+catalogNumber                  AA0469
 acceptedNameUsage    Quercus suber L.
 Nombre común                      NaN
-Estado                           Viva
-sex                               NaN
 Name: AA0469, dtype: object

@@ -1,5 +1,4 @@
-acceptedNameUsage       Citrus  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber            AA0129
+acceptedNameUsage    Citrus  L.
+Nombre común                NaN
 Name: AA0129, dtype: object

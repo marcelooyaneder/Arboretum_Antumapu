@@ -1,5 +1,4 @@
+catalogNumber                             AA0058
 acceptedNameUsage    Eucalyptus globulus Labill.
 Nombre común                                 NaN
-Estado                                  Extraído
-sex                                hermaphrodite
 Name: AA0058, dtype: object

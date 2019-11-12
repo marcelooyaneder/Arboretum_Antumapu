@@ -1,5 +1,4 @@
+catalogNumber                                                   AA0522
 acceptedNameUsage    Lomariocycas magellanicum (Mett.) Gasper & A.R...
 Nombre común                                                       NaN
-Estado                                                            Viva
-sex                                                                NaN
 Name: AA0522, dtype: object

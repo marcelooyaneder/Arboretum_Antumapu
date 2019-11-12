@@ -1,5 +1,4 @@
+catalogNumber                             AA0056
 acceptedNameUsage    Eucalyptus globulus Labill.
 Nombre común                           Eucalipto
-Estado                                  Extraído
-sex                                hermaphrodite
 Name: AA0056, dtype: object

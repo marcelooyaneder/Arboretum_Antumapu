@@ -1,5 +1,4 @@
+catalogNumber                         AA0707
 acceptedNameUsage    Robinia pseudoacacia L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0707, dtype: object

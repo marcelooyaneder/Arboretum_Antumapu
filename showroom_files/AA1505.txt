@@ -1,5 +1,4 @@
+catalogNumber                              AA1505
 acceptedNameUsage    Avellanita bustillosii Phil.
 Nombre común                                  NaN
-Estado                                     Muerto
-sex                                           NaN
 Name: AA1505, dtype: object

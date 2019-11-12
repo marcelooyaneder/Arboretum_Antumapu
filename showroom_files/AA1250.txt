@@ -1,5 +1,4 @@
+catalogNumber                  AA1250
 acceptedNameUsage    Schinus molle L.
 Nombre común                      NaN
-Estado                           Viva
-sex                     hermaphrodite
 Name: AA1250, dtype: object

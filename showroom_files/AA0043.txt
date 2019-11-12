@@ -1,5 +1,4 @@
+catalogNumber                          AA0043
 acceptedNameUsage    Gleditsia triacanthos L.
 Nombre común           Acacia de tres espinas
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0043, dtype: object

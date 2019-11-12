@@ -1,5 +1,4 @@
+catalogNumber                         AA0965
 acceptedNameUsage    Prunus cerasifera Ehrh.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0965, dtype: object

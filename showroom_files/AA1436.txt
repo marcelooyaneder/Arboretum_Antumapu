@@ -1,5 +1,4 @@
+catalogNumber                 AA1436
 acceptedNameUsage    Acer negundo L.
 Nombre común                     NaN
-Estado                          Viva
-sex                    hermaphrodite
 Name: AA1436, dtype: object

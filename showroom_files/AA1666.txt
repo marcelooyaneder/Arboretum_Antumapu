@@ -1,5 +1,4 @@
+catalogNumber                    AA1666
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                                 NaN
 Name: AA1666, dtype: object

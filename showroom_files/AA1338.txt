@@ -1,5 +1,4 @@
+catalogNumber                          AA1338
 acceptedNameUsage    Fuchsia magellanica Lam.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA1338, dtype: object

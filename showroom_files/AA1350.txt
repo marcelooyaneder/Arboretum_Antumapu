@@ -1,5 +1,4 @@
+catalogNumber                         AA1350
 acceptedNameUsage    Lagerstroemia indica L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1350, dtype: object

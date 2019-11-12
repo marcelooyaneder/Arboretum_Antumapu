@@ -1,5 +1,4 @@
+catalogNumber                           AA0571
 acceptedNameUsage    Nothofagus dombeyi Oerst.
 Nombre común                               NaN
-Estado                                  Muerto
-sex                              hermaphrodite
 Name: AA0571, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                      AA0342
 acceptedNameUsage    Colliguaja odorifera (Molina) Molina
 Nombre común                                          NaN
-Estado                                               Viva
-sex                                         hermaphrodite
 Name: AA0342, dtype: object

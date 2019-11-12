@@ -1,5 +1,4 @@
+catalogNumber                           AA0355
 acceptedNameUsage    Prosopis chilensis Stuntz
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0355, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                 AA1233
 acceptedNameUsage    Acer negundo L.
 Nombre común                     NaN
-Estado                          Viva
-sex                    hermaphrodite
 Name: AA1233, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                 AA0527
 acceptedNameUsage    Nothofagus alessandrii Espinosa
 Nombre común                                     NaN
-Estado                                        Muerto
-sex                                    hermaphrodite
 Name: AA0527, dtype: object

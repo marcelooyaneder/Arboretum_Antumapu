@@ -1,5 +1,4 @@
+catalogNumber                                 AA0172
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                           female
 Name: AA0172, dtype: object

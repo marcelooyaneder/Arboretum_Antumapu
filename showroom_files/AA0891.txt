@@ -1,5 +1,4 @@
+catalogNumber                                AA0891
 acceptedNameUsage    Trachycarpus fortunei H.Wendl.
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                             NaN
 Name: AA0891, dtype: object

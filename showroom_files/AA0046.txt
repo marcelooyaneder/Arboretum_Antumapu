@@ -1,5 +1,4 @@
+catalogNumber                  AA0046
 acceptedNameUsage    Schinus molle L.
 Nombre común                 Pimiento
-Estado                           Viva
-sex                     hermaphrodite
 Name: AA0046, dtype: object

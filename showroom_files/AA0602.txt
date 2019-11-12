@@ -1,5 +1,4 @@
+catalogNumber                          AA0602
 acceptedNameUsage    Crataegus monogyna Jacq.
 Nombre común                              NaN
-Estado                               Extraído
-sex                             hermaphrodite
 Name: AA0602, dtype: object

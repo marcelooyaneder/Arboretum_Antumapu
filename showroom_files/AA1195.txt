@@ -1,5 +1,4 @@
+catalogNumber                         AA1195
 acceptedNameUsage    Cryptocarya alba Looser
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1195, dtype: object

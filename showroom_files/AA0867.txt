@@ -1,5 +1,4 @@
+catalogNumber                          AA0867
 acceptedNameUsage    Prunus salicifolia Kunth
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0867, dtype: object

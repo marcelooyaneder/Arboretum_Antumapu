@@ -1,5 +1,4 @@
+catalogNumber                         AA0777
 acceptedNameUsage    Prunus cerasifera Ehrh.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0777, dtype: object

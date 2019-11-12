@@ -1,5 +1,4 @@
+catalogNumber                           AA0653
 acceptedNameUsage    Populus canadensis Moench
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0653, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                   AA1004
 acceptedNameUsage    Fraxinus ornus L.
 Nombre común                       NaN
-Estado                            Viva
-sex                      hermaphrodite
 Name: AA1004, dtype: object

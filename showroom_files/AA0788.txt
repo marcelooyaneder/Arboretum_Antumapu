@@ -1,5 +1,4 @@
+catalogNumber                     AA0788
 acceptedNameUsage    Celtis australis L.
 Nombre común                         NaN
-Estado                              Viva
-sex                                  NaN
 Name: AA0788, dtype: object

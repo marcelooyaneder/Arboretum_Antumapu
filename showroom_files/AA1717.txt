@@ -1,5 +1,4 @@
+catalogNumber                       AA1717
 acceptedNameUsage    Prunus persica Stokes
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA1717, dtype: object

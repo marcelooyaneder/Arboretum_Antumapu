@@ -1,5 +1,4 @@
+catalogNumber                           AA0005
 acceptedNameUsage    Aesculus hippocastanum L.
 Nombre común                 Castaño de Indias
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0005, dtype: object

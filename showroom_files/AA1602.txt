@@ -1,5 +1,4 @@
+catalogNumber                       AA1602
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA1602, dtype: object

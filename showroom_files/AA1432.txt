@@ -1,5 +1,4 @@
+catalogNumber                                 AA1432
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                              NaN
 Name: AA1432, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                        AA0773
 acceptedNameUsage    Platanus orientalis L.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA0773, dtype: object

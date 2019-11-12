@@ -1,5 +1,4 @@
+catalogNumber                           AA0542
 acceptedNameUsage    Nothofagus glauca Krasser
 Nombre común                               NaN
-Estado                                  Muerto
-sex                              hermaphrodite
 Name: AA0542, dtype: object

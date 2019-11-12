@@ -1,5 +1,4 @@
+catalogNumber             AA0038
 acceptedNameUsage    Tamarix  L.
 Nombre común           Tamarisco
-Estado                      Viva
-sex                          NaN
 Name: AA0038, dtype: object

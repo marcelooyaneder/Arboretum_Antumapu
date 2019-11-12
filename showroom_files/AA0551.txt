@@ -1,5 +1,4 @@
+catalogNumber                                 AA0551
 acceptedNameUsage    Rhaphithamnus spinosus Moldenke
 Nombre común                                     NaN
-Estado                                        muerto
-sex                                    hermaphrodite
 Name: AA0551, dtype: object

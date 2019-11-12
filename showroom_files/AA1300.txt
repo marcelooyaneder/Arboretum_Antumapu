@@ -1,5 +1,4 @@
+catalogNumber                              AA1300
 acceptedNameUsage    Pseudotsuga menziesii Franco
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA1300, dtype: object

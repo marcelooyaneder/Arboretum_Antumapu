@@ -1,5 +1,4 @@
+catalogNumber                             AA0946
 acceptedNameUsage    Ligustrum lucidum W.T.Aiton
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA0946, dtype: object

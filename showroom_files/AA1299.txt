@@ -1,5 +1,4 @@
+catalogNumber                            AA1299
 acceptedNameUsage    Eriobotrya japonica Lindl.
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA1299, dtype: object

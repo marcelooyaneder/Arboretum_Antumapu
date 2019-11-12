@@ -1,5 +1,4 @@
+catalogNumber                                AA1466
 acceptedNameUsage    Lithraea caustica Hook. & Arn.
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA1466, dtype: object

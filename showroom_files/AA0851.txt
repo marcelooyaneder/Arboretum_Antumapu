@@ -1,5 +1,4 @@
+catalogNumber                            AA0851
 acceptedNameUsage    Caesalpinia spinosa Kuntze
 Nombre común                                NaN
-Estado                                     Viva
-sex                               hermaphrodite
 Name: AA0851, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber             AA1266
 acceptedNameUsage    Tamarix  L.
 Nombre común                 NaN
-Estado                      Viva
-sex                          NaN
 Name: AA1266, dtype: object

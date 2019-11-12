@@ -1,5 +1,4 @@
+catalogNumber                          AA1296
 acceptedNameUsage    Myoporum laetum G.Forst.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA1296, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                             AA0554
 acceptedNameUsage    Podocarpus nubigenus Lindl.
 Nombre común                                 NaN
-Estado                                    Muerto
-sex                                          NaN
 Name: AA0554, dtype: object

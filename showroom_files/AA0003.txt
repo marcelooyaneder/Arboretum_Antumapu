@@ -1,5 +1,4 @@
+catalogNumber                               AA0003
 acceptedNameUsage    Araucaria heterophylla Franco
 Nombre común                       Pino de Norfolk
-Estado                                        Viva
-sex                                            NaN
 Name: AA0003, dtype: object

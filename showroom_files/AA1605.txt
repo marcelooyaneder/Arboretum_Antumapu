@@ -1,5 +1,4 @@
+catalogNumber                           AA1605
 acceptedNameUsage    Cupressus sempervirens L.
 Nombre común                               NaN
-Estado                                    Viva
-sex                                        NaN
 Name: AA1605, dtype: object

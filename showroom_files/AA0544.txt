@@ -1,5 +1,4 @@
+catalogNumber                                  AA0544
 acceptedNameUsage    Pitavia punctata (Molina) Molina
 Nombre común                                      NaN
-Estado                                           Viva
-sex                                     hermaphrodite
 Name: AA0544, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                       AA1241
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                           NaN
-Estado                            Extraído
-sex                          hermaphrodite
 Name: AA1241, dtype: object

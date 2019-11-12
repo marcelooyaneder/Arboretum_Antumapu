@@ -1,5 +1,4 @@
+catalogNumber                               AA1379
 acceptedNameUsage    Photinia serratifolia Kalkman
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                            NaN
 Name: AA1379, dtype: object

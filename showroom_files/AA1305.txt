@@ -1,5 +1,4 @@
+catalogNumber                              AA1305
 acceptedNameUsage    Aristotelia chilensis Stuntz
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA1305, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                      AA0335
 acceptedNameUsage    Cedrus deodara G.Don
 Nombre común                          NaN
-Estado                               Viva
-sex                                   NaN
 Name: AA0335, dtype: object

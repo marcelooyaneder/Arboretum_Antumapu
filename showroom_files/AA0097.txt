@@ -1,5 +1,4 @@
+catalogNumber                            AA0097
 acceptedNameUsage    Casuarina equisetifolia L.
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA0097, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                               AA1647
 acceptedNameUsage    Abelia triflora R.Br. Ex Wall
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                            NaN
 Name: AA1647, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                           AA0535
 acceptedNameUsage    Nothofagus nitida Krasser
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0535, dtype: object

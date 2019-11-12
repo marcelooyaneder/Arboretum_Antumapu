@@ -1,5 +1,4 @@
+catalogNumber                            AA0945
 acceptedNameUsage    Eriobotrya japonica Lindl.
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA0945, dtype: object

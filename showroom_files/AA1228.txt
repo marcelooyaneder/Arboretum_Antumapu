@@ -1,5 +1,4 @@
+catalogNumber                         AA1228
 acceptedNameUsage    Alnus glutinosa Gaertn.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1228, dtype: object

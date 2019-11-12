@@ -1,5 +1,4 @@
+catalogNumber                              AA0994
 acceptedNameUsage    Brachychiton populneus R.Br.
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA0994, dtype: object

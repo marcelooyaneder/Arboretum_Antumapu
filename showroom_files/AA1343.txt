@@ -1,5 +1,4 @@
+catalogNumber                              AA1343
 acceptedNameUsage    Acacia caven (Molina) Molina
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA1343, dtype: object

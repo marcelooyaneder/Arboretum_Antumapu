@@ -1,5 +1,4 @@
-acceptedNameUsage       Prunus  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber            AA1402
+acceptedNameUsage    Prunus  L.
+Nombre común                NaN
 Name: AA1402, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                           AA0495
 acceptedNameUsage    Nothofagus glauca Krasser
 Nombre común                               NaN
-Estado                                  Muerto
-sex                              hermaphrodite
 Name: AA0495, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                  AA0470
 acceptedNameUsage    Schinus molle L.
 Nombre común                      NaN
-Estado                           Viva
-sex                     hermaphrodite
 Name: AA0470, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                     AA1222
 acceptedNameUsage    Salix babylonica L.
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA1222, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                AA1609
 acceptedNameUsage    Phoenix canariensis H.Wildpret
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA1609, dtype: object

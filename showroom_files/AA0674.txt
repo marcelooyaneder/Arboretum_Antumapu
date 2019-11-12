@@ -1,5 +1,4 @@
+catalogNumber                 AA0674
 acceptedNameUsage    Acer negundo L.
 Nombre común                     NaN
-Estado                          Viva
-sex                    hermaphrodite
 Name: AA0674, dtype: object

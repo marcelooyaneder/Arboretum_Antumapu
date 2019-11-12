@@ -1,5 +1,4 @@
+catalogNumber                          AA0531
 acceptedNameUsage    Azara lanceolata Hook.f.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0531, dtype: object

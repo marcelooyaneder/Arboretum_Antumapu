@@ -1,5 +1,4 @@
+catalogNumber                    AA0671
 acceptedNameUsage    Ulmus americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA0671, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                     AA1566
 acceptedNameUsage    Yucca gigantea Lem.
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA1566, dtype: object

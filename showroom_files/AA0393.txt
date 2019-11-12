@@ -1,5 +1,4 @@
+catalogNumber                         AA0393
 acceptedNameUsage    Cryptocarya alba Looser
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0393, dtype: object

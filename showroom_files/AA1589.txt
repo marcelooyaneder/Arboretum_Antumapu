@@ -1,5 +1,4 @@
+catalogNumber                            AA1589
 acceptedNameUsage    Sequoia sempervirens Endl.
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA1589, dtype: object

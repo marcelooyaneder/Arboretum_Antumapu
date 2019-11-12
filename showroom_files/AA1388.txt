@@ -1,5 +1,4 @@
+catalogNumber                       AA1388
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA1388, dtype: object

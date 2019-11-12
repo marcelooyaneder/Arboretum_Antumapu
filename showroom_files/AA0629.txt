@@ -1,5 +1,4 @@
+catalogNumber                           AA0629
 acceptedNameUsage    Acacia saligna H.L.Wendl.
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0629, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                 AA1152
 acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                    hermaphrodite
 Name: AA1152, dtype: object

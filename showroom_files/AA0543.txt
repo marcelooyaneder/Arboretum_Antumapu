@@ -1,5 +1,4 @@
+catalogNumber                                 AA0543
 acceptedNameUsage    Nothofagus alessandrii Espinosa
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                    hermaphrodite
 Name: AA0543, dtype: object

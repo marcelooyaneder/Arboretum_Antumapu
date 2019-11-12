@@ -1,5 +1,4 @@
+catalogNumber                            AA1532
 acceptedNameUsage    Casuarina equisetifolia L.
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA1532, dtype: object

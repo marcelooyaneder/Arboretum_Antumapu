@@ -1,5 +1,4 @@
+catalogNumber                              AA0294
 acceptedNameUsage    Aristotelia chilensis Stuntz
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA0294, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                         AA0492
 acceptedNameUsage    Gunnera tinctoria Mirb.
 Nombre común                             NaN
-Estado                                  Viva
-sex                                      NaN
 Name: AA0492, dtype: object

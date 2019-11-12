@@ -1,5 +1,4 @@
+catalogNumber                         AA1298
 acceptedNameUsage    Prunus cerasifera Ehrh.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1298, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                        AA1225
 acceptedNameUsage    Acer pseudoplatanus L.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA1225, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                       AA1268
 acceptedNameUsage    Agave americana Trel.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA1268, dtype: object

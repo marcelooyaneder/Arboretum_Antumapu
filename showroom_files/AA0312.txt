@@ -1,5 +1,4 @@
+catalogNumber                                 AA0312
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                              NaN
 Name: AA0312, dtype: object
