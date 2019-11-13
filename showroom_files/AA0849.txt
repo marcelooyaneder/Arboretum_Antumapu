@@ -1,5 +1,4 @@
+catalogNumber                                         AA0849
 acceptedNameUsage    Acer japonicum C.P.Thunberg ex A.Murray
 Nombre común                                             NaN
-Estado                                                  Viva
-sex                                            hermaphrodite
 Name: AA0849, dtype: object

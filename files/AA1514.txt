@@ -14,6 +14,5 @@ verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Avellanita bustillosii Phil.
 establishmentMeans                            Nativa
-locationRemarks                                  NaN
 sex                                              NaN
 Name: AA1514, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                         AA0983
 acceptedNameUsage    Robinia pseudoacacia L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0983, dtype: object

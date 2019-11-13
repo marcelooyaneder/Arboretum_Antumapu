@@ -1,5 +1,4 @@
+catalogNumber                     AA0491
 acceptedNameUsage    Luma chequen A.Gray
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA0491, dtype: object

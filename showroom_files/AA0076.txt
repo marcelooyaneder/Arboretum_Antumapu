@@ -1,5 +1,4 @@
-acceptedNameUsage        Ulmus  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber           AA0076
+acceptedNameUsage    Ulmus  L.
+Nombre común               NaN
 Name: AA0076, dtype: object

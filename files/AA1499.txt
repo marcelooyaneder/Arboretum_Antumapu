@@ -14,6 +14,5 @@ verbatimTaxonRank                                             NaN
 taxonRank                                                 species
 acceptedNameUsage       Senna multiglandulosa H.S.Irwin & Barneby
 establishmentMeans                                        Exótica
-locationRemarks                                               NaN
 sex                                                 hermaphrodite
 Name: AA1499, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Nothofagus alpina Oerst.
 establishmentMeans                        Nativa
-locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0569, dtype: object

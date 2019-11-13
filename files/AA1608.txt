@@ -14,6 +14,5 @@ verbatimTaxonRank                       NaN
 taxonRank                           species
 acceptedNameUsage       Salix babylonica L.
 establishmentMeans                  Exótica
-locationRemarks                         NaN
 sex                           hermaphrodite
 Name: AA1608, dtype: object

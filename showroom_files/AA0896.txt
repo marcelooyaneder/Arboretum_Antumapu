@@ -1,5 +1,4 @@
+catalogNumber                               AA0896
 acceptedNameUsage    Callistemon linearifolius DC.
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                  hermaphrodite
 Name: AA0896, dtype: object

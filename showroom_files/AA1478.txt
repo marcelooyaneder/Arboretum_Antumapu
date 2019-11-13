@@ -1,5 +1,4 @@
+catalogNumber                                        AA1478
 acceptedNameUsage    Schinus polygama Cabrera & I.M.Johnst.
 Nombre común                                            NaN
-Estado                                                 Viva
-sex                                           hermaphrodite
 Name: AA1478, dtype: object

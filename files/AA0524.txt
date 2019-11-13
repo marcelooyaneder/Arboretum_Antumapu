@@ -14,6 +14,5 @@ verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Lapageria rosea Ruiz & Pav.
 establishmentMeans                           Nativa
-locationRemarks                                 NaN
 sex                                             NaN
 Name: AA0524, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Lagunaria patersonii G.Don
 establishmentMeans                         Exótica
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA1617, dtype: object

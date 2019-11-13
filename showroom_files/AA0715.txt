@@ -1,5 +1,4 @@
+catalogNumber                      AA0715
 acceptedNameUsage    Ceratonia siliqua L.
 Nombre común                          NaN
-Estado                               Viva
-sex                         hermaphrodite
 Name: AA0715, dtype: object

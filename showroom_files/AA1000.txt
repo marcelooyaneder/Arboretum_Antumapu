@@ -1,5 +1,4 @@
+catalogNumber                                 AA1000
 acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                    hermaphrodite
 Name: AA1000, dtype: object

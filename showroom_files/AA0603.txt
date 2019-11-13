@@ -1,5 +1,4 @@
-acceptedNameUsage        Pinus  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber           AA0603
+acceptedNameUsage    Pinus  L.
+Nombre común               NaN
 Name: AA0603, dtype: object

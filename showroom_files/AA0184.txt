@@ -1,5 +1,4 @@
+catalogNumber                           AA0184
 acceptedNameUsage    Nothofagus obliqua Oerst.
 Nombre común                               NaN
-Estado                                  Muerto
-sex                              hermaphrodite
 Name: AA0184, dtype: object

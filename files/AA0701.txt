@@ -14,6 +14,5 @@ verbatimTaxonRank                     NaN
 taxonRank                         species
 acceptedNameUsage       Vitis vinifera L.
 establishmentMeans                Exótica
-locationRemarks                       NaN
 sex                                   NaN
 Name: AA0701, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                       AA0852
 acceptedNameUsage    Prunus persica Stokes
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA0852, dtype: object

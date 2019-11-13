@@ -1,5 +1,4 @@
+catalogNumber                    AA1400
 acceptedNameUsage    Myrtus communis L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA1400, dtype: object

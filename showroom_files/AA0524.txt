@@ -1,5 +1,4 @@
+catalogNumber                             AA0524
 acceptedNameUsage    Lapageria rosea Ruiz & Pav.
 Nombre común                                 NaN
-Estado                                    Muerto
-sex                                          NaN
 Name: AA0524, dtype: object

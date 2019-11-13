@@ -1,5 +1,4 @@
-acceptedNameUsage      Populus  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber             AA1084
+acceptedNameUsage    Populus  L.
+Nombre común                 NaN
 Name: AA1084, dtype: object

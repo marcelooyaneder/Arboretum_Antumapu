@@ -1,5 +1,4 @@
+catalogNumber                         AA0861
 acceptedNameUsage    Annona cherimola Miller
 Nombre común                             NaN
-Estado                                  Viva
-sex                                      NaN
 Name: AA0861, dtype: object

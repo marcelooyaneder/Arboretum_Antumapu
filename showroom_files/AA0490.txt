@@ -1,5 +1,4 @@
+catalogNumber                            AA0490
 acceptedNameUsage    Citronella mucronata D.Don
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA0490, dtype: object

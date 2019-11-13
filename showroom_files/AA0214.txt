@@ -1,5 +1,4 @@
+catalogNumber                           AA0214
 acceptedNameUsage    Prosopis chilensis Stuntz
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0214, dtype: object

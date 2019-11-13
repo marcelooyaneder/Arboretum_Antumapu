@@ -1,5 +1,4 @@
+catalogNumber                                AA1458
 acceptedNameUsage    Beilschmiedia miersii Kosterm.
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA1458, dtype: object

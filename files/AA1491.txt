@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Caesalpinia spinosa Kuntze
 establishmentMeans                          Nativa
-locationRemarks                                NaN
 sex                                  hermaphrodite
 Name: AA1491, dtype: object

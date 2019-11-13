@@ -1,5 +1,4 @@
+catalogNumber                              AA1091
 acceptedNameUsage    Acacia caven (Molina) Molina
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA1091, dtype: object

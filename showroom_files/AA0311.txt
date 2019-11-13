@@ -1,5 +1,4 @@
+catalogNumber                          AA0311
 acceptedNameUsage    Schinus latifolius Engl.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0311, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                       AA0846
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA0846, dtype: object

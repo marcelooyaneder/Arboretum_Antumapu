@@ -1,5 +1,4 @@
+catalogNumber                             AA0549
 acceptedNameUsage    Gaultheria mucronata J.Rémy
 Nombre común                                 NaN
-Estado                                    Muerto
-sex                                hermaphrodite
 Name: AA0549, dtype: object

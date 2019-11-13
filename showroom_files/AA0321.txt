@@ -1,5 +1,4 @@
+catalogNumber                           AA0321
 acceptedNameUsage    Escallonia  Mutis ex L.f.
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0321, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Casimiroa edulis La Llave
 establishmentMeans                        Exótica
-locationRemarks                               NaN
 sex                                           NaN
 Name: AA0870, dtype: object

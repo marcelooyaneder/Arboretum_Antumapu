@@ -1,5 +1,4 @@
+catalogNumber                         AA1506
 acceptedNameUsage    Proustia pyrifolia Lag.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1506, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                           AA0493
 acceptedNameUsage    Nothofagus dombeyi Oerst.
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA0493, dtype: object

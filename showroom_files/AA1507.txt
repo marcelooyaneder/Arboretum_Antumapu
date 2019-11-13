@@ -1,5 +1,4 @@
+catalogNumber                        AA1507
 acceptedNameUsage    Sophora macrocarpa Sm.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA1507, dtype: object

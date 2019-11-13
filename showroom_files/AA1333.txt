@@ -1,5 +1,4 @@
+catalogNumber                            AA1333
 acceptedNameUsage    Liquidambar styraciflua L.
 Nombre común                                NaN
-Estado                                     Viva
-sex                               hermaphrodite
 Name: AA1333, dtype: object

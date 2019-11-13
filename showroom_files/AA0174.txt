@@ -1,5 +1,4 @@
+catalogNumber                         AA0174
 acceptedNameUsage    Lagerstroemia indica L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0174, dtype: object

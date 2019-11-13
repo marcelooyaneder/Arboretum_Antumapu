@@ -1,5 +1,4 @@
+catalogNumber                               AA1604
 acceptedNameUsage    Koelreuteria paniculata Laxm.
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                  hermaphrodite
 Name: AA1604, dtype: object

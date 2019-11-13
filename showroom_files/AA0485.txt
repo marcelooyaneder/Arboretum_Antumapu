@@ -1,5 +1,4 @@
+catalogNumber                       AA0485
 acceptedNameUsage    Luma apiculata Burret
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA0485, dtype: object

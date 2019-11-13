@@ -1,5 +1,4 @@
+catalogNumber                               AA0616
 acceptedNameUsage    Araucaria angustifolia Kuntze
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                            NaN
 Name: AA0616, dtype: object

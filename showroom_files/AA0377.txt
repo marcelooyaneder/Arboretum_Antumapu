@@ -1,5 +1,4 @@
+catalogNumber                                AA0377
 acceptedNameUsage    Beilschmiedia miersii Kosterm.
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA0377, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                             AA1618
 acceptedNameUsage    Ailanthus altissima Swingle
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA1618, dtype: object

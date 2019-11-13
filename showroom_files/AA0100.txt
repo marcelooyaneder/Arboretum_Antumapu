@@ -1,5 +1,4 @@
+catalogNumber                      AA0100
 acceptedNameUsage    Acacia dealbata Link
 Nombre común                          NaN
-Estado                               Viva
-sex                         hermaphrodite
 Name: AA0100, dtype: object

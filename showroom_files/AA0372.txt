@@ -1,5 +1,4 @@
+catalogNumber                              AA0372
 acceptedNameUsage    Aristotelia chilensis Stuntz
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA0372, dtype: object

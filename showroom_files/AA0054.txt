@@ -1,5 +1,4 @@
+catalogNumber                      AA0054
 acceptedNameUsage    Acacia dealbata Link
 Nombre común                        Aromo
-Estado                               Viva
-sex                         hermaphrodite
 Name: AA0054, dtype: object

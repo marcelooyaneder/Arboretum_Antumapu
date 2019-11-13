@@ -14,6 +14,5 @@ verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Trachycarpus fortunei H.Wendl.
 establishmentMeans                             Exótica
-locationRemarks                                    NaN
 sex                                                NaN
 Name: AA0890, dtype: object

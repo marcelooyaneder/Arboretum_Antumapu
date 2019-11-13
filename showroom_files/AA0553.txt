@@ -1,5 +1,4 @@
+catalogNumber                                   AA0553
 acceptedNameUsage    Amomyrtus meli D.Legrand & Kausel
 Nombre común                                       NaN
-Estado                                          Muerto
-sex                                      hermaphrodite
 Name: AA0553, dtype: object

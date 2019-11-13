@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Blechnum hastatum Kaulf.
 establishmentMeans                        Nativa
-locationRemarks                              NaN
 sex                                          NaN
 Name: AA0536, dtype: object

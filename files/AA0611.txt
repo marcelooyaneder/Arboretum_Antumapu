@@ -14,6 +14,5 @@ verbatimTaxonRank                                 NaN
 taxonRank                                     species
 acceptedNameUsage       Peumus boldus (Molina) Molina
 establishmentMeans                             Nativa
-locationRemarks                                   NaN
 sex                                            female
 Name: AA0611, dtype: object

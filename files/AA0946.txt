@@ -14,6 +14,5 @@ verbatimTaxonRank                               NaN
 taxonRank                                   species
 acceptedNameUsage       Ligustrum lucidum W.T.Aiton
 establishmentMeans                          Exótica
-locationRemarks                                 NaN
 sex                                   hermaphrodite
 Name: AA0946, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                        NaN
 taxonRank                            species
 acceptedNameUsage       Phytolacca dioica L.
 establishmentMeans                   Exótica
-locationRemarks                          NaN
 sex                                      NaN
 Name: AA1697, dtype: object

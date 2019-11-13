@@ -1,5 +1,4 @@
+catalogNumber                                    AA1187
 acceptedNameUsage    Quillaja saponaria (Molina) Molina
 Nombre común                                        NaN
-Estado                                             Viva
-sex                                       hermaphrodite
 Name: AA1187, dtype: object

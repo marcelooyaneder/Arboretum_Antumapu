@@ -1,5 +1,4 @@
+catalogNumber                       AA0628
 acceptedNameUsage    Prosopis alba Griseb.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA0628, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                           AA0147
 acceptedNameUsage    Araucaria araucana K.Koch
 Nombre común                               NaN
-Estado                                    Viva
-sex                                        NaN
 Name: AA0147, dtype: object

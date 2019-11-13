@@ -1,5 +1,4 @@
+catalogNumber                               AA0717
 acceptedNameUsage    Pittosporum  Banks ex Gaertn.
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                  hermaphrodite
 Name: AA0717, dtype: object

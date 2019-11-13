@@ -1,5 +1,4 @@
+catalogNumber                             AA0794
 acceptedNameUsage    Jacaranda mimosifolia D.Don
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA0794, dtype: object

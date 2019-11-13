@@ -1,5 +1,4 @@
+catalogNumber                                               AA0520
 acceptedNameUsage    Parablechnum cordatum (Desv.) Gasper & Salino
 Nombre común                                                   NaN
-Estado                                                        Viva
-sex                                                            NaN
 Name: AA0520, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                          AA1570
 acceptedNameUsage    Schinus latifolius Engl.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA1570, dtype: object

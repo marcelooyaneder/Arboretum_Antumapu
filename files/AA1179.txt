@@ -14,6 +14,5 @@ verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Robinia pseudoacacia L.
 establishmentMeans                      Exótica
-locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA1179, dtype: object

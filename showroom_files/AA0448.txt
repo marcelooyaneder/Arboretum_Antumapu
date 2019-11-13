@@ -1,5 +1,4 @@
+catalogNumber                       AA0448
 acceptedNameUsage    Cestrum parqui L'Hér.
 Nombre común                           NaN
-Estado                                Viva
-sex                                    NaN
 Name: AA0448, dtype: object

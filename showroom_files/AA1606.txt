@@ -1,5 +1,4 @@
+catalogNumber                                 AA1606
 acceptedNameUsage    Maytenus boaria (Molina) Molina
 Nombre común                                     NaN
-Estado                                          Viva
-sex                                             male
 Name: AA1606, dtype: object

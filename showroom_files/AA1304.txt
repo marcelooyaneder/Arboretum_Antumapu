@@ -1,5 +1,4 @@
+catalogNumber                        AA1304
 acceptedNameUsage    Persea americana Mill.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA1304, dtype: object

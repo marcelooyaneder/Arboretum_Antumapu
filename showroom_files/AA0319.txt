@@ -1,5 +1,4 @@
+catalogNumber                         AA0319
 acceptedNameUsage    Cryptocarya alba Looser
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0319, dtype: object

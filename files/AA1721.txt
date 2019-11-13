@@ -14,6 +14,5 @@ verbatimTaxonRank                          NaN
 taxonRank                              species
 acceptedNameUsage       Brahea armata S.Watson
 establishmentMeans                     Exótica
-locationRemarks                            NaN
 sex                                        NaN
 Name: AA1721, dtype: object

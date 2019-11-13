@@ -1,5 +1,4 @@
+catalogNumber                                AA1163
 acceptedNameUsage    Phoenix canariensis H.Wildpret
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA1163, dtype: object

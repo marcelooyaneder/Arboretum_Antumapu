@@ -1,5 +1,4 @@
+catalogNumber                      AA1301
 acceptedNameUsage    Acacia dealbata Link
 Nombre común                          NaN
-Estado                               Viva
-sex                         hermaphrodite
 Name: AA1301, dtype: object

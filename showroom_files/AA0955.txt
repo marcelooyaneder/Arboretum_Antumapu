@@ -1,5 +1,4 @@
+catalogNumber                        AA0955
 acceptedNameUsage    Persea americana Mill.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA0955, dtype: object

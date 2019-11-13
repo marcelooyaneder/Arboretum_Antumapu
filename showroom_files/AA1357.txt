@@ -1,5 +1,4 @@
+catalogNumber                           AA1357
 acceptedNameUsage    Acacia saligna H.L.Wendl.
 Nombre común                               NaN
-Estado                                    Viva
-sex                              hermaphrodite
 Name: AA1357, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                    AA0863
 acceptedNameUsage    Quillaja saponaria (Molina) Molina
 Nombre común                                        NaN
-Estado                                             Viva
-sex                                       hermaphrodite
 Name: AA0863, dtype: object

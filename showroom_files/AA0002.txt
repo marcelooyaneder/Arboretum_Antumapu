@@ -1,5 +1,4 @@
+catalogNumber                           AA0002
 acceptedNameUsage    Araucaria bidwillii Hook.
 Nombre común             Araucaria australiana
-Estado                                    Viva
-sex                                        NaN
 Name: AA0002, dtype: object

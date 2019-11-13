@@ -1,5 +1,4 @@
+catalogNumber                               AA1378
 acceptedNameUsage    Photinia serratifolia Kalkman
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                            NaN
 Name: AA1378, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber               AA0149
 acceptedNameUsage    Morus alba L.
 Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
 Name: AA0149, dtype: object

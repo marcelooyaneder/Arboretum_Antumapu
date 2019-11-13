@@ -1,5 +1,4 @@
-acceptedNameUsage     Prosopis  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber              AA0371
+acceptedNameUsage    Prosopis  L.
+Nombre común                  NaN
 Name: AA0371, dtype: object

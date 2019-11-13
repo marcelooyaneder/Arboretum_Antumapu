@@ -14,6 +14,5 @@ verbatimTaxonRank                                          NaN
 taxonRank                                              species
 acceptedNameUsage       Acer palmatum C.P.Thunberg ex A.Murray
 establishmentMeans                                     Exótica
-locationRemarks                                            NaN
 sex                                              hermaphrodite
 Name: AA1638, dtype: object

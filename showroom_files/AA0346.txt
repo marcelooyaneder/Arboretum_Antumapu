@@ -1,5 +1,4 @@
+catalogNumber                        AA0346
 acceptedNameUsage    Sophora macrocarpa Sm.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA0346, dtype: object

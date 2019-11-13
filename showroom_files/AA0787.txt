@@ -1,5 +1,4 @@
+catalogNumber                         AA0787
 acceptedNameUsage    Cryptocarya alba Looser
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0787, dtype: object

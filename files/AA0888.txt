@@ -14,6 +14,5 @@ verbatimTaxonRank                                  NaN
 taxonRank                                      species
 acceptedNameUsage       Phoenix canariensis H.Wildpret
 establishmentMeans                             Exótica
-locationRemarks                                    NaN
 sex                                      hermaphrodite
 Name: AA0888, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage           Sorbus  L.
 establishmentMeans             Exótica
-locationRemarks                    NaN
 sex                                NaN
 Name: AA0028, dtype: object

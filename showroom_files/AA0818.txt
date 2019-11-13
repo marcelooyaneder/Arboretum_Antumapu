@@ -1,5 +1,4 @@
-acceptedNameUsage        Pyrus  L.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber           AA0818
+acceptedNameUsage    Pyrus  L.
+Nombre común               NaN
 Name: AA0818, dtype: object

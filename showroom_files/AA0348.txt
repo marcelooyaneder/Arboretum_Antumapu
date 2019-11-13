@@ -1,5 +1,4 @@
+catalogNumber                               AA0348
 acceptedNameUsage    Geoffroea decorticans Burkart
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                  hermaphrodite
 Name: AA0348, dtype: object

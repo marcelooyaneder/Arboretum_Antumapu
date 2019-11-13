@@ -14,6 +14,5 @@ verbatimTaxonRank                             NaN
 taxonRank                                 species
 acceptedNameUsage       Sophora cassioides Sparre
 establishmentMeans                         Nativa
-locationRemarks                               NaN
 sex                                 hermaphrodite
 Name: AA0446, dtype: object

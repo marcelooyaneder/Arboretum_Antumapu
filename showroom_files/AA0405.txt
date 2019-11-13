@@ -1,5 +1,4 @@
+catalogNumber                          AA0405
 acceptedNameUsage    Schinus latifolius Engl.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0405, dtype: object

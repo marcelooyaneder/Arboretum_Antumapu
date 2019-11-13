@@ -1,5 +1,4 @@
+catalogNumber                                       AA1501
 acceptedNameUsage    Senna candolleana H.S.Irwin & Barneby
 Nombre común                                           NaN
-Estado                                                Viva
-sex                                          hermaphrodite
 Name: AA1501, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                    AA1237
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                                 NaN
 Name: AA1237, dtype: object

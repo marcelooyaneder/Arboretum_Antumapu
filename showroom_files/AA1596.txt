@@ -1,5 +1,4 @@
+catalogNumber                    AA1596
 acceptedNameUsage    Melia azedarach L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA1596, dtype: object

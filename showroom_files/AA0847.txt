@@ -1,5 +1,4 @@
+catalogNumber                  AA0847
 acceptedNameUsage    Quercus nigra L.
 Nombre común                      NaN
-Estado                           Viva
-sex                               NaN
 Name: AA0847, dtype: object

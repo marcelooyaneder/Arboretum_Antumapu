@@ -1,5 +1,4 @@
+catalogNumber                          AA0511
 acceptedNameUsage    Sophora microphylla Ait.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0511, dtype: object

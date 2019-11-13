@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Myoporum laetum G.Forst.
 establishmentMeans                       Exótica
-locationRemarks                              NaN
 sex                                hermaphrodite
 Name: AA0604, dtype: object

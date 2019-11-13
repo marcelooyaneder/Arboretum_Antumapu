@@ -1,5 +1,4 @@
+catalogNumber                  AA0938
 acceptedNameUsage    Schinus molle L.
 Nombre común                      NaN
-Estado                           Viva
-sex                     hermaphrodite
 Name: AA0938, dtype: object

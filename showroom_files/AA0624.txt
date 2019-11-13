@@ -1,5 +1,4 @@
+catalogNumber                          AA0624
 acceptedNameUsage    Acacia melanoxylon R.Br.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0624, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                       AA0452
 acceptedNameUsage    Cestrum parqui L'Hér.
 Nombre común                           NaN
-Estado                                Viva
-sex                                    NaN
 Name: AA0452, dtype: object

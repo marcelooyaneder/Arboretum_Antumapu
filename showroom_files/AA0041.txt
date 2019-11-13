@@ -1,5 +1,4 @@
+catalogNumber                   AA0041
 acceptedNameUsage    Fraxinus ornus L.
 Nombre común                    Fresno
-Estado                            Viva
-sex                      hermaphrodite
 Name: AA0041, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                                              NaN
 taxonRank                                                  species
 acceptedNameUsage       Elaeagnus umbellata C.P.Thunb. ex A.Murray
 establishmentMeans                                         Exótica
-locationRemarks                                                NaN
 sex                                                            NaN
 Name: AA1650, dtype: object

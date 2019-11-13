@@ -1,5 +1,4 @@
+catalogNumber                        AA1630
 acceptedNameUsage    Persea americana Mill.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA1630, dtype: object

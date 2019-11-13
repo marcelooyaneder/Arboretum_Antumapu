@@ -1,5 +1,4 @@
+catalogNumber                            AA0702
 acceptedNameUsage    Sequoia sempervirens Endl.
 Nombre común                                NaN
-Estado                                     Viva
-sex                                         NaN
 Name: AA0702, dtype: object

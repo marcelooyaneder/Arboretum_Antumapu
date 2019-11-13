@@ -1,5 +1,4 @@
+catalogNumber                    AA1703
 acceptedNameUsage    Agave americana L.
 Nombre común                        NaN
-Estado                             Viva
-sex                                 NaN
 Name: AA1703, dtype: object

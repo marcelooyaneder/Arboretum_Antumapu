@@ -1,5 +1,4 @@
+catalogNumber                                AA0173
 acceptedNameUsage    Chamaecyparis lawsoniana Parl.
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                             NaN
 Name: AA0173, dtype: object

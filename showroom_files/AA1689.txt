@@ -1,5 +1,4 @@
+catalogNumber                      AA1689
 acceptedNameUsage    Phytolacca dioica L.
 Nombre común                          NaN
-Estado                               Viva
-sex                                   NaN
 Name: AA1689, dtype: object

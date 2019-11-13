@@ -1,5 +1,4 @@
+catalogNumber                                           AA1499
 acceptedNameUsage    Senna multiglandulosa H.S.Irwin & Barneby
 Nombre común                                               NaN
-Estado                                                    Viva
-sex                                              hermaphrodite
 Name: AA1499, dtype: object

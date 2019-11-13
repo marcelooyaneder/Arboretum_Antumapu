@@ -1,5 +1,4 @@
-acceptedNameUsage     Malus  Mill.
-Nombre común                   NaN
-Estado                        Viva
-sex                  hermaphrodite
+catalogNumber              AA1283
+acceptedNameUsage    Malus  Mill.
+Nombre común                  NaN
 Name: AA1283, dtype: object

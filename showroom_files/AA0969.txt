@@ -1,5 +1,4 @@
+catalogNumber                               AA0969
 acceptedNameUsage    Koelreuteria paniculata Laxm.
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                  hermaphrodite
 Name: AA0969, dtype: object

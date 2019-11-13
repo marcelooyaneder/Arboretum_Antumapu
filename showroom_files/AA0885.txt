@@ -1,5 +1,4 @@
+catalogNumber                                AA0885
 acceptedNameUsage    Phoenix canariensis H.Wildpret
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA0885, dtype: object

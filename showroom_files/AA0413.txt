@@ -1,5 +1,4 @@
+catalogNumber                          AA0413
 acceptedNameUsage    Populus simonii Carrière
 Nombre común                              NaN
-Estado                               Extraído
-sex                             hermaphrodite
 Name: AA0413, dtype: object

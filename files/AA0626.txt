@@ -14,6 +14,5 @@ verbatimTaxonRank                            NaN
 taxonRank                                species
 acceptedNameUsage       Baccharis linearis Pers.
 establishmentMeans                        Nativa
-locationRemarks                              NaN
 sex                                          NaN
 Name: AA0626, dtype: object

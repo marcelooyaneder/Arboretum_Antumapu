@@ -1,5 +1,4 @@
+catalogNumber                    AA0334
 acceptedNameUsage    Melia azedarach L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA0334, dtype: object

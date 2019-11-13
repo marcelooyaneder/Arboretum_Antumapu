@@ -1,5 +1,4 @@
+catalogNumber                               AA0606
 acceptedNameUsage    Peumus boldus (Molina) Molina
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                            NaN
 Name: AA0606, dtype: object

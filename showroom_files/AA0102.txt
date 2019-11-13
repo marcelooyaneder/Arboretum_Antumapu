@@ -1,5 +1,4 @@
+catalogNumber                    AA0102
 acceptedNameUsage    Melia azedarach L.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA0102, dtype: object

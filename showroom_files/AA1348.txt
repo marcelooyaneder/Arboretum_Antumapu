@@ -1,5 +1,4 @@
+catalogNumber                     AA1348
 acceptedNameUsage    Pinus radiata D.Don
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA1348, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Citronella mucronata D.Don
 establishmentMeans                          Nativa
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA0490, dtype: object

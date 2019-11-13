@@ -14,6 +14,5 @@ verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Calycanthus floridus L.
 establishmentMeans                      Exótica
-locationRemarks                             NaN
 sex                               hermaphrodite
 Name: AA1631, dtype: object

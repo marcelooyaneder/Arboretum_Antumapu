@@ -1,5 +1,4 @@
+catalogNumber                          AA0345
 acceptedNameUsage    Fuchsia magellanica Lam.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0345, dtype: object

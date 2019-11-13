@@ -1,5 +1,4 @@
+catalogNumber                              AA1533
 acceptedNameUsage    Brachychiton populneus R.Br.
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA1533, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                  AA1655
 acceptedNameUsage    Juglans nigra L.
 Nombre común                      NaN
-Estado                           Viva
-sex                     hermaphrodite
 Name: AA1655, dtype: object

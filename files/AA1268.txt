@@ -14,6 +14,5 @@ verbatimTaxonRank                         NaN
 taxonRank                             species
 acceptedNameUsage       Agave americana Trel.
 establishmentMeans                    Exótica
-locationRemarks                           NaN
 sex                             hermaphrodite
 Name: AA1268, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                           AA0016
 acceptedNameUsage    Cupressus sempervirens L.
 Nombre común                      Ciprés común
-Estado                                    Viva
-sex                                        NaN
 Name: AA0016, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                             AA0685
 acceptedNameUsage    Eucalyptus globulus Labill.
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA0685, dtype: object

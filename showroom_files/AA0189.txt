@@ -1,5 +1,4 @@
+catalogNumber                     AA0189
 acceptedNameUsage    Acacia karroo Hayne
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA0189, dtype: object

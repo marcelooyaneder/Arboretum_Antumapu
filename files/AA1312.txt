@@ -14,6 +14,5 @@ verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage           Citrus  L.
 establishmentMeans             Exótica
-locationRemarks                    NaN
 sex                      hermaphrodite
 Name: AA1312, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                          AA1613
 acceptedNameUsage    Catalpa speciosa Engelm.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA1613, dtype: object

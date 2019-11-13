@@ -1,5 +1,4 @@
+catalogNumber                           AA1232
 acceptedNameUsage    Elaeagnus angustifolia L.
 Nombre común                               NaN
-Estado                                    Viva
-sex                                        NaN
 Name: AA1232, dtype: object

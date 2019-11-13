@@ -1,5 +1,4 @@
+catalogNumber                         AA1720
 acceptedNameUsage    Jubaea chilensis Baill.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1720, dtype: object

@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Desfontainia fulgens D.Don
 establishmentMeans                          Nativa
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA0560, dtype: object

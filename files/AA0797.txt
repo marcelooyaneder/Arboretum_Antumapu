@@ -14,6 +14,5 @@ verbatimTaxonRank                    NaN
 taxonRank                        species
 acceptedNameUsage       Quercus nigra L.
 establishmentMeans               Exótica
-locationRemarks                      NaN
 sex                                  NaN
 Name: AA0797, dtype: object

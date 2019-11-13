@@ -14,6 +14,5 @@ verbatimTaxonRank                                             NaN
 taxonRank                                                 species
 acceptedNameUsage       Washingtonia filifera H.Wendl. ex de Bary
 establishmentMeans                                        Exótica
-locationRemarks                                               NaN
 sex                                                 hermaphrodite
 Name: AA1265, dtype: object

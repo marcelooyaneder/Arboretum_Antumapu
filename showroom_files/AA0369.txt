@@ -1,5 +1,4 @@
+catalogNumber                              AA0369
 acceptedNameUsage    Cordia decandra Hook. & Arn.
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                           NaN
 Name: AA0369, dtype: object

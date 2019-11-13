@@ -14,6 +14,5 @@ verbatimTaxonRank                                NaN
 taxonRank                                    species
 acceptedNameUsage       Brachychiton populneus R.Br.
 establishmentMeans                           Exótica
-locationRemarks                                  NaN
 sex                                    hermaphrodite
 Name: AA0032, dtype: object

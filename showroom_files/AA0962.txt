@@ -1,5 +1,4 @@
+catalogNumber                         AA0962
 acceptedNameUsage    Cryptocarya alba Looser
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0962, dtype: object

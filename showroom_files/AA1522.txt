@@ -1,5 +1,4 @@
+catalogNumber                       AA1522
 acceptedNameUsage    Fraxinus excelsior L.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA1522, dtype: object

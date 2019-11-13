@@ -1,5 +1,4 @@
+catalogNumber                         AA0362
 acceptedNameUsage    Monttea chilensis J.Gay
 Nombre común                             NaN
-Estado                                  Viva
-sex                                      NaN
 Name: AA0362, dtype: object

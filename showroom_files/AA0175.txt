@@ -1,5 +1,4 @@
+catalogNumber                                AA0175
 acceptedNameUsage    Brachychiton discolor F.Muell.
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA0175, dtype: object

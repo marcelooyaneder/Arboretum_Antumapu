@@ -1,5 +1,4 @@
+catalogNumber                                   AA0556
 acceptedNameUsage    Fitzroya cupressoides I.M.Johnst.
 Nombre común                                       NaN
-Estado                                            Viva
-sex                                                NaN
 Name: AA0556, dtype: object

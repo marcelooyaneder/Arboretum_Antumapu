@@ -1,5 +1,4 @@
+catalogNumber                          AA0604
 acceptedNameUsage    Myoporum laetum G.Forst.
 Nombre común                              NaN
-Estado                               Extraído
-sex                             hermaphrodite
 Name: AA0604, dtype: object

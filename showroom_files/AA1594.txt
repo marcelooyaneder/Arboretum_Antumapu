@@ -1,5 +1,4 @@
+catalogNumber                                AA1594
 acceptedNameUsage    Styphnolobium japonicum Schott
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                             NaN
 Name: AA1594, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                   AA0618
 acceptedNameUsage    Blepharocalyx cruckshanksii Nied.
 Nombre común                                       NaN
-Estado                                            Viva
-sex                                                NaN
 Name: AA0618, dtype: object

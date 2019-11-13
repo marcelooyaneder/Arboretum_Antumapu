@@ -1,5 +1,4 @@
+catalogNumber                         AA1280
 acceptedNameUsage    Robinia pseudoacacia L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1280, dtype: object

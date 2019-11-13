@@ -1,5 +1,4 @@
+catalogNumber                             AA0859
 acceptedNameUsage    Citrus sinensis (L.) Osbeck
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA0859, dtype: object

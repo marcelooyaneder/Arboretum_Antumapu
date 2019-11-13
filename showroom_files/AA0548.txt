@@ -1,5 +1,4 @@
+catalogNumber                              AA0548
 acceptedNameUsage    Crinodendron hookerianum Gay
 Nombre común                                  NaN
-Estado                                     Muerto
-sex                                 hermaphrodite
 Name: AA0548, dtype: object

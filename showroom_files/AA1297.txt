@@ -1,5 +1,4 @@
+catalogNumber                        AA1297
 acceptedNameUsage    Persea americana Mill.
 Nombre común                            NaN
-Estado                                 Viva
-sex                           hermaphrodite
 Name: AA1297, dtype: object

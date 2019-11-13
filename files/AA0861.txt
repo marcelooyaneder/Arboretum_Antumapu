@@ -14,6 +14,5 @@ verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Annona cherimola Miller
 establishmentMeans                      Exótica
-locationRemarks                             NaN
 sex                                         NaN
 Name: AA0861, dtype: object

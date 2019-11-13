@@ -1,5 +1,4 @@
+catalogNumber                         AA0662
 acceptedNameUsage    Robinia pseudoacacia L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0662, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                    AA0057
 acceptedNameUsage    Melia azedarach L.
 Nombre común          Arbol del paraíso
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA0057, dtype: object

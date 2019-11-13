@@ -1,5 +1,4 @@
+catalogNumber                         AA0155
 acceptedNameUsage    Magnolia grandiflora L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA0155, dtype: object

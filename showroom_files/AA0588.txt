@@ -1,5 +1,4 @@
+catalogNumber                                   AA0588
 acceptedNameUsage    Beilschmiedia berteroana Kosterm.
 Nombre común                                       NaN
-Estado                                            Viva
-sex                                      hermaphrodite
 Name: AA0588, dtype: object

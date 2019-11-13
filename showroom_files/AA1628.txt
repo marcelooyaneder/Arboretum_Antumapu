@@ -1,5 +1,4 @@
+catalogNumber                               AA1628
 acceptedNameUsage    Peumus boldus (Molina) Molina
 Nombre común                                   NaN
-Estado                                        Viva
-sex                                         female
 Name: AA1628, dtype: object

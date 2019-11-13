@@ -1,5 +1,4 @@
+catalogNumber                             AA1335
 acceptedNameUsage    Jacaranda mimosifolia D.Don
 Nombre común                                 NaN
-Estado                                      Viva
-sex                                hermaphrodite
 Name: AA1335, dtype: object

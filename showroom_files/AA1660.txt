@@ -1,5 +1,4 @@
+catalogNumber                                    AA1660
 acceptedNameUsage    Quillaja saponaria (Molina) Molina
 Nombre común                                        NaN
-Estado                                             Viva
-sex                                       hermaphrodite
 Name: AA1660, dtype: object

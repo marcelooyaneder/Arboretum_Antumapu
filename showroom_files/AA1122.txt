@@ -1,5 +1,4 @@
+catalogNumber                      AA1122
 acceptedNameUsage    Acacia dealbata Link
 Nombre común                          NaN
-Estado                               Viva
-sex                         hermaphrodite
 Name: AA1122, dtype: object

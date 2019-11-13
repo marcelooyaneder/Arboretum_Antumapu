@@ -1,5 +1,4 @@
+catalogNumber                          AA1610
 acceptedNameUsage    Cupressus funebris Endl.
 Nombre común                              NaN
-Estado                                   Viva
-sex                                       NaN
 Name: AA1610, dtype: object

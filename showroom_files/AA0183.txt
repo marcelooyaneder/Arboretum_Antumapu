@@ -1,5 +1,4 @@
+catalogNumber                  AA0183
 acceptedNameUsage    Ginkgo biloba L.
 Nombre común                      NaN
-Estado                           Viva
-sex                               NaN
 Name: AA0183, dtype: object

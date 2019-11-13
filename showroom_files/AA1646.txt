@@ -1,5 +1,4 @@
+catalogNumber                         AA1646
 acceptedNameUsage    Cryptocarya alba Looser
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1646, dtype: object

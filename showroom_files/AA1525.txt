@@ -1,5 +1,4 @@
+catalogNumber                         AA1525
 acceptedNameUsage    Robinia pseudoacacia L.
 Nombre común                             NaN
-Estado                                  Viva
-sex                            hermaphrodite
 Name: AA1525, dtype: object

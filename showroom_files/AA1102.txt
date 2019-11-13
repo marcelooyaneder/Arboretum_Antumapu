@@ -1,5 +1,4 @@
+catalogNumber                    AA1102
 acceptedNameUsage    Eucalyptus  L'Her.
 Nombre común                        NaN
-Estado                             Viva
-sex                       hermaphrodite
 Name: AA1102, dtype: object

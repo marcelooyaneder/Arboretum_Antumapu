@@ -14,6 +14,5 @@ verbatimTaxonRank                  sp.
 taxonRank                        genus
 acceptedNameUsage            Tilia  L.
 establishmentMeans             Exótica
-locationRemarks                    NaN
 sex                                NaN
 Name: AA0956, dtype: object

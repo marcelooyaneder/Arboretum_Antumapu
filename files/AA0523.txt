@@ -14,6 +14,5 @@ verbatimTaxonRank                                                     NaN
 taxonRank                                                         species
 acceptedNameUsage       Lomariocycas magellanicum (Mett.) Gasper & A.R...
 establishmentMeans                                                 Nativa
-locationRemarks                                                       NaN
 sex                                                                   NaN
 Name: AA0523, dtype: object

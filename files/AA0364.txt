@@ -14,6 +14,5 @@ verbatimTaxonRank                              NaN
 taxonRank                                  species
 acceptedNameUsage       Polylepis tarapacana Phil.
 establishmentMeans                          Nativa
-locationRemarks                                NaN
 sex                                            NaN
 Name: AA0364, dtype: object

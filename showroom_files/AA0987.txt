@@ -1,5 +1,4 @@
+catalogNumber                     AA0987
 acceptedNameUsage    Pinus radiata D.Don
 Nombre común                         NaN
-Estado                              Viva
-sex                        hermaphrodite
 Name: AA0987, dtype: object

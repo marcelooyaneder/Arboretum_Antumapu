@@ -1,5 +1,4 @@
+catalogNumber                     AA1440
 acceptedNameUsage    Celtis australis L.
 Nombre común                         NaN
-Estado                              Viva
-sex                                  NaN
 Name: AA1440, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                          AA0561
 acceptedNameUsage    Lomatia ferruginea R.Br.
 Nombre común                              NaN
-Estado                                 Muerto
-sex                             hermaphrodite
 Name: AA0561, dtype: object

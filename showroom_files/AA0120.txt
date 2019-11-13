@@ -1,5 +1,4 @@
+catalogNumber                          AA0120
 acceptedNameUsage    Catalpa speciosa Engelm.
 Nombre común                              NaN
-Estado                                   Viva
-sex                             hermaphrodite
 Name: AA0120, dtype: object

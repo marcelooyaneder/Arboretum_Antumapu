@@ -1,5 +1,4 @@
+catalogNumber                              AA0251
 acceptedNameUsage    Acacia caven (Molina) Molina
 Nombre común                                  NaN
-Estado                                       Viva
-sex                                 hermaphrodite
 Name: AA0251, dtype: object

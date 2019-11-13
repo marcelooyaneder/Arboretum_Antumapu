@@ -14,6 +14,5 @@ verbatimTaxonRank                   NaN
 taxonRank                       species
 acceptedNameUsage       Acer negundo L.
 establishmentMeans              Exótica
-locationRemarks                     NaN
 sex                       hermaphrodite
 Name: AA1327, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                                       AA0177
 acceptedNameUsage    Cupressus macrocarpa Hartw. ex Gordon
 Nombre común                                           NaN
-Estado                                                Viva
-sex                                                    NaN
 Name: AA0177, dtype: object

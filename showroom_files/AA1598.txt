@@ -1,5 +1,4 @@
+catalogNumber                           AA1598
 acceptedNameUsage    Elaeagnus angustifolia L.
 Nombre común                               NaN
-Estado                                    Viva
-sex                                        NaN
 Name: AA1598, dtype: object

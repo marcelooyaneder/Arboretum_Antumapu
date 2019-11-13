@@ -1,5 +1,4 @@
+catalogNumber                                AA1626
 acceptedNameUsage    Phoenix canariensis H.Wildpret
 Nombre común                                    NaN
-Estado                                         Viva
-sex                                   hermaphrodite
 Name: AA1626, dtype: object

@@ -1,5 +1,4 @@
+catalogNumber                       AA0352
 acceptedNameUsage    Prosopis alba Griseb.
 Nombre común                           NaN
-Estado                                Viva
-sex                          hermaphrodite
 Name: AA0352, dtype: object

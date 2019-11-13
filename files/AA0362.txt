@@ -14,6 +14,5 @@ verbatimTaxonRank                           NaN
 taxonRank                               species
 acceptedNameUsage       Monttea chilensis J.Gay
 establishmentMeans                       Nativa
-locationRemarks                             NaN
 sex                                         NaN
 Name: AA0362, dtype: object
