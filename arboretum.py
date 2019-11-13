@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
-#ver forma de eliminar columnas vacias del dataframe
-
 #package imports
+
 import pandas as pd
 import os
 import errno
@@ -102,23 +101,24 @@ class subject:
         data.query(f"{column}=='{query_choicebox}'",inplace=True) 
         return data
 
-    def change_values(self,data,subjects): 
-        """el ciclo debe ser de set_values
-        luego values to channge
-        luego a sujects """
+    def change_values(self,data,og_data,subjects): 
         IDs_for_change=eg.multchoicebox(msg='Select the subject(s) for a change: ',title='Select...',choices=subjects)    
         columns=data.columns.tolist()
-        values_to_change=eg.choicebox(msg='The following values are available for change: ',title='Select...',choices=columns)
-        set_value=eg.multenterbox(msg='Enter the new value: ',title='New value...',fields=values_to_change)
-        #ans=input('Are you sure you want to change the value from {0} to {1}\nY/n ?'.format(data.at[subjects[0],columns[indexo1]],set_value))
-        #for columns_values in values_to_change:
-        #if ans=='Y' or ans=='y':    
-        #    for values in subjects:
-        #        data.at[values,columns[indexo1]]=set_value
-        #        data.at[values,'acceptedNameUsage']= '{0} {1} {2}'.format(data.at[values,'genus'],data.at[values,'specificEpithet'],data.at[values,'nameAcordingTo'])
-        #    return data 
-        #else:
-        #    pass 
+        new_value_change=True
+        while new_value_change==True:
+            values_to_change=eg.choicebox(msg='The following values are available for change: ',title='Select...',choices=columns)
+            set_value=eg.enterbox(msg=f'Enter a new value for {values_to_change}: ',title='New value...')
+            for values in IDs_for_change:
+                try:
+                    data.at[values,values_to_change]=set_value
+                    data.at[values,'acceptedNameUsage']= '{0} {1} {2}'.format(data.at[values,'genus'],data.at[values,'specificEpithet'],data.at[values,'nameAcordingTo'])
+                    og_data.at[values,values_to_change]=set_value
+                    og_data.at[values,'acceptedNameUsage']= '{0} {1} {2}'.format(data.at[values,'genus'],data.at[values,'specificEpithet'],data.at[values,'nameAcordingTo'])
+                except:
+                    print('The changes can not be made')
+                    pass
+            new_value_change=eg.ynbox(msg='Do you want to change another values in this subjects?',title='Value change')
+        return data
         
     def add_values(self,data):
         msg = "Enter information about the new subject"
@@ -297,8 +297,8 @@ if not query_choicebox==query_choicebox_options[3] or query_choicebox==None:
     elif choicebox_for_after_query==choicebox_for_after_query_options[1]:
         #make changes on your query and export them to a xlsx file (this changes will be saved on your original file)
         query_subjects=data_for_query[indexo].tolist()
-        r1.change_values(data,query_subjects) #TERMINAR ESTA SECCION
-        r1.save_values(data_for_query) 
+        r1.change_values(data,og_data,query_subjects) 
+        r1.save_values(og_data) #for saving original data
     elif choicebox_for_after_query==choicebox_for_after_query_options[2]:
         #show the subjects wich match your query
         query_subjects=data_for_query[indexo].tolist()
