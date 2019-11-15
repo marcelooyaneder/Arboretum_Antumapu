@@ -52,6 +52,7 @@ class file_manager:
         if empty_columns_drop_answer==True:
             data.dropna(axis=1, how='all',inplace=True)
             og_data.dropna(axis=1, how='all',inplace=True)
+            og_data.to_csv('online_dataframe.csv',sep=',')
         else:
             pass
         return og_data,data,indexo,og_columns_df
