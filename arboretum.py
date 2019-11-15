@@ -35,7 +35,7 @@ class file_manager:
         data=data.set_index(indexo, drop = False)
         og_data=data.copy()
         og_columns_df=og_data.columns.tolist()
-        columns_dwc=pd.read_csv('dwc_terms\simple_dwc_horizontal.csv',header=0,sep=';').columns.tolist() #ver como variar de ; o , 
+        columns_dwc=pd.read_csv('documents\dwc_terms\simple_dwc_horizontal.csv',header=0,sep=';').columns.tolist() #ver como variar de ; o , 
         columns_difference=list(set(columns_df)-set(columns_dwc))
         if not columns_difference:
             pass
@@ -51,20 +51,21 @@ class file_manager:
         empty_columns_drop_answer=eg.ynbox(msg='Do you wish to delete the empty columns?...',title='Drop empty columns') #a way to drop fully empty columns
         if empty_columns_drop_answer==True:
             data.dropna(axis=1, how='all',inplace=True)
+            og_data.dropna(axis=1, how='all',inplace=True)
         else:
             pass
         return og_data,data,indexo,og_columns_df
     
     def file_creation(self):
-        Record_level=pd.read_csv('dwc_terms\Record_level.csv',header=0,sep=';').columns.tolist()
-        Ocurrence=pd.read_csv('dwc_terms\Ocurrence.csv',header=0,sep=';').columns.tolist()
-        Organism=pd.read_csv('dwc_terms\organism.csv',header=0,sep=';').columns.tolist()
-        Material_sample=pd.read_csv('dwc_terms\MaterialSample.csv',header=0,sep=';').columns.tolist()
-        Event=pd.read_csv('dwc_terms\event.csv',header=0,sep=';').columns.tolist()
-        Location=pd.read_csv('dwc_terms\location.csv',header=0,sep=';').columns.tolist()
-        Geological_Context=pd.read_csv('dwc_terms\GeologicalContext.csv',header=0,sep=';').columns.tolist()
-        Identification=pd.read_csv('dwc_terms\identification.csv',header=0,sep=';').columns.tolist()
-        Taxon=pd.read_csv('dwc_terms\Taxon.csv',header=0,sep=';').columns.tolist()
+        Record_level=pd.read_csv('documents\dwc_terms\Record_level.csv',header=0,sep=';').columns.tolist()
+        Ocurrence=pd.read_csv('documents\dwc_terms\Ocurrence.csv',header=0,sep=';').columns.tolist()
+        Organism=pd.read_csv('documents\dwc_terms\organism.csv',header=0,sep=';').columns.tolist()
+        Material_sample=pd.read_csv('documents\dwc_terms\MaterialSample.csv',header=0,sep=';').columns.tolist()
+        Event=pd.read_csv('documents\dwc_terms\event.csv',header=0,sep=';').columns.tolist()
+        Location=pd.read_csv('documents\dwc_terms\location.csv',header=0,sep=';').columns.tolist()
+        Geological_Context=pd.read_csv('documents\dwc_terms\GeologicalContext.csv',header=0,sep=';').columns.tolist()
+        Identification=pd.read_csv('documents\dwc_terms\identification.csv',header=0,sep=';').columns.tolist()
+        Taxon=pd.read_csv('documents\dwc_terms\Taxon.csv',header=0,sep=';').columns.tolist()
         columns_dwc=[Record_level,Ocurrence,Organism,Material_sample,Event,Location,Geological_Context,Identification,Taxon]
         dwc_columns=[]
         for labels in columns_dwc:
@@ -78,7 +79,6 @@ class file_manager:
         dataframe=pd.DataFrame(columns=dwc_columns)
         return dataframe
 
-#autosugerir el nombre cientifico
 class subject:
     def __init__(self,data):
         self.data=data
@@ -179,8 +179,9 @@ def infowriting(ID,info,option):  #option 1 for showroom, 0 files
     return 
 
 def dynamiclinks(longurl):
-    api_key='AIzaSyCsBqEkRDVJ8ZNp1E8HcbWDe_JEHu9Frgw' #this need to be created on the firebase webpage
-    sub_domain='arboretum' #this need to be created on firebase webpage
+    user_info=pd.read_csv("documents\dynamiclinks_user_info.csv",header=0,sep=';')
+    api_key=user_info['api_key'][0] #this need to be created on the firebase webpage
+    sub_domain=user_info['sub_domain'][0] #this need to be created on firebase webpage
     try:
         url_shortener = UrlShortener(api_key,sub_domain)
         shorturl=url_shortener.get_short_link(longurl)
@@ -201,15 +202,18 @@ def qr_manager(ID,short_url,option): #option 1 for showroom, 0 files
         quick_response_code= pyqrcode.create(short_url)
         with open(filename, 'wb') as f:
                 quick_response_code.png(f, scale=8,module_color=(0,102,0,255),background=(255, 255, 255, 255))
-        img = Image.open(filename)
-        width, height = img.size
-        logo_size =50
-        logo = Image.open('118px-Leaf_icon_15.png')
-        xmin = ymin = int((width / 2) - (logo_size / 2))
-        xmax = ymax = int((width / 2) + (logo_size / 2))
-        logo = logo.resize((xmax - xmin, ymax - ymin))
-        img.paste(logo, (xmin, ymin, xmax, ymax))
-        img.save(filename)
+        try:
+            img = Image.open(filename)
+            width, height = img.size
+            logo_size =50
+            logo = Image.open('documents\logo.png')
+            xmin = ymin = int((width / 2) - (logo_size / 2))
+            xmax = ymax = int((width / 2) + (logo_size / 2))
+            logo = logo.resize((xmax - xmin, ymax - ymin))
+            img.paste(logo, (xmin, ymin, xmax, ymax))
+            img.save(filename)
+        except:
+            pass
     except:
         print(f'permission to write in {filename} has been denied...')
 
@@ -335,7 +339,7 @@ if os.path.isdir('qrs')==True:
         print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
         path=f"qrs/{id}.png"
         if os.path.isfile(path)==False:
-            longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/{id}.txt'
+            longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/files/{id}.txt'            
             shorturl=dynamiclinks(longurl)
             qr_manager(id,shorturl,0)
         else:
@@ -343,7 +347,7 @@ if os.path.isdir('qrs')==True:
 else:
     for id in IDs:
         print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
-        longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/files/{id}.txt'
+        longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/files/{id}.txt'
         shorturl=dynamiclinks(longurl)
         qr_manager(id,shorturl,0)
 
@@ -354,7 +358,7 @@ if showroom_option_button=='Yes':
             print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
             path=f"showroom_qrs/{id}.png"
             if os.path.isfile(path)==False:
-                longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/{id}.txt'
+                longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/showroom_files/{id}.txt'
                 shorturl=dynamiclinks(longurl)
                 qr_manager(id,shorturl,1)
             else:
@@ -362,7 +366,7 @@ if showroom_option_button=='Yes':
     else:
         for id in IDs:
             print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
-            longurl=f'https://github.com/marcelooyaneder/Arboretum_Antumapu/blob/master/showroom_files/{id}.txt'
+            longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/showroom_files/{id}.txt'
             shorturl=dynamiclinks(longurl)
             qr_manager(id,shorturl,1)
 else:
