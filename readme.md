@@ -1,5 +1,5 @@
 ﻿
-#INTRODUCCIÓN
+# INTRODUCCIÓN
 Este software, desarrollado completamente en python, tiene la funcionalidad de leer una base de datos basada en Darwin Core y poder realizar un análisis de esta, a continuación se da una lista de las funciones implementadas que se tiene. 
 
  - Leer bases de datos basadas en DwC en formato .xlsx o .csv.
@@ -11,8 +11,8 @@ Este software, desarrollado completamente en python, tiene la funcionalidad de l
  > Recomendamos utilizar la versión de jupyter notebook, si es que no estas familiarizado con la python, será mucho más facil. 
   > Tambien existe la versión pura del código en python, es exactamente igual a la de jupyter, salvo excepciones para mejor visualización de los datos en jupyter.
 
-#EJECUCIÓN DEL PROGRAMA
-##Instalación de paquetes
+# EJECUCIÓN DEL PROGRAMA
+## Instalación de paquetes
 Dentro del repositorio se encuentra un archivo de texto, llamado "requeriments.txt" el cual contiene todos los paquetes para la correcta ejecución de este programa, antes de esto se recomienda tener lo siguiente instalado.
 
  - python >= 3.6
