@@ -7,6 +7,9 @@ Este software, desarrollado completamente en python, tiene la funcionalidad de l
  - Identificar columnas que no pertenezcan a DwC.
  - Obtener códigos Qr que dirigan a un link con la información de tu base de datos. 
  - Poder filtrar tus datos para poder realizar cambios u obtener solo una lista de estos.
+ 
+ > Recomendamos utilizar la versión de jupyter notebook, si es que no estas familiarizado con la python, será mucho más facil. 
+  > Tambien existe la versión pura del código en python, es exactamente igual a la de jupyter, salvo excepciones para mejor visualización de los datos en jupyter.
 
 #EJECUCIÓN DEL PROGRAMA
 ##Instalación de paquetes
