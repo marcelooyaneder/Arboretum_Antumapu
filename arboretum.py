@@ -292,7 +292,6 @@ ADEMAS DE REOBTENER EL VALOR SUBJECTS DE DATA_FOR_QUERY PARA CAMBIAR LOS VALORES
 DAR OPCION DE GUARDAR, CAMBIAR VALORES O MOSTRAR SUJETOS QUE CUMPLEN LOS REQUISITOS
 SECCION EN DESARROLLO
 """
-########################SECCION EN DESARROLLO##########################################
 if not query_choicebox==query_choicebox_options[3] or query_choicebox==None:
     choicebox_for_after_query_options=['export your query to a xlsx file (readable for excel)','make changes on your query and export them to a xlsx file (this changes will be saved on your original file)','show the subjects wich match your query']
     choicebox_for_after_query=eg.choicebox(msg='Choose an option for your query...',title='Query options',choices=choicebox_for_after_query_options)
