@@ -36,7 +36,7 @@ Y tendrás una ventana en tu navegador como la siguiente.
 ahí debes abrir el archivo "main.ipynb" y ejecutar este, este archivo esta preconfigurado, por lo que solo debes ejecutarlo y se instalarán todas las dependencias faltantes automáticamente, y el programa se ejecutará. 
 
 ## Primeros pasos
- - Primero que todo es necesario darle un formato específico a el archivo a leer por el software, el formato consta de lo siguiente, en la primera fila debe ir el nombre de las columnas de DwC, no importa el orden de estas, y debajo de estas debe ir la información, a continuación se muestra una imagen de como debe ser.
+ - Primero que todo es necesario darle un formato específico a el archivo a leer por el software, el formato consta de lo siguiente, en la primera fila debe ir el nombre de las columnas de DwC, no importa el orden de estas, y debajo de estas debe ir la información, a continuación se muestra una imagen de como debe ser. Importante decir que si existe el valor "class" en tu base de datos, este debe ser cambiado por el valor "Class".
  -  lo siguiente es abrir el archivo "main.ipynb", como se indico anteriormente
 
  - Luego debes modificar las lineas de código llamadas "longurl", de la siguiente forma, originalmente estás se encontrarán así.
