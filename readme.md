@@ -1,4 +1,5 @@
-﻿# INTRODUCCIÓN
+﻿
+# INTRODUCCIÓN
 Este software, desarrollado completamente en python, tiene la funcionalidad de leer una base de datos basada en Darwin Core y poder realizar un análisis de esta, a continuación se da una lista de las funciones implementadas que se tiene.  Por el momento para mostrar tus datos es necesario que tu proyecto este alojado en GitHub.
 
  - Leer bases de datos basadas en DwC en formato .xlsx o .csv.
@@ -60,4 +61,5 @@ ahí debes abrir el archivo "main.ipynb" y ejecutar este, este archivo esta prec
 > Restart & Run all
 
 - Seguir las indicaciones del software
+
 
