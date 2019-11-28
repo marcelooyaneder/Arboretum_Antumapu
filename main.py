@@ -58,25 +58,34 @@ class file_manager:
         return og_data,data,indexo,og_columns_df
     
     def file_creation(self):
-        Record_level=pd.read_csv('documents\dwc_terms\Record_level.csv',header=0,sep=';').columns.tolist()
-        Ocurrence=pd.read_csv('documents\dwc_terms\Ocurrence.csv',header=0,sep=';').columns.tolist()
-        Organism=pd.read_csv('documents\dwc_terms\organism.csv',header=0,sep=';').columns.tolist()
-        Material_sample=pd.read_csv('documents\dwc_terms\MaterialSample.csv',header=0,sep=';').columns.tolist()
-        Event=pd.read_csv('documents\dwc_terms\event.csv',header=0,sep=';').columns.tolist()
-        Location=pd.read_csv('documents\dwc_terms\location.csv',header=0,sep=';').columns.tolist()
-        Geological_Context=pd.read_csv('documents\dwc_terms\GeologicalContext.csv',header=0,sep=';').columns.tolist()
-        Identification=pd.read_csv('documents\dwc_terms\identification.csv',header=0,sep=';').columns.tolist()
-        Taxon=pd.read_csv('documents\dwc_terms\Taxon.csv',header=0,sep=';').columns.tolist()
+        Record_level=pd.read_csv('documents\dwc_terms\Record_level.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Ocurrence=pd.read_csv('documents\dwc_terms\Ocurrence.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Organism=pd.read_csv('documents\dwc_terms\organism.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Material_sample=pd.read_csv('documents\dwc_terms\MaterialSample.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Event=pd.read_csv('documents\dwc_terms\event.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Location=pd.read_csv('documents\dwc_terms\location.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Geological_Context=pd.read_csv('documents\dwc_terms\GeologicalContext.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Identification=pd.read_csv('documents\dwc_terms\identification.csv',header=0,sep=';',encoding = 'unicode_escape')
+        Taxon=pd.read_csv('documents\dwc_terms\Taxon.csv',header=0,sep=';',encoding = 'unicode_escape')
         columns_dwc=[Record_level,Ocurrence,Organism,Material_sample,Event,Location,Geological_Context,Identification,Taxon]
         dwc_columns=[]
-        for labels in columns_dwc:
+        for dataframe in columns_dwc:
+            level_list=[]
+            for rows in dataframe.itertuples():
+                    # Create list for the current row 
+                    my_list =[f'{rows.standardFieldName}-{rows.verbatimFieldName}-{rows.uri}']   
+                    # append the list to the final list 
+                    level_list.append(my_list)
             msg='select the terms for your custom dwc dataframe'
             title='select terms'       
-            choicebox=eg.multchoicebox(msg,title,labels)
-            try:
-                dwc_columns.extend(choicebox)
-            except:
-                dwc_columns
+            choicebox=eg.multchoicebox(msg,title,level_list)
+            for elements in choicebox:
+                try:
+                    indice=level_list.index(elements)
+                    value=dataframe['standardFieldName'][0]
+                    dwc_columns.extend(value)
+                except:
+                    dwc_columns
         dataframe=pd.DataFrame(columns=dwc_columns)
         return dataframe
 
