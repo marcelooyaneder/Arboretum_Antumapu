@@ -150,7 +150,7 @@ class subject:
             data.to_excel(writer, sheet_name='DataFrame')
     
 
-def comparefiles(ID,info,option): #option 1 for showroom, 0 files 
+def comparefiles(ID,info,option):  #option 1 for showroom, 0 files 
     filename1 = f"temp/{ID}.txt"
     if option==1:
         filename2= f"showroom_files/{ID}.txt"
