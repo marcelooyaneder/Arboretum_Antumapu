@@ -1,7 +1,7 @@
+jupyter
 pandas
 pyqrcode
 pypng
 easygui
 Pillow
 python-firebase-url-shortener
-jupyter
