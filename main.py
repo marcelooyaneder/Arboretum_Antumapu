@@ -73,19 +73,22 @@ class file_manager:
             level_list=[]
             for rows in dataframe.itertuples():
                     # Create list for the current row 
-                    my_list =[f'{rows.standardFieldName}-{rows.verbatimFieldName}-{rows.uri}']   
+                    my_list =f'{rows.standardFieldName}-{rows.verbatimFieldName}-{rows.uri}'   
                     # append the list to the final list 
                     level_list.append(my_list)
             msg='select the terms for your custom dwc dataframe'
             title='select terms'       
             choicebox=eg.multchoicebox(msg,title,level_list)
-            for elements in choicebox:
-                try:
-                    indice=level_list.index(elements)
-                    value=dataframe['standardFieldName'][0]
-                    dwc_columns.extend(value)
-                except:
-                    dwc_columns
+            try:
+                for elements in choicebox:
+                    try:
+                        indice=level_list.index(elements)
+                        value=dataframe['standardFieldName'][indice]
+                        dwc_columns.append(value)
+                    except:
+                        pass
+            except:
+                pass
         dataframe=pd.DataFrame(columns=dwc_columns)
         return dataframe
 
@@ -258,6 +261,8 @@ elif file_mng_button=='Create a custom dwc file':
     data=dataframe.file_creation() #no considerar para file_opener
     data.to_csv('custom_dwc_frame.csv',sep=';', encoding='utf-8') #considerar para file opener
     print ('your file is ready....')
+    print(data)
+    exit()
 
 print(data)
 
