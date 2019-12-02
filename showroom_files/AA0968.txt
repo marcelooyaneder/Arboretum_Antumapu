@@ -1,0 +1,22 @@
+catalogNumber                           AA0968
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348571
+decimalLongitude                       6284695
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                               Sapindales
+family                             Sapindaceae
+genus                                     Acer
+specificEpithet                 pseudoplatanus
+infraspecificEpithet                       NaN
+nameAcordingTo                              L.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Acer pseudoplatanus L.
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                     Exótica
+ingreso                                   2019
+plantacion                                 NaN
+sex                              hermaphrodite
+Name: AA0968, dtype: object

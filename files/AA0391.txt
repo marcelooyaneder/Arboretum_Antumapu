@@ -1,0 +1,18 @@
+catalogNumber                          AA0391
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348527
+decimalLongitude                      6284425
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                               Solanales
+family                             Solanaceae
+genus                                 Cestrum
+specificEpithet                        parqui
+infraspecificEpithet                      NaN
+nameAcordingTo                         L'Hér.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Cestrum parqui L'Hér.
+establishmentMeans                     Nativa
+sex                                       NaN
+Name: AA0391, dtype: object

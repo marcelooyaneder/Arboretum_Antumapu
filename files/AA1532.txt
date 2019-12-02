@@ -1,0 +1,18 @@
+catalogNumber                               AA1532
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348575
+decimalLongitude                           6284240
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fagales
+family                               Casuarinaceae
+genus                                    Casuarina
+specificEpithet                      equisetifolia
+infraspecificEpithet                           NaN
+nameAcordingTo                                  L.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Casuarina equisetifolia L.
+establishmentMeans                         Exótica
+sex                                            NaN
+Name: AA1532, dtype: object

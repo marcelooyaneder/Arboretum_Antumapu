@@ -1,0 +1,18 @@
+catalogNumber                               AA1680
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348535
+decimalLongitude                           6284372
+phylum                                Tracheophyta
+Class                                    Pinopsida
+order                                  Cupressales
+family                                Cupressaceae
+genus                                  Cryptomeria
+specificEpithet                           japonica
+infraspecificEpithet                           NaN
+nameAcordingTo                               D.Don
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Cryptomeria japonica D.Don
+establishmentMeans                         Exótica
+sex                                            NaN
+Name: AA1680, dtype: object

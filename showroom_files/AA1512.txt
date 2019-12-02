@@ -1,0 +1,22 @@
+catalogNumber                                 AA1512
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348423
+decimalLongitude                             6284352
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                   Malpighiales
+family                                 Euphorbiaceae
+genus                                     Avellanita
+specificEpithet                          bustillosii
+infraspecificEpithet                             NaN
+nameAcordingTo                                 Phil.
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Avellanita bustillosii Phil.
+Nombre común                                     NaN
+Estado                                        Muerto
+establishmentMeans                            Nativa
+ingreso                                         2019
+plantacion                                      2016
+sex                                              NaN
+Name: AA1512, dtype: object

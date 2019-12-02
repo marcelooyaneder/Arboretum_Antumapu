@@ -1,0 +1,18 @@
+catalogNumber                           AA0768
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348579
+decimalLongitude                       6284516
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                Proteales
+family                             Platanaceae
+genus                                 Platanus
+specificEpithet                     orientalis
+infraspecificEpithet                       NaN
+nameAcordingTo                              L.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Platanus orientalis L.
+establishmentMeans                     Exótica
+sex                              hermaphrodite
+Name: AA0768, dtype: object

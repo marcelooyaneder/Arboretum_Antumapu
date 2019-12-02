@@ -1,7 +1,9 @@
 jupyter
+xlrd
 pandas
 pyqrcode
 pypng
 easygui
 Pillow
 python-firebase-url-shortener
+matplotlib

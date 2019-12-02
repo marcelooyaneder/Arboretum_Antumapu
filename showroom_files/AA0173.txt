@@ -1,0 +1,22 @@
+catalogNumber                                   AA0173
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348582
+decimalLongitude                               6284273
+phylum                                    Tracheophyta
+Class                                        Pinopsida
+order                                      Cupressales
+family                                    Cupressaceae
+genus                                    Chamaecyparis
+specificEpithet                             lawsoniana
+infraspecificEpithet                               NaN
+nameAcordingTo                                   Parl.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Chamaecyparis lawsoniana Parl.
+Nombre común                                       NaN
+Estado                                            Viva
+establishmentMeans                             Exótica
+ingreso                                           2019
+plantacion                                         NaN
+sex                                                NaN
+Name: AA0173, dtype: object

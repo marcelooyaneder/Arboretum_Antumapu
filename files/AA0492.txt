@@ -1,0 +1,18 @@
+catalogNumber                            AA0492
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348529
+decimalLongitude                        6284403
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                Gunnerales
+family                              Gunneraceae
+genus                                   Gunnera
+specificEpithet                       tinctoria
+infraspecificEpithet                        NaN
+nameAcordingTo                            Mirb.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Gunnera tinctoria Mirb.
+establishmentMeans                       Nativa
+sex                                         NaN
+Name: AA0492, dtype: object

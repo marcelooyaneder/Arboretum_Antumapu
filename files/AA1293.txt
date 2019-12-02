@@ -1,0 +1,18 @@
+catalogNumber                               AA1293
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348337
+decimalLongitude                           6284362
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Saxifragales
+family                                Altingiaceae
+genus                                  Liquidambar
+specificEpithet                        styraciflua
+infraspecificEpithet                           NaN
+nameAcordingTo                                  L.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Liquidambar styraciflua L.
+establishmentMeans                         Exótica
+sex                                  hermaphrodite
+Name: AA1293, dtype: object

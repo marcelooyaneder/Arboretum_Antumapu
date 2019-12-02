@@ -1,0 +1,22 @@
+catalogNumber                                  AA1604
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348510
+decimalLongitude                              6284320
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                                      Sapindales
+family                                    Sapindaceae
+genus                                    Koelreuteria
+specificEpithet                            paniculata
+infraspecificEpithet                              NaN
+nameAcordingTo                                  Laxm.
+verbatimTaxonRank                                 NaN
+taxonRank                                     species
+acceptedNameUsage       Koelreuteria paniculata Laxm.
+Nombre común                                      NaN
+Estado                                           Viva
+establishmentMeans                            Exótica
+ingreso                                          2019
+plantacion                                        NaN
+sex                                     hermaphrodite
+Name: AA1604, dtype: object

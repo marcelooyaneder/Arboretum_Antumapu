@@ -1,0 +1,22 @@
+catalogNumber                               AA0644
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348425
+decimalLongitude                           6284479
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Malpighiales
+family                                  Salicaceae
+genus                                      Populus
+specificEpithet                         canadensis
+infraspecificEpithet                         I-214
+nameAcordingTo                              Moench
+verbatimTaxonRank       Populus x canadensis I-214
+taxonRank                                 varietas
+acceptedNameUsage        Populus canadensis Moench
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+sex                                  hermaphrodite
+Name: AA0644, dtype: object

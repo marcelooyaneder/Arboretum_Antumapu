@@ -1,0 +1,18 @@
+catalogNumber                              AA0446
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348540
+decimalLongitude                          6284410
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+family                                   Fabaceae
+genus                                     Sophora
+specificEpithet                        cassioides
+infraspecificEpithet                          NaN
+nameAcordingTo                             Sparre
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Sophora cassioides Sparre
+establishmentMeans                         Nativa
+sex                                 hermaphrodite
+Name: AA0446, dtype: object

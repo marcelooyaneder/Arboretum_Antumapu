@@ -1,0 +1,18 @@
+catalogNumber                                AA1110
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348438
+decimalLongitude                            6284755
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Myrtales
+family                                    Myrtaceae
+genus                                    Eucalyptus
+specificEpithet                            globulus
+infraspecificEpithet                            NaN
+nameAcordingTo                              Labill.
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Eucalyptus globulus Labill.
+establishmentMeans                          Exótica
+sex                                   hermaphrodite
+Name: AA1110, dtype: object

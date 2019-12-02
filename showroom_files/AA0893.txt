@@ -1,0 +1,22 @@
+catalogNumber                                   AA0893
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348601
+decimalLongitude                               6284595
+phylum                                    Tracheophyta
+Class                                       Liliopsida
+order                                         Arecales
+family                                       Arecaceae
+genus                                     Trachycarpus
+specificEpithet                               fortunei
+infraspecificEpithet                               NaN
+nameAcordingTo                                H.Wendl.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Trachycarpus fortunei H.Wendl.
+Nombre común                                       NaN
+Estado                                            Viva
+establishmentMeans                             Exótica
+ingreso                                           2019
+plantacion                                         NaN
+sex                                                NaN
+Name: AA0893, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                                    AA0865
+basisOfRecord                                            LivingSpecimen
+decimalLatitude                                                  348626
+decimalLongitude                                                6284457
+phylum                                                     Tracheophyta
+Class                                                     Magnoliopsida
+order                                                           Apiales
+family                                                   Pittosporaceae
+genus                                                       Pittosporum
+specificEpithet                                             tenuifolium
+infraspecificEpithet                                                NaN
+nameAcordingTo                                  Banks & Sol. ex Gaertn.
+verbatimTaxonRank                                                   NaN
+taxonRank                                                       species
+acceptedNameUsage       Pittosporum tenuifolium Banks & Sol. ex Gaertn.
+Nombre común                                                        NaN
+Estado                                                             Viva
+establishmentMeans                                              Exótica
+ingreso                                                            2019
+plantacion                                                         2016
+sex                                                       hermaphrodite
+Name: AA0865, dtype: object

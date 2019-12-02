@@ -1,0 +1,18 @@
+catalogNumber                     AA1656
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348566
+decimalLongitude                 6284340
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                            Fagales
+family                      Juglandaceae
+genus                            Juglans
+specificEpithet                    nigra
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Juglans nigra L.
+establishmentMeans               Exótica
+sex                        hermaphrodite
+Name: AA1656, dtype: object

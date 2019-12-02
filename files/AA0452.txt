@@ -1,0 +1,18 @@
+catalogNumber                          AA0452
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348502
+decimalLongitude                      6284404
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                               Solanales
+family                             Solanaceae
+genus                                 Cestrum
+specificEpithet                        parqui
+infraspecificEpithet                      NaN
+nameAcordingTo                         L'Hér.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Cestrum parqui L'Hér.
+establishmentMeans                     Nativa
+sex                                       NaN
+Name: AA0452, dtype: object

@@ -1,0 +1,18 @@
+catalogNumber                             AA1181
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348607
+decimalLongitude                         6284694
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                  Asterales
+family                                Asteraceae
+genus                                  Baccharis
+specificEpithet                         linearis
+infraspecificEpithet                         NaN
+nameAcordingTo                             Pers.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Baccharis linearis Pers.
+establishmentMeans                       Exótica
+sex                                          NaN
+Name: AA1181, dtype: object

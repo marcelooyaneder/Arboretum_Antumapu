@@ -1,0 +1,22 @@
+catalogNumber                             AA0950
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348554
+decimalLongitude                         6284657
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                     Acacia
+specificEpithet                      melanoxylon
+infraspecificEpithet                         NaN
+nameAcordingTo                             R.Br.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Acacia melanoxylon R.Br.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
+sex                                hermaphrodite
+Name: AA0950, dtype: object

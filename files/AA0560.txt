@@ -1,0 +1,18 @@
+catalogNumber                               AA0560
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348539
+decimalLongitude                           6284415
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                    Bruniales
+family                              Columelliaceae
+genus                                 Desfontainia
+specificEpithet                            fulgens
+infraspecificEpithet                           NaN
+nameAcordingTo                               D.Don
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Desfontainia fulgens D.Don
+establishmentMeans                          Nativa
+sex                                            NaN
+Name: AA0560, dtype: object

@@ -1,0 +1,18 @@
+catalogNumber                                   AA0791
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348285
+decimalLongitude                               6284434
+phylum                                    Tracheophyta
+Class                                       Liliopsida
+order                                         Arecales
+family                                       Arecaceae
+genus                                     Trachycarpus
+specificEpithet                               fortunei
+infraspecificEpithet                               NaN
+nameAcordingTo                                H.Wendl.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Trachycarpus fortunei H.Wendl.
+establishmentMeans                             Exótica
+sex                                                NaN
+Name: AA0791, dtype: object

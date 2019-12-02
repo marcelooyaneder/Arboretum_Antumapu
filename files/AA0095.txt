@@ -1,0 +1,18 @@
+catalogNumber                               AA0095
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348643
+decimalLongitude                           6284209
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fagales
+family                               Casuarinaceae
+genus                                    Casuarina
+specificEpithet                      equisetifolia
+infraspecificEpithet                           NaN
+nameAcordingTo                                  L.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Casuarina equisetifolia L.
+establishmentMeans                         Exótica
+sex                                            NaN
+Name: AA0095, dtype: object

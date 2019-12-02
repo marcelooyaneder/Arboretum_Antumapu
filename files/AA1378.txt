@@ -1,0 +1,18 @@
+catalogNumber                                  AA1378
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348356
+decimalLongitude                              6284365
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                                         Rosales
+family                                       Rosaceae
+genus                                        Photinia
+specificEpithet                          serratifolia
+infraspecificEpithet                              NaN
+nameAcordingTo                                Kalkman
+verbatimTaxonRank                                 NaN
+taxonRank                                     species
+acceptedNameUsage       Photinia serratifolia Kalkman
+establishmentMeans                            Exótica
+sex                                               NaN
+Name: AA1378, dtype: object

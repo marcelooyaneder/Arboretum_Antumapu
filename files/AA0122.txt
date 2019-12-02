@@ -1,0 +1,18 @@
+catalogNumber                             AA0122
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348655
+decimalLongitude                         6284252
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Lamiales
+family                              Bignoniaceae
+genus                                    Catalpa
+specificEpithet                         speciosa
+infraspecificEpithet                         NaN
+nameAcordingTo                           Engelm.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Catalpa speciosa Engelm.
+establishmentMeans                       Exótica
+sex                                hermaphrodite
+Name: AA0122, dtype: object

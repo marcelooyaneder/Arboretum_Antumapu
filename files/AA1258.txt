@@ -1,0 +1,18 @@
+catalogNumber                               AA1258
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348411
+decimalLongitude                           6284292
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Malpighiales
+family                                  Salicaceae
+genus                                      Populus
+specificEpithet                         canadensis
+infraspecificEpithet                         I-214
+nameAcordingTo                              Moench
+verbatimTaxonRank       Populus x canadensis I-214
+taxonRank                                 varietas
+acceptedNameUsage        Populus canadensis Moench
+establishmentMeans                         Exótica
+sex                                  hermaphrodite
+Name: AA1258, dtype: object

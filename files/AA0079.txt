@@ -1,0 +1,18 @@
+catalogNumber                   AA0079
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348609
+decimalLongitude               6284199
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Ulmaceae
+genus                            Ulmus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage            Ulmus  L.
+establishmentMeans             Exótica
+sex                      hermaphrodite
+Name: AA0079, dtype: object

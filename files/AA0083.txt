@@ -1,0 +1,18 @@
+catalogNumber                      AA0083
+basisOfRecord              LivingSpecimen
+decimalLatitude                    348595
+decimalLongitude                  6284197
+phylum                       Tracheophyta
+Class                       Magnoliopsida
+order                            Lamiales
+family                           Oleaceae
+genus                            Fraxinus
+specificEpithet                     ornus
+infraspecificEpithet                  NaN
+nameAcordingTo                         L.
+verbatimTaxonRank                     NaN
+taxonRank                         species
+acceptedNameUsage       Fraxinus ornus L.
+establishmentMeans                Exótica
+sex                         hermaphrodite
+Name: AA0083, dtype: object

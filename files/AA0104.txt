@@ -1,0 +1,18 @@
+catalogNumber                                       AA0104
+basisOfRecord                               LivingSpecimen
+decimalLatitude                                     348619
+decimalLongitude                                   6284220
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                            Proteales
+family                                          Proteaceae
+genus                                            Grevillea
+specificEpithet                                    robusta
+infraspecificEpithet                                   NaN
+nameAcordingTo                            A.Cunn. ex R.Br.
+verbatimTaxonRank                                      NaN
+taxonRank                                          species
+acceptedNameUsage       Grevillea robusta A.Cunn. ex R.Br.
+establishmentMeans                                 Exótica
+sex                                          hermaphrodite
+Name: AA0104, dtype: object

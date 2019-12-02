@@ -1,0 +1,18 @@
+catalogNumber                            AA0174
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348603
+decimalLongitude                        6284244
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Myrtales
+family                               Lythraceae
+genus                             Lagerstroemia
+specificEpithet                          indica
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Lagerstroemia indica L.
+establishmentMeans                      Exótica
+sex                               hermaphrodite
+Name: AA0174, dtype: object

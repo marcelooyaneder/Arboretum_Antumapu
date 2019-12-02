@@ -1,0 +1,22 @@
+catalogNumber                     AA0999
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348552
+decimalLongitude                 6284735
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Schinus molle L.
+Nombre común                         NaN
+Estado                              Viva
+establishmentMeans                Nativa
+ingreso                             2019
+plantacion                           NaN
+sex                        hermaphrodite
+Name: AA0999, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                            AA0964
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348584
+decimalLongitude                        6284696
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                                   Robinia
+specificEpithet                    pseudoacacia
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Robinia pseudoacacia L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+sex                               hermaphrodite
+Name: AA0964, dtype: object

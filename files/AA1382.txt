@@ -1,0 +1,18 @@
+catalogNumber                                AA1382
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348364
+decimalLongitude                            6284372
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Lamiales
+family                                     Oleaceae
+genus                                     Ligustrum
+specificEpithet                             lucidum
+infraspecificEpithet                            NaN
+nameAcordingTo                            W.T.Aiton
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Ligustrum lucidum W.T.Aiton
+establishmentMeans                          Exótica
+sex                                   hermaphrodite
+Name: AA1382, dtype: object

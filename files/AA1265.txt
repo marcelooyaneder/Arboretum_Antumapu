@@ -1,0 +1,18 @@
+catalogNumber                                              AA1265
+basisOfRecord                                      LivingSpecimen
+decimalLatitude                                            348396
+decimalLongitude                                          6284289
+phylum                                               Tracheophyta
+Class                                                  Liliopsida
+order                                                    Arecales
+family                                                  Arecaceae
+genus                                                Washingtonia
+specificEpithet                                          filifera
+infraspecificEpithet                                          NaN
+nameAcordingTo                                H.Wendl. ex de Bary
+verbatimTaxonRank                                             NaN
+taxonRank                                                 species
+acceptedNameUsage       Washingtonia filifera H.Wendl. ex de Bary
+establishmentMeans                                        Exótica
+sex                                                 hermaphrodite
+Name: AA1265, dtype: object

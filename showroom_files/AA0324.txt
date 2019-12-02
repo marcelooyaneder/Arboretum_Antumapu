@@ -1,0 +1,22 @@
+catalogNumber                            AA0324
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348559
+decimalLongitude                        6284400
+phylum                             Tracheophyta
+Class                                Liliopsida
+order                                  Arecales
+family                                Arecaceae
+genus                                    Jubaea
+specificEpithet                       chilensis
+infraspecificEpithet                        NaN
+nameAcordingTo                           Baill.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Jubaea chilensis Baill.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                       Nativa
+ingreso                                    2019
+plantacion                                  NaN
+sex                               hermaphrodite
+Name: AA0324, dtype: object

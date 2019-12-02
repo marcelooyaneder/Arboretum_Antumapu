@@ -1,0 +1,22 @@
+catalogNumber                                   AA1442
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348276
+decimalLongitude                               6284410
+phylum                                    Tracheophyta
+Class                                        Pinopsida
+order                                      Cupressales
+family                                    Cupressaceae
+genus                                    Chamaecyparis
+specificEpithet                             lawsoniana
+infraspecificEpithet                               NaN
+nameAcordingTo                                   Parl.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Chamaecyparis lawsoniana Parl.
+Nombre común                                       NaN
+Estado                                            Viva
+establishmentMeans                             Exótica
+ingreso                                           2019
+plantacion                                         NaN
+sex                                                NaN
+Name: AA1442, dtype: object

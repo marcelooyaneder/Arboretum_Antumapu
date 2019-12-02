@@ -1,0 +1,18 @@
+catalogNumber                    AA0309
+basisOfRecord            LivingSpecimen
+decimalLatitude                  348571
+decimalLongitude                6284424
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                           Fagales
+family                         Fagaceae
+genus                           Quercus
+specificEpithet                    ilex
+infraspecificEpithet                NaN
+nameAcordingTo                       L.
+verbatimTaxonRank                   NaN
+taxonRank                       species
+acceptedNameUsage       Quercus ilex L.
+establishmentMeans              Exótica
+sex                                 NaN
+Name: AA0309, dtype: object

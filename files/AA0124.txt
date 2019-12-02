@@ -1,0 +1,18 @@
+catalogNumber                            AA0124
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348615
+decimalLongitude                        6284280
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Rosales
+family                                 Rosaceae
+genus                                    Prunus
+specificEpithet                      cerasifera
+infraspecificEpithet                   Pissardi
+nameAcordingTo                            Ehrh.
+verbatimTaxonRank                          var.
+taxonRank                              varietas
+acceptedNameUsage       Prunus cerasifera Ehrh.
+establishmentMeans                      Exótica
+sex                               hermaphrodite
+Name: AA0124, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                              AA0535
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348540
+decimalLongitude                          6284421
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fagales
+family                              Nothofagaceae
+genus                                  Nothofagus
+specificEpithet                            nitida
+infraspecificEpithet                          NaN
+nameAcordingTo                            Krasser
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Nothofagus nitida Krasser
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                         Nativa
+ingreso                                      2019
+plantacion                                   2016
+sex                                 hermaphrodite
+Name: AA0535, dtype: object

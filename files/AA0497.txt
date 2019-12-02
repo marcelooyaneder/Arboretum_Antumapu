@@ -1,0 +1,18 @@
+catalogNumber                                     AA0497
+basisOfRecord                             LivingSpecimen
+decimalLatitude                                   348520
+decimalLongitude                                 6284413
+phylum                                      Tracheophyta
+Class                                      Magnoliopsida
+order                                         Sapindales
+family                                          Rutaceae
+genus                                            Pitavia
+specificEpithet                                 punctata
+infraspecificEpithet                                 NaN
+nameAcordingTo                           (Molina) Molina
+verbatimTaxonRank                                    NaN
+taxonRank                                        species
+acceptedNameUsage       Pitavia punctata (Molina) Molina
+establishmentMeans                                Nativa
+sex                                        hermaphrodite
+Name: AA0497, dtype: object

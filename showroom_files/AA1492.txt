@@ -1,0 +1,22 @@
+catalogNumber                               AA1492
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348426
+decimalLongitude                           6284334
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fabales
+family                                    Fabaceae
+genus                                  Caesalpinia
+specificEpithet                            spinosa
+infraspecificEpithet                           NaN
+nameAcordingTo                              Kuntze
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Caesalpinia spinosa Kuntze
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                          Nativa
+ingreso                                       2019
+plantacion                                    2016
+sex                                  hermaphrodite
+Name: AA1492, dtype: object

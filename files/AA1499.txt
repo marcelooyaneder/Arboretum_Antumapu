@@ -1,0 +1,18 @@
+catalogNumber                                              AA1499
+basisOfRecord                                      LivingSpecimen
+decimalLatitude                                            348428
+decimalLongitude                                          6284340
+phylum                                               Tracheophyta
+Class                                               Magnoliopsida
+order                                                     Fabales
+family                                                   Fabaceae
+genus                                                       Senna
+specificEpithet                                   multiglandulosa
+infraspecificEpithet                                          NaN
+nameAcordingTo                                H.S.Irwin & Barneby
+verbatimTaxonRank                                             NaN
+taxonRank                                                 species
+acceptedNameUsage       Senna multiglandulosa H.S.Irwin & Barneby
+establishmentMeans                                        Exótica
+sex                                                 hermaphrodite
+Name: AA1499, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                       AA0986
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348547
+decimalLongitude                   6284688
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                           Sapindales
+family                           Meliaceae
+genus                                Melia
+specificEpithet                  azedarach
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Melia azedarach L.
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+sex                          hermaphrodite
+Name: AA0986, dtype: object

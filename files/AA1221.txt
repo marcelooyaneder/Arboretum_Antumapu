@@ -1,0 +1,18 @@
+catalogNumber                        AA1221
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348428
+decimalLongitude                    6284381
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                          Malpighiales
+family                           Salicaceae
+genus                                 Salix
+specificEpithet                  babylonica
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Salix babylonica L.
+establishmentMeans                  Exótica
+sex                           hermaphrodite
+Name: AA1221, dtype: object

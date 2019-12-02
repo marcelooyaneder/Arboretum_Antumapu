@@ -1,0 +1,18 @@
+catalogNumber                                 AA1300
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348312
+decimalLongitude                             6284387
+phylum                                  Tracheophyta
+Class                                      Pinopsida
+order                                        Pinales
+family                                      Pinaceae
+genus                                    Pseudotsuga
+specificEpithet                            menziesii
+infraspecificEpithet                             NaN
+nameAcordingTo                                Franco
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Pseudotsuga menziesii Franco
+establishmentMeans                           Exótica
+sex                                    hermaphrodite
+Name: AA1300, dtype: object

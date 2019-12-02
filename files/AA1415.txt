@@ -1,0 +1,18 @@
+catalogNumber                       AA1415
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348394
+decimalLongitude                   6284396
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                           Sapindales
+family                           Meliaceae
+genus                                Melia
+specificEpithet                  azedarach
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Melia azedarach L.
+establishmentMeans                 Exótica
+sex                          hermaphrodite
+Name: AA1415, dtype: object

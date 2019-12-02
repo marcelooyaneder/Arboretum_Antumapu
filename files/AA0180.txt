@@ -1,0 +1,18 @@
+catalogNumber                              AA0180
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348677
+decimalLongitude                          6284204
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Rosales
+family                               Elaeagnaceae
+genus                                   Elaeagnus
+specificEpithet                      angustifolia
+infraspecificEpithet                          NaN
+nameAcordingTo                                 L.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Elaeagnus angustifolia L.
+establishmentMeans                        Exótica
+sex                                           NaN
+Name: AA0180, dtype: object

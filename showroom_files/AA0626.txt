@@ -1,0 +1,22 @@
+catalogNumber                             AA0626
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348439
+decimalLongitude                         6284499
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                  Asterales
+family                                Asteraceae
+genus                                  Baccharis
+specificEpithet                         linearis
+infraspecificEpithet                         NaN
+nameAcordingTo                             Pers.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Baccharis linearis Pers.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                        Nativa
+ingreso                                     2019
+plantacion                                   NaN
+sex                                          NaN
+Name: AA0626, dtype: object

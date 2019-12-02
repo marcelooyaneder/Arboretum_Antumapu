@@ -1,0 +1,22 @@
+catalogNumber                                AA0524
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348536
+decimalLongitude                            6284411
+phylum                                 Tracheophyta
+Class                                    Liliopsida
+order                                      Liliales
+family                                 Philesiaceae
+genus                                     Lapageria
+specificEpithet                               rosea
+infraspecificEpithet                            NaN
+nameAcordingTo                          Ruiz & Pav.
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Lapageria rosea Ruiz & Pav.
+Nombre común                                    NaN
+Estado                                       Muerto
+establishmentMeans                           Nativa
+ingreso                                        2019
+plantacion                                     2016
+sex                                             NaN
+Name: AA0524, dtype: object

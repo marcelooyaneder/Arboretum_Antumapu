@@ -1,0 +1,22 @@
+catalogNumber                     AA0042
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348680
+decimalLongitude                 6284198
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Schinus molle L.
+Nombre común                    Pimiento
+Estado                              Viva
+establishmentMeans               Exótica
+ingreso                             2019
+plantacion                           NaN
+sex                        hermaphrodite
+Name: AA0042, dtype: object

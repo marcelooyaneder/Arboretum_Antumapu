@@ -1,0 +1,18 @@
+catalogNumber                            AA0468
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348536
+decimalLongitude                        6284470
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Rosales
+family                                 Rosaceae
+genus                                    Prunus
+specificEpithet                      cerasifera
+infraspecificEpithet                        NaN
+nameAcordingTo                            Ehrh.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Prunus cerasifera Ehrh.
+establishmentMeans                       Nativa
+sex                               hermaphrodite
+Name: AA0468, dtype: object

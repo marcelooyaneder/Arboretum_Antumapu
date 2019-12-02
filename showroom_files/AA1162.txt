@@ -1,0 +1,22 @@
+catalogNumber                                AA1162
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348432
+decimalLongitude                            6284673
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Myrtales
+family                                    Myrtaceae
+genus                                    Eucalyptus
+specificEpithet                            globulus
+infraspecificEpithet                            NaN
+nameAcordingTo                              Labill.
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Eucalyptus globulus Labill.
+Nombre común                                    NaN
+Estado                                         Viva
+establishmentMeans                          Exótica
+ingreso                                        2019
+plantacion                                      NaN
+sex                                   hermaphrodite
+Name: AA1162, dtype: object

@@ -1,0 +1,18 @@
+catalogNumber                             AA0569
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348516
+decimalLongitude                         6284399
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                    Fagales
+family                             Nothofagaceae
+genus                                 Nothofagus
+specificEpithet                           alpina
+infraspecificEpithet                         NaN
+nameAcordingTo                            Oerst.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Nothofagus alpina Oerst.
+establishmentMeans                        Nativa
+sex                                hermaphrodite
+Name: AA0569, dtype: object

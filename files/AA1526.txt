@@ -1,0 +1,18 @@
+catalogNumber                            AA1526
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348577
+decimalLongitude                        6284221
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                                   Robinia
+specificEpithet                    pseudoacacia
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Robinia pseudoacacia L.
+establishmentMeans                      Exótica
+sex                               hermaphrodite
+Name: AA1526, dtype: object

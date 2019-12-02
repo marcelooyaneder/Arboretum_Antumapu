@@ -1,0 +1,18 @@
+catalogNumber                                AA0101
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348626
+decimalLongitude                            6284212
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Lamiales
+family                                 Bignoniaceae
+genus                                     Jacaranda
+specificEpithet                         mimosifolia
+infraspecificEpithet                            NaN
+nameAcordingTo                                D.Don
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Jacaranda mimosifolia D.Don
+establishmentMeans                          Exótica
+sex                                   hermaphrodite
+Name: AA0101, dtype: object

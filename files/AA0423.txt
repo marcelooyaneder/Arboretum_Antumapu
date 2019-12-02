@@ -1,0 +1,18 @@
+catalogNumber                            AA0423
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348504
+decimalLongitude                        6284419
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Laurales
+family                                Lauraceae
+genus                               Cryptocarya
+specificEpithet                            alba
+infraspecificEpithet                        NaN
+nameAcordingTo                           Looser
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Cryptocarya alba Looser
+establishmentMeans                       Nativa
+sex                               hermaphrodite
+Name: AA0423, dtype: object

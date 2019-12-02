@@ -1,0 +1,22 @@
+catalogNumber                               AA0465
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348546
+decimalLongitude                           6284456
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fabales
+family                                    Fabaceae
+genus                                  Caesalpinia
+specificEpithet                            spinosa
+infraspecificEpithet                           NaN
+nameAcordingTo                              Kuntze
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Caesalpinia spinosa Kuntze
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                          Nativa
+ingreso                                       2019
+plantacion                                     NaN
+sex                                  hermaphrodite
+Name: AA0465, dtype: object

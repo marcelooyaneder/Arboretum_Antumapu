@@ -1,0 +1,18 @@
+catalogNumber                          AA1243
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348432
+decimalLongitude                      6284320
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+family                               Oleaceae
+genus                                Fraxinus
+specificEpithet                     excelsior
+infraspecificEpithet                      NaN
+nameAcordingTo                             L.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Fraxinus excelsior L.
+establishmentMeans                    Exótica
+sex                             hermaphrodite
+Name: AA1243, dtype: object

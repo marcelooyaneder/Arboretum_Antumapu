@@ -1,0 +1,22 @@
+catalogNumber                             AA1413
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348403
+decimalLongitude                         6284395
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Lamiales
+family                              Bignoniaceae
+genus                                    Catalpa
+specificEpithet                         speciosa
+infraspecificEpithet                         NaN
+nameAcordingTo                           Engelm.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Catalpa speciosa Engelm.
+Nombre común                                 NaN
+Estado                                      Viva
+establishmentMeans                       Exótica
+ingreso                                     2019
+plantacion                                   NaN
+sex                                hermaphrodite
+Name: AA1413, dtype: object

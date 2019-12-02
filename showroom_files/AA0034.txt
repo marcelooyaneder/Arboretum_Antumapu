@@ -1,0 +1,22 @@
+catalogNumber                          AA0034
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348677
+decimalLongitude                      6284221
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+family                               Oleaceae
+genus                                Fraxinus
+specificEpithet                     excelsior
+infraspecificEpithet                      NaN
+nameAcordingTo                             L.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Fraxinus excelsior L.
+Nombre común                           Fresno
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                                NaN
+sex                             hermaphrodite
+Name: AA0034, dtype: object

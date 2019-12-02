@@ -1,0 +1,18 @@
+catalogNumber                            AA1506
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348425
+decimalLongitude                        6284348
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                 Asterales
+family                               Asteraceae
+genus                                  Proustia
+specificEpithet                       pyrifolia
+infraspecificEpithet                        NaN
+nameAcordingTo                             Lag.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Proustia pyrifolia Lag.
+establishmentMeans                       Nativa
+sex                               hermaphrodite
+Name: AA1506, dtype: object

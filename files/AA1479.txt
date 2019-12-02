@@ -1,0 +1,18 @@
+catalogNumber                                       AA1479
+basisOfRecord                               LivingSpecimen
+decimalLatitude                                     348419
+decimalLongitude                                   6284326
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                              Fabales
+family                                        Quillajaceae
+genus                                             Quillaja
+specificEpithet                                  saponaria
+infraspecificEpithet                                   NaN
+nameAcordingTo                             (Molina) Molina
+verbatimTaxonRank                                      NaN
+taxonRank                                          species
+acceptedNameUsage       Quillaja saponaria (Molina) Molina
+establishmentMeans                                  Nativa
+sex                                          hermaphrodite
+Name: AA1479, dtype: object

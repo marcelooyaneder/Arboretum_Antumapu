@@ -1,0 +1,18 @@
+catalogNumber                             AA0679
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348457
+decimalLongitude                         6284500
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                    Fabales
+family                                  Fabaceae
+genus                                     Acacia
+specificEpithet                      melanoxylon
+infraspecificEpithet                         NaN
+nameAcordingTo                             R.Br.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Acacia melanoxylon R.Br.
+establishmentMeans                       Exótica
+sex                                hermaphrodite
+Name: AA0679, dtype: object

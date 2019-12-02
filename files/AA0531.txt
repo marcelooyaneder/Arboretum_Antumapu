@@ -1,0 +1,18 @@
+catalogNumber                             AA0531
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348538
+decimalLongitude                         6284424
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                               Malpighiales
+family                                Salicaceae
+genus                                      Azara
+specificEpithet                       lanceolata
+infraspecificEpithet                         NaN
+nameAcordingTo                           Hook.f.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Azara lanceolata Hook.f.
+establishmentMeans                        Nativa
+sex                                hermaphrodite
+Name: AA0531, dtype: object

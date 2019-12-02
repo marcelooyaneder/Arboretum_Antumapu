@@ -1,0 +1,22 @@
+catalogNumber                              AA0017
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348681
+decimalLongitude                          6284274
+phylum                               Tracheophyta
+Class                                   Pinopsida
+order                                 Cupressales
+family                               Cupressaceae
+genus                                   Cupressus
+specificEpithet                      sempervirens
+infraspecificEpithet                          NaN
+nameAcordingTo                                 L.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Cupressus sempervirens L.
+Nombre común                         Ciprés común
+Estado                                       Viva
+establishmentMeans                        Exótica
+ingreso                                      2019
+plantacion                                    NaN
+sex                                           NaN
+Name: AA0017, dtype: object

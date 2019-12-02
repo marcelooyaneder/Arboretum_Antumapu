@@ -1,0 +1,22 @@
+catalogNumber                       AA1400
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348364
+decimalLongitude                   6284372
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Myrtales
+family                           Myrtaceae
+genus                               Myrtus
+specificEpithet                   communis
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Myrtus communis L.
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+sex                          hermaphrodite
+Name: AA1400, dtype: object

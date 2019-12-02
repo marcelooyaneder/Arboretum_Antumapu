@@ -1,0 +1,18 @@
+catalogNumber                                   AA0175
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348592
+decimalLongitude                               6284241
+phylum                                    Tracheophyta
+Class                                    Magnoliopsida
+order                                         Malvales
+family                                       Malvaceae
+genus                                     Brachychiton
+specificEpithet                               discolor
+infraspecificEpithet                               NaN
+nameAcordingTo                                F.Muell.
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Brachychiton discolor F.Muell.
+establishmentMeans                             Exótica
+sex                                      hermaphrodite
+Name: AA0175, dtype: object

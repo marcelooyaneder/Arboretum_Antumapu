@@ -1,0 +1,18 @@
+catalogNumber                            AA1386
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348369
+decimalLongitude                        6284373
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                                   Robinia
+specificEpithet                    pseudoacacia
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Robinia pseudoacacia L.
+establishmentMeans                      Exótica
+sex                               hermaphrodite
+Name: AA1386, dtype: object
