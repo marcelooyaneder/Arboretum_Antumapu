@@ -1,0 +1,18 @@
+catalogNumber                                       AA0758
+basisOfRecord                               LivingSpecimen
+decimalLatitude                                     348445
+decimalLongitude                                   6284495
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                              Fabales
+family                                        Quillajaceae
+genus                                             Quillaja
+specificEpithet                                  saponaria
+infraspecificEpithet                                   NaN
+nameAcordingTo                             (Molina) Molina
+verbatimTaxonRank                                      NaN
+taxonRank                                          species
+acceptedNameUsage       Quillaja saponaria (Molina) Molina
+establishmentMeans                                  Nativa
+sex                                          hermaphrodite
+Name: AA0758, dtype: object

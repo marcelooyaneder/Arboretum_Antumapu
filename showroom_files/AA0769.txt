@@ -1,0 +1,22 @@
+catalogNumber                           AA0769
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348584
+decimalLongitude                       6284515
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                Proteales
+family                             Platanaceae
+genus                                 Platanus
+specificEpithet                     orientalis
+infraspecificEpithet                       NaN
+nameAcordingTo                              L.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Platanus orientalis L.
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                     Exótica
+ingreso                                   2019
+plantacion                                 NaN
+sex                              hermaphrodite
+Name: AA0769, dtype: object

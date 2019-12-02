@@ -1,0 +1,18 @@
+catalogNumber                                                  AA0520
+basisOfRecord                                          LivingSpecimen
+decimalLatitude                                                348536
+decimalLongitude                                              6284397
+phylum                                                   Tracheophyta
+Class                                                  Polypodiopsida
+order                                                    Polypodiales
+family                                                    Blechnaceae
+genus                                                    Parablechnum
+specificEpithet                                              cordatum
+infraspecificEpithet                                              NaN
+nameAcordingTo                                (Desv.) Gasper & Salino
+verbatimTaxonRank                                                 NaN
+taxonRank                                                     species
+acceptedNameUsage       Parablechnum cordatum (Desv.) Gasper & Salino
+establishmentMeans                                             Nativa
+sex                                                               NaN
+Name: AA0520, dtype: object

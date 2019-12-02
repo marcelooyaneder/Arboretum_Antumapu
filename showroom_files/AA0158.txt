@@ -1,0 +1,22 @@
+catalogNumber                                          AA0158
+basisOfRecord                                  LivingSpecimen
+decimalLatitude                                        348609
+decimalLongitude                                      6284362
+phylum                                           Tracheophyta
+Class                                               Pinopsida
+order                                             Cupressales
+family                                           Cupressaceae
+genus                                               Cupressus
+specificEpithet                                    macrocarpa
+infraspecificEpithet                                      NaN
+nameAcordingTo                               Hartw. ex Gordon
+verbatimTaxonRank                                         NaN
+taxonRank                                             species
+acceptedNameUsage       Cupressus macrocarpa Hartw. ex Gordon
+Nombre común                                              NaN
+Estado                                                   Viva
+establishmentMeans                                    Exótica
+ingreso                                                  2019
+plantacion                                                NaN
+sex                                                       NaN
+Name: AA0158, dtype: object

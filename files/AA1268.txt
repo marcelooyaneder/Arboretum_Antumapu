@@ -1,0 +1,18 @@
+catalogNumber                          AA1268
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348383
+decimalLongitude                      6284292
+phylum                           Tracheophyta
+Class                              Liliopsida
+order                             Asparagales
+family                           Asparagaceae
+genus                                   Agave
+specificEpithet                     americana
+infraspecificEpithet                      NaN
+nameAcordingTo                          Trel.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Agave americana Trel.
+establishmentMeans                    Exótica
+sex                             hermaphrodite
+Name: AA1268, dtype: object

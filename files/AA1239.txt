@@ -1,0 +1,18 @@
+catalogNumber                       AA1239
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348444
+decimalLongitude                   6284334
+phylum                        Tracheophyta
+Class                           Liliopsida
+order                          Asparagales
+family                        Asparagaceae
+genus                                Agave
+specificEpithet                  americana
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Agave americana L.
+establishmentMeans                 Exótica
+sex                                    NaN
+Name: AA1239, dtype: object

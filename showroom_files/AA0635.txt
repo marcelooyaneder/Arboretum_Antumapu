@@ -1,0 +1,22 @@
+catalogNumber                                 AA0635
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348412
+decimalLongitude                             6284504
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                       Malvales
+family                                     Malvaceae
+genus                                   Brachychiton
+specificEpithet                            populneus
+infraspecificEpithet                             NaN
+nameAcordingTo                                 R.Br.
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Brachychiton populneus R.Br.
+Nombre común                                     NaN
+Estado                                          Viva
+establishmentMeans                           Exótica
+ingreso                                         2019
+plantacion                                       NaN
+sex                                    hermaphrodite
+Name: AA0635, dtype: object

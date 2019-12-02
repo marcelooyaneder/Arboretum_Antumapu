@@ -1,0 +1,22 @@
+catalogNumber                                          AA1500
+basisOfRecord                                  LivingSpecimen
+decimalLatitude                                        348427
+decimalLongitude                                      6284340
+phylum                                           Tracheophyta
+Class                                           Magnoliopsida
+order                                                 Fabales
+family                                               Fabaceae
+genus                                                   Senna
+specificEpithet                                   candolleana
+infraspecificEpithet                                      NaN
+nameAcordingTo                            H.S.Irwin & Barneby
+verbatimTaxonRank                                         NaN
+taxonRank                                             species
+acceptedNameUsage       Senna candolleana H.S.Irwin & Barneby
+Nombre común                                              NaN
+Estado                                                   Viva
+establishmentMeans                                     Nativa
+ingreso                                                  2019
+plantacion                                                NaN
+sex                                             hermaphrodite
+Name: AA1500, dtype: object

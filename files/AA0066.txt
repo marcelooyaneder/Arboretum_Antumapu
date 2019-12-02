@@ -1,0 +1,18 @@
+catalogNumber                      AA0066
+basisOfRecord              LivingSpecimen
+decimalLatitude                    348634
+decimalLongitude                  6284191
+phylum                       Tracheophyta
+Class                       Magnoliopsida
+order                            Lamiales
+family                           Oleaceae
+genus                            Fraxinus
+specificEpithet                     ornus
+infraspecificEpithet                  NaN
+nameAcordingTo                         L.
+verbatimTaxonRank                     NaN
+taxonRank                         species
+acceptedNameUsage       Fraxinus ornus L.
+establishmentMeans                Exótica
+sex                         hermaphrodite
+Name: AA0066, dtype: object

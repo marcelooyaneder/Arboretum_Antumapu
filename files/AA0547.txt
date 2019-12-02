@@ -1,0 +1,18 @@
+catalogNumber                       AA0547
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348525
+decimalLongitude                   6284421
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Laurales
+family                           Lauraceae
+genus                               Persea
+specificEpithet                     lingue
+infraspecificEpithet                   NaN
+nameAcordingTo                        Nees
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Persea lingue Nees
+establishmentMeans                  Nativa
+sex                          hermaphrodite
+Name: AA0547, dtype: object

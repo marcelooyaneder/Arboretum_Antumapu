@@ -1,0 +1,18 @@
+catalogNumber                            AA0862
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348472
+decimalLongitude                        6284542
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                               Magnoliales
+family                               Annonaceae
+genus                                    Annona
+specificEpithet                       cherimola
+infraspecificEpithet                        NaN
+nameAcordingTo                           Miller
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Annona cherimola Miller
+establishmentMeans                      Exótica
+sex                                         NaN
+Name: AA0862, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                 AA0185
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348628
+decimalLongitude                             6284184
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                       Myrtales
+family                                     Myrtaceae
+genus                                   Metrosideros
+specificEpithet                              excelsa
+infraspecificEpithet                             NaN
+nameAcordingTo                               Gaertn.
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Metrosideros excelsa Gaertn.
+Nombre común                                     NaN
+Estado                                          Viva
+establishmentMeans                           Exótica
+ingreso                                         2019
+plantacion                                      2015
+sex                                    hermaphrodite
+Name: AA0185, dtype: object

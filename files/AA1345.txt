@@ -1,0 +1,18 @@
+catalogNumber                    AA1345
+basisOfRecord            LivingSpecimen
+decimalLatitude                  348341
+decimalLongitude                6284279
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                        Sapindales
+family                      Sapindaceae
+genus                              Acer
+specificEpithet                 negundo
+infraspecificEpithet                NaN
+nameAcordingTo                       L.
+verbatimTaxonRank                   NaN
+taxonRank                       species
+acceptedNameUsage       Acer negundo L.
+establishmentMeans              Exótica
+sex                       hermaphrodite
+Name: AA1345, dtype: object

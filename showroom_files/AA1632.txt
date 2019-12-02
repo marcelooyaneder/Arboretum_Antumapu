@@ -1,0 +1,22 @@
+catalogNumber                   AA1632
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348497
+decimalLongitude               6284342
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Rosaceae
+genus                           Prunus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage           Prunus  L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+sex                      hermaphrodite
+Name: AA1632, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                            AA0612
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348536
+decimalLongitude                        6284497
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                                   Robinia
+specificEpithet                    pseudoacacia
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Robinia pseudoacacia L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+sex                               hermaphrodite
+Name: AA0612, dtype: object

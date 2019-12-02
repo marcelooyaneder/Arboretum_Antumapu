@@ -1,0 +1,22 @@
+catalogNumber                             AA0562
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348543
+decimalLongitude                         6284432
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                  Proteales
+family                                Proteaceae
+genus                                    Lomatia
+specificEpithet                       ferruginea
+infraspecificEpithet                         NaN
+nameAcordingTo                             R.Br.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Lomatia ferruginea R.Br.
+Nombre común                                 NaN
+Estado                                    Muerto
+establishmentMeans                        Nativa
+ingreso                                     2019
+plantacion                                   NaN
+sex                                hermaphrodite
+Name: AA0562, dtype: object

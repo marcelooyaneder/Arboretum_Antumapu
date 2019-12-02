@@ -1,0 +1,18 @@
+catalogNumber                          AA0833
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348424
+decimalLongitude                      6284408
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+family                               Oleaceae
+genus                                Fraxinus
+specificEpithet                     excelsior
+infraspecificEpithet                      NaN
+nameAcordingTo                             L.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Fraxinus excelsior L.
+establishmentMeans                    Exótica
+sex                             hermaphrodite
+Name: AA0833, dtype: object

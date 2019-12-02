@@ -1,0 +1,18 @@
+catalogNumber                     AA1096
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348438
+decimalLongitude                 6284764
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Schinus molle L.
+establishmentMeans                Nativa
+sex                        hermaphrodite
+Name: AA1096, dtype: object

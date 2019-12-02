@@ -1,0 +1,18 @@
+catalogNumber                            AA1389
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348359
+decimalLongitude                        6284385
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Laurales
+family                                Lauraceae
+genus                               Cryptocarya
+specificEpithet                            alba
+infraspecificEpithet                        NaN
+nameAcordingTo                           Looser
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Cryptocarya alba Looser
+establishmentMeans                       Nativa
+sex                               hermaphrodite
+Name: AA1389, dtype: object

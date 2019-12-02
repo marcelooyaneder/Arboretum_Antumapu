@@ -1,0 +1,18 @@
+catalogNumber                             AA0529
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348539
+decimalLongitude                         6284422
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Myrtales
+family                                Onagraceae
+genus                                    Fuchsia
+specificEpithet                      magellanica
+infraspecificEpithet                         NaN
+nameAcordingTo                              Lam.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Fuchsia magellanica Lam.
+establishmentMeans                        Nativa
+sex                                hermaphrodite
+Name: AA0529, dtype: object

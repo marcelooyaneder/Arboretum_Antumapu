@@ -1,0 +1,18 @@
+catalogNumber                       AA1674
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348549
+decimalLongitude                   6284376
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                           Sapindales
+family                           Meliaceae
+genus                                Melia
+specificEpithet                  azedarach
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Melia azedarach L.
+establishmentMeans                 Exótica
+sex                          hermaphrodite
+Name: AA1674, dtype: object

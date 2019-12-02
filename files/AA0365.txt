@@ -1,0 +1,18 @@
+catalogNumber                                 AA0365
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348615
+decimalLongitude                             6284412
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                    Brassicales
+family                                    Caricaceae
+genus                                   Vasconcellea
+specificEpithet                            chilensis
+infraspecificEpithet                             NaN
+nameAcordingTo                                 Solms
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Vasconcellea chilensis Solms
+establishmentMeans                            Nativa
+sex                                              NaN
+Name: AA0365, dtype: object

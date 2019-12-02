@@ -1,0 +1,22 @@
+catalogNumber                       AA1643
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348469
+decimalLongitude                   6284292
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                              Apiales
+family                          Araliaceae
+genus                           Tetrapanax
+specificEpithet                        NaN
+infraspecificEpithet                   NaN
+nameAcordingTo                      K.Koch
+verbatimTaxonRank                      sp.
+taxonRank                            genus
+acceptedNameUsage       Tetrapanax  K.Koch
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+sex                                    NaN
+Name: AA1643, dtype: object

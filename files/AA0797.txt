@@ -1,0 +1,18 @@
+catalogNumber                     AA0797
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348312
+decimalLongitude                 6284421
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                            Fagales
+family                          Fagaceae
+genus                            Quercus
+specificEpithet                    nigra
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Quercus nigra L.
+establishmentMeans               Exótica
+sex                                  NaN
+Name: AA0797, dtype: object

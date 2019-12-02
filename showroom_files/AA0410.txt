@@ -1,0 +1,22 @@
+catalogNumber                                 AA0410
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348518
+decimalLongitude                             6284402
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                     Oxalidales
+family                                Elaeocarpaceae
+genus                                    Aristotelia
+specificEpithet                            chilensis
+infraspecificEpithet                             NaN
+nameAcordingTo                                Stuntz
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Aristotelia chilensis Stuntz
+Nombre común                                     NaN
+Estado                                          Viva
+establishmentMeans                            Nativa
+ingreso                                         2019
+plantacion                                       NaN
+sex                                    hermaphrodite
+Name: AA0410, dtype: object

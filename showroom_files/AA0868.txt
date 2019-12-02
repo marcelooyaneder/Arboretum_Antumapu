@@ -1,0 +1,22 @@
+catalogNumber                            AA0868
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348628
+decimalLongitude                        6284450
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fabales
+family                                 Fabaceae
+genus                                  Bauhinia
+specificEpithet                       forficata
+infraspecificEpithet                        NaN
+nameAcordingTo                             Link
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Bauhinia forficata Link
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                 2016
+sex                                         NaN
+Name: AA0868, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                        AA1583
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348530
+decimalLongitude                    6284289
+phylum                         Tracheophyta
+Class                            Liliopsida
+order                           Asparagales
+family                         Asparagaceae
+genus                                 Yucca
+specificEpithet                    gigantea
+infraspecificEpithet                    NaN
+nameAcordingTo                         Lem.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Yucca gigantea Lem.
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+sex                           hermaphrodite
+Name: AA1583, dtype: object

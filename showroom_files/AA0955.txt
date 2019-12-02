@@ -1,0 +1,22 @@
+catalogNumber                           AA0955
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348567
+decimalLongitude                       6284657
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                 Laurales
+family                               Lauraceae
+genus                                   Persea
+specificEpithet                      americana
+infraspecificEpithet                       NaN
+nameAcordingTo                           Mill.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Persea americana Mill.
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                     Exótica
+ingreso                                   2019
+plantacion                                 NaN
+sex                              hermaphrodite
+Name: AA0955, dtype: object

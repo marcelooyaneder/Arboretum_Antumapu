@@ -1,0 +1,18 @@
+catalogNumber                              AA0224
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348626
+decimalLongitude                          6284401
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+family                                   Fabaceae
+genus                                    Prosopis
+specificEpithet                         chilensis
+infraspecificEpithet                          NaN
+nameAcordingTo                             Stuntz
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Prosopis chilensis Stuntz
+establishmentMeans                         Nativa
+sex                                 hermaphrodite
+Name: AA0224, dtype: object

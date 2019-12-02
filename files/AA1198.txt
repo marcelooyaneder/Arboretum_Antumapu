@@ -1,0 +1,18 @@
+catalogNumber                    AA1198
+basisOfRecord            LivingSpecimen
+decimalLatitude                  348432
+decimalLongitude                6284387
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                        Sapindales
+family                      Sapindaceae
+genus                              Acer
+specificEpithet                 negundo
+infraspecificEpithet                NaN
+nameAcordingTo                       L.
+verbatimTaxonRank                   NaN
+taxonRank                       species
+acceptedNameUsage       Acer negundo L.
+establishmentMeans              Exótica
+sex                       hermaphrodite
+Name: AA1198, dtype: object

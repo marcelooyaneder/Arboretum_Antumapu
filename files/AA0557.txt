@@ -1,0 +1,18 @@
+catalogNumber                                                    AA0557
+basisOfRecord                                            LivingSpecimen
+decimalLatitude                                                  348504
+decimalLongitude                                                6284411
+phylum                                                     Tracheophyta
+Class                                                         Pinopsida
+order                                                       Cupressales
+family                                                     Cupressaceae
+genus                                                      Austrocedrus
+specificEpithet                                               chilensis
+infraspecificEpithet                                                NaN
+nameAcordingTo                                 Pic.Serm. & M.P.Bizzarri
+verbatimTaxonRank                                                   NaN
+taxonRank                                                       species
+acceptedNameUsage       Austrocedrus chilensis Pic.Serm. & M.P.Bizzarri
+establishmentMeans                                               Nativa
+sex                                                                 NaN
+Name: AA0557, dtype: object

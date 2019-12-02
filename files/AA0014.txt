@@ -1,0 +1,18 @@
+catalogNumber                                          AA0014
+basisOfRecord                                  LivingSpecimen
+decimalLatitude                                        348679
+decimalLongitude                                      6284293
+phylum                                           Tracheophyta
+Class                                               Pinopsida
+order                                             Cupressales
+family                                           Cupressaceae
+genus                                               Cupressus
+specificEpithet                                    macrocarpa
+infraspecificEpithet                                      NaN
+nameAcordingTo                               Hartw. ex Gordon
+verbatimTaxonRank                                         NaN
+taxonRank                                             species
+acceptedNameUsage       Cupressus macrocarpa Hartw. ex Gordon
+establishmentMeans                                    Exótica
+sex                                                       NaN
+Name: AA0014, dtype: object

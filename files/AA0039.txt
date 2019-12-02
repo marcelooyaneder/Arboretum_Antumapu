@@ -1,0 +1,18 @@
+catalogNumber                   AA0039
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348676
+decimalLongitude               6284217
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                   Caryophyllales
+family                    Tamaricaceae
+genus                          Tamarix
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage          Tamarix  L.
+establishmentMeans             Exótica
+sex                                NaN
+Name: AA0039, dtype: object

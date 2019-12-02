@@ -1,0 +1,18 @@
+catalogNumber                                       AA0681
+basisOfRecord                               LivingSpecimen
+decimalLatitude                                     348454
+decimalLongitude                                   6284501
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                            Proteales
+family                                          Proteaceae
+genus                                            Grevillea
+specificEpithet                                    robusta
+infraspecificEpithet                                   NaN
+nameAcordingTo                            A.Cunn. ex R.Br.
+verbatimTaxonRank                                      NaN
+taxonRank                                          species
+acceptedNameUsage       Grevillea robusta A.Cunn. ex R.Br.
+establishmentMeans                                 Exótica
+sex                                          hermaphrodite
+Name: AA0681, dtype: object

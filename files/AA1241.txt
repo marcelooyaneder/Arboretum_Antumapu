@@ -1,0 +1,18 @@
+catalogNumber                          AA1241
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348436
+decimalLongitude                      6284342
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+family                               Oleaceae
+genus                                Fraxinus
+specificEpithet                     excelsior
+infraspecificEpithet                      NaN
+nameAcordingTo                             L.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Fraxinus excelsior L.
+establishmentMeans                    Exótica
+sex                             hermaphrodite
+Name: AA1241, dtype: object

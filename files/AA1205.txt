@@ -1,0 +1,18 @@
+catalogNumber                     AA1205
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348402
+decimalLongitude                 6284382
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                            Fagales
+family                          Fagaceae
+genus                            Quercus
+specificEpithet                    nigra
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Quercus nigra L.
+establishmentMeans               Exótica
+sex                                  NaN
+Name: AA1205, dtype: object

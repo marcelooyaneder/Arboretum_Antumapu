@@ -1,0 +1,18 @@
+catalogNumber                                    AA1715
+basisOfRecord                            LivingSpecimen
+decimalLatitude                                  348492
+decimalLongitude                                6284279
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                       Celastrales
+family                                     Celastraceae
+genus                                          Maytenus
+specificEpithet                                  boaria
+infraspecificEpithet                                NaN
+nameAcordingTo                          (Molina) Molina
+verbatimTaxonRank                                   NaN
+taxonRank                                       species
+acceptedNameUsage       Maytenus boaria (Molina) Molina
+establishmentMeans                               Nativa
+sex                                                 NaN
+Name: AA1715, dtype: object

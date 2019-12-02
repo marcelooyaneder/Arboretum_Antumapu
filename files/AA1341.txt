@@ -1,0 +1,18 @@
+catalogNumber                               AA1341
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348332
+decimalLongitude                           6284263
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Saxifragales
+family                                Altingiaceae
+genus                                  Liquidambar
+specificEpithet                        styraciflua
+infraspecificEpithet                           NaN
+nameAcordingTo                                  L.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Liquidambar styraciflua L.
+establishmentMeans                         Exótica
+sex                                  hermaphrodite
+Name: AA1341, dtype: object

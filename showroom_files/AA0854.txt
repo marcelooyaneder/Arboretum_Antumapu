@@ -1,0 +1,22 @@
+catalogNumber                        AA0854
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348471
+decimalLongitude                    6284500
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Rosales
+family                             Rosaceae
+genus                                Prunus
+specificEpithet                   domestica
+infraspecificEpithet                    NaN
+nameAcordingTo                           L.
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Prunus domestica L.
+Nombre común                            NaN
+Estado                                 Viva
+establishmentMeans                  Exótica
+ingreso                                2019
+plantacion                              NaN
+sex                           hermaphrodite
+Name: AA0854, dtype: object

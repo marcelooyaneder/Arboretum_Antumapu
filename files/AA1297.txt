@@ -1,0 +1,18 @@
+catalogNumber                           AA1297
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348317
+decimalLongitude                       6284380
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                 Laurales
+family                               Lauraceae
+genus                                   Persea
+specificEpithet                      americana
+infraspecificEpithet                       NaN
+nameAcordingTo                           Mill.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Persea americana Mill.
+establishmentMeans                     Exótica
+sex                              hermaphrodite
+Name: AA1297, dtype: object

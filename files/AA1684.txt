@@ -1,0 +1,18 @@
+catalogNumber                       AA1684
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348522
+decimalLongitude                   6284380
+phylum                        Tracheophyta
+Class                           Liliopsida
+order                          Asparagales
+family                        Asparagaceae
+genus                                Agave
+specificEpithet                  americana
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Agave americana L.
+establishmentMeans                 Exótica
+sex                                    NaN
+Name: AA1684, dtype: object

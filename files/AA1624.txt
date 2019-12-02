@@ -1,0 +1,18 @@
+catalogNumber                                  AA1624
+basisOfRecord                          LivingSpecimen
+decimalLatitude                                348556
+decimalLongitude                              6284248
+phylum                                   Tracheophyta
+Class                                      Liliopsida
+order                                     Asparagales
+family                                   Asparagaceae
+genus                                           Yucca
+specificEpithet                              gigantea
+infraspecificEpithet                              NaN
+nameAcordingTo                         Regel ex Trel.
+verbatimTaxonRank                                 NaN
+taxonRank                                     species
+acceptedNameUsage       Yucca gigantea Regel ex Trel.
+establishmentMeans                            Exótica
+sex                                     hermaphrodite
+Name: AA1624, dtype: object

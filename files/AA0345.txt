@@ -1,0 +1,18 @@
+catalogNumber                             AA0345
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348548
+decimalLongitude                         6284389
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Myrtales
+family                                Onagraceae
+genus                                    Fuchsia
+specificEpithet                      magellanica
+infraspecificEpithet                         NaN
+nameAcordingTo                              Lam.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Fuchsia magellanica Lam.
+establishmentMeans                        Nativa
+sex                                hermaphrodite
+Name: AA0345, dtype: object

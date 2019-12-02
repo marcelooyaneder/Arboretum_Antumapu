@@ -1,0 +1,18 @@
+catalogNumber                       AA1134
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348431
+decimalLongitude                   6284719
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Myrtales
+family                           Myrtaceae
+genus                           Eucalyptus
+specificEpithet                        NaN
+infraspecificEpithet                   NaN
+nameAcordingTo                      L'Her.
+verbatimTaxonRank                      sp.
+taxonRank                            genus
+acceptedNameUsage       Eucalyptus  L'Her.
+establishmentMeans                 Exótica
+sex                          hermaphrodite
+Name: AA1134, dtype: object

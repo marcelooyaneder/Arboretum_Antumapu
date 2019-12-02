@@ -1,0 +1,18 @@
+catalogNumber                                           AA1638
+basisOfRecord                                   LivingSpecimen
+decimalLatitude                                         348484
+decimalLongitude                                       6284336
+phylum                                            Tracheophyta
+Class                                            Magnoliopsida
+order                                               Sapindales
+family                                             Sapindaceae
+genus                                                     Acer
+specificEpithet                                       palmatum
+infraspecificEpithet                                       NaN
+nameAcordingTo                        C.P.Thunberg ex A.Murray
+verbatimTaxonRank                                          NaN
+taxonRank                                              species
+acceptedNameUsage       Acer palmatum C.P.Thunberg ex A.Murray
+establishmentMeans                                     Exótica
+sex                                              hermaphrodite
+Name: AA1638, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                           AA1462
+basisOfRecord                                   LivingSpecimen
+decimalLatitude                                         348414
+decimalLongitude                                       6284315
+phylum                                            Tracheophyta
+Class                                            Magnoliopsida
+order                                               Sapindales
+family                                           Anacardiaceae
+genus                                                  Schinus
+specificEpithet                                       polygama
+infraspecificEpithet                                       NaN
+nameAcordingTo                           Cabrera & I.M.Johnst.
+verbatimTaxonRank                                          NaN
+taxonRank                                              species
+acceptedNameUsage       Schinus polygama Cabrera & I.M.Johnst.
+Nombre común                                               NaN
+Estado                                                    Viva
+establishmentMeans                                      Nativa
+ingreso                                                   2019
+plantacion                                                 NaN
+sex                                              hermaphrodite
+Name: AA1462, dtype: object

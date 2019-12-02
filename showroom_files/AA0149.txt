@@ -1,0 +1,22 @@
+catalogNumber                   AA0149
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348618
+decimalLongitude               6284358
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Rosales
+family                        Moraceae
+genus                            Morus
+specificEpithet                   alba
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  NaN
+taxonRank                      species
+acceptedNameUsage        Morus alba L.
+Nombre común                       NaN
+Estado                            Viva
+establishmentMeans             Exótica
+ingreso                           2019
+plantacion                         NaN
+sex                      hermaphrodite
+Name: AA0149, dtype: object

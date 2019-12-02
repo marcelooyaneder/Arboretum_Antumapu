@@ -1,0 +1,18 @@
+catalogNumber                        AA0189
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348625
+decimalLongitude                    6284385
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Fabales
+family                             Fabaceae
+genus                                Acacia
+specificEpithet                      karroo
+infraspecificEpithet                    NaN
+nameAcordingTo                        Hayne
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Acacia karroo Hayne
+establishmentMeans                  Exótica
+sex                           hermaphrodite
+Name: AA0189, dtype: object

@@ -1,0 +1,22 @@
+catalogNumber                                    AA0312
+basisOfRecord                            LivingSpecimen
+decimalLatitude                                  348561
+decimalLongitude                                6284419
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                       Celastrales
+family                                     Celastraceae
+genus                                          Maytenus
+specificEpithet                                  boaria
+infraspecificEpithet                                NaN
+nameAcordingTo                          (Molina) Molina
+verbatimTaxonRank                                   NaN
+taxonRank                                       species
+acceptedNameUsage       Maytenus boaria (Molina) Molina
+Nombre común                                        NaN
+Estado                                             Viva
+establishmentMeans                               Nativa
+ingreso                                            2019
+plantacion                                          NaN
+sex                                                 NaN
+Name: AA0312, dtype: object

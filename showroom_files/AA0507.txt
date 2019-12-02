@@ -1,0 +1,22 @@
+catalogNumber                                     AA0507
+basisOfRecord                             LivingSpecimen
+decimalLatitude                                   348513
+decimalLongitude                                 6284416
+phylum                                      Tracheophyta
+Class                                      Magnoliopsida
+order                                  Berberidopsidales
+family                                     Aextoxicaceae
+genus                                         Aextoxicon
+specificEpithet                                punctatum
+infraspecificEpithet                                 NaN
+nameAcordingTo                               Ruiz & Pav.
+verbatimTaxonRank                                    NaN
+taxonRank                                        species
+acceptedNameUsage       Aextoxicon punctatum Ruiz & Pav.
+Nombre común                                         NaN
+Estado                                            Muerto
+establishmentMeans                                Nativa
+ingreso                                             2019
+plantacion                                          2016
+sex                                                  NaN
+Name: AA0507, dtype: object

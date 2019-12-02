@@ -1,0 +1,22 @@
+catalogNumber                         AA0458
+basisOfRecord                 LivingSpecimen
+decimalLatitude                       348539
+decimalLongitude                     6284451
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Fabales
+family                              Fabaceae
+genus                              Ceratonia
+specificEpithet                      siliqua
+infraspecificEpithet                     NaN
+nameAcordingTo                            L.
+verbatimTaxonRank                        NaN
+taxonRank                            species
+acceptedNameUsage       Ceratonia siliqua L.
+Nombre común                             NaN
+Estado                                  Viva
+establishmentMeans                   Exótica
+ingreso                                 2019
+plantacion                               NaN
+sex                            hermaphrodite
+Name: AA0458, dtype: object

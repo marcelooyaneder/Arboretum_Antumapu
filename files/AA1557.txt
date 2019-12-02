@@ -1,0 +1,18 @@
+catalogNumber                               AA1557
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348548
+decimalLongitude                           6284295
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Malpighiales
+family                                  Salicaceae
+genus                                      Populus
+specificEpithet                         canadensis
+infraspecificEpithet                         I-214
+nameAcordingTo                              Moench
+verbatimTaxonRank       Populus x canadensis I-214
+taxonRank                                 varietas
+acceptedNameUsage        Populus canadensis Moench
+establishmentMeans                         Exótica
+sex                                  hermaphrodite
+Name: AA1557, dtype: object

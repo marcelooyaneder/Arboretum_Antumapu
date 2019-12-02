@@ -1,0 +1,18 @@
+catalogNumber                        AA1008
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348552
+decimalLongitude                    6284778
+phylum                         Tracheophyta
+Class                             Pinopsida
+order                               Pinales
+family                             Pinaceae
+genus                                 Pinus
+specificEpithet                     radiata
+infraspecificEpithet                    NaN
+nameAcordingTo                        D.Don
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Pinus radiata D.Don
+establishmentMeans                  Exótica
+sex                           hermaphrodite
+Name: AA1008, dtype: object

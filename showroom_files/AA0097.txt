@@ -1,0 +1,22 @@
+catalogNumber                               AA0097
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348653
+decimalLongitude                           6284204
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fagales
+family                               Casuarinaceae
+genus                                    Casuarina
+specificEpithet                      equisetifolia
+infraspecificEpithet                           NaN
+nameAcordingTo                                  L.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Casuarina equisetifolia L.
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+sex                                            NaN
+Name: AA0097, dtype: object

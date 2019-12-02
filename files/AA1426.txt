@@ -1,0 +1,18 @@
+catalogNumber                        AA1426
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348337
+decimalLongitude                    6284400
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Fagales
+family                           Betulaceae
+genus                                Betula
+specificEpithet                     pendula
+infraspecificEpithet                    NaN
+nameAcordingTo                         Roth
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Betula pendula Roth
+establishmentMeans                  Exótica
+sex                                     NaN
+Name: AA1426, dtype: object

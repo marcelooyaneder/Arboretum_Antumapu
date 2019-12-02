@@ -1,0 +1,22 @@
+catalogNumber                                       AA1664
+basisOfRecord                               LivingSpecimen
+decimalLatitude                                     348581
+decimalLongitude                                   6284364
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                              Fabales
+family                                        Quillajaceae
+genus                                             Quillaja
+specificEpithet                                  saponaria
+infraspecificEpithet                                   NaN
+nameAcordingTo                             (Molina) Molina
+verbatimTaxonRank                                      NaN
+taxonRank                                          species
+acceptedNameUsage       Quillaja saponaria (Molina) Molina
+Nombre común                                           NaN
+Estado                                                Viva
+establishmentMeans                                  Nativa
+ingreso                                               2019
+plantacion                                             NaN
+sex                                          hermaphrodite
+Name: AA1664, dtype: object

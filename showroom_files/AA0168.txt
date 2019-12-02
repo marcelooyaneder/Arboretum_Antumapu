@@ -1,0 +1,22 @@
+catalogNumber                               AA0168
+basisOfRecord                       LivingSpecimen
+decimalLatitude                             348592
+decimalLongitude                           6284315
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                 Saxifragales
+family                                Altingiaceae
+genus                                  Liquidambar
+specificEpithet                        styraciflua
+infraspecificEpithet                           NaN
+nameAcordingTo                                  L.
+verbatimTaxonRank                              NaN
+taxonRank                                  species
+acceptedNameUsage       Liquidambar styraciflua L.
+Nombre común                                   NaN
+Estado                                        Viva
+establishmentMeans                         Exótica
+ingreso                                       2019
+plantacion                                     NaN
+sex                                  hermaphrodite
+Name: AA0168, dtype: object

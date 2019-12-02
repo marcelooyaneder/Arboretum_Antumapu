@@ -1,0 +1,18 @@
+catalogNumber                                AA0685
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348449
+decimalLongitude                            6284509
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Myrtales
+family                                    Myrtaceae
+genus                                    Eucalyptus
+specificEpithet                            globulus
+infraspecificEpithet                            NaN
+nameAcordingTo                              Labill.
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Eucalyptus globulus Labill.
+establishmentMeans                          Exótica
+sex                                   hermaphrodite
+Name: AA0685, dtype: object

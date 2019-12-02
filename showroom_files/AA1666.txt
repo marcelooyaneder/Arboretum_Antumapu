@@ -1,0 +1,22 @@
+catalogNumber                       AA1666
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348589
+decimalLongitude                   6284363
+phylum                        Tracheophyta
+Class                           Liliopsida
+order                          Asparagales
+family                        Asparagaceae
+genus                                Agave
+specificEpithet                  americana
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Agave americana L.
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+sex                                    NaN
+Name: AA1666, dtype: object

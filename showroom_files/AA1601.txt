@@ -1,0 +1,22 @@
+catalogNumber                            AA1601
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348498
+decimalLongitude                        6284325
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Myrtales
+family                               Lythraceae
+genus                             Lagerstroemia
+specificEpithet                          indica
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Lagerstroemia indica L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+sex                               hermaphrodite
+Name: AA1601, dtype: object

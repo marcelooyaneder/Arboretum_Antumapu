@@ -1,0 +1,18 @@
+catalogNumber                   AA1367
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348349
+decimalLongitude               6284356
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                       Sapindales
+family                        Rutaceae
+genus                           Citrus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage           Citrus  L.
+establishmentMeans             Exótica
+sex                      hermaphrodite
+Name: AA1367, dtype: object

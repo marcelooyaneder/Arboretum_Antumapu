@@ -1,0 +1,18 @@
+catalogNumber                              AA0629
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348432
+decimalLongitude                          6284488
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+family                                   Fabaceae
+genus                                      Acacia
+specificEpithet                           saligna
+infraspecificEpithet                          NaN
+nameAcordingTo                         H.L.Wendl.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Acacia saligna H.L.Wendl.
+establishmentMeans                        Exótica
+sex                                 hermaphrodite
+Name: AA0629, dtype: object

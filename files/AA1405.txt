@@ -1,0 +1,18 @@
+catalogNumber                           AA1405
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348283
+decimalLongitude                       6284354
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                 Laurales
+family                               Lauraceae
+genus                                   Persea
+specificEpithet                      americana
+infraspecificEpithet                       NaN
+nameAcordingTo                           Mill.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Persea americana Mill.
+establishmentMeans                     Exótica
+sex                              hermaphrodite
+Name: AA1405, dtype: object

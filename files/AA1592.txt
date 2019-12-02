@@ -1,0 +1,18 @@
+catalogNumber                                   AA1592
+basisOfRecord                           LivingSpecimen
+decimalLatitude                                 348491
+decimalLongitude                               6284273
+phylum                                    Tracheophyta
+Class                                    Magnoliopsida
+order                                          Fabales
+family                                        Fabaceae
+genus                                    Styphnolobium
+specificEpithet                              japonicum
+infraspecificEpithet                               NaN
+nameAcordingTo                                  Schott
+verbatimTaxonRank                                  NaN
+taxonRank                                      species
+acceptedNameUsage       Styphnolobium japonicum Schott
+establishmentMeans                             Exótica
+sex                                                NaN
+Name: AA1592, dtype: object

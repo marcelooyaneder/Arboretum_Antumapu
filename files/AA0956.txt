@@ -1,0 +1,18 @@
+catalogNumber                   AA0956
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348578
+decimalLongitude               6284655
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                         Malvales
+family                       Malvaceae
+genus                            Tilia
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage            Tilia  L.
+establishmentMeans             Exótica
+sex                                NaN
+Name: AA0956, dtype: object

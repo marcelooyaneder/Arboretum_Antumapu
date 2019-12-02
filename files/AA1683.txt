@@ -1,0 +1,18 @@
+catalogNumber                       AA1683
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348525
+decimalLongitude                   6284379
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                           Sapindales
+family                           Meliaceae
+genus                                Melia
+specificEpithet                  azedarach
+infraspecificEpithet                   NaN
+nameAcordingTo                          L.
+verbatimTaxonRank                      NaN
+taxonRank                          species
+acceptedNameUsage       Melia azedarach L.
+establishmentMeans                 Exótica
+sex                          hermaphrodite
+Name: AA1683, dtype: object

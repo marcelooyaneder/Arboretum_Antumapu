@@ -1,0 +1,18 @@
+catalogNumber                            AA0362
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348623
+decimalLongitude                        6284390
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Lamiales
+family                           Plantaginaceae
+genus                                   Monttea
+specificEpithet                       chilensis
+infraspecificEpithet                        NaN
+nameAcordingTo                            J.Gay
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Monttea chilensis J.Gay
+establishmentMeans                       Nativa
+sex                                         NaN
+Name: AA0362, dtype: object

@@ -1,0 +1,18 @@
+catalogNumber                     AA0142
+basisOfRecord             LivingSpecimen
+decimalLatitude                   348632
+decimalLongitude                 6284327
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                         Sapindales
+family                     Anacardiaceae
+genus                            Schinus
+specificEpithet                    molle
+infraspecificEpithet                 NaN
+nameAcordingTo                        L.
+verbatimTaxonRank                    NaN
+taxonRank                        species
+acceptedNameUsage       Schinus molle L.
+establishmentMeans               Exótica
+sex                        hermaphrodite
+Name: AA0142, dtype: object

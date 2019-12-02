@@ -1,0 +1,22 @@
+catalogNumber                           AA0318
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348558
+decimalLongitude                       6284407
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                  Fabales
+family                                Fabaceae
+genus                                  Sophora
+specificEpithet                     macrocarpa
+infraspecificEpithet                       NaN
+nameAcordingTo                             Sm.
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Sophora macrocarpa Sm.
+Nombre común                               NaN
+Estado                                    Viva
+establishmentMeans                      Nativa
+ingreso                                   2019
+plantacion                                 NaN
+sex                              hermaphrodite
+Name: AA0318, dtype: object

@@ -1,0 +1,18 @@
+catalogNumber                            AA0545
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348527
+decimalLongitude                        6284424
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Laurales
+family                            Gomortegaceae
+genus                                 Gomortega
+specificEpithet                           keule
+infraspecificEpithet                        NaN
+nameAcordingTo                          Gunckel
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Gomortega keule Gunckel
+establishmentMeans                       Nativa
+sex                                         NaN
+Name: AA0545, dtype: object

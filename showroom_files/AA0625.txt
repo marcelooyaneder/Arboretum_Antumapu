@@ -1,0 +1,22 @@
+catalogNumber                          AA0625
+basisOfRecord                  LivingSpecimen
+decimalLatitude                        348438
+decimalLongitude                      6284495
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+family                               Oleaceae
+genus                                Fraxinus
+specificEpithet                     excelsior
+infraspecificEpithet                      NaN
+nameAcordingTo                             L.
+verbatimTaxonRank                         NaN
+taxonRank                             species
+acceptedNameUsage       Fraxinus excelsior L.
+Nombre común                              NaN
+Estado                                   Viva
+establishmentMeans                    Exótica
+ingreso                                  2019
+plantacion                                NaN
+sex                             hermaphrodite
+Name: AA0625, dtype: object

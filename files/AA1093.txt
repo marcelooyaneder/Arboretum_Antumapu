@@ -1,0 +1,18 @@
+catalogNumber                                    AA1093
+basisOfRecord                            LivingSpecimen
+decimalLatitude                                  348431
+decimalLongitude                                6284763
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                          Myrtales
+family                                        Myrtaceae
+genus                                        Eucalyptus
+specificEpithet                           camaldulensis
+infraspecificEpithet                                NaN
+nameAcordingTo                                   Dehnh.
+verbatimTaxonRank                                   NaN
+taxonRank                                       species
+acceptedNameUsage       Eucalyptus camaldulensis Dehnh.
+establishmentMeans                              Exótica
+sex                                       hermaphrodite
+Name: AA1093, dtype: object

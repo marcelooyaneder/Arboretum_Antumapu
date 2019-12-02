@@ -1,0 +1,18 @@
+catalogNumber                                    AA0403
+basisOfRecord                            LivingSpecimen
+decimalLatitude                                  348528
+decimalLongitude                                6284409
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                       Celastrales
+family                                     Celastraceae
+genus                                          Maytenus
+specificEpithet                                  boaria
+infraspecificEpithet                                NaN
+nameAcordingTo                          (Molina) Molina
+verbatimTaxonRank                                   NaN
+taxonRank                                       species
+acceptedNameUsage       Maytenus boaria (Molina) Molina
+establishmentMeans                               Nativa
+sex                                                 NaN
+Name: AA0403, dtype: object

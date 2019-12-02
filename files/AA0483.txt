@@ -1,0 +1,18 @@
+catalogNumber                        AA0483
+basisOfRecord                LivingSpecimen
+decimalLatitude                      348533
+decimalLongitude                    6284427
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                              Myrtales
+family                            Myrtaceae
+genus                                  Luma
+specificEpithet                     chequen
+infraspecificEpithet                    NaN
+nameAcordingTo                       A.Gray
+verbatimTaxonRank                       NaN
+taxonRank                           species
+acceptedNameUsage       Luma chequen A.Gray
+establishmentMeans                   Nativa
+sex                           hermaphrodite
+Name: AA0483, dtype: object

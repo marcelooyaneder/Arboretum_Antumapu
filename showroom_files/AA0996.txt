@@ -1,0 +1,22 @@
+catalogNumber                       AA0996
+basisOfRecord               LivingSpecimen
+decimalLatitude                     348552
+decimalLongitude                   6284720
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Myrtales
+family                           Myrtaceae
+genus                           Eucalyptus
+specificEpithet                        NaN
+infraspecificEpithet                   NaN
+nameAcordingTo                      L'Her.
+verbatimTaxonRank                      sp.
+taxonRank                            genus
+acceptedNameUsage       Eucalyptus  L'Her.
+Nombre común                           NaN
+Estado                                Viva
+establishmentMeans                 Exótica
+ingreso                               2019
+plantacion                             NaN
+sex                          hermaphrodite
+Name: AA0996, dtype: object

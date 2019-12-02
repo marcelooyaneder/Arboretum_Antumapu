@@ -1,0 +1,22 @@
+catalogNumber                              AA1598
+basisOfRecord                      LivingSpecimen
+decimalLatitude                            348496
+decimalLongitude                          6284314
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Rosales
+family                               Elaeagnaceae
+genus                                   Elaeagnus
+specificEpithet                      angustifolia
+infraspecificEpithet                          NaN
+nameAcordingTo                                 L.
+verbatimTaxonRank                             NaN
+taxonRank                                 species
+acceptedNameUsage       Elaeagnus angustifolia L.
+Nombre común                                  NaN
+Estado                                       Viva
+establishmentMeans                        Exótica
+ingreso                                      2019
+plantacion                                    NaN
+sex                                           NaN
+Name: AA1598, dtype: object

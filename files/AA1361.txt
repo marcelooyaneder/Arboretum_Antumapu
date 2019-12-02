@@ -1,0 +1,18 @@
+catalogNumber                   AA1361
+basisOfRecord           LivingSpecimen
+decimalLatitude                 348346
+decimalLongitude               6284335
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                       Sapindales
+family                        Rutaceae
+genus                           Citrus
+specificEpithet                    NaN
+infraspecificEpithet               NaN
+nameAcordingTo                      L.
+verbatimTaxonRank                  sp.
+taxonRank                        genus
+acceptedNameUsage           Citrus  L.
+establishmentMeans             Exótica
+sex                      hermaphrodite
+Name: AA1361, dtype: object

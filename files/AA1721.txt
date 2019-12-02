@@ -1,0 +1,18 @@
+catalogNumber                           AA1721
+basisOfRecord                   LivingSpecimen
+decimalLatitude                         348535
+decimalLongitude                       6284257
+phylum                            Tracheophyta
+Class                               Liliopsida
+order                                 Arecales
+family                               Arecaceae
+genus                                   Brahea
+specificEpithet                         armata
+infraspecificEpithet                       NaN
+nameAcordingTo                        S.Watson
+verbatimTaxonRank                          NaN
+taxonRank                              species
+acceptedNameUsage       Brahea armata S.Watson
+establishmentMeans                     Exótica
+sex                                        NaN
+Name: AA1721, dtype: object

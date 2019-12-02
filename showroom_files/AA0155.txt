@@ -1,0 +1,22 @@
+catalogNumber                            AA0155
+basisOfRecord                    LivingSpecimen
+decimalLatitude                          348615
+decimalLongitude                        6284369
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                               Magnoliales
+family                             Magnoliaceae
+genus                                  Magnolia
+specificEpithet                     grandiflora
+infraspecificEpithet                        NaN
+nameAcordingTo                               L.
+verbatimTaxonRank                           NaN
+taxonRank                               species
+acceptedNameUsage       Magnolia grandiflora L.
+Nombre común                                NaN
+Estado                                     Viva
+establishmentMeans                      Exótica
+ingreso                                    2019
+plantacion                                  NaN
+sex                               hermaphrodite
+Name: AA0155, dtype: object

@@ -1,0 +1,18 @@
+catalogNumber                                 AA1505
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348417
+decimalLongitude                             6284349
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                   Malpighiales
+family                                 Euphorbiaceae
+genus                                     Avellanita
+specificEpithet                          bustillosii
+infraspecificEpithet                             NaN
+nameAcordingTo                                 Phil.
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Avellanita bustillosii Phil.
+establishmentMeans                            Nativa
+sex                                              NaN
+Name: AA1505, dtype: object

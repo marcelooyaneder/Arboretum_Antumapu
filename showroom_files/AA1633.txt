@@ -1,0 +1,22 @@
+catalogNumber                                AA1633
+basisOfRecord                        LivingSpecimen
+decimalLatitude                              348462
+decimalLongitude                            6284342
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                    Sapindales
+family                                Simaroubaceae
+genus                                     Ailanthus
+specificEpithet                           altissima
+infraspecificEpithet                            NaN
+nameAcordingTo                              Swingle
+verbatimTaxonRank                               NaN
+taxonRank                                   species
+acceptedNameUsage       Ailanthus altissima Swingle
+Nombre común                                    NaN
+Estado                                         Viva
+establishmentMeans                          Exótica
+ingreso                                        2019
+plantacion                                      NaN
+sex                                   hermaphrodite
+Name: AA1633, dtype: object

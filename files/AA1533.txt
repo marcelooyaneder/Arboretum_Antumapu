@@ -1,0 +1,18 @@
+catalogNumber                                 AA1533
+basisOfRecord                         LivingSpecimen
+decimalLatitude                               348545
+decimalLongitude                             6284255
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                       Malvales
+family                                     Malvaceae
+genus                                   Brachychiton
+specificEpithet                            populneus
+infraspecificEpithet                             NaN
+nameAcordingTo                                 R.Br.
+verbatimTaxonRank                                NaN
+taxonRank                                    species
+acceptedNameUsage       Brachychiton populneus R.Br.
+establishmentMeans                           Exótica
+sex                                    hermaphrodite
+Name: AA1533, dtype: object

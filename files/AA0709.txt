@@ -1,0 +1,18 @@
+catalogNumber                             AA0709
+basisOfRecord                     LivingSpecimen
+decimalLatitude                           348440
+decimalLongitude                         6284498
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                  Asterales
+family                                Asteraceae
+genus                                  Baccharis
+specificEpithet                         linearis
+infraspecificEpithet                         NaN
+nameAcordingTo                             Pers.
+verbatimTaxonRank                            NaN
+taxonRank                                species
+acceptedNameUsage       Baccharis linearis Pers.
+establishmentMeans                        Nativa
+sex                                          NaN
+Name: AA0709, dtype: object
