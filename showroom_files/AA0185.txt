@@ -1,4 +1,0 @@
-catalogNumber                              AA0185
-acceptedNameUsage    Metrosideros excelsa Gaertn.
-Nombre común                                  NaN
-Name: AA0185, dtype: object

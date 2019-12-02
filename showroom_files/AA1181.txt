@@ -1,4 +1,0 @@
-catalogNumber                          AA1181
-acceptedNameUsage    Baccharis linearis Pers.
-Nombre común                              NaN
-Name: AA1181, dtype: object

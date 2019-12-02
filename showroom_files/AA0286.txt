@@ -1,4 +1,0 @@
-catalogNumber                         AA0286
-acceptedNameUsage    Jubaea chilensis Baill.
-Nombre común                             NaN
-Name: AA0286, dtype: object

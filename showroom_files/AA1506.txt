@@ -1,4 +1,0 @@
-catalogNumber                         AA1506
-acceptedNameUsage    Proustia pyrifolia Lag.
-Nombre común                             NaN
-Name: AA1506, dtype: object

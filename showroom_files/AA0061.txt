@@ -1,4 +1,0 @@
-catalogNumber                    AA0061
-acceptedNameUsage    Melia azedarach L.
-Nombre común                        NaN
-Name: AA0061, dtype: object

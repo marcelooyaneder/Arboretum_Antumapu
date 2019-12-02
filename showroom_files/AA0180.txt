@@ -1,4 +1,0 @@
-catalogNumber                           AA0180
-acceptedNameUsage    Elaeagnus angustifolia L.
-Nombre común                               NaN
-Name: AA0180, dtype: object

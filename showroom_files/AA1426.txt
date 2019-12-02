@@ -1,4 +1,0 @@
-catalogNumber                     AA1426
-acceptedNameUsage    Betula pendula Roth
-Nombre común                         NaN
-Name: AA1426, dtype: object

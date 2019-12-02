@@ -1,4 +1,0 @@
-catalogNumber                         AA1516
-acceptedNameUsage    Jubaea chilensis Baill.
-Nombre común                             NaN
-Name: AA1516, dtype: object

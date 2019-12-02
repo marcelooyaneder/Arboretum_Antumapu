@@ -1,4 +1,0 @@
-catalogNumber                                  AA0544
-acceptedNameUsage    Pitavia punctata (Molina) Molina
-Nombre común                                      NaN
-Name: AA0544, dtype: object

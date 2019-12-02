@@ -1,4 +1,0 @@
-catalogNumber                                AA0175
-acceptedNameUsage    Brachychiton discolor F.Muell.
-Nombre común                                    NaN
-Name: AA0175, dtype: object

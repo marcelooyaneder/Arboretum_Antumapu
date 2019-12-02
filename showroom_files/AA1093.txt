@@ -1,4 +1,0 @@
-catalogNumber                                 AA1093
-acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
-Nombre común                                     NaN
-Name: AA1093, dtype: object

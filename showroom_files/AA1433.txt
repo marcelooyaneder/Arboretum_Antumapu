@@ -1,4 +1,0 @@
-catalogNumber                                 AA1433
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA1433, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                               AA0386
-acceptedNameUsage    Peumus boldus (Molina) Molina
-Nombre común                                   NaN
-Name: AA0386, dtype: object

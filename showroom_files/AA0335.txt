@@ -1,4 +1,0 @@
-catalogNumber                      AA0335
-acceptedNameUsage    Cedrus deodara G.Don
-Nombre común                          NaN
-Name: AA0335, dtype: object

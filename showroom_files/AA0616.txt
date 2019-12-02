@@ -1,4 +1,0 @@
-catalogNumber                               AA0616
-acceptedNameUsage    Araucaria angustifolia Kuntze
-Nombre común                                   NaN
-Name: AA0616, dtype: object

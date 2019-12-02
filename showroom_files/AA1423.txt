@@ -1,4 +1,0 @@
-catalogNumber                          AA1423
-acceptedNameUsage    Catalpa speciosa Engelm.
-Nombre común                              NaN
-Name: AA1423, dtype: object

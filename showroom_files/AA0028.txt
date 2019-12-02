@@ -1,4 +1,0 @@
-catalogNumber            AA0028
-acceptedNameUsage    Sorbus  L.
-Nombre común             Serbal
-Name: AA0028, dtype: object

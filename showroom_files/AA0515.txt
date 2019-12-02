@@ -1,4 +1,0 @@
-catalogNumber                                 AA0515
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA0515, dtype: object

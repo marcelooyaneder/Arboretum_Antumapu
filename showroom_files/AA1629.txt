@@ -1,4 +1,0 @@
-catalogNumber                                      AA1629
-acceptedNameUsage    Crinodendron patagua (Molina) Molina
-Nombre común                                          NaN
-Name: AA1629, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber            AA0130
-acceptedNameUsage    Citrus  L.
-Nombre común                NaN
-Name: AA0130, dtype: object

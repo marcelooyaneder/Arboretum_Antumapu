@@ -1,4 +1,0 @@
-catalogNumber                   AA0041
-acceptedNameUsage    Fraxinus ornus L.
-Nombre común                    Fresno
-Name: AA0041, dtype: object

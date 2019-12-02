@@ -1,4 +1,0 @@
-catalogNumber                                 AA0412
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA0412, dtype: object

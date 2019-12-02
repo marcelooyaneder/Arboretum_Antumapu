@@ -1,4 +1,0 @@
-catalogNumber                   AA0078
-acceptedNameUsage    Fraxinus ornus L.
-Nombre común                       NaN
-Name: AA0078, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                         AA0366
-acceptedNameUsage    Prosopis tamarugo Phil.
-Nombre común                             NaN
-Name: AA0366, dtype: object

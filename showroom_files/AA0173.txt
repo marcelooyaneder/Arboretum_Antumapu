@@ -1,4 +1,0 @@
-catalogNumber                                AA0173
-acceptedNameUsage    Chamaecyparis lawsoniana Parl.
-Nombre común                                    NaN
-Name: AA0173, dtype: object

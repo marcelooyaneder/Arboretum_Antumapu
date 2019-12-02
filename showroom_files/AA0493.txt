@@ -1,4 +1,0 @@
-catalogNumber                           AA0493
-acceptedNameUsage    Nothofagus dombeyi Oerst.
-Nombre común                               NaN
-Name: AA0493, dtype: object

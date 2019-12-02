@@ -1,4 +1,0 @@
-catalogNumber                         AA0047
-acceptedNameUsage    Parkinsonia aculeata L.
-Nombre común                      Palo verde
-Name: AA0047, dtype: object

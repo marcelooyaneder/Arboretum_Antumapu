@@ -1,4 +1,0 @@
-catalogNumber            AA1402
-acceptedNameUsage    Prunus  L.
-Nombre común                NaN
-Name: AA1402, dtype: object

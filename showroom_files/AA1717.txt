@@ -1,4 +1,0 @@
-catalogNumber                       AA1717
-acceptedNameUsage    Prunus persica Stokes
-Nombre común                           NaN
-Name: AA1717, dtype: object

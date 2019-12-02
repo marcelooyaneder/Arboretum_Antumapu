@@ -1,4 +1,0 @@
-catalogNumber                    AA0584
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA0584, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                          AA0529
-acceptedNameUsage    Fuchsia magellanica Lam.
-Nombre común                              NaN
-Name: AA0529, dtype: object

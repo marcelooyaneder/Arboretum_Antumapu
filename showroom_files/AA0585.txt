@@ -1,4 +1,0 @@
-catalogNumber                                      AA0585
-acceptedNameUsage    Crinodendron patagua (Molina) Molina
-Nombre común                                          NaN
-Name: AA0585, dtype: object

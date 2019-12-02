@@ -1,4 +1,0 @@
-catalogNumber                   AA0701
-acceptedNameUsage    Vitis vinifera L.
-Nombre común                       NaN
-Name: AA0701, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                     AA0712
-acceptedNameUsage    Pinus radiata D.Don
-Nombre común                         NaN
-Name: AA0712, dtype: object

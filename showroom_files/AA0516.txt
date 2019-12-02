@@ -1,4 +1,0 @@
-catalogNumber                                               AA0516
-acceptedNameUsage    Parablechnum cordatum (Desv.) Gasper & Salino
-Nombre común                                                   NaN
-Name: AA0516, dtype: object

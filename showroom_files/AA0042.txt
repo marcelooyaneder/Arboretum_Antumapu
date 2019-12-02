@@ -1,4 +1,0 @@
-catalogNumber                  AA0042
-acceptedNameUsage    Schinus molle L.
-Nombre común                 Pimiento
-Name: AA0042, dtype: object

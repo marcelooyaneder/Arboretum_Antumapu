@@ -1,4 +1,0 @@
-catalogNumber                    AA1234
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA1234, dtype: object

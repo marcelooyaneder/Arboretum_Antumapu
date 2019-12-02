@@ -1,4 +1,0 @@
-catalogNumber                            AA0139
-acceptedNameUsage    Liquidambar styraciflua L.
-Nombre común                                NaN
-Name: AA0139, dtype: object

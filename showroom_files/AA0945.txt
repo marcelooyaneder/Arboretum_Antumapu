@@ -1,4 +1,0 @@
-catalogNumber                            AA0945
-acceptedNameUsage    Eriobotrya japonica Lindl.
-Nombre común                                NaN
-Name: AA0945, dtype: object

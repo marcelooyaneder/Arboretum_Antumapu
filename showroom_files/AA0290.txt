@@ -1,4 +1,0 @@
-catalogNumber                         AA0290
-acceptedNameUsage    Jubaea chilensis Baill.
-Nombre común                             NaN
-Name: AA0290, dtype: object

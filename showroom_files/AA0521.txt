@@ -1,4 +1,0 @@
-catalogNumber                                                   AA0521
-acceptedNameUsage    Lomariocycas magellanicum (Mett.) Gasper & A.R...
-Nombre común                                                       NaN
-Name: AA0521, dtype: object

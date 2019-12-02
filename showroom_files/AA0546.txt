@@ -1,4 +1,0 @@
-catalogNumber                                    AA0546
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-Name: AA0546, dtype: object

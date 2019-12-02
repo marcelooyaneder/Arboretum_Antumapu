@@ -1,4 +1,0 @@
-catalogNumber                             AA0058
-acceptedNameUsage    Eucalyptus globulus Labill.
-Nombre común                                 NaN
-Name: AA0058, dtype: object

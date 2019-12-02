@@ -1,4 +1,0 @@
-catalogNumber                          AA0566
-acceptedNameUsage    Lomatia ferruginea R.Br.
-Nombre común                              NaN
-Name: AA0566, dtype: object

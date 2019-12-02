@@ -1,4 +1,0 @@
-catalogNumber                           AA0481
-acceptedNameUsage    Nothofagus obliqua Oerst.
-Nombre común                               NaN
-Name: AA0481, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                  AA0708
-acceptedNameUsage    Schinus molle L.
-Nombre común                      NaN
-Name: AA0708, dtype: object

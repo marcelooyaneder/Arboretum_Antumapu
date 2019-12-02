@@ -1,4 +1,0 @@
-catalogNumber                          AA0296
-acceptedNameUsage    Gleditsia triacanthos L.
-Nombre común                              NaN
-Name: AA0296, dtype: object

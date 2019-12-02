@@ -1,4 +1,0 @@
-catalogNumber                         AA0862
-acceptedNameUsage    Annona cherimola Miller
-Nombre común                             NaN
-Name: AA0862, dtype: object

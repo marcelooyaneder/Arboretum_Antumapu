@@ -1,4 +1,0 @@
-catalogNumber                       AA1268
-acceptedNameUsage    Agave americana Trel.
-Nombre común                           NaN
-Name: AA1268, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                          AA1690
-acceptedNameUsage    Cupressus funebris Endl.
-Nombre común                              NaN
-Name: AA1690, dtype: object

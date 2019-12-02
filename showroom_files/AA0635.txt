@@ -1,4 +1,0 @@
-catalogNumber                              AA0635
-acceptedNameUsage    Brachychiton populneus R.Br.
-Nombre común                                  NaN
-Name: AA0635, dtype: object

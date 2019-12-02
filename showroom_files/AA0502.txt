@@ -1,4 +1,0 @@
-catalogNumber                           AA0502
-acceptedNameUsage    Eucryphia cordifolia Cav.
-Nombre común                               NaN
-Name: AA0502, dtype: object

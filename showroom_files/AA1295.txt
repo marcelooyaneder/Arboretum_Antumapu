@@ -1,4 +1,0 @@
-catalogNumber                                    AA1295
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-Name: AA1295, dtype: object

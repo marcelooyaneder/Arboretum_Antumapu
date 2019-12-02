@@ -1,4 +1,0 @@
-catalogNumber                        AA0094
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                            NaN
-Name: AA0094, dtype: object

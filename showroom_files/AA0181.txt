@@ -1,4 +1,0 @@
-catalogNumber                           AA0181
-acceptedNameUsage    Elaeagnus angustifolia L.
-Nombre común                               NaN
-Name: AA0181, dtype: object

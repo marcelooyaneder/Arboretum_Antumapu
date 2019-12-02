@@ -1,4 +1,0 @@
-catalogNumber              AA0371
-acceptedNameUsage    Prosopis  L.
-Nombre común                  NaN
-Name: AA0371, dtype: object

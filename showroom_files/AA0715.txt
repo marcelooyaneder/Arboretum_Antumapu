@@ -1,4 +1,0 @@
-catalogNumber                      AA0715
-acceptedNameUsage    Ceratonia siliqua L.
-Nombre común                          NaN
-Name: AA0715, dtype: object

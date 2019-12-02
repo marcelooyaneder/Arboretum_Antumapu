@@ -1,4 +1,0 @@
-catalogNumber                  AA0921
-acceptedNameUsage    Schinus molle L.
-Nombre común                      NaN
-Name: AA0921, dtype: object

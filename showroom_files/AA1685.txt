@@ -1,4 +1,0 @@
-catalogNumber                    AA1685
-acceptedNameUsage    Melia azedarach L.
-Nombre común                        NaN
-Name: AA1685, dtype: object

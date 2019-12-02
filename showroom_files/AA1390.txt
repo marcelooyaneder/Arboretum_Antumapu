@@ -1,4 +1,0 @@
-catalogNumber            AA1390
-acceptedNameUsage    Citrus  L.
-Nombre común                NaN
-Name: AA1390, dtype: object

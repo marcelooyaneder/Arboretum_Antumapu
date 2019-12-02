@@ -1,4 +1,0 @@
-catalogNumber                          AA0631
-acceptedNameUsage    Acacia melanoxylon R.Br.
-Nombre común                              NaN
-Name: AA0631, dtype: object

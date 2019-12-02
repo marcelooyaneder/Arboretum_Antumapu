@@ -1,4 +1,0 @@
-catalogNumber               AA0388
-acceptedNameUsage    Morus alba L.
-Nombre común                   NaN
-Name: AA0388, dtype: object

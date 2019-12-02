@@ -1,4 +1,0 @@
-catalogNumber                    AA0547
-acceptedNameUsage    Persea lingue Nees
-Nombre común                        NaN
-Name: AA0547, dtype: object

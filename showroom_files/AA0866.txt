@@ -1,4 +1,0 @@
-catalogNumber                                        AA0866
-acceptedNameUsage    Rosmarinus officinalis de Noë ex Lange
-Nombre común                                            NaN
-Name: AA0866, dtype: object

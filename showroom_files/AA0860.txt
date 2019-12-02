@@ -1,4 +1,0 @@
-catalogNumber                        AA0860
-acceptedNameUsage    Persea americana Mill.
-Nombre común                            NaN
-Name: AA0860, dtype: object

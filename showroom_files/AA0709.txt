@@ -1,4 +1,0 @@
-catalogNumber                          AA0709
-acceptedNameUsage    Baccharis linearis Pers.
-Nombre común                              NaN
-Name: AA0709, dtype: object

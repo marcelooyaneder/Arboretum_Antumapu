@@ -1,4 +1,0 @@
-catalogNumber                                   AA0587
-acceptedNameUsage    Beilschmiedia berteroana Kosterm.
-Nombre común                                       NaN
-Name: AA0587, dtype: object

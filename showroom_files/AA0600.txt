@@ -1,4 +1,0 @@
-catalogNumber                          AA0600
-acceptedNameUsage    Crataegus monogyna Jacq.
-Nombre común                              NaN
-Name: AA0600, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                           AA1598
-acceptedNameUsage    Elaeagnus angustifolia L.
-Nombre común                               NaN
-Name: AA1598, dtype: object

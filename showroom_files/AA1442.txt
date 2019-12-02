@@ -1,4 +1,0 @@
-catalogNumber                                AA1442
-acceptedNameUsage    Chamaecyparis lawsoniana Parl.
-Nombre común                                    NaN
-Name: AA1442, dtype: object

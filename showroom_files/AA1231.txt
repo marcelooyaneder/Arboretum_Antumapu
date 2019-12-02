@@ -1,4 +1,0 @@
-catalogNumber                        AA1231
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                            NaN
-Name: AA1231, dtype: object

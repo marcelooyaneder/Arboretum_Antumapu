@@ -1,4 +1,0 @@
-catalogNumber                      AA0050
-acceptedNameUsage    Acacia dealbata Link
-Nombre común                        Aromo
-Name: AA0050, dtype: object

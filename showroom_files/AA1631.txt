@@ -1,4 +1,0 @@
-catalogNumber                         AA1631
-acceptedNameUsage    Calycanthus floridus L.
-Nombre común                             NaN
-Name: AA1631, dtype: object

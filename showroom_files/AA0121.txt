@@ -1,4 +1,0 @@
-catalogNumber                       AA0121
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                           NaN
-Name: AA0121, dtype: object

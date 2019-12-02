@@ -1,4 +1,0 @@
-catalogNumber                          AA0510
-acceptedNameUsage    Sophora microphylla Ait.
-Nombre común                              NaN
-Name: AA0510, dtype: object

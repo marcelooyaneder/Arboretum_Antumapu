@@ -1,4 +1,0 @@
-catalogNumber                                   AA0384
-acceptedNameUsage    Clematicissus striata Ruiz & Pav.
-Nombre común                                       NaN
-Name: AA0384, dtype: object

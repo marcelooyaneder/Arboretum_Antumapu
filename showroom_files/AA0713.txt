@@ -1,4 +1,0 @@
-catalogNumber                               AA0713
-acceptedNameUsage    Pittosporum  Banks ex Gaertn.
-Nombre común                                   NaN
-Name: AA0713, dtype: object

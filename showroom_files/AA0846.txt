@@ -1,4 +1,0 @@
-catalogNumber                       AA0846
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                           NaN
-Name: AA0846, dtype: object

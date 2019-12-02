@@ -1,4 +1,0 @@
-catalogNumber                            AA0552
-acceptedNameUsage    Laurelia sempervirens Tul.
-Nombre común                                NaN
-Name: AA0552, dtype: object

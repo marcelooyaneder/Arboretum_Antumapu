@@ -1,4 +1,0 @@
-catalogNumber               AA0149
-acceptedNameUsage    Morus alba L.
-Nombre común                   NaN
-Name: AA0149, dtype: object

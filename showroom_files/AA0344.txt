@@ -1,4 +1,0 @@
-catalogNumber                             AA0344
-acceptedNameUsage    Ailanthus altissima Swingle
-Nombre común                                 NaN
-Name: AA0344, dtype: object

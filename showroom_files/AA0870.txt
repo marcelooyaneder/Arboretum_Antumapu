@@ -1,4 +1,0 @@
-catalogNumber                           AA0870
-acceptedNameUsage    Casimiroa edulis La Llave
-Nombre común                               NaN
-Name: AA0870, dtype: object

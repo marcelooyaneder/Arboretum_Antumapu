@@ -1,4 +1,0 @@
-catalogNumber                 AA0676
-acceptedNameUsage    Acer negundo L.
-Nombre común                     NaN
-Name: AA0676, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                              AA0245
-acceptedNameUsage    Acacia caven (Molina) Molina
-Nombre común                                  NaN
-Name: AA0245, dtype: object

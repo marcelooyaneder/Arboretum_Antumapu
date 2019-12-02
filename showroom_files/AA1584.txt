@@ -1,4 +1,0 @@
-catalogNumber                         AA1584
-acceptedNameUsage    Prunus cerasifera Ehrh.
-Nombre común                             NaN
-Name: AA1584, dtype: object

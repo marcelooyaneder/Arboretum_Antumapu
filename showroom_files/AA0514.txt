@@ -1,4 +1,0 @@
-catalogNumber                              AA0514
-acceptedNameUsage    Saxegothaea conspicua Lindl.
-Nombre común                                  NaN
-Name: AA0514, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                           AA0466
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA0466, dtype: object

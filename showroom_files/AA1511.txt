@@ -1,4 +1,0 @@
-catalogNumber                                    AA1511
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-Name: AA1511, dtype: object

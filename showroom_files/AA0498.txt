@@ -1,4 +1,0 @@
-catalogNumber                                  AA0498
-acceptedNameUsage    Aextoxicon punctatum Ruiz & Pav.
-Nombre común                                      NaN
-Name: AA0498, dtype: object

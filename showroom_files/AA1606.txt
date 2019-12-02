@@ -1,4 +1,0 @@
-catalogNumber                                 AA1606
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA1606, dtype: object

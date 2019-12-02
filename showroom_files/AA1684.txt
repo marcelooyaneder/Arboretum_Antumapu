@@ -1,4 +1,0 @@
-catalogNumber                    AA1684
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA1684, dtype: object

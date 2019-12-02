@@ -1,4 +1,0 @@
-catalogNumber                        AA1507
-acceptedNameUsage    Sophora macrocarpa Sm.
-Nombre común                            NaN
-Name: AA1507, dtype: object

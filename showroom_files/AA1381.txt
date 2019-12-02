@@ -1,4 +1,0 @@
-catalogNumber                  AA1381
-acceptedNameUsage    Juglans nigra L.
-Nombre común                      NaN
-Name: AA1381, dtype: object

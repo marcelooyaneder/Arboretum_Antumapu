@@ -1,4 +1,0 @@
-catalogNumber                          AA1338
-acceptedNameUsage    Fuchsia magellanica Lam.
-Nombre común                              NaN
-Name: AA1338, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber             AA1270
-acceptedNameUsage    Tamarix  L.
-Nombre común                 NaN
-Name: AA1270, dtype: object

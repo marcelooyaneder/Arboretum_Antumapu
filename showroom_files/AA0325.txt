@@ -1,4 +1,0 @@
-catalogNumber                         AA0325
-acceptedNameUsage    Jubaea chilensis Baill.
-Nombre común                             NaN
-Name: AA0325, dtype: object

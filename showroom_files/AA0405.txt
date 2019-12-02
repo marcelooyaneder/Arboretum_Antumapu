@@ -1,4 +1,0 @@
-catalogNumber                          AA0405
-acceptedNameUsage    Schinus latifolius Engl.
-Nombre común                              NaN
-Name: AA0405, dtype: object

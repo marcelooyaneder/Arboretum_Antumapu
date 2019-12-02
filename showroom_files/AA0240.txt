@@ -1,4 +1,0 @@
-catalogNumber                           AA0240
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA0240, dtype: object

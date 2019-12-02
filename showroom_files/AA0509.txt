@@ -1,4 +1,0 @@
-catalogNumber                          AA0509
-acceptedNameUsage    Azara lanceolata Hook.f.
-Nombre común                              NaN
-Name: AA0509, dtype: object

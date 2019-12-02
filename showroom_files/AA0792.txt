@@ -1,4 +1,0 @@
-catalogNumber                            AA0792
-acceptedNameUsage    Caesalpinia spinosa Kuntze
-Nombre común                                NaN
-Name: AA0792, dtype: object

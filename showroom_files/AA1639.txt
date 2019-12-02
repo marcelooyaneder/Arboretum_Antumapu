@@ -1,4 +1,0 @@
-catalogNumber                          AA1639
-acceptedNameUsage    Schinus latifolius Engl.
-Nombre común                              NaN
-Name: AA1639, dtype: object

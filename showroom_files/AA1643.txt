@@ -1,4 +1,0 @@
-catalogNumber                    AA1643
-acceptedNameUsage    Tetrapanax  K.Koch
-Nombre común                        NaN
-Name: AA1643, dtype: object

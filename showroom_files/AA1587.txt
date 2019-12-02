@@ -1,4 +1,0 @@
-catalogNumber                     AA1587
-acceptedNameUsage    Yucca gigantea Lem.
-Nombre común                         NaN
-Name: AA1587, dtype: object

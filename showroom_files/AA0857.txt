@@ -1,4 +1,0 @@
-catalogNumber                        AA0857
-acceptedNameUsage    Prunus dulcis D.A.Webb
-Nombre común                            NaN
-Name: AA0857, dtype: object

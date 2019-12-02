@@ -1,4 +1,0 @@
-catalogNumber                             AA1382
-acceptedNameUsage    Ligustrum lucidum W.T.Aiton
-Nombre común                                 NaN
-Name: AA1382, dtype: object

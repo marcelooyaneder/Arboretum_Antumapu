@@ -1,4 +1,0 @@
-catalogNumber                     AA1267
-acceptedNameUsage    Prunus armeniaca L.
-Nombre común                         NaN
-Name: AA1267, dtype: object

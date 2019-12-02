@@ -1,4 +1,0 @@
-catalogNumber                            AA0357
-acceptedNameUsage    Caesalpinia spinosa Kuntze
-Nombre común                                NaN
-Name: AA0357, dtype: object

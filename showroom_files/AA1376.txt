@@ -1,4 +1,0 @@
-catalogNumber                               AA1376
-acceptedNameUsage    Photinia serratifolia Kalkman
-Nombre común                                   NaN
-Name: AA1376, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                         AA1288
-acceptedNameUsage    Cussonia spicata Thunb.
-Nombre común                             NaN
-Name: AA1288, dtype: object

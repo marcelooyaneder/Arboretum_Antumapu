@@ -1,4 +1,0 @@
-catalogNumber                          AA0570
-acceptedNameUsage    Nothofagus alpina Oerst.
-Nombre común                              NaN
-Name: AA0570, dtype: object

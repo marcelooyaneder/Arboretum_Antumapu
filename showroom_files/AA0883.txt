@@ -1,4 +1,0 @@
-catalogNumber                                AA0883
-acceptedNameUsage    Phoenix canariensis H.Wildpret
-Nombre común                                    NaN
-Name: AA0883, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                              AA0372
-acceptedNameUsage    Aristotelia chilensis Stuntz
-Nombre común                                  NaN
-Name: AA0372, dtype: object

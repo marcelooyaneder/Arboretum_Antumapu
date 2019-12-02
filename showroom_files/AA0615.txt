@@ -1,4 +1,0 @@
-catalogNumber                               AA0615
-acceptedNameUsage    Peumus boldus (Molina) Molina
-Nombre común                                   NaN
-Name: AA0615, dtype: object

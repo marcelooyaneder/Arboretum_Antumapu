@@ -1,4 +1,0 @@
-catalogNumber                                  AA0497
-acceptedNameUsage    Pitavia punctata (Molina) Molina
-Nombre común                                      NaN
-Name: AA0497, dtype: object

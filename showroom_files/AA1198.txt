@@ -1,4 +1,0 @@
-catalogNumber                 AA1198
-acceptedNameUsage    Acer negundo L.
-Nombre común                     NaN
-Name: AA1198, dtype: object

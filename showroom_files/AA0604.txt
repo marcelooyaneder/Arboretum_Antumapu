@@ -1,4 +1,0 @@
-catalogNumber                          AA0604
-acceptedNameUsage    Myoporum laetum G.Forst.
-Nombre común                              NaN
-Name: AA0604, dtype: object

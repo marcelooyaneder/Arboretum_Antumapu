@@ -1,4 +1,0 @@
-catalogNumber                       AA1521
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                           NaN
-Name: AA1521, dtype: object

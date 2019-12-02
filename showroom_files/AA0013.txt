@@ -1,4 +1,0 @@
-catalogNumber                           AA0013
-acceptedNameUsage    Aesculus hippocastanum L.
-Nombre común                 Castaño de Indias
-Name: AA0013, dtype: object

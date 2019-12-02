@@ -1,4 +1,0 @@
-catalogNumber                                AA1594
-acceptedNameUsage    Styphnolobium japonicum Schott
-Nombre común                                    NaN
-Name: AA1594, dtype: object

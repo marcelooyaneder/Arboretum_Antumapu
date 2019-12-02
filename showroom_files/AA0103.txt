@@ -1,4 +1,0 @@
-catalogNumber                        AA0103
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                            NaN
-Name: AA0103, dtype: object

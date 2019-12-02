@@ -1,4 +1,0 @@
-catalogNumber                            AA0508
-acceptedNameUsage    Raukaua laetevirens Frodin
-Nombre común                                NaN
-Name: AA0508, dtype: object

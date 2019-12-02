@@ -1,4 +1,0 @@
-catalogNumber                           AA1357
-acceptedNameUsage    Acacia saligna H.L.Wendl.
-Nombre común                               NaN
-Name: AA1357, dtype: object

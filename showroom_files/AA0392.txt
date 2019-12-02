@@ -1,4 +1,0 @@
-catalogNumber                        AA0392
-acceptedNameUsage    Azara celastrina D.Don
-Nombre común                            NaN
-Name: AA0392, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                                    AA1661
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-Name: AA1661, dtype: object

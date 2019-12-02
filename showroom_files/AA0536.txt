@@ -1,4 +1,0 @@
-catalogNumber                          AA0536
-acceptedNameUsage    Blechnum hastatum Kaulf.
-Nombre común                              NaN
-Name: AA0536, dtype: object

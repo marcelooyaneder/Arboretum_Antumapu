@@ -1,4 +1,0 @@
-catalogNumber                           AA0572
-acceptedNameUsage    Nothofagus dombeyi Oerst.
-Nombre común                               NaN
-Name: AA0572, dtype: object

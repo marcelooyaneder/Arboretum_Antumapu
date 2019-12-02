@@ -1,4 +1,0 @@
-catalogNumber                         AA0152
-acceptedNameUsage    Magnolia grandiflora L.
-Nombre común                             NaN
-Name: AA0152, dtype: object

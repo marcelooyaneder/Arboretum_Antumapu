@@ -1,4 +1,0 @@
-catalogNumber                                                 AA0865
-acceptedNameUsage    Pittosporum tenuifolium Banks & Sol. ex Gaertn.
-Nombre común                                                     NaN
-Name: AA0865, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                              AA0051
-acceptedNameUsage    Brachychiton populneus R.Br.
-Nombre común                          Braquiquito
-Name: AA0051, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                         AA1217
-acceptedNameUsage    Robinia pseudoacacia L.
-Nombre común                             NaN
-Name: AA1217, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                       AA0479
-acceptedNameUsage    Jasminum mesnyi Hance
-Nombre común                           NaN
-Name: AA0479, dtype: object

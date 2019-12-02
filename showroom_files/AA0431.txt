@@ -1,4 +1,0 @@
-catalogNumber                                AA0431
-acceptedNameUsage    Beilschmiedia miersii Kosterm.
-Nombre común                                    NaN
-Name: AA0431, dtype: object

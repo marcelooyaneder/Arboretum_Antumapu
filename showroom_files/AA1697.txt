@@ -1,4 +1,0 @@
-catalogNumber                      AA1697
-acceptedNameUsage    Phytolacca dioica L.
-Nombre común                          NaN
-Name: AA1697, dtype: object

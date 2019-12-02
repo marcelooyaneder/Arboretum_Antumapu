@@ -1,4 +1,0 @@
-catalogNumber                                AA0459
-acceptedNameUsage    Azara integrifolia Ruiz & Pav.
-Nombre común                                    NaN
-Name: AA0459, dtype: object

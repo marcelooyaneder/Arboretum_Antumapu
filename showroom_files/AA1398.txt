@@ -1,4 +1,0 @@
-catalogNumber                        AA1398
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                            NaN
-Name: AA1398, dtype: object

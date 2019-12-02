@@ -1,4 +1,0 @@
-catalogNumber                                AA1658
-acceptedNameUsage    Beilschmiedia miersii Kosterm.
-Nombre común                                    NaN
-Name: AA1658, dtype: object

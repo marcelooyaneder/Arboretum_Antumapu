@@ -1,4 +1,0 @@
-catalogNumber                                AA0877
-acceptedNameUsage    Trachycarpus fortunei H.Wendl.
-Nombre común                                    NaN
-Name: AA0877, dtype: object

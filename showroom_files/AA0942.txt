@@ -1,4 +1,0 @@
-catalogNumber                            AA0942
-acceptedNameUsage    Liquidambar styraciflua L.
-Nombre común                                NaN
-Name: AA0942, dtype: object

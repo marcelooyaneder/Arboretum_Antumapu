@@ -1,4 +1,0 @@
-catalogNumber                  AA0202
-acceptedNameUsage    Schinus molle L.
-Nombre común                      NaN
-Name: AA0202, dtype: object

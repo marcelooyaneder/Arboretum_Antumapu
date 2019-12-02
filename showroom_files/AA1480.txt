@@ -1,4 +1,0 @@
-catalogNumber                                        AA1480
-acceptedNameUsage    Schinus polygama Cabrera & I.M.Johnst.
-Nombre común                                            NaN
-Name: AA1480, dtype: object

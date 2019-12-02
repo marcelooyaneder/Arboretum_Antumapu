@@ -1,4 +1,0 @@
-catalogNumber                            AA1586
-acceptedNameUsage    Sequoia sempervirens Endl.
-Nombre común                                NaN
-Name: AA1586, dtype: object

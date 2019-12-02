@@ -1,4 +1,0 @@
-catalogNumber                          AA0135
-acceptedNameUsage    Gleditsia triacanthos L.
-Nombre común                              NaN
-Name: AA0135, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                        AA0968
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                            NaN
-Name: AA0968, dtype: object

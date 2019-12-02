@@ -1,4 +1,0 @@
-catalogNumber                                   AA0619
-acceptedNameUsage    Blepharocalyx cruckshanksii Nied.
-Nombre común                                       NaN
-Name: AA0619, dtype: object

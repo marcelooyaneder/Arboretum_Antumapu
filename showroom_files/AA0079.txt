@@ -1,4 +1,0 @@
-catalogNumber           AA0079
-acceptedNameUsage    Ulmus  L.
-Nombre común               NaN
-Name: AA0079, dtype: object

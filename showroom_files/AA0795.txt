@@ -1,4 +1,0 @@
-catalogNumber                  AA0795
-acceptedNameUsage    Quercus nigra L.
-Nombre común                      NaN
-Name: AA0795, dtype: object

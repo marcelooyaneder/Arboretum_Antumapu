@@ -1,4 +1,0 @@
-catalogNumber                             AA1111
-acceptedNameUsage    Eucalyptus globulus Labill.
-Nombre común                                 NaN
-Name: AA1111, dtype: object

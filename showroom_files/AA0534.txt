@@ -1,4 +1,0 @@
-catalogNumber                           AA0534
-acceptedNameUsage    Nothofagus nitida Krasser
-Nombre común                               NaN
-Name: AA0534, dtype: object

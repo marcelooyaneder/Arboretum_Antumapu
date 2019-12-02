@@ -1,4 +1,0 @@
-catalogNumber             AA0035
-acceptedNameUsage    Tamarix  L.
-Nombre común           Tamarisco
-Name: AA0035, dtype: object

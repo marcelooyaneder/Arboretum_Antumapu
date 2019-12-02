@@ -1,4 +1,0 @@
-catalogNumber                           AA0354
-acceptedNameUsage    Polylepis rugulosa Bitter
-Nombre común                               NaN
-Name: AA0354, dtype: object

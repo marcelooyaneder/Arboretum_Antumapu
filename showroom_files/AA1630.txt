@@ -1,4 +1,0 @@
-catalogNumber                        AA1630
-acceptedNameUsage    Persea americana Mill.
-Nombre común                            NaN
-Name: AA1630, dtype: object

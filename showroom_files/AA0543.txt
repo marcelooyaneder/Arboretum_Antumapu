@@ -1,4 +1,0 @@
-catalogNumber                                 AA0543
-acceptedNameUsage    Nothofagus alessandrii Espinosa
-Nombre común                                     NaN
-Name: AA0543, dtype: object

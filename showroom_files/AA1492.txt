@@ -1,4 +1,0 @@
-catalogNumber                            AA1492
-acceptedNameUsage    Caesalpinia spinosa Kuntze
-Nombre común                                NaN
-Name: AA1492, dtype: object

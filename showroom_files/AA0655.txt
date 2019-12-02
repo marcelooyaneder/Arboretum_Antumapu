@@ -1,4 +1,0 @@
-catalogNumber                           AA0655
-acceptedNameUsage    Populus canadensis Moench
-Nombre común                               NaN
-Name: AA0655, dtype: object

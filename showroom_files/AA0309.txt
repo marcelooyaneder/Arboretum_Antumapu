@@ -1,4 +1,0 @@
-catalogNumber                 AA0309
-acceptedNameUsage    Quercus ilex L.
-Nombre común                     NaN
-Name: AA0309, dtype: object

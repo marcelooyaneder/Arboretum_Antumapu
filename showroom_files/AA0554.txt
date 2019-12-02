@@ -1,4 +1,0 @@
-catalogNumber                             AA0554
-acceptedNameUsage    Podocarpus nubigenus Lindl.
-Nombre común                                 NaN
-Name: AA0554, dtype: object

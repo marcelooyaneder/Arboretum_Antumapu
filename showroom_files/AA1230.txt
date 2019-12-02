@@ -1,4 +1,0 @@
-catalogNumber                       AA1230
-acceptedNameUsage    Castanea sativa Mill.
-Nombre común                           NaN
-Name: AA1230, dtype: object

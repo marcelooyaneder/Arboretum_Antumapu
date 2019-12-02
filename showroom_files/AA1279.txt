@@ -1,4 +1,0 @@
-catalogNumber                       AA1279
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                           NaN
-Name: AA1279, dtype: object

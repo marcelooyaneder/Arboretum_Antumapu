@@ -1,4 +1,0 @@
-catalogNumber                                 AA1153
-acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
-Nombre común                                     NaN
-Name: AA1153, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                          AA0413
-acceptedNameUsage    Populus simonii Carrière
-Nombre común                              NaN
-Name: AA0413, dtype: object

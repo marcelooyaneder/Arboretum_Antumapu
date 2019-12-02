@@ -1,4 +1,0 @@
-catalogNumber                    AA0137
-acceptedNameUsage    Ficus religiosa L.
-Nombre común                        NaN
-Name: AA0137, dtype: object

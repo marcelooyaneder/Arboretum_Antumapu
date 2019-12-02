@@ -1,4 +1,0 @@
-catalogNumber                            AA0702
-acceptedNameUsage    Sequoia sempervirens Endl.
-Nombre común                                NaN
-Name: AA0702, dtype: object

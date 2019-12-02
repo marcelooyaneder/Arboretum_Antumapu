@@ -1,4 +1,0 @@
-catalogNumber                               AA1540
-acceptedNameUsage    Peumus boldus (Molina) Molina
-Nombre común                                   NaN
-Name: AA1540, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                          AA1296
-acceptedNameUsage    Myoporum laetum G.Forst.
-Nombre común                              NaN
-Name: AA1296, dtype: object

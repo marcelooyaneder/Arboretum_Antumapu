@@ -1,4 +1,0 @@
-catalogNumber                                  AA0503
-acceptedNameUsage    Aextoxicon punctatum Ruiz & Pav.
-Nombre común                                      NaN
-Name: AA0503, dtype: object

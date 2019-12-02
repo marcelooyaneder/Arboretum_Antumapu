@@ -1,4 +1,0 @@
-catalogNumber                      AA1719
-acceptedNameUsage    Phytolacca dioica L.
-Nombre común                          NaN
-Name: AA1719, dtype: object

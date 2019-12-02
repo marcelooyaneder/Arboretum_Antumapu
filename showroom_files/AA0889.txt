@@ -1,4 +1,0 @@
-catalogNumber                         AA0889
-acceptedNameUsage    Parkinsonia aculeata L.
-Nombre común                             NaN
-Name: AA0889, dtype: object
