@@ -1,4 +1,0 @@
-catalogNumber                      AA0030
-acceptedNameUsage    Phytolacca dioica L.
-Nombre común                         Ombú
-Name: AA0030, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                         AA1220
-acceptedNameUsage    Robinia pseudoacacia L.
-Nombre común                             NaN
-Name: AA1220, dtype: object

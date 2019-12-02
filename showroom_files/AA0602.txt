@@ -1,4 +1,0 @@
-catalogNumber                          AA0602
-acceptedNameUsage    Crataegus monogyna Jacq.
-Nombre común                              NaN
-Name: AA0602, dtype: object

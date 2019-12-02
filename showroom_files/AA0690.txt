@@ -1,4 +1,0 @@
-catalogNumber                             AA0690
-acceptedNameUsage    Eucalyptus globulus Labill.
-Nombre común                                 NaN
-Name: AA0690, dtype: object

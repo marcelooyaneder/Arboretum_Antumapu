@@ -1,4 +1,0 @@
-catalogNumber                                  AA0507
-acceptedNameUsage    Aextoxicon punctatum Ruiz & Pav.
-Nombre común                                      NaN
-Name: AA0507, dtype: object

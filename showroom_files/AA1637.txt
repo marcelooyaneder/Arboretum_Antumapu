@@ -1,4 +1,0 @@
-catalogNumber                          AA1637
-acceptedNameUsage    Cupressus funebris Endl.
-Nombre común                              NaN
-Name: AA1637, dtype: object

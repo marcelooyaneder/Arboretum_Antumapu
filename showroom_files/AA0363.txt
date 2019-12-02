@@ -1,4 +1,0 @@
-catalogNumber                               AA0363
-acceptedNameUsage    Geoffroea decorticans Burkart
-Nombre común                                   NaN
-Name: AA0363, dtype: object

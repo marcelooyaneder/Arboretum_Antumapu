@@ -1,4 +1,0 @@
-catalogNumber                        AA0318
-acceptedNameUsage    Sophora macrocarpa Sm.
-Nombre común                            NaN
-Name: AA0318, dtype: object

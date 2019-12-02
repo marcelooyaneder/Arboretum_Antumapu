@@ -1,4 +1,0 @@
-catalogNumber                              AA0144
-acceptedNameUsage    Aristotelia chilensis Stuntz
-Nombre común                                  NaN
-Name: AA0144, dtype: object

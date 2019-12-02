@@ -1,4 +1,0 @@
-catalogNumber           AA0816
-acceptedNameUsage    Pyrus  L.
-Nombre común               NaN
-Name: AA0816, dtype: object

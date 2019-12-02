@@ -1,4 +1,0 @@
-catalogNumber                           AA0230
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA0230, dtype: object

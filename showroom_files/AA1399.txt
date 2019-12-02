@@ -1,4 +1,0 @@
-catalogNumber                    AA1399
-acceptedNameUsage    Nerium oleander L.
-Nombre común                        NaN
-Name: AA1399, dtype: object

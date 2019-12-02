@@ -1,4 +1,0 @@
-catalogNumber                              AA1300
-acceptedNameUsage    Pseudotsuga menziesii Franco
-Nombre común                                  NaN
-Name: AA1300, dtype: object

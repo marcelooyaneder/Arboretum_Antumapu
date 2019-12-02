@@ -1,4 +1,0 @@
-catalogNumber                                       AA1166
-acceptedNameUsage    Cupressus macrocarpa Hartw. ex Gordon
-Nombre común                                           NaN
-Name: AA1166, dtype: object

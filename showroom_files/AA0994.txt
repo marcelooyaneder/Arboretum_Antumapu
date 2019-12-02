@@ -1,4 +1,0 @@
-catalogNumber                              AA0994
-acceptedNameUsage    Brachychiton populneus R.Br.
-Nombre común                                  NaN
-Name: AA0994, dtype: object

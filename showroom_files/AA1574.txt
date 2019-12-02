@@ -1,4 +1,0 @@
-catalogNumber                          AA1574
-acceptedNameUsage    Schinus latifolius Engl.
-Nombre común                              NaN
-Name: AA1574, dtype: object

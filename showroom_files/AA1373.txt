@@ -1,4 +1,0 @@
-catalogNumber            AA1373
-acceptedNameUsage    Citrus  L.
-Nombre común                NaN
-Name: AA1373, dtype: object

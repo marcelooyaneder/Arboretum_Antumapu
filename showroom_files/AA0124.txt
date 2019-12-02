@@ -1,4 +1,0 @@
-catalogNumber                         AA0124
-acceptedNameUsage    Prunus cerasifera Ehrh.
-Nombre común                             NaN
-Name: AA0124, dtype: object

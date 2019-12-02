@@ -1,4 +1,0 @@
-catalogNumber                                AA0714
-acceptedNameUsage    Styphnolobium japonicum Schott
-Nombre común                                    NaN
-Name: AA0714, dtype: object

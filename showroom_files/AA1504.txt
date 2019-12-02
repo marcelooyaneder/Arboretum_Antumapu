@@ -1,4 +1,0 @@
-catalogNumber                              AA1504
-acceptedNameUsage    Avellanita bustillosii Phil.
-Nombre común                                  NaN
-Name: AA1504, dtype: object

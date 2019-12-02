@@ -1,4 +1,0 @@
-catalogNumber                         AA0106
-acceptedNameUsage    Lagerstroemia indica L.
-Nombre común                             NaN
-Name: AA0106, dtype: object

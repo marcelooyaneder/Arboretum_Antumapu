@@ -1,4 +1,0 @@
-catalogNumber                       AA0774
-acceptedNameUsage    Cestrum parqui L'Hér.
-Nombre común                           NaN
-Name: AA0774, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                  AA1656
-acceptedNameUsage    Juglans nigra L.
-Nombre común                      NaN
-Name: AA1656, dtype: object

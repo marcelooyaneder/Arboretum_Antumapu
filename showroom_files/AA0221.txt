@@ -1,4 +1,0 @@
-catalogNumber                           AA0221
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA0221, dtype: object

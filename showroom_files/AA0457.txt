@@ -1,4 +1,0 @@
-catalogNumber                 AA0457
-acceptedNameUsage    Quercus ilex L.
-Nombre común                     NaN
-Name: AA0457, dtype: object

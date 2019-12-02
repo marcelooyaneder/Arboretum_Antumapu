@@ -1,4 +1,0 @@
-catalogNumber                           AA0765
-acceptedNameUsage    Salix humboldtiana Willd.
-Nombre común                               NaN
-Name: AA0765, dtype: object

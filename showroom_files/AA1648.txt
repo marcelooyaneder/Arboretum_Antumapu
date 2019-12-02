@@ -1,4 +1,0 @@
-catalogNumber                               AA1648
-acceptedNameUsage    Abelia triflora R.Br. Ex Wall
-Nombre común                                   NaN
-Name: AA1648, dtype: object

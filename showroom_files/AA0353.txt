@@ -1,4 +1,0 @@
-catalogNumber                       AA0353
-acceptedNameUsage    Prosopis alba Griseb.
-Nombre común                           NaN
-Name: AA0353, dtype: object

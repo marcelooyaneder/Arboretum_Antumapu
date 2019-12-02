@@ -1,4 +1,0 @@
-catalogNumber                         AA0358
-acceptedNameUsage    Monttea chilensis J.Gay
-Nombre común                             NaN
-Name: AA0358, dtype: object

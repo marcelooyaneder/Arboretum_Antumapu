@@ -1,4 +1,0 @@
-catalogNumber                         AA1350
-acceptedNameUsage    Lagerstroemia indica L.
-Nombre común                             NaN
-Name: AA1350, dtype: object

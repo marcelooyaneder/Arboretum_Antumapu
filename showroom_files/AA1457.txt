@@ -1,4 +1,0 @@
-catalogNumber                                AA1457
-acceptedNameUsage    Lithraea caustica Hook. & Arn.
-Nombre común                                    NaN
-Name: AA1457, dtype: object

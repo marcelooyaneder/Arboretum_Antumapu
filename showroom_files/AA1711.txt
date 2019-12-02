@@ -1,4 +1,0 @@
-catalogNumber                                                 AA1711
-acceptedNameUsage    Austrocedrus chilensis Pic.Serm. & M.P.Bizzarri
-Nombre común                                                     NaN
-Name: AA1711, dtype: object

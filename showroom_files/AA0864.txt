@@ -1,4 +1,0 @@
-catalogNumber                          AA0864
-acceptedNameUsage    Prunus salicifolia Kunth
-Nombre común                              NaN
-Name: AA0864, dtype: object

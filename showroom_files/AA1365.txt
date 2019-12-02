@@ -1,4 +1,0 @@
-catalogNumber            AA1365
-acceptedNameUsage    Citrus  L.
-Nombre común                NaN
-Name: AA1365, dtype: object

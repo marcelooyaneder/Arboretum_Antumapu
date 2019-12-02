@@ -1,4 +1,0 @@
-catalogNumber                    AA1428
-acceptedNameUsage    Melia azedarach L.
-Nombre común                        NaN
-Name: AA1428, dtype: object

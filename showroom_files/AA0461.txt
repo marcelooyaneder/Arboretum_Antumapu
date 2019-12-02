@@ -1,4 +1,0 @@
-catalogNumber                         AA0461
-acceptedNameUsage    Cryptocarya alba Looser
-Nombre común                             NaN
-Name: AA0461, dtype: object

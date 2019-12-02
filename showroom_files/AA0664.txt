@@ -1,4 +1,0 @@
-catalogNumber                         AA0664
-acceptedNameUsage    Robinia pseudoacacia L.
-Nombre común                             NaN
-Name: AA0664, dtype: object

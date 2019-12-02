@@ -1,4 +1,0 @@
-catalogNumber                          AA0134
-acceptedNameUsage    Gleditsia triacanthos L.
-Nombre común                              NaN
-Name: AA0134, dtype: object

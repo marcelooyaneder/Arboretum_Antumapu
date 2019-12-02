@@ -1,4 +1,0 @@
-catalogNumber                            AA0022
-acceptedNameUsage    Liquidambar styraciflua L.
-Nombre común                        Liquidambar
-Name: AA0022, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                    AA1130
-acceptedNameUsage    Eucalyptus  L'Her.
-Nombre común                        NaN
-Name: AA1130, dtype: object

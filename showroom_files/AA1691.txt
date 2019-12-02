@@ -1,4 +1,0 @@
-catalogNumber                                AA1691
-acceptedNameUsage    Chamaecyparis lawsoniana Parl.
-Nombre común                                    NaN
-Name: AA1691, dtype: object

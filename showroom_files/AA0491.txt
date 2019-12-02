@@ -1,4 +1,0 @@
-catalogNumber                     AA0491
-acceptedNameUsage    Luma chequen A.Gray
-Nombre común                         NaN
-Name: AA0491, dtype: object

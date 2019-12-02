@@ -1,4 +1,0 @@
-catalogNumber                           AA0195
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA0195, dtype: object

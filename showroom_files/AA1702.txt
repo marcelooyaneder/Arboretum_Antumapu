@@ -1,4 +1,0 @@
-catalogNumber                    AA1702
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA1702, dtype: object

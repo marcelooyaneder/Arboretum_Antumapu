@@ -1,4 +1,0 @@
-catalogNumber                         AA1227
-acceptedNameUsage    Alnus glutinosa Gaertn.
-Nombre común                             NaN
-Name: AA1227, dtype: object

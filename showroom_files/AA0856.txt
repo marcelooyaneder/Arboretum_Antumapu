@@ -1,4 +1,0 @@
-catalogNumber                   AA0856
-acceptedNameUsage    Prunus cerasus L.
-Nombre común                       NaN
-Name: AA0856, dtype: object

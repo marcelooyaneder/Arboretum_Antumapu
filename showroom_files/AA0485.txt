@@ -1,4 +1,0 @@
-catalogNumber                       AA0485
-acceptedNameUsage    Luma apiculata Burret
-Nombre común                           NaN
-Name: AA0485, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                             AA1335
-acceptedNameUsage    Jacaranda mimosifolia D.Don
-Nombre común                                 NaN
-Name: AA1335, dtype: object

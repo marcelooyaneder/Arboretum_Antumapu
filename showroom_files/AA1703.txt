@@ -1,4 +1,0 @@
-catalogNumber                    AA1703
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA1703, dtype: object

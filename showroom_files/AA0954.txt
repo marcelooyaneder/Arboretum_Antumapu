@@ -1,4 +1,0 @@
-catalogNumber                         AA0954
-acceptedNameUsage    Magnolia grandiflora L.
-Nombre común                             NaN
-Name: AA0954, dtype: object

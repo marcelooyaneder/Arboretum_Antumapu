@@ -1,4 +1,0 @@
-catalogNumber                               AA0895
-acceptedNameUsage    Callistemon linearifolius DC.
-Nombre común                                   NaN
-Name: AA0895, dtype: object

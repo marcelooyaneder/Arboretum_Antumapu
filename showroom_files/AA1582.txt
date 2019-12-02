@@ -1,4 +1,0 @@
-catalogNumber                                 AA1582
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA1582, dtype: object

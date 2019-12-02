@@ -1,4 +1,0 @@
-catalogNumber                 AA0876
-acceptedNameUsage    Ficus carica L.
-Nombre común                     NaN
-Name: AA0876, dtype: object

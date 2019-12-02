@@ -1,4 +1,0 @@
-catalogNumber                    AA0673
-acceptedNameUsage    Ulmus americana L.
-Nombre común                        NaN
-Name: AA0673, dtype: object

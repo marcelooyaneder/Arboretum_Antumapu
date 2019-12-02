@@ -1,4 +1,0 @@
-catalogNumber                             AA0524
-acceptedNameUsage    Lapageria rosea Ruiz & Pav.
-Nombre común                                 NaN
-Name: AA0524, dtype: object

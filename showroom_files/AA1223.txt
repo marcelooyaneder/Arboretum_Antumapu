@@ -1,4 +1,0 @@
-catalogNumber                    AA1223
-acceptedNameUsage    Melia azedarach L.
-Nombre común                        NaN
-Name: AA1223, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                                 AA0551
-acceptedNameUsage    Rhaphithamnus spinosus Moldenke
-Nombre común                                     NaN
-Name: AA0551, dtype: object

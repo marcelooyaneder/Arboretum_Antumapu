@@ -1,4 +1,0 @@
-catalogNumber                                      AA0463
-acceptedNameUsage    Colliguaja odorifera (Molina) Molina
-Nombre común                                          NaN
-Name: AA0463, dtype: object

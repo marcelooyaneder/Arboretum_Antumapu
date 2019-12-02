@@ -1,4 +1,0 @@
-catalogNumber                  AA0898
-acceptedNameUsage    Olea europaea L.
-Nombre común                      NaN
-Name: AA0898, dtype: object

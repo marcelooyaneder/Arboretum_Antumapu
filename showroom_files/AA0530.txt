@@ -1,4 +1,0 @@
-catalogNumber                          AA0530
-acceptedNameUsage    Fuchsia magellanica Lam.
-Nombre común                              NaN
-Name: AA0530, dtype: object

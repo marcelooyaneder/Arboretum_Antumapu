@@ -1,4 +1,0 @@
-catalogNumber                    AA1236
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA1236, dtype: object

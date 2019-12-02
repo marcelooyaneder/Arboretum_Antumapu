@@ -1,4 +1,0 @@
-catalogNumber                                 AA0179
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA0179, dtype: object

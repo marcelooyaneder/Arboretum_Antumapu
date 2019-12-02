@@ -1,4 +1,0 @@
-catalogNumber                  AA0469
-acceptedNameUsage    Quercus suber L.
-Nombre común                      NaN
-Name: AA0469, dtype: object

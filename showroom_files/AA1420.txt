@@ -1,4 +1,0 @@
-catalogNumber                          AA1420
-acceptedNameUsage    Catalpa speciosa Engelm.
-Nombre común                              NaN
-Name: AA1420, dtype: object

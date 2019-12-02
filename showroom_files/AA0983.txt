@@ -1,4 +1,0 @@
-catalogNumber                         AA0983
-acceptedNameUsage    Robinia pseudoacacia L.
-Nombre común                             NaN
-Name: AA0983, dtype: object

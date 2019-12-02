@@ -1,4 +1,0 @@
-catalogNumber                           AA1294
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA1294, dtype: object

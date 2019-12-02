@@ -1,4 +1,0 @@
-catalogNumber                    AA1400
-acceptedNameUsage    Myrtus communis L.
-Nombre común                        NaN
-Name: AA1400, dtype: object

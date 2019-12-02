@@ -1,4 +1,0 @@
-catalogNumber                                    AA0425
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-Name: AA0425, dtype: object

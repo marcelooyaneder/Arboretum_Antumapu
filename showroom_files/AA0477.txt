@@ -1,4 +1,0 @@
-catalogNumber                             AA0477
-acceptedNameUsage    Ligustrum lucidum W.T.Aiton
-Nombre común                                 NaN
-Name: AA0477, dtype: object

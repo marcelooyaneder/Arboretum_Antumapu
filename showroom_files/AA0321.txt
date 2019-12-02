@@ -1,4 +1,0 @@
-catalogNumber                           AA0321
-acceptedNameUsage    Escallonia  Mutis ex L.f.
-Nombre común                               NaN
-Name: AA0321, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                              AA1091
-acceptedNameUsage    Acacia caven (Molina) Molina
-Nombre común                                  NaN
-Name: AA1091, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                            AA1285
-acceptedNameUsage    Liquidambar styraciflua L.
-Nombre común                                NaN
-Name: AA1285, dtype: object

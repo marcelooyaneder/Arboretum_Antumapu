@@ -1,4 +1,0 @@
-catalogNumber                         AA0540
-acceptedNameUsage    Gunnera tinctoria Mirb.
-Nombre común                             NaN
-Name: AA0540, dtype: object

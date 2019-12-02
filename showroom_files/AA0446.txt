@@ -1,4 +1,0 @@
-catalogNumber                           AA0446
-acceptedNameUsage    Sophora cassioides Sparre
-Nombre común                               NaN
-Name: AA0446, dtype: object

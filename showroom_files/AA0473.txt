@@ -1,4 +1,0 @@
-catalogNumber                  AA0473
-acceptedNameUsage    Schinus molle L.
-Nombre común                      NaN
-Name: AA0473, dtype: object

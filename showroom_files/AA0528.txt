@@ -1,4 +1,0 @@
-catalogNumber                                                   AA0528
-acceptedNameUsage    Austroblechnum penna-marina (Poir.) Gasper & V...
-Nombre común                                                       NaN
-Name: AA0528, dtype: object

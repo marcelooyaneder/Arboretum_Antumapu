@@ -1,4 +1,0 @@
-catalogNumber                                AA0377
-acceptedNameUsage    Beilschmiedia miersii Kosterm.
-Nombre común                                    NaN
-Name: AA0377, dtype: object

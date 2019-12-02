@@ -1,4 +1,0 @@
-catalogNumber                           AA1659
-acceptedNameUsage    Aesculus hippocastanum L.
-Nombre común                               NaN
-Name: AA1659, dtype: object

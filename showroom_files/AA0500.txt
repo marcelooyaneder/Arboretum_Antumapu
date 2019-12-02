@@ -1,4 +1,0 @@
-catalogNumber                        AA0500
-acceptedNameUsage    Escallonia rubra Pers.
-Nombre común                            NaN
-Name: AA0500, dtype: object

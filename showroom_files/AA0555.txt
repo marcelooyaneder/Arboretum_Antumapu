@@ -1,4 +1,0 @@
-catalogNumber                                   AA0555
-acceptedNameUsage    Fitzroya cupressoides I.M.Johnst.
-Nombre común                                       NaN
-Name: AA0555, dtype: object

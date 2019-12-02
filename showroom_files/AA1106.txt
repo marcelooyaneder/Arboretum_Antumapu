@@ -1,4 +1,0 @@
-catalogNumber                       AA1106
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                           NaN
-Name: AA1106, dtype: object

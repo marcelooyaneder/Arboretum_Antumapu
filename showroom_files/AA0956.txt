@@ -1,4 +1,0 @@
-catalogNumber           AA0956
-acceptedNameUsage    Tilia  L.
-Nombre común               NaN
-Name: AA0956, dtype: object

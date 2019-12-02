@@ -1,4 +1,0 @@
-catalogNumber                       AA0029
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                        Fresno
-Name: AA0029, dtype: object

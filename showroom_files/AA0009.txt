@@ -1,4 +1,0 @@
-catalogNumber                           AA0009
-acceptedNameUsage    Aesculus hippocastanum L.
-Nombre común                 Castaño de Indias
-Name: AA0009, dtype: object

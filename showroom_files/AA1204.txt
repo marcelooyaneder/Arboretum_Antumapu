@@ -1,4 +1,0 @@
-catalogNumber               AA1204
-acceptedNameUsage    Morus alba L.
-Nombre común                   NaN
-Name: AA1204, dtype: object

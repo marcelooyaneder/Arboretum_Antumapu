@@ -1,4 +1,0 @@
-catalogNumber                          AA0759
-acceptedNameUsage    Crataegus monogyna Jacq.
-Nombre común                              NaN
-Name: AA0759, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                    AA1649
-acceptedNameUsage    Myrtus communis L.
-Nombre común                        NaN
-Name: AA1649, dtype: object

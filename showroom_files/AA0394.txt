@@ -1,4 +1,0 @@
-catalogNumber                         AA0394
-acceptedNameUsage    Cryptocarya alba Looser
-Nombre común                             NaN
-Name: AA0394, dtype: object

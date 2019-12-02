@@ -1,4 +1,0 @@
-catalogNumber                                AA1473
-acceptedNameUsage    Beilschmiedia miersii Kosterm.
-Nombre común                                    NaN
-Name: AA1473, dtype: object

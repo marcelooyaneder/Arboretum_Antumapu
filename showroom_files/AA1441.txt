@@ -1,4 +1,0 @@
-catalogNumber                     AA1441
-acceptedNameUsage    Celtis australis L.
-Nombre común                         NaN
-Name: AA1441, dtype: object

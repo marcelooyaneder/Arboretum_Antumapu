@@ -1,4 +1,0 @@
-catalogNumber                      AA0458
-acceptedNameUsage    Ceratonia siliqua L.
-Nombre común                          NaN
-Name: AA0458, dtype: object

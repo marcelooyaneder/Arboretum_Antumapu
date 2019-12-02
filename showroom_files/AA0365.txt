@@ -1,4 +1,0 @@
-catalogNumber                              AA0365
-acceptedNameUsage    Vasconcellea chilensis Solms
-Nombre común                                  NaN
-Name: AA0365, dtype: object

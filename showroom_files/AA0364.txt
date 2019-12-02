@@ -1,4 +1,0 @@
-catalogNumber                            AA0364
-acceptedNameUsage    Polylepis tarapacana Phil.
-Nombre común                                NaN
-Name: AA0364, dtype: object

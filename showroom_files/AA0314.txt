@@ -1,4 +1,0 @@
-catalogNumber                          AA0314
-acceptedNameUsage    Crataegus monogyna Jacq.
-Nombre común                              NaN
-Name: AA0314, dtype: object

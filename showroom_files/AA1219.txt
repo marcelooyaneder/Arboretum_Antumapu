@@ -1,4 +1,0 @@
-catalogNumber                          AA1219
-acceptedNameUsage    Catalpa speciosa Engelm.
-Nombre común                              NaN
-Name: AA1219, dtype: object

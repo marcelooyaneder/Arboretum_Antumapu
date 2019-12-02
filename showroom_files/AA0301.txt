@@ -1,4 +1,0 @@
-catalogNumber                                       AA0301
-acceptedNameUsage    Senna candolleana H.S.Irwin & Barneby
-Nombre común                                           NaN
-Name: AA0301, dtype: object

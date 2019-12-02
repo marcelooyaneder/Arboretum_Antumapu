@@ -1,4 +1,0 @@
-catalogNumber                         AA1599
-acceptedNameUsage    Lagerstroemia indica L.
-Nombre común                             NaN
-Name: AA1599, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                        AA0024
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                    Arce blanco
-Name: AA0024, dtype: object

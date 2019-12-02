@@ -1,4 +1,0 @@
-catalogNumber                            AA1530
-acceptedNameUsage    Casuarina equisetifolia L.
-Nombre común                                NaN
-Name: AA1530, dtype: object

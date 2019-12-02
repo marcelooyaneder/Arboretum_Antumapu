@@ -1,4 +1,0 @@
-catalogNumber                            AA0490
-acceptedNameUsage    Citronella mucronata D.Don
-Nombre común                                NaN
-Name: AA0490, dtype: object

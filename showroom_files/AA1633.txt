@@ -1,4 +1,0 @@
-catalogNumber                             AA1633
-acceptedNameUsage    Ailanthus altissima Swingle
-Nombre común                                 NaN
-Name: AA1633, dtype: object

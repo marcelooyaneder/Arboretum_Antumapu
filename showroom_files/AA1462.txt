@@ -1,4 +1,0 @@
-catalogNumber                                        AA1462
-acceptedNameUsage    Schinus polygama Cabrera & I.M.Johnst.
-Nombre común                                            NaN
-Name: AA1462, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                          AA1636
-acceptedNameUsage    Fuchsia magellanica Lam.
-Nombre común                              NaN
-Name: AA1636, dtype: object

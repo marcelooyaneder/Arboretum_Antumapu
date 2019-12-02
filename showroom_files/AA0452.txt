@@ -1,4 +1,0 @@
-catalogNumber                       AA0452
-acceptedNameUsage    Cestrum parqui L'Hér.
-Nombre común                           NaN
-Name: AA0452, dtype: object

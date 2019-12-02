@@ -1,4 +1,0 @@
-catalogNumber                         AA0033
-acceptedNameUsage    Robinia pseudoacacia L.
-Nombre común                    Falsa acacia
-Name: AA0033, dtype: object

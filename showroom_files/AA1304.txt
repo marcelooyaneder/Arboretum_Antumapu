@@ -1,4 +1,0 @@
-catalogNumber                        AA1304
-acceptedNameUsage    Persea americana Mill.
-Nombre común                            NaN
-Name: AA1304, dtype: object

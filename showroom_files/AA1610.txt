@@ -1,4 +1,0 @@
-catalogNumber                          AA1610
-acceptedNameUsage    Cupressus funebris Endl.
-Nombre común                              NaN
-Name: AA1610, dtype: object

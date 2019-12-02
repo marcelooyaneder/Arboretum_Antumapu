@@ -1,4 +1,0 @@
-catalogNumber                   AA1004
-acceptedNameUsage    Fraxinus ornus L.
-Nombre común                       NaN
-Name: AA1004, dtype: object

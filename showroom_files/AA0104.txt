@@ -1,4 +1,0 @@
-catalogNumber                                    AA0104
-acceptedNameUsage    Grevillea robusta A.Cunn. ex R.Br.
-Nombre común                                        NaN
-Name: AA0104, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                          AA0043
-acceptedNameUsage    Gleditsia triacanthos L.
-Nombre común           Acacia de tres espinas
-Name: AA0043, dtype: object

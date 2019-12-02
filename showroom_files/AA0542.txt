@@ -1,4 +1,0 @@
-catalogNumber                           AA0542
-acceptedNameUsage    Nothofagus glauca Krasser
-Nombre común                               NaN
-Name: AA0542, dtype: object

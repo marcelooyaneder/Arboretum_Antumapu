@@ -1,4 +1,0 @@
-catalogNumber                                       AA0937
-acceptedNameUsage    Senna candolleana H.S.Irwin & Barneby
-Nombre común                                           NaN
-Name: AA0937, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                                AA0892
-acceptedNameUsage    Trachycarpus fortunei H.Wendl.
-Nombre común                                    NaN
-Name: AA0892, dtype: object

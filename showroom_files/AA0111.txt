@@ -1,4 +1,0 @@
-catalogNumber                          AA0111
-acceptedNameUsage    Gleditsia triacanthos L.
-Nombre común                              NaN
-Name: AA0111, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                             AA0796
-acceptedNameUsage    Jacaranda mimosifolia D.Don
-Nombre común                                 NaN
-Name: AA0796, dtype: object

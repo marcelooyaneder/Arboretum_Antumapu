@@ -1,4 +1,0 @@
-catalogNumber                         AA0107
-acceptedNameUsage    Lagerstroemia indica L.
-Nombre común                             NaN
-Name: AA0107, dtype: object

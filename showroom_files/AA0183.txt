@@ -1,4 +1,0 @@
-catalogNumber                  AA0183
-acceptedNameUsage    Ginkgo biloba L.
-Nombre común                      NaN
-Name: AA0183, dtype: object

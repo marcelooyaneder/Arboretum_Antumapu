@@ -1,4 +1,0 @@
-catalogNumber                           AA1260
-acceptedNameUsage    Populus canadensis Moench
-Nombre común                               NaN
-Name: AA1260, dtype: object

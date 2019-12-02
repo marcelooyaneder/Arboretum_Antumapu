@@ -1,4 +1,0 @@
-catalogNumber                             AA1119
-acceptedNameUsage    Eucalyptus globulus Labill.
-Nombre común                                 NaN
-Name: AA1119, dtype: object

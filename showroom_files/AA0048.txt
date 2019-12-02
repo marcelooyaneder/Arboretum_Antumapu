@@ -1,4 +1,0 @@
-catalogNumber                    AA0048
-acceptedNameUsage    Melia azedarach L.
-Nombre común          Arbol del paraíso
-Name: AA0048, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                  AA1572
-acceptedNameUsage    Juglans nigra L.
-Nombre común                      NaN
-Name: AA1572, dtype: object

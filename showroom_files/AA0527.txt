@@ -1,4 +1,0 @@
-catalogNumber                                 AA0527
-acceptedNameUsage    Nothofagus alessandrii Espinosa
-Nombre común                                     NaN
-Name: AA0527, dtype: object

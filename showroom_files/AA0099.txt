@@ -1,4 +1,0 @@
-catalogNumber                    AA0099
-acceptedNameUsage    Agave americana L.
-Nombre común                        NaN
-Name: AA0099, dtype: object

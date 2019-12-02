@@ -1,4 +1,0 @@
-catalogNumber                                 AA0274
-acceptedNameUsage    Maytenus boaria (Molina) Molina
-Nombre común                                     NaN
-Name: AA0274, dtype: object

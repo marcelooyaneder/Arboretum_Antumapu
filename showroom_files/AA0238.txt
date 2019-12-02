@@ -1,4 +1,0 @@
-catalogNumber                              AA0238
-acceptedNameUsage    Acacia caven (Molina) Molina
-Nombre común                                  NaN
-Name: AA0238, dtype: object

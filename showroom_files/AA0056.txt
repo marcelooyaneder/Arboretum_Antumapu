@@ -1,4 +1,0 @@
-catalogNumber                             AA0056
-acceptedNameUsage    Eucalyptus globulus Labill.
-Nombre común                           Eucalipto
-Name: AA0056, dtype: object

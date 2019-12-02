@@ -1,4 +1,0 @@
-catalogNumber                          AA1249
-acceptedNameUsage    Acacia melanoxylon R.Br.
-Nombre común                              NaN
-Name: AA1249, dtype: object

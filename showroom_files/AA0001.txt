@@ -1,4 +1,0 @@
-catalogNumber                    AA0001
-acceptedNameUsage    Agave americana L.
-Nombre común                      Agave
-Name: AA0001, dtype: object

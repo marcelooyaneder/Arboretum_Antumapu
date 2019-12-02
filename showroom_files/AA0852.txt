@@ -1,4 +1,0 @@
-catalogNumber                       AA0852
-acceptedNameUsage    Prunus persica Stokes
-Nombre común                           NaN
-Name: AA0852, dtype: object

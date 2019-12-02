@@ -1,4 +1,0 @@
-catalogNumber                      AA1123
-acceptedNameUsage    Acacia dealbata Link
-Nombre común                          NaN
-Name: AA1123, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber             AA0038
-acceptedNameUsage    Tamarix  L.
-Nombre común           Tamarisco
-Name: AA0038, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                             AA0101
-acceptedNameUsage    Jacaranda mimosifolia D.Don
-Nombre común                                 NaN
-Name: AA0101, dtype: object

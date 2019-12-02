@@ -1,4 +1,0 @@
-catalogNumber                          AA0115
-acceptedNameUsage    Catalpa speciosa Engelm.
-Nombre común                              NaN
-Name: AA0115, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                              AA1305
-acceptedNameUsage    Aristotelia chilensis Stuntz
-Nombre común                                  NaN
-Name: AA1305, dtype: object

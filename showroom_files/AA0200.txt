@@ -1,4 +1,0 @@
-catalogNumber                           AA0200
-acceptedNameUsage    Prosopis chilensis Stuntz
-Nombre común                               NaN
-Name: AA0200, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                      AA0100
-acceptedNameUsage    Acacia dealbata Link
-Nombre común                          NaN
-Name: AA0100, dtype: object

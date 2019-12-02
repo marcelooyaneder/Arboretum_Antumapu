@@ -1,4 +1,0 @@
-catalogNumber                        AA1497
-acceptedNameUsage    Sophora macrocarpa Sm.
-Nombre común                            NaN
-Name: AA1497, dtype: object

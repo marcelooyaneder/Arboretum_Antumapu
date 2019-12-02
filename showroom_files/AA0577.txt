@@ -1,4 +1,0 @@
-catalogNumber                  AA0577
-acceptedNameUsage    Schinus molle L.
-Nombre común                      NaN
-Name: AA0577, dtype: object

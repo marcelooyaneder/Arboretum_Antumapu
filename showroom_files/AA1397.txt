@@ -1,4 +1,0 @@
-catalogNumber                               AA1397
-acceptedNameUsage    Photinia serratifolia Kalkman
-Nombre común                                   NaN
-Name: AA1397, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                        AA0761
-acceptedNameUsage    Platanus orientalis L.
-Nombre común                            NaN
-Name: AA0761, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                                    AA0729
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-Name: AA0729, dtype: object

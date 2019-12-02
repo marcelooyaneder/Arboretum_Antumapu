@@ -1,4 +1,0 @@
-catalogNumber                           AA0002
-acceptedNameUsage    Araucaria bidwillii Hook.
-Nombre común             Araucaria australiana
-Name: AA0002, dtype: object

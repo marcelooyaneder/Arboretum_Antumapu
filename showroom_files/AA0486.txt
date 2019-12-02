@@ -1,4 +1,0 @@
-catalogNumber                                      AA0486
-acceptedNameUsage    Drimys winteri J.R.Forst. & G.Forst.
-Nombre común                                          NaN
-Name: AA0486, dtype: object

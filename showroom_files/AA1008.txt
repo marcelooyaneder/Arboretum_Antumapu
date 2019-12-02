@@ -1,4 +1,0 @@
-catalogNumber                     AA1008
-acceptedNameUsage    Pinus radiata D.Don
-Nombre común                         NaN
-Name: AA1008, dtype: object

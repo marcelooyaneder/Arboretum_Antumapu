@@ -1,4 +1,0 @@
-catalogNumber                            AA0170
-acceptedNameUsage    Liquidambar styraciflua L.
-Nombre común                                NaN
-Name: AA0170, dtype: object

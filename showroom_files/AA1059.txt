@@ -1,4 +1,0 @@
-catalogNumber             AA1059
-acceptedNameUsage    Populus  L.
-Nombre común                 NaN
-Name: AA1059, dtype: object

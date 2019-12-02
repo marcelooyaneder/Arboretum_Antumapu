@@ -1,4 +1,0 @@
-catalogNumber                            AA1164
-acceptedNameUsage    Eriobotrya japonica Lindl.
-Nombre común                                NaN
-Name: AA1164, dtype: object

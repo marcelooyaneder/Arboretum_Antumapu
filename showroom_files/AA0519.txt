@@ -1,4 +1,0 @@
-catalogNumber                         AA0519
-acceptedNameUsage    Gomortega keule Gunckel
-Nombre común                             NaN
-Name: AA0519, dtype: object

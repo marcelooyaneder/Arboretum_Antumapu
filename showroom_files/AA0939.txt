@@ -1,4 +1,0 @@
-catalogNumber                             AA0939
-acceptedNameUsage    Ligustrum lucidum W.T.Aiton
-Nombre común                                 NaN
-Name: AA0939, dtype: object

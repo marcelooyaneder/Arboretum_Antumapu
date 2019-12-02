@@ -1,4 +1,0 @@
-catalogNumber                             AA0859
-acceptedNameUsage    Citrus sinensis (L.) Osbeck
-Nombre común                                 NaN
-Name: AA0859, dtype: object

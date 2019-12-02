@@ -1,4 +1,0 @@
-catalogNumber                           AA0020
-acceptedNameUsage    Cupressus sempervirens L.
-Nombre común                      Ciprés común
-Name: AA0020, dtype: object

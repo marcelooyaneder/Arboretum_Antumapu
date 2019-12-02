@@ -1,4 +1,0 @@
-catalogNumber                     AA0505
-acceptedNameUsage    Luma chequen A.Gray
-Nombre común                         NaN
-Name: AA0505, dtype: object

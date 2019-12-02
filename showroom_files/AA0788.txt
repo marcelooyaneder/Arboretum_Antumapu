@@ -1,4 +1,0 @@
-catalogNumber                     AA0788
-acceptedNameUsage    Celtis australis L.
-Nombre común                         NaN
-Name: AA0788, dtype: object

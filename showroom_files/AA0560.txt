@@ -1,4 +1,0 @@
-catalogNumber                            AA0560
-acceptedNameUsage    Desfontainia fulgens D.Don
-Nombre común                                NaN
-Name: AA0560, dtype: object

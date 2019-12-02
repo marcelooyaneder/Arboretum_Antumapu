@@ -1,4 +1,0 @@
-catalogNumber                            AA1614
-acceptedNameUsage    Sequoia sempervirens Endl.
-Nombre común                                NaN
-Name: AA1614, dtype: object

@@ -1,4 +1,0 @@
-catalogNumber                               AA1627
-acceptedNameUsage    Pittosporum  Banks ex Gaertn.
-Nombre común                                   NaN
-Name: AA1627, dtype: object

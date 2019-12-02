@@ -1,4 +1,0 @@
-catalogNumber                     AA1608
-acceptedNameUsage    Salix babylonica L.
-Nombre común                         NaN
-Name: AA1608, dtype: object

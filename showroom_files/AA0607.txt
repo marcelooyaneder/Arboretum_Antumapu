@@ -1,4 +1,0 @@
-catalogNumber                                      AA0607
-acceptedNameUsage    Crinodendron patagua (Molina) Molina
-Nombre común                                          NaN
-Name: AA0607, dtype: object

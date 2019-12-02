@@ -1,4 +1,0 @@
-catalogNumber                     AA1221
-acceptedNameUsage    Salix babylonica L.
-Nombre común                         NaN
-Name: AA1221, dtype: object

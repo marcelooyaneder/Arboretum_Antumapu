@@ -1,4 +1,0 @@
-catalogNumber                               AA1624
-acceptedNameUsage    Yucca gigantea Regel ex Trel.
-Nombre común                                   NaN
-Name: AA1624, dtype: object
