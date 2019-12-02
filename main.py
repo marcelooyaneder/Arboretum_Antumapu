@@ -347,13 +347,16 @@ if showroom_option_button=='Yes':
 print ('there is nothing more to do here...')
 
 #compare qr files or create them
+user_info=pd.read_csv("documents\dynamiclinks_user_info.csv",header=0,sep=';')
+GitHub_username=user_info['GitHub_username'][0] #this need to be created on the GitHub webpage
+Repository_name=user_info['Repository_name'][0] #this need to be created on the firebase webpage
 print('create non existing qrs files...')
 if os.path.isdir('qrs')==True:
     for id in IDs:
         print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
         path=f"qrs/{id}.png"
         if os.path.isfile(path)==False:
-            longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/files/{id}.txt'            
+            longurl=f'https://raw.githubusercontent.com/{GitHub_username}/{Repository_name}/master/files/{id}.txt'            
             shorturl=dynamiclinks(longurl)
             qr_manager(id,shorturl,0)
         else:
@@ -361,7 +364,7 @@ if os.path.isdir('qrs')==True:
 else:
     for id in IDs:
         print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
-        longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/files/{id}.txt'
+        longurl=f'https://raw.githubusercontent.com/{GitHub_username}/{Repository_name}/master/files/{id}.txt'
         shorturl=dynamiclinks(longurl)
         qr_manager(id,shorturl,0)
 
@@ -372,7 +375,7 @@ if showroom_option_button=='Yes':
             print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
             path=f"showroom_qrs/{id}.png"
             if os.path.isfile(path)==False:
-                longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/showroom_files/{id}.txt'
+                longurl=f'https://raw.githubusercontent.com/{GitHub_username}/{Repository_name}/master/showroom_files/{id}.txt'
                 shorturl=dynamiclinks(longurl)
                 qr_manager(id,shorturl,1)
             else:
@@ -380,7 +383,7 @@ if showroom_option_button=='Yes':
     else:
         for id in IDs:
             print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
-            longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/showroom_files/{id}.txt'
+            longurl=f'https://raw.githubusercontent.com/{GitHub_username}/{Repository_name}/master/showroom_files/{id}.txt'
             shorturl=dynamiclinks(longurl)
             qr_manager(id,shorturl,1)
 else:
