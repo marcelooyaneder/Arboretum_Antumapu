@@ -1,22 +1,10 @@
-catalogNumber                            AA1349
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348348
-decimalLongitude                        6284304
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                  Myrtales
-family                               Lythraceae
-genus                             Lagerstroemia
-specificEpithet                          indica
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Lagerstroemia indica L.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA1349
+Class                   Magnoliopsida
+order                        Myrtales
+family                     Lythraceae
+genus                   Lagerstroemia
+specificEpithet                indica
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1349, dtype: object

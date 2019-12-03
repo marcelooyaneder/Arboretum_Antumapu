@@ -1,22 +1,10 @@
-catalogNumber                             AA0632
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348422
-decimalLongitude                         6284484
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                    Fabales
-family                                  Fabaceae
-genus                                     Acacia
-specificEpithet                      melanoxylon
-infraspecificEpithet                         NaN
-nameAcordingTo                             R.Br.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Acacia melanoxylon R.Br.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
-sex                                hermaphrodite
+catalogNumber                  AA0632
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                          Acacia
+specificEpithet           melanoxylon
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0632, dtype: object

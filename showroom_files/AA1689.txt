@@ -1,22 +1,10 @@
-catalogNumber                         AA1689
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348507
-decimalLongitude                     6284374
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                         Caryophyllales
-family                        Phytolaccaceae
-genus                             Phytolacca
-specificEpithet                       dioica
-infraspecificEpithet                     NaN
-nameAcordingTo                            L.
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Phytolacca dioica L.
-Nombre común                             NaN
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-sex                                      NaN
+catalogNumber                   AA1689
+Class                    Magnoliopsida
+order                   Caryophyllales
+family                  Phytolaccaceae
+genus                       Phytolacca
+specificEpithet                 dioica
+infraspecificEpithet               NaN
+Nombre común                       NaN
+ingreso                           2019
 Name: AA1689, dtype: object

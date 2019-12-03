@@ -1,22 +1,10 @@
-catalogNumber                                    AA0550
-basisOfRecord                            LivingSpecimen
-decimalLatitude                                  348534
-decimalLongitude                                6284417
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                          Lamiales
-family                                      Verbenaceae
-genus                                     Rhaphithamnus
-specificEpithet                                spinosus
-infraspecificEpithet                                NaN
-nameAcordingTo                                 Moldenke
-verbatimTaxonRank                                   NaN
-taxonRank                                       species
-acceptedNameUsage       Rhaphithamnus spinosus Moldenke
-Nombre común                                        NaN
-Estado                                           Muerto
-establishmentMeans                               Nativa
-ingreso                                            2019
-plantacion                                          NaN
-sex                                       hermaphrodite
+catalogNumber                  AA0550
+Class                   Magnoliopsida
+order                        Lamiales
+family                    Verbenaceae
+genus                   Rhaphithamnus
+specificEpithet              spinosus
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0550, dtype: object

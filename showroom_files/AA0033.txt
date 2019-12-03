@@ -1,22 +1,10 @@
-catalogNumber                            AA0033
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348666
-decimalLongitude                        6284225
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fabales
-family                                 Fabaceae
-genus                                   Robinia
-specificEpithet                    pseudoacacia
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Robinia pseudoacacia L.
-Nombre común                       Falsa acacia
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA0033
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                         Robinia
+specificEpithet          pseudoacacia
+infraspecificEpithet              NaN
+Nombre común             Falsa acacia
+ingreso                          2019
 Name: AA0033, dtype: object

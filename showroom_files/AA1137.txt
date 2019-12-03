@@ -1,22 +1,10 @@
-catalogNumber                     AA1137
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348439
-decimalLongitude                 6284712
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                         Sapindales
-family                     Anacardiaceae
-genus                            Schinus
-specificEpithet                    molle
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Schinus molle L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans                Nativa
-ingreso                             2019
-plantacion                           NaN
-sex                        hermaphrodite
+catalogNumber                  AA1137
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet                 molle
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1137, dtype: object

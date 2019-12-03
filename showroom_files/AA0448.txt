@@ -1,22 +1,10 @@
-catalogNumber                          AA0448
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348510
-decimalLongitude                      6284419
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                               Solanales
-family                             Solanaceae
-genus                                 Cestrum
-specificEpithet                        parqui
-infraspecificEpithet                      NaN
-nameAcordingTo                         L'Hér.
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Cestrum parqui L'Hér.
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
-sex                                       NaN
+catalogNumber                  AA0448
+Class                   Magnoliopsida
+order                       Solanales
+family                     Solanaceae
+genus                         Cestrum
+specificEpithet                parqui
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0448, dtype: object

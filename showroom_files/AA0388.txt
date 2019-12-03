@@ -1,22 +1,10 @@
-catalogNumber                   AA0388
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348539
-decimalLongitude               6284427
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                          Rosales
-family                        Moraceae
-genus                            Morus
-specificEpithet                   alba
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  NaN
-taxonRank                      species
-acceptedNameUsage        Morus alba L.
-Nombre común                       NaN
-Estado                        Extraído
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA0388
+Class                   Magnoliopsida
+order                         Rosales
+family                       Moraceae
+genus                           Morus
+specificEpithet                  alba
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0388, dtype: object

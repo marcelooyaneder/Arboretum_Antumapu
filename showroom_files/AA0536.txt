@@ -1,22 +1,10 @@
-catalogNumber                             AA0536
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348544
-decimalLongitude                         6284422
-phylum                              Tracheophyta
-Class                             Polypodiopsida
-order                               Polypodiales
-family                               Blechnaceae
-genus                                   Blechnum
-specificEpithet                         hastatum
-infraspecificEpithet                         NaN
-nameAcordingTo                            Kaulf.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Blechnum hastatum Kaulf.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                  2016
-sex                                          NaN
+catalogNumber                   AA0536
+Class                   Polypodiopsida
+order                     Polypodiales
+family                     Blechnaceae
+genus                         Blechnum
+specificEpithet               hastatum
+infraspecificEpithet               NaN
+Nombre común                       NaN
+ingreso                           2019
 Name: AA0536, dtype: object

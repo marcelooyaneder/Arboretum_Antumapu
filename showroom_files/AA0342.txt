@@ -1,22 +1,10 @@
-catalogNumber                                         AA0342
-basisOfRecord                                 LivingSpecimen
-decimalLatitude                                       348581
-decimalLongitude                                     6284392
-phylum                                          Tracheophyta
-Class                                          Magnoliopsida
-order                                           Malpighiales
-family                                         Euphorbiaceae
-genus                                             Colliguaja
-specificEpithet                                    odorifera
-infraspecificEpithet                                     NaN
-nameAcordingTo                               (Molina) Molina
-verbatimTaxonRank                                        NaN
-taxonRank                                            species
-acceptedNameUsage       Colliguaja odorifera (Molina) Molina
-Nombre común                                             NaN
-Estado                                                  Viva
-establishmentMeans                                    Nativa
-ingreso                                                 2019
-plantacion                                               NaN
-sex                                            hermaphrodite
+catalogNumber                  AA0342
+Class                   Magnoliopsida
+order                    Malpighiales
+family                  Euphorbiaceae
+genus                      Colliguaja
+specificEpithet             odorifera
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0342, dtype: object

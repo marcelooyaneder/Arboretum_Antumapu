@@ -1,22 +1,10 @@
-catalogNumber                                   AA1466
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348434
-decimalLongitude                               6284317
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                       Sapindales
-family                                   Anacardiaceae
-genus                                         Lithraea
-specificEpithet                               caustica
-infraspecificEpithet                               NaN
-nameAcordingTo                            Hook. & Arn.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Lithraea caustica Hook. & Arn.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                        2016
-sex                                      hermaphrodite
+catalogNumber                  AA1466
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                        Lithraea
+specificEpithet              caustica
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1466, dtype: object

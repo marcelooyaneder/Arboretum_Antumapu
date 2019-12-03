@@ -1,22 +1,10 @@
-catalogNumber                                AA0794
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348299
-decimalLongitude                            6284423
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                      Lamiales
-family                                 Bignoniaceae
-genus                                     Jacaranda
-specificEpithet                         mimosifolia
-infraspecificEpithet                            NaN
-nameAcordingTo                                D.Don
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Jacaranda mimosifolia D.Don
-Nombre común                                    NaN
-Estado                                         Viva
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
-sex                                   hermaphrodite
+catalogNumber                  AA0794
+Class                   Magnoliopsida
+order                        Lamiales
+family                   Bignoniaceae
+genus                       Jacaranda
+specificEpithet           mimosifolia
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0794, dtype: object

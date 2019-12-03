@@ -1,22 +1,10 @@
-catalogNumber                               AA0850
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348439
-decimalLongitude                           6284478
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                      Fabales
-family                                    Fabaceae
-genus                                  Caesalpinia
-specificEpithet                            spinosa
-infraspecificEpithet                           NaN
-nameAcordingTo                              Kuntze
-verbatimTaxonRank                              NaN
-taxonRank                                  species
-acceptedNameUsage       Caesalpinia spinosa Kuntze
-Nombre común                                   NaN
-Estado                                        Viva
-establishmentMeans                          Nativa
-ingreso                                       2019
-plantacion                                    2016
-sex                                  hermaphrodite
+catalogNumber                  AA0850
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                     Caesalpinia
+specificEpithet               spinosa
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0850, dtype: object

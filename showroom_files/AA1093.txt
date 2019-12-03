@@ -1,22 +1,10 @@
-catalogNumber                                    AA1093
-basisOfRecord                            LivingSpecimen
-decimalLatitude                                  348431
-decimalLongitude                                6284763
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                          Myrtales
-family                                        Myrtaceae
-genus                                        Eucalyptus
-specificEpithet                           camaldulensis
-infraspecificEpithet                                NaN
-nameAcordingTo                                   Dehnh.
-verbatimTaxonRank                                   NaN
-taxonRank                                       species
-acceptedNameUsage       Eucalyptus camaldulensis Dehnh.
-Nombre común                                        NaN
-Estado                                             Viva
-establishmentMeans                              Exótica
-ingreso                                            2019
-plantacion                                          NaN
-sex                                       hermaphrodite
+catalogNumber                  AA1093
+Class                   Magnoliopsida
+order                        Myrtales
+family                      Myrtaceae
+genus                      Eucalyptus
+specificEpithet         camaldulensis
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1093, dtype: object

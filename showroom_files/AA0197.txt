@@ -1,22 +1,10 @@
-catalogNumber                              AA0197
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348601
-decimalLongitude                          6284389
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                     Fabales
-family                                   Fabaceae
-genus                                    Prosopis
-specificEpithet                         chilensis
-infraspecificEpithet                          NaN
-nameAcordingTo                             Stuntz
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Prosopis chilensis Stuntz
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                    NaN
-sex                                 hermaphrodite
+catalogNumber                  AA0197
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                        Prosopis
+specificEpithet             chilensis
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0197, dtype: object

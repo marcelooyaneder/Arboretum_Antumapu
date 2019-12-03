@@ -1,22 +1,10 @@
-catalogNumber                         AA0335
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348571
-decimalLongitude                     6284388
-phylum                          Tracheophyta
-Class                              Pinopsida
-order                                Pinales
-family                              Pinaceae
-genus                                 Cedrus
-specificEpithet                      deodara
-infraspecificEpithet                     NaN
-nameAcordingTo                         G.Don
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Cedrus deodara G.Don
-Nombre común                             NaN
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-sex                                      NaN
+catalogNumber              AA0335
+Class                   Pinopsida
+order                     Pinales
+family                   Pinaceae
+genus                      Cedrus
+specificEpithet           deodara
+infraspecificEpithet          NaN
+Nombre común                  NaN
+ingreso                      2019
 Name: AA0335, dtype: object

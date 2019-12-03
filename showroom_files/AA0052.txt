@@ -1,22 +1,10 @@
-catalogNumber                                 AA0052
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348661
-decimalLongitude                             6284205
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                       Malvales
-family                                     Malvaceae
-genus                                   Brachychiton
-specificEpithet                            populneus
-infraspecificEpithet                             NaN
-nameAcordingTo                                 R.Br.
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Brachychiton populneus R.Br.
-Nombre común                             Braquiquito
-Estado                                          Viva
-establishmentMeans                           Exótica
-ingreso                                         2019
-plantacion                                       NaN
-sex                                    hermaphrodite
+catalogNumber                  AA0052
+Class                   Magnoliopsida
+order                        Malvales
+family                      Malvaceae
+genus                    Brachychiton
+specificEpithet             populneus
+infraspecificEpithet              NaN
+Nombre común              Braquiquito
+ingreso                          2019
 Name: AA0052, dtype: object

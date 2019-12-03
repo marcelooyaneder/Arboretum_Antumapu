@@ -1,22 +1,10 @@
-catalogNumber                            AA1679
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348543
-decimalLongitude                        6284371
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                  Myrtales
-family                               Lythraceae
-genus                             Lagerstroemia
-specificEpithet                          indica
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Lagerstroemia indica L.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA1679
+Class                   Magnoliopsida
+order                        Myrtales
+family                     Lythraceae
+genus                   Lagerstroemia
+specificEpithet                indica
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1679, dtype: object

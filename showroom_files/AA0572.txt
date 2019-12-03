@@ -1,22 +1,10 @@
-catalogNumber                              AA0572
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348505
-decimalLongitude                          6284400
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                     Fagales
-family                              Nothofagaceae
-genus                                  Nothofagus
-specificEpithet                           dombeyi
-infraspecificEpithet                          NaN
-nameAcordingTo                             Oerst.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Nothofagus dombeyi Oerst.
-Nombre común                                  NaN
-Estado                                     Muerto
-establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2017
-sex                                 hermaphrodite
+catalogNumber                  AA0572
+Class                   Magnoliopsida
+order                         Fagales
+family                  Nothofagaceae
+genus                      Nothofagus
+specificEpithet               dombeyi
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0572, dtype: object

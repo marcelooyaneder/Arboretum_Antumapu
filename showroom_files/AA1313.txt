@@ -1,22 +1,10 @@
-catalogNumber                   AA1313
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348315
-decimalLongitude               6284350
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                       Sapindales
-family                        Rutaceae
-genus                           Citrus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage           Citrus  L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA1313
+Class                   Magnoliopsida
+order                      Sapindales
+family                       Rutaceae
+genus                          Citrus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1313, dtype: object

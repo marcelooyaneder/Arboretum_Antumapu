@@ -1,22 +1,10 @@
-catalogNumber                                                AA0370
-basisOfRecord                                        LivingSpecimen
-decimalLatitude                                              348601
-decimalLongitude                                            6284410
-phylum                                                 Tracheophyta
-Class                                                 Magnoliopsida
-order                                                       Fabales
-family                                                     Fabaceae
-genus                                                        Acacia
-specificEpithet                                         macracantha
-infraspecificEpithet                                            NaN
-nameAcordingTo                             Humb. & Bonpl. ex Willd.
-verbatimTaxonRank                                               NaN
-taxonRank                                                   species
-acceptedNameUsage       Acacia macracantha Humb. & Bonpl. ex Willd.
-Nombre común                                                    NaN
-Estado                                                         Viva
-establishmentMeans                                           Nativa
-ingreso                                                        2019
-plantacion                                                     2016
-sex                                                   hermaphrodite
+catalogNumber                  AA0370
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                          Acacia
+specificEpithet           macracantha
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0370, dtype: object

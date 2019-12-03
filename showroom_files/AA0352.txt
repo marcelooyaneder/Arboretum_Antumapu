@@ -1,22 +1,10 @@
-catalogNumber                          AA0352
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348633
-decimalLongitude                      6284415
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                 Fabales
-family                               Fabaceae
-genus                                Prosopis
-specificEpithet                          alba
-infraspecificEpithet                      NaN
-nameAcordingTo                        Griseb.
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Prosopis alba Griseb.
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                               2016
-sex                             hermaphrodite
+catalogNumber                  AA0352
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                        Prosopis
+specificEpithet                  alba
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0352, dtype: object

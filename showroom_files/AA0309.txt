@@ -1,22 +1,10 @@
-catalogNumber                    AA0309
-basisOfRecord            LivingSpecimen
-decimalLatitude                  348571
-decimalLongitude                6284424
-phylum                     Tracheophyta
-Class                     Magnoliopsida
-order                           Fagales
-family                         Fagaceae
-genus                           Quercus
-specificEpithet                    ilex
-infraspecificEpithet                NaN
-nameAcordingTo                       L.
-verbatimTaxonRank                   NaN
-taxonRank                       species
-acceptedNameUsage       Quercus ilex L.
-Nombre común                        NaN
-Estado                             Viva
-establishmentMeans              Exótica
-ingreso                            2019
-plantacion                          NaN
-sex                                 NaN
+catalogNumber                  AA0309
+Class                   Magnoliopsida
+order                         Fagales
+family                       Fagaceae
+genus                         Quercus
+specificEpithet                  ilex
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0309, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                                   AA0718
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348444
-decimalLongitude                               6284492
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                          Fabales
-family                                        Fabaceae
-genus                                    Styphnolobium
-specificEpithet                              japonicum
-infraspecificEpithet                               NaN
-nameAcordingTo                                  Schott
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Styphnolobium japonicum Schott
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-sex                                                NaN
+catalogNumber                  AA0718
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                   Styphnolobium
+specificEpithet             japonicum
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0718, dtype: object

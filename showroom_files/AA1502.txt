@@ -1,22 +1,10 @@
-catalogNumber                        AA1502
-basisOfRecord                LivingSpecimen
-decimalLatitude                      348420
-decimalLongitude                    6284336
-phylum                         Tracheophyta
-Class                         Magnoliopsida
-order                              Myrtales
-family                            Myrtaceae
-genus                                  Luma
-specificEpithet                     chequen
-infraspecificEpithet                    NaN
-nameAcordingTo                       A.Gray
-verbatimTaxonRank                       NaN
-taxonRank                           species
-acceptedNameUsage       Luma chequen A.Gray
-Nombre común                            NaN
-Estado                                 Viva
-establishmentMeans                   Nativa
-ingreso                                2019
-plantacion                             2016
-sex                           hermaphrodite
+catalogNumber                  AA1502
+Class                   Magnoliopsida
+order                        Myrtales
+family                      Myrtaceae
+genus                            Luma
+specificEpithet               chequen
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1502, dtype: object

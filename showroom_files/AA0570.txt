@@ -1,22 +1,10 @@
-catalogNumber                             AA0570
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348513
-decimalLongitude                         6284400
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                    Fagales
-family                             Nothofagaceae
-genus                                 Nothofagus
-specificEpithet                           alpina
-infraspecificEpithet                         NaN
-nameAcordingTo                            Oerst.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Nothofagus alpina Oerst.
-Nombre común                                 NaN
-Estado                                    Muerto
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                  2017
-sex                                hermaphrodite
+catalogNumber                  AA0570
+Class                   Magnoliopsida
+order                         Fagales
+family                  Nothofagaceae
+genus                      Nothofagus
+specificEpithet                alpina
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0570, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                           AA1304
-basisOfRecord                   LivingSpecimen
-decimalLatitude                         348292
-decimalLongitude                       6284350
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                                 Laurales
-family                               Lauraceae
-genus                                   Persea
-specificEpithet                      americana
-infraspecificEpithet                       NaN
-nameAcordingTo                           Mill.
-verbatimTaxonRank                          NaN
-taxonRank                              species
-acceptedNameUsage       Persea americana Mill.
-Nombre común                               NaN
-Estado                                    Viva
-establishmentMeans                     Exótica
-ingreso                                   2019
-plantacion                                 NaN
-sex                              hermaphrodite
+catalogNumber                  AA1304
+Class                   Magnoliopsida
+order                        Laurales
+family                      Lauraceae
+genus                          Persea
+specificEpithet             americana
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1304, dtype: object

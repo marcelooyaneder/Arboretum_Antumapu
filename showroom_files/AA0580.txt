@@ -1,22 +1,10 @@
-catalogNumber                     AA0580
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348480
-decimalLongitude                 6284425
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                         Sapindales
-family                     Anacardiaceae
-genus                            Schinus
-specificEpithet                    molle
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Schinus molle L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans                Nativa
-ingreso                             2019
-plantacion                           NaN
-sex                        hermaphrodite
+catalogNumber                  AA0580
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet                 molle
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0580, dtype: object

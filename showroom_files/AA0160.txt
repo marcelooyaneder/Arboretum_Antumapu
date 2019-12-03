@@ -1,22 +1,10 @@
-catalogNumber                                   AA0160
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348597
-decimalLongitude                               6284350
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Laurales
-family                                       Lauraceae
-genus                                    Beilschmiedia
-specificEpithet                                miersii
-infraspecificEpithet                               NaN
-nameAcordingTo                                Kosterm.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Beilschmiedia miersii Kosterm.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                         NaN
-sex                                      hermaphrodite
+catalogNumber                  AA0160
+Class                   Magnoliopsida
+order                        Laurales
+family                      Lauraceae
+genus                   Beilschmiedia
+specificEpithet               miersii
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0160, dtype: object

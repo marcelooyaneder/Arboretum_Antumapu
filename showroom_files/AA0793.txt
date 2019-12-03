@@ -1,22 +1,10 @@
-catalogNumber                                 AA0793
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348287
-decimalLongitude                             6284446
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                       Malvales
-family                                     Malvaceae
-genus                                   Brachychiton
-specificEpithet                            populneus
-infraspecificEpithet                             NaN
-nameAcordingTo                                 R.Br.
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Brachychiton populneus R.Br.
-Nombre común                                     NaN
-Estado                                          Viva
-establishmentMeans                           Exótica
-ingreso                                         2019
-plantacion                                       NaN
-sex                                    hermaphrodite
+catalogNumber                  AA0793
+Class                   Magnoliopsida
+order                        Malvales
+family                      Malvaceae
+genus                    Brachychiton
+specificEpithet             populneus
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0793, dtype: object

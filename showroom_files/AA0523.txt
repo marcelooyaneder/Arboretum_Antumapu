@@ -1,22 +1,10 @@
-catalogNumber                                                      AA0523
-basisOfRecord                                              LivingSpecimen
-decimalLatitude                                                    348540
-decimalLongitude                                                  6284408
-phylum                                                       Tracheophyta
-Class                                                      Polypodiopsida
-order                                                        Polypodiales
-family                                                        Blechnaceae
-genus                                                        Lomariocycas
-specificEpithet                                              magellanicum
-infraspecificEpithet                                                  NaN
-nameAcordingTo                                  (Mett.) Gasper & A.R. Sm.
-verbatimTaxonRank                                                     NaN
-taxonRank                                                         species
-acceptedNameUsage       Lomariocycas magellanicum (Mett.) Gasper & A.R...
-Nombre común                                                          NaN
-Estado                                                               Viva
-establishmentMeans                                                 Nativa
-ingreso                                                              2019
-plantacion                                                           2016
-sex                                                                   NaN
+catalogNumber                   AA0523
+Class                   Polypodiopsida
+order                     Polypodiales
+family                     Blechnaceae
+genus                     Lomariocycas
+specificEpithet           magellanicum
+infraspecificEpithet               NaN
+Nombre común                       NaN
+ingreso                           2019
 Name: AA0523, dtype: object

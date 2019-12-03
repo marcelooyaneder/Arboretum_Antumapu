@@ -1,22 +1,10 @@
-catalogNumber                              AA0359
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348625
-decimalLongitude                          6284400
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                     Rosales
-family                                   Rosaceae
-genus                                   Polylepis
-specificEpithet                          rugulosa
-infraspecificEpithet                          NaN
-nameAcordingTo                             Bitter
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Polylepis rugulosa Bitter
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2016
-sex                                           NaN
+catalogNumber                  AA0359
+Class                   Magnoliopsida
+order                         Rosales
+family                       Rosaceae
+genus                       Polylepis
+specificEpithet              rugulosa
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0359, dtype: object

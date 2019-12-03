@@ -1,22 +1,10 @@
-catalogNumber                             AA0421
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348509
-decimalLongitude                         6284413
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                 Sapindales
-family                             Anacardiaceae
-genus                                    Schinus
-specificEpithet                       latifolius
-infraspecificEpithet                         NaN
-nameAcordingTo                             Engl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Schinus latifolius Engl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-sex                                hermaphrodite
+catalogNumber                  AA0421
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet            latifolius
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0421, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                                AA0686
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348448
-decimalLongitude                            6284507
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                      Myrtales
-family                                    Myrtaceae
-genus                                    Eucalyptus
-specificEpithet                            globulus
-infraspecificEpithet                            NaN
-nameAcordingTo                              Labill.
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Eucalyptus globulus Labill.
-Nombre común                                    NaN
-Estado                                         Viva
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                      NaN
-sex                                   hermaphrodite
+catalogNumber                  AA0686
+Class                   Magnoliopsida
+order                        Myrtales
+family                      Myrtaceae
+genus                      Eucalyptus
+specificEpithet              globulus
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0686, dtype: object

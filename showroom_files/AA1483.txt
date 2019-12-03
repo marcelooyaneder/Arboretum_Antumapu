@@ -1,22 +1,10 @@
-catalogNumber                                           AA1483
-basisOfRecord                                   LivingSpecimen
-decimalLatitude                                         348423
-decimalLongitude                                       6284329
-phylum                                            Tracheophyta
-Class                                            Magnoliopsida
-order                                               Sapindales
-family                                           Anacardiaceae
-genus                                                  Schinus
-specificEpithet                                       polygama
-infraspecificEpithet                                       NaN
-nameAcordingTo                           Cabrera & I.M.Johnst.
-verbatimTaxonRank                                          NaN
-taxonRank                                              species
-acceptedNameUsage       Schinus polygama Cabrera & I.M.Johnst.
-Nombre común                                               NaN
-Estado                                                    Viva
-establishmentMeans                                      Nativa
-ingreso                                                   2019
-plantacion                                                 NaN
-sex                                              hermaphrodite
+catalogNumber                  AA1483
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet              polygama
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1483, dtype: object

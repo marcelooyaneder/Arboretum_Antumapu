@@ -1,22 +1,10 @@
-catalogNumber                      AA0071
-basisOfRecord              LivingSpecimen
-decimalLatitude                    348619
-decimalLongitude                  6284193
-phylum                       Tracheophyta
-Class                       Magnoliopsida
-order                            Lamiales
-family                           Oleaceae
-genus                            Fraxinus
-specificEpithet                     ornus
-infraspecificEpithet                  NaN
-nameAcordingTo                         L.
-verbatimTaxonRank                     NaN
-taxonRank                         species
-acceptedNameUsage       Fraxinus ornus L.
-Nombre común                          NaN
-Estado                               Viva
-establishmentMeans                Exótica
-ingreso                              2019
-plantacion                            NaN
-sex                         hermaphrodite
+catalogNumber                  AA0071
+Class                   Magnoliopsida
+order                        Lamiales
+family                       Oleaceae
+genus                        Fraxinus
+specificEpithet                 ornus
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0071, dtype: object

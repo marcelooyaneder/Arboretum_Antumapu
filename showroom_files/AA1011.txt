@@ -1,22 +1,10 @@
-catalogNumber                   AA1011
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348547
-decimalLongitude               6284787
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                     Malpighiales
-family                      Salicaceae
-genus                          Populus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage          Populus  L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA1011
+Class                   Magnoliopsida
+order                    Malpighiales
+family                     Salicaceae
+genus                         Populus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1011, dtype: object

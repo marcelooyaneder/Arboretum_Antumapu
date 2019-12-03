@@ -1,22 +1,10 @@
-catalogNumber                          AA0628
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348433
-decimalLongitude                      6284492
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                 Fabales
-family                               Fabaceae
-genus                                Prosopis
-specificEpithet                          alba
-infraspecificEpithet                      NaN
-nameAcordingTo                        Griseb.
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Prosopis alba Griseb.
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
-sex                             hermaphrodite
+catalogNumber                  AA0628
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                        Prosopis
+specificEpithet                  alba
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0628, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                          AA0559
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348496
-decimalLongitude                      6284414
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                               Proteales
-family                             Proteaceae
-genus                                 Lomatia
-specificEpithet                       hirsuta
-infraspecificEpithet                      NaN
-nameAcordingTo                          Diels
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Lomatia hirsuta Diels
-Nombre común                              NaN
-Estado                                 Muerto
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
-sex                             hermaphrodite
+catalogNumber                  AA0559
+Class                   Magnoliopsida
+order                       Proteales
+family                     Proteaceae
+genus                         Lomatia
+specificEpithet               hirsuta
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0559, dtype: object

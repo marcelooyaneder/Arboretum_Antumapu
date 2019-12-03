@@ -1,22 +1,10 @@
-catalogNumber                          AA0567
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348497
-decimalLongitude                      6284422
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                               Proteales
-family                             Proteaceae
-genus                                 Lomatia
-specificEpithet                       hirsuta
-infraspecificEpithet                      NaN
-nameAcordingTo                          Diels
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Lomatia hirsuta Diels
-Nombre común                              NaN
-Estado                                 Muerto
-establishmentMeans                     Nativa
-ingreso                                  2019
-plantacion                                NaN
-sex                             hermaphrodite
+catalogNumber                  AA0567
+Class                   Magnoliopsida
+order                       Proteales
+family                     Proteaceae
+genus                         Lomatia
+specificEpithet               hirsuta
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0567, dtype: object

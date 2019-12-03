@@ -1,22 +1,10 @@
-catalogNumber                            AA0285
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348574
-decimalLongitude                        6284426
-phylum                             Tracheophyta
-Class                                Liliopsida
-order                                  Arecales
-family                                Arecaceae
-genus                                    Jubaea
-specificEpithet                       chilensis
-infraspecificEpithet                        NaN
-nameAcordingTo                           Baill.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Jubaea chilensis Baill.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber               AA0285
+Class                   Liliopsida
+order                     Arecales
+family                   Arecaceae
+genus                       Jubaea
+specificEpithet          chilensis
+infraspecificEpithet           NaN
+Nombre común                   NaN
+ingreso                       2019
 Name: AA0285, dtype: object
