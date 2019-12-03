@@ -1,10 +1,10 @@
-catalogNumber                    AA1499
-Class                     Magnoliopsida
-order                           Fabales
-family                         Fabaceae
-genus                             Senna
-specificEpithet         multiglandulosa
-infraspecificEpithet                NaN
-Nombre común                        NaN
-ingreso                            2019
+basisOfRecord                                   LivingSpecimen
+phylum                                            Tracheophyta
+Class                                            Magnoliopsida
+order                                                  Fabales
+genus                                                    Senna
+taxonRank                                              species
+acceptedNameUsage    Senna multiglandulosa H.S.Irwin & Barneby
+Nombre común                                               NaN
+ingreso                                                   2019
 Name: AA1499, dtype: object

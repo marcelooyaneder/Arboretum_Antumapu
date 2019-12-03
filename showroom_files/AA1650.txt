@@ -1,10 +1,10 @@
-catalogNumber                  AA1650
-Class                   Magnoliopsida
-order                         Rosales
-family                   Elaeagnaceae
-genus                       Elaeagnus
-specificEpithet             umbellata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                                    LivingSpecimen
+phylum                                             Tracheophyta
+Class                                             Magnoliopsida
+order                                                   Rosales
+genus                                                 Elaeagnus
+taxonRank                                               species
+acceptedNameUsage    Elaeagnus umbellata C.P.Thunb. ex A.Murray
+Nombre común                                                NaN
+ingreso                                                    2019
 Name: AA1650, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0859
-Class                   Magnoliopsida
-order                      Sapindales
-family                       Rutaceae
-genus                          Citrus
-specificEpithet              sinensis
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                     LivingSpecimen
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                 Sapindales
+genus                                     Citrus
+taxonRank                                species
+acceptedNameUsage    Citrus sinensis (L.) Osbeck
+Nombre común                                 NaN
+ingreso                                     2019
 Name: AA0859, dtype: object

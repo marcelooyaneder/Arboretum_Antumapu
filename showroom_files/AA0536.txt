@@ -1,10 +1,10 @@
-catalogNumber                   AA0536
-Class                   Polypodiopsida
-order                     Polypodiales
-family                     Blechnaceae
-genus                         Blechnum
-specificEpithet               hastatum
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                          Polypodiopsida
+order                            Polypodiales
+genus                                Blechnum
+taxonRank                             species
+acceptedNameUsage    Blechnum hastatum Kaulf.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0536, dtype: object

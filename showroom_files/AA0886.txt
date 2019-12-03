@@ -1,10 +1,10 @@
-catalogNumber                AA0886
-Class                    Liliopsida
-order                      Arecales
-family                    Arecaceae
-genus                       Phoenix
-specificEpithet         canariensis
-infraspecificEpithet            NaN
-Nombre común                    NaN
-ingreso                        2019
+basisOfRecord                        LivingSpecimen
+phylum                                 Tracheophyta
+Class                                    Liliopsida
+order                                      Arecales
+genus                                       Phoenix
+taxonRank                                   species
+acceptedNameUsage    Phoenix canariensis H.Wildpret
+Nombre común                                    NaN
+ingreso                                        2019
 Name: AA0886, dtype: object

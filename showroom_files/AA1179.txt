@@ -1,10 +1,10 @@
-catalogNumber                  AA1179
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                         Robinia
-specificEpithet          pseudoacacia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Fabales
+genus                                Robinia
+taxonRank                            species
+acceptedNameUsage    Robinia pseudoacacia L.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA1179, dtype: object

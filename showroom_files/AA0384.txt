@@ -1,10 +1,10 @@
-catalogNumber                  AA0384
-Class                   Magnoliopsida
-order                         Vitales
-family                       Vitaceae
-genus                   Clematicissus
-specificEpithet               striata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                           LivingSpecimen
+phylum                                    Tracheophyta
+Class                                    Magnoliopsida
+order                                          Vitales
+genus                                    Clematicissus
+taxonRank                                      species
+acceptedNameUsage    Clematicissus striata Ruiz & Pav.
+Nombre común                                       NaN
+ingreso                                           2019
 Name: AA0384, dtype: object

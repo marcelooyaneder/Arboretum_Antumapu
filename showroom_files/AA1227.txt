@@ -1,10 +1,10 @@
-catalogNumber                  AA1227
-Class                   Magnoliopsida
-order                         Fagales
-family                     Betulaceae
-genus                           Alnus
-specificEpithet             glutinosa
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Fagales
+genus                                  Alnus
+taxonRank                            species
+acceptedNameUsage    Alnus glutinosa Gaertn.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA1227, dtype: object

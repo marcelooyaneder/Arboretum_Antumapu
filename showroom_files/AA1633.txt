@@ -1,10 +1,10 @@
-catalogNumber                  AA1633
-Class                   Magnoliopsida
-order                      Sapindales
-family                  Simaroubaceae
-genus                       Ailanthus
-specificEpithet             altissima
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                     LivingSpecimen
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                 Sapindales
+genus                                  Ailanthus
+taxonRank                                species
+acceptedNameUsage    Ailanthus altissima Swingle
+Nombre común                                 NaN
+ingreso                                     2019
 Name: AA1633, dtype: object

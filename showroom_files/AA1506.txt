@@ -1,10 +1,10 @@
-catalogNumber                  AA1506
-Class                   Magnoliopsida
-order                       Asterales
-family                     Asteraceae
-genus                        Proustia
-specificEpithet             pyrifolia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                              Asterales
+genus                               Proustia
+taxonRank                            species
+acceptedNameUsage    Proustia pyrifolia Lag.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA1506, dtype: object

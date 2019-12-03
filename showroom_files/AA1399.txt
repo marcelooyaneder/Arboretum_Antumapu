@@ -1,10 +1,10 @@
-catalogNumber                  AA1399
-Class                   Magnoliopsida
-order                     Gentianales
-family                    Apocynaceae
-genus                          Nerium
-specificEpithet              oleander
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord            LivingSpecimen
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                       Gentianales
+genus                            Nerium
+taxonRank                       species
+acceptedNameUsage    Nerium oleander L.
+Nombre común                        NaN
+ingreso                            2019
 Name: AA1399, dtype: object

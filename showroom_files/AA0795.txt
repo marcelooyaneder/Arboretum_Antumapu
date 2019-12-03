@@ -1,10 +1,10 @@
-catalogNumber                  AA0795
+basisOfRecord          LivingSpecimen
+phylum                   Tracheophyta
 Class                   Magnoliopsida
 order                         Fagales
-family                       Fagaceae
 genus                         Quercus
-specificEpithet                 nigra
-infraspecificEpithet              NaN
+taxonRank                     species
+acceptedNameUsage    Quercus nigra L.
 Nombre común                      NaN
 ingreso                          2019
 Name: AA0795, dtype: object

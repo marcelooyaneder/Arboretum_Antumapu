@@ -1,10 +1,10 @@
-catalogNumber                   AA0500
-Class                    Magnoliopsida
-order                    Escalloniales
-family                  Escalloniaceae
-genus                       Escallonia
-specificEpithet                  rubra
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                         Escalloniales
+genus                            Escallonia
+taxonRank                           species
+acceptedNameUsage    Escallonia rubra Pers.
+Nombre común                            NaN
+ingreso                                2019
 Name: AA0500, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0351
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                       Geoffroea
-specificEpithet           decorticans
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Fabales
+genus                                    Geoffroea
+taxonRank                                  species
+acceptedNameUsage    Geoffroea decorticans Burkart
+Nombre común                                   NaN
+ingreso                                       2019
 Name: AA0351, dtype: object

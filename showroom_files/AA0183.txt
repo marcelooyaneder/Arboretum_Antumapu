@@ -1,10 +1,10 @@
-catalogNumber                 AA0183
-Class                   Ginkgoopsida
-order                     Ginkgoales
-family                   Ginkgoaceae
-genus                         Ginkgo
-specificEpithet               biloba
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord          LivingSpecimen
+phylum                   Tracheophyta
+Class                    Ginkgoopsida
+order                      Ginkgoales
+genus                          Ginkgo
+taxonRank                     species
+acceptedNameUsage    Ginkgo biloba L.
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0183, dtype: object

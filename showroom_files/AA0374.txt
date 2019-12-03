@@ -1,10 +1,10 @@
-catalogNumber                  AA0374
-Class                   Magnoliopsida
-order                        Laurales
-family                    Monimiaceae
-genus                          Peumus
-specificEpithet                boldus
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                     Laurales
+genus                                       Peumus
+taxonRank                                  species
+acceptedNameUsage    Peumus boldus (Molina) Molina
+Nombre común                                   NaN
+ingreso                                       2019
 Name: AA0374, dtype: object

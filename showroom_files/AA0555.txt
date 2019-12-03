@@ -1,10 +1,10 @@
-catalogNumber                 AA0555
-Class                      Pinopsida
-order                    Cupressales
-family                  Cupressaceae
-genus                       Fitzroya
-specificEpithet         cupressoides
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord                           LivingSpecimen
+phylum                                    Tracheophyta
+Class                                        Pinopsida
+order                                      Cupressales
+genus                                         Fitzroya
+taxonRank                                      species
+acceptedNameUsage    Fitzroya cupressoides I.M.Johnst.
+Nombre común                                       NaN
+ingreso                                           2019
 Name: AA0555, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0160
-Class                   Magnoliopsida
-order                        Laurales
-family                      Lauraceae
-genus                   Beilschmiedia
-specificEpithet               miersii
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                        LivingSpecimen
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Laurales
+genus                                 Beilschmiedia
+taxonRank                                   species
+acceptedNameUsage    Beilschmiedia miersii Kosterm.
+Nombre común                                    NaN
+ingreso                                        2019
 Name: AA0160, dtype: object

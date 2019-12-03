@@ -1,10 +1,10 @@
-catalogNumber                  AA0678
-Class                   Magnoliopsida
-order                       Proteales
-family                     Proteaceae
-genus                       Grevillea
-specificEpithet               robusta
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                            LivingSpecimen
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                         Proteales
+genus                                         Grevillea
+taxonRank                                       species
+acceptedNameUsage    Grevillea robusta A.Cunn. ex R.Br.
+Nombre común                                        NaN
+ingreso                                            2019
 Name: AA0678, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0628
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                        Prosopis
-specificEpithet                  alba
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                              Fabales
+genus                             Prosopis
+taxonRank                          species
+acceptedNameUsage    Prosopis alba Griseb.
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0628, dtype: object

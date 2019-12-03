@@ -1,10 +1,10 @@
-catalogNumber                  AA1501
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                           Senna
-specificEpithet           candolleana
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                               LivingSpecimen
+phylum                                        Tracheophyta
+Class                                        Magnoliopsida
+order                                              Fabales
+genus                                                Senna
+taxonRank                                          species
+acceptedNameUsage    Senna candolleana H.S.Irwin & Barneby
+Nombre común                                           NaN
+ingreso                                               2019
 Name: AA1501, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0954
-Class                   Magnoliopsida
-order                     Magnoliales
-family                   Magnoliaceae
-genus                        Magnolia
-specificEpithet           grandiflora
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                            Magnoliales
+genus                               Magnolia
+taxonRank                            species
+acceptedNameUsage    Magnolia grandiflora L.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0954, dtype: object

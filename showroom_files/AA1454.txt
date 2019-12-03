@@ -1,10 +1,10 @@
-catalogNumber                  AA1454
-Class                   Magnoliopsida
-order                      Sapindales
-family                  Anacardiaceae
-genus                         Schinus
-specificEpithet              polygama
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                                LivingSpecimen
+phylum                                         Tracheophyta
+Class                                         Magnoliopsida
+order                                            Sapindales
+genus                                               Schinus
+taxonRank                                           species
+acceptedNameUsage    Schinus polygama Cabrera & I.M.Johnst.
+Nombre común                                            NaN
+ingreso                                                2019
 Name: AA1454, dtype: object

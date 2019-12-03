@@ -1,10 +1,10 @@
-catalogNumber                  AA0568
-Class                   Magnoliopsida
-order                       Proteales
-family                     Proteaceae
-genus                         Lomatia
-specificEpithet            ferruginea
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                               Proteales
+genus                                 Lomatia
+taxonRank                             species
+acceptedNameUsage    Lomatia ferruginea R.Br.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0568, dtype: object

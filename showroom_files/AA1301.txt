@@ -1,10 +1,10 @@
-catalogNumber                  AA1301
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                          Acacia
-specificEpithet              dealbata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord              LivingSpecimen
+phylum                       Tracheophyta
+Class                       Magnoliopsida
+order                             Fabales
+genus                              Acacia
+taxonRank                         species
+acceptedNameUsage    Acacia dealbata Link
+Nombre común                          NaN
+ingreso                              2019
 Name: AA1301, dtype: object

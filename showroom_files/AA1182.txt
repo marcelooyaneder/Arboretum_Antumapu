@@ -1,10 +1,10 @@
-catalogNumber                  AA1182
+basisOfRecord          LivingSpecimen
+phylum                   Tracheophyta
 Class                   Magnoliopsida
 order                      Sapindales
-family                  Anacardiaceae
 genus                         Schinus
-specificEpithet                 molle
-infraspecificEpithet              NaN
+taxonRank                     species
+acceptedNameUsage    Schinus molle L.
 Nombre común                      NaN
 ingreso                          2019
 Name: AA1182, dtype: object

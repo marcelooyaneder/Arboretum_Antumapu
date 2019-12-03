@@ -1,10 +1,10 @@
-catalogNumber                  AA0889
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                     Parkinsonia
-specificEpithet              aculeata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Fabales
+genus                            Parkinsonia
+taxonRank                            species
+acceptedNameUsage    Parkinsonia aculeata L.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0889, dtype: object

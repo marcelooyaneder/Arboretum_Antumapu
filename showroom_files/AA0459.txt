@@ -1,10 +1,10 @@
-catalogNumber                  AA0459
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                           Azara
-specificEpithet          integrifolia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                        LivingSpecimen
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                  Malpighiales
+genus                                         Azara
+taxonRank                                   species
+acceptedNameUsage    Azara integrifolia Ruiz & Pav.
+Nombre común                                    NaN
+ingreso                                        2019
 Name: AA0459, dtype: object

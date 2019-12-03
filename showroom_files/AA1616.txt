@@ -1,10 +1,10 @@
-catalogNumber                  AA1616
-Class                   Magnoliopsida
-order                        Lamiales
-family                   Bignoniaceae
-genus                         Catalpa
-specificEpithet              speciosa
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+genus                                 Catalpa
+taxonRank                             species
+acceptedNameUsage    Catalpa speciosa Engelm.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA1616, dtype: object

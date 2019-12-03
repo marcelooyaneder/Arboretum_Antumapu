@@ -1,10 +1,10 @@
-catalogNumber                  AA0896
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                     Callistemon
-specificEpithet         linearifolius
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                     Myrtales
+genus                                  Callistemon
+taxonRank                                  species
+acceptedNameUsage    Callistemon linearifolius DC.
+Nombre común                                   NaN
+ingreso                                       2019
 Name: AA0896, dtype: object

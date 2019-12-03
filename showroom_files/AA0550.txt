@@ -1,10 +1,10 @@
-catalogNumber                  AA0550
-Class                   Magnoliopsida
-order                        Lamiales
-family                    Verbenaceae
-genus                   Rhaphithamnus
-specificEpithet              spinosus
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                         LivingSpecimen
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                       Lamiales
+genus                                  Rhaphithamnus
+taxonRank                                    species
+acceptedNameUsage    Rhaphithamnus spinosus Moldenke
+Nombre común                                     NaN
+ingreso                                         2019
 Name: AA0550, dtype: object

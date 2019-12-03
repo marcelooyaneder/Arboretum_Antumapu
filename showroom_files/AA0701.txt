@@ -1,10 +1,10 @@
-catalogNumber                  AA0701
-Class                   Magnoliopsida
-order                         Vitales
-family                       Vitaceae
-genus                           Vitis
-specificEpithet              vinifera
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord           LivingSpecimen
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                          Vitales
+genus                            Vitis
+taxonRank                      species
+acceptedNameUsage    Vitis vinifera L.
+Nombre común                       NaN
+ingreso                           2019
 Name: AA0701, dtype: object

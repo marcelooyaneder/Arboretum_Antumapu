@@ -1,10 +1,10 @@
-catalogNumber                  AA1404
-Class                   Magnoliopsida
-order                      Sapindales
-family                    Sapindaceae
-genus                            Acer
-specificEpithet               negundo
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord         LivingSpecimen
+phylum                  Tracheophyta
+Class                  Magnoliopsida
+order                     Sapindales
+genus                           Acer
+taxonRank                    species
+acceptedNameUsage    Acer negundo L.
+Nombre común                     NaN
+ingreso                         2019
 Name: AA1404, dtype: object

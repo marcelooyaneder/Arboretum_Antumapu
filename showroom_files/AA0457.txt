@@ -1,10 +1,10 @@
-catalogNumber                  AA0457
-Class                   Magnoliopsida
-order                         Fagales
-family                       Fagaceae
-genus                         Quercus
-specificEpithet                  ilex
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord         LivingSpecimen
+phylum                  Tracheophyta
+Class                  Magnoliopsida
+order                        Fagales
+genus                        Quercus
+taxonRank                    species
+acceptedNameUsage    Quercus ilex L.
+Nombre común                     NaN
+ingreso                         2019
 Name: AA0457, dtype: object

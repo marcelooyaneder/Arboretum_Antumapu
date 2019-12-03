@@ -1,10 +1,10 @@
-catalogNumber                   AA0865
-Class                    Magnoliopsida
-order                          Apiales
-family                  Pittosporaceae
-genus                      Pittosporum
-specificEpithet            tenuifolium
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                                         LivingSpecimen
+phylum                                                  Tracheophyta
+Class                                                  Magnoliopsida
+order                                                        Apiales
+genus                                                    Pittosporum
+taxonRank                                                    species
+acceptedNameUsage    Pittosporum tenuifolium Banks & Sol. ex Gaertn.
+Nombre común                                                     NaN
+ingreso                                                         2019
 Name: AA0865, dtype: object

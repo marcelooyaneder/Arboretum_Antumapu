@@ -1,10 +1,10 @@
-catalogNumber                 AA1669
-Class                     Liliopsida
-order                    Asparagales
-family                  Asparagaceae
-genus                          Agave
-specificEpithet            americana
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord            LivingSpecimen
+phylum                     Tracheophyta
+Class                        Liliopsida
+order                       Asparagales
+genus                             Agave
+taxonRank                       species
+acceptedNameUsage    Agave americana L.
+Nombre común                        NaN
+ingreso                            2019
 Name: AA1669, dtype: object

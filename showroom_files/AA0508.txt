@@ -1,10 +1,10 @@
-catalogNumber                  AA0508
-Class                   Magnoliopsida
-order                         Apiales
-family                     Araliaceae
-genus                         Raukaua
-specificEpithet           laetevirens
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Apiales
+genus                                   Raukaua
+taxonRank                               species
+acceptedNameUsage    Raukaua laetevirens Frodin
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA0508, dtype: object

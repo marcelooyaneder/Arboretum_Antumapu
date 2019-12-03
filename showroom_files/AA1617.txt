@@ -1,10 +1,10 @@
-catalogNumber                  AA1617
-Class                   Magnoliopsida
-order                        Malvales
-family                      Malvaceae
-genus                       Lagunaria
-specificEpithet            patersonii
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                  Malvales
+genus                                 Lagunaria
+taxonRank                               species
+acceptedNameUsage    Lagunaria patersonii G.Don
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA1617, dtype: object

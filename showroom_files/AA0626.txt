@@ -1,10 +1,10 @@
-catalogNumber                  AA0626
-Class                   Magnoliopsida
-order                       Asterales
-family                     Asteraceae
-genus                       Baccharis
-specificEpithet              linearis
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                               Asterales
+genus                               Baccharis
+taxonRank                             species
+acceptedNameUsage    Baccharis linearis Pers.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0626, dtype: object

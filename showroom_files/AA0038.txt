@@ -1,10 +1,10 @@
-catalogNumber                   AA0038
-Class                    Magnoliopsida
-order                   Caryophyllales
-family                    Tamaricaceae
-genus                          Tamarix
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-Nombre común                 Tamarisco
-ingreso                           2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                Caryophyllales
+genus                       Tamarix
+taxonRank                     genus
+acceptedNameUsage       Tamarix  L.
+Nombre común              Tamarisco
+ingreso                        2019
 Name: AA0038, dtype: object

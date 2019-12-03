@@ -1,10 +1,10 @@
-catalogNumber                  AA1072
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                         Populus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                  Malpighiales
+genus                       Populus
+taxonRank                     genus
+acceptedNameUsage       Populus  L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA1072, dtype: object

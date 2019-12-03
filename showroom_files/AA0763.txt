@@ -1,10 +1,10 @@
-catalogNumber                  AA0763
-Class                   Magnoliopsida
-order                       Proteales
-family                    Platanaceae
-genus                        Platanus
-specificEpithet            orientalis
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                             Proteales
+genus                              Platanus
+taxonRank                           species
+acceptedNameUsage    Platanus orientalis L.
+Nombre común                            NaN
+ingreso                                2019
 Name: AA0763, dtype: object

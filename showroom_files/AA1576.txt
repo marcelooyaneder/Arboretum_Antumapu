@@ -1,10 +1,10 @@
-catalogNumber                 AA1576
-Class                     Liliopsida
-order                    Asparagales
-family                  Asparagaceae
-genus                          Yucca
-specificEpithet             gigantea
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord             LivingSpecimen
+phylum                      Tracheophyta
+Class                         Liliopsida
+order                        Asparagales
+genus                              Yucca
+taxonRank                        species
+acceptedNameUsage    Yucca gigantea Lem.
+Nombre común                         NaN
+ingreso                             2019
 Name: AA1576, dtype: object

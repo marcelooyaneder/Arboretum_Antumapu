@@ -1,10 +1,10 @@
-catalogNumber                  AA1574
-Class                   Magnoliopsida
-order                      Sapindales
-family                  Anacardiaceae
-genus                         Schinus
-specificEpithet            latifolius
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                              Sapindales
+genus                                 Schinus
+taxonRank                             species
+acceptedNameUsage    Schinus latifolius Engl.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA1574, dtype: object

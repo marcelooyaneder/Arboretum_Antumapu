@@ -1,10 +1,10 @@
-catalogNumber                      AA0507
-Class                       Magnoliopsida
-order                   Berberidopsidales
-family                      Aextoxicaceae
-genus                          Aextoxicon
-specificEpithet                 punctatum
-infraspecificEpithet                  NaN
-Nombre común                          NaN
-ingreso                              2019
+basisOfRecord                          LivingSpecimen
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                               Berberidopsidales
+genus                                      Aextoxicon
+taxonRank                                     species
+acceptedNameUsage    Aextoxicon punctatum Ruiz & Pav.
+Nombre común                                      NaN
+ingreso                                          2019
 Name: AA0507, dtype: object

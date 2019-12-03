@@ -1,10 +1,10 @@
-catalogNumber              AA0603
-Class                   Pinopsida
-order                     Pinales
-family                   Pinaceae
-genus                       Pinus
-specificEpithet               NaN
-infraspecificEpithet          NaN
-Nombre común                  NaN
-ingreso                      2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                     Pinopsida
+order                       Pinales
+genus                         Pinus
+taxonRank                     genus
+acceptedNameUsage         Pinus  L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA0603, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0477
-Class                   Magnoliopsida
-order                        Lamiales
-family                       Oleaceae
-genus                       Ligustrum
-specificEpithet               lucidum
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                     LivingSpecimen
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Lamiales
+genus                                  Ligustrum
+taxonRank                                species
+acceptedNameUsage    Ligustrum lucidum W.T.Aiton
+Nombre común                                 NaN
+ingreso                                     2019
 Name: AA0477, dtype: object

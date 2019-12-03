@@ -1,10 +1,10 @@
-catalogNumber                  AA1297
-Class                   Magnoliopsida
-order                        Laurales
-family                      Lauraceae
-genus                          Persea
-specificEpithet             americana
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                              Laurales
+genus                                Persea
+taxonRank                           species
+acceptedNameUsage    Persea americana Mill.
+Nombre común                            NaN
+ingreso                                2019
 Name: AA1297, dtype: object

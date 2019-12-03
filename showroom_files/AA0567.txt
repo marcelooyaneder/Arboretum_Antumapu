@@ -1,10 +1,10 @@
-catalogNumber                  AA0567
-Class                   Magnoliopsida
-order                       Proteales
-family                     Proteaceae
-genus                         Lomatia
-specificEpithet               hirsuta
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                            Proteales
+genus                              Lomatia
+taxonRank                          species
+acceptedNameUsage    Lomatia hirsuta Diels
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0567, dtype: object

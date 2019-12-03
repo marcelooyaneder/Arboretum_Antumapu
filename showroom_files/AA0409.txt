@@ -1,10 +1,10 @@
-catalogNumber                  AA0409
-Class                   Magnoliopsida
-order                     Celastrales
-family                   Celastraceae
-genus                        Maytenus
-specificEpithet                boaria
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                         LivingSpecimen
+phylum                                  Tracheophyta
+Class                                  Magnoliopsida
+order                                    Celastrales
+genus                                       Maytenus
+taxonRank                                    species
+acceptedNameUsage    Maytenus boaria (Molina) Molina
+Nombre común                                     NaN
+ingreso                                         2019
 Name: AA0409, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0485
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                            Luma
-specificEpithet             apiculata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Myrtales
+genus                                 Luma
+taxonRank                          species
+acceptedNameUsage    Luma apiculata Burret
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0485, dtype: object

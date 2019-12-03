@@ -1,10 +1,10 @@
-catalogNumber                  AA0112
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                       Gleditsia
-specificEpithet           triacanthos
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                 Fabales
+genus                               Gleditsia
+taxonRank                             species
+acceptedNameUsage    Gleditsia triacanthos L.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0112, dtype: object

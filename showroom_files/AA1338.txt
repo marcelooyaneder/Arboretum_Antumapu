@@ -1,10 +1,10 @@
-catalogNumber                  AA1338
-Class                   Magnoliopsida
-order                        Myrtales
-family                     Onagraceae
-genus                         Fuchsia
-specificEpithet           magellanica
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Myrtales
+genus                                 Fuchsia
+taxonRank                             species
+acceptedNameUsage    Fuchsia magellanica Lam.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA1338, dtype: object

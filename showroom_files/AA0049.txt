@@ -1,10 +1,10 @@
-catalogNumber                  AA0049
-Class                   Magnoliopsida
-order                        Malvales
-family                      Malvaceae
-genus                    Brachychiton
-specificEpithet             populneus
-infraspecificEpithet              NaN
-Nombre común              Braquiquito
-ingreso                          2019
+basisOfRecord                      LivingSpecimen
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                    Malvales
+genus                                Brachychiton
+taxonRank                                 species
+acceptedNameUsage    Brachychiton populneus R.Br.
+Nombre común                          Braquiquito
+ingreso                                      2019
 Name: AA0049, dtype: object

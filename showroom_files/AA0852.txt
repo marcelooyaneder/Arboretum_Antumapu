@@ -1,10 +1,10 @@
-catalogNumber                  AA0852
-Class                   Magnoliopsida
-order                         Rosales
-family                       Rosaceae
-genus                          Prunus
-specificEpithet               persica
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                              Rosales
+genus                               Prunus
+taxonRank                          species
+acceptedNameUsage    Prunus persica Stokes
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0852, dtype: object
