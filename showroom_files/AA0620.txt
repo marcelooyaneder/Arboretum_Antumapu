@@ -1,22 +1,10 @@
-catalogNumber                                       AA0620
-basisOfRecord                               LivingSpecimen
-decimalLatitude                                     348465
-decimalLongitude                                   6284476
-phylum                                        Tracheophyta
-Class                                        Magnoliopsida
-order                                            Proteales
-family                                          Proteaceae
-genus                                            Grevillea
-specificEpithet                                    robusta
-infraspecificEpithet                                   NaN
-nameAcordingTo                            A.Cunn. ex R.Br.
-verbatimTaxonRank                                      NaN
-taxonRank                                          species
-acceptedNameUsage       Grevillea robusta A.Cunn. ex R.Br.
-Nombre común                                           NaN
-Estado                                                Viva
-establishmentMeans                                 Exótica
-ingreso                                               2019
-plantacion                                             NaN
-sex                                          hermaphrodite
+catalogNumber                  AA0620
+Class                   Magnoliopsida
+order                       Proteales
+family                     Proteaceae
+genus                       Grevillea
+specificEpithet               robusta
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0620, dtype: object

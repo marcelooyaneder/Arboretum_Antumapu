@@ -1,22 +1,10 @@
-catalogNumber                             AA0411
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348505
-decimalLongitude                         6284404
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                               Malpighiales
-family                                Salicaceae
-genus                                    Populus
-specificEpithet                          simonii
-infraspecificEpithet                         NaN
-nameAcordingTo                          Carrière
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Populus simonii Carrière
-Nombre común                                 NaN
-Estado                                  Extraído
-establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
-sex                                hermaphrodite
+catalogNumber                  AA0411
+Class                   Magnoliopsida
+order                    Malpighiales
+family                     Salicaceae
+genus                         Populus
+specificEpithet               simonii
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0411, dtype: object

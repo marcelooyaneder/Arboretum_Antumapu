@@ -1,22 +1,10 @@
-catalogNumber                        AA1576
-basisOfRecord                LivingSpecimen
-decimalLatitude                      348517
-decimalLongitude                    6284309
-phylum                         Tracheophyta
-Class                            Liliopsida
-order                           Asparagales
-family                         Asparagaceae
-genus                                 Yucca
-specificEpithet                    gigantea
-infraspecificEpithet                    NaN
-nameAcordingTo                         Lem.
-verbatimTaxonRank                       NaN
-taxonRank                           species
-acceptedNameUsage       Yucca gigantea Lem.
-Nombre común                            NaN
-Estado                                 Viva
-establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
-sex                           hermaphrodite
+catalogNumber                 AA1576
+Class                     Liliopsida
+order                    Asparagales
+family                  Asparagaceae
+genus                          Yucca
+specificEpithet             gigantea
+infraspecificEpithet             NaN
+Nombre común                     NaN
+ingreso                         2019
 Name: AA1576, dtype: object

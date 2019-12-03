@@ -1,22 +1,10 @@
-catalogNumber                       AA0671
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348462
-decimalLongitude                   6284515
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                              Rosales
-family                            Ulmaceae
-genus                                Ulmus
-specificEpithet                  americana
-infraspecificEpithet                   NaN
-nameAcordingTo                          L.
-verbatimTaxonRank                      NaN
-taxonRank                          species
-acceptedNameUsage       Ulmus americana L.
-Nombre común                           NaN
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-sex                          hermaphrodite
+catalogNumber                  AA0671
+Class                   Magnoliopsida
+order                         Rosales
+family                       Ulmaceae
+genus                           Ulmus
+specificEpithet             americana
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0671, dtype: object

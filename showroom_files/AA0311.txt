@@ -1,22 +1,10 @@
-catalogNumber                             AA0311
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348561
-decimalLongitude                         6284421
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                 Sapindales
-family                             Anacardiaceae
-genus                                    Schinus
-specificEpithet                       latifolius
-infraspecificEpithet                         NaN
-nameAcordingTo                             Engl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Schinus latifolius Engl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-sex                                hermaphrodite
+catalogNumber                  AA0311
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet            latifolius
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0311, dtype: object

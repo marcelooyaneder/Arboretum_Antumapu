@@ -1,22 +1,10 @@
-catalogNumber                                  AA0897
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348580
-decimalLongitude                              6284605
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                        Myrtales
-family                                      Myrtaceae
-genus                                     Callistemon
-specificEpithet                         linearifolius
-infraspecificEpithet                              NaN
-nameAcordingTo                                    DC.
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Callistemon linearifolius DC.
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
-sex                                     hermaphrodite
+catalogNumber                  AA0897
+Class                   Magnoliopsida
+order                        Myrtales
+family                      Myrtaceae
+genus                     Callistemon
+specificEpithet         linearifolius
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0897, dtype: object

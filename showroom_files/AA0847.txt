@@ -1,22 +1,10 @@
-catalogNumber                     AA0847
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348458
-decimalLongitude                 6284491
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                            Fagales
-family                          Fagaceae
-genus                            Quercus
-specificEpithet                    nigra
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Quercus nigra L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans               Exótica
-ingreso                             2019
-plantacion                           NaN
-sex                                  NaN
+catalogNumber                  AA0847
+Class                   Magnoliopsida
+order                         Fagales
+family                       Fagaceae
+genus                         Quercus
+specificEpithet                 nigra
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0847, dtype: object

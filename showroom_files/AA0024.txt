@@ -1,22 +1,10 @@
-catalogNumber                           AA0024
-basisOfRecord                   LivingSpecimen
-decimalLatitude                         348667
-decimalLongitude                       6284238
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                               Sapindales
-family                             Sapindaceae
-genus                                     Acer
-specificEpithet                 pseudoplatanus
-infraspecificEpithet                       NaN
-nameAcordingTo                              L.
-verbatimTaxonRank                          NaN
-taxonRank                              species
-acceptedNameUsage       Acer pseudoplatanus L.
-Nombre común                       Arce blanco
-Estado                                    Viva
-establishmentMeans                     Exótica
-ingreso                                   2019
-plantacion                                 NaN
-sex                              hermaphrodite
+catalogNumber                   AA0024
+Class                    Magnoliopsida
+order                       Sapindales
+family                     Sapindaceae
+genus                             Acer
+specificEpithet         pseudoplatanus
+infraspecificEpithet               NaN
+Nombre común               Arce blanco
+ingreso                           2019
 Name: AA0024, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                             AA1570
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348572
-decimalLongitude                         6284299
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                 Sapindales
-family                             Anacardiaceae
-genus                                    Schinus
-specificEpithet                       latifolius
-infraspecificEpithet                         NaN
-nameAcordingTo                             Engl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Schinus latifolius Engl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-sex                                hermaphrodite
+catalogNumber                  AA1570
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet            latifolius
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1570, dtype: object

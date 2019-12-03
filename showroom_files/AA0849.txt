@@ -1,22 +1,10 @@
-catalogNumber                                            AA0849
-basisOfRecord                                    LivingSpecimen
-decimalLatitude                                          348462
-decimalLongitude                                        6284485
-phylum                                             Tracheophyta
-Class                                             Magnoliopsida
-order                                                Sapindales
-family                                              Sapindaceae
-genus                                                      Acer
-specificEpithet                                       japonicum
-infraspecificEpithet                                        NaN
-nameAcordingTo                         C.P.Thunberg ex A.Murray
-verbatimTaxonRank                                           NaN
-taxonRank                                               species
-acceptedNameUsage       Acer japonicum C.P.Thunberg ex A.Murray
-Nombre común                                                NaN
-Estado                                                     Viva
-establishmentMeans                                      Exótica
-ingreso                                                    2019
-plantacion                                                 2016
-sex                                               hermaphrodite
+catalogNumber                  AA0849
+Class                   Magnoliopsida
+order                      Sapindales
+family                    Sapindaceae
+genus                            Acer
+specificEpithet             japonicum
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0849, dtype: object

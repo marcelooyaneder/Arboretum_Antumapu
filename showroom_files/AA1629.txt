@@ -1,22 +1,10 @@
-catalogNumber                                         AA1629
-basisOfRecord                                 LivingSpecimen
-decimalLatitude                                       348483
-decimalLongitude                                     6284300
-phylum                                          Tracheophyta
-Class                                          Magnoliopsida
-order                                             Oxalidales
-family                                        Elaeocarpaceae
-genus                                           Crinodendron
-specificEpithet                                      patagua
-infraspecificEpithet                                     NaN
-nameAcordingTo                               (Molina) Molina
-verbatimTaxonRank                                        NaN
-taxonRank                                            species
-acceptedNameUsage       Crinodendron patagua (Molina) Molina
-Nombre común                                             NaN
-Estado                                                  Viva
-establishmentMeans                                    Nativa
-ingreso                                                 2019
-plantacion                                               NaN
-sex                                            hermaphrodite
+catalogNumber                   AA1629
+Class                    Magnoliopsida
+order                       Oxalidales
+family                  Elaeocarpaceae
+genus                     Crinodendron
+specificEpithet                patagua
+infraspecificEpithet               NaN
+Nombre común                       NaN
+ingreso                           2019
 Name: AA1629, dtype: object

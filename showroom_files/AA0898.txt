@@ -1,22 +1,10 @@
-catalogNumber                     AA0898
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348591
-decimalLongitude                 6284627
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                           Lamiales
-family                          Oleaceae
-genus                               Olea
-specificEpithet                 europaea
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Olea europaea L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans               Exótica
-ingreso                             2019
-plantacion                           NaN
-sex                        hermaphrodite
+catalogNumber                  AA0898
+Class                   Magnoliopsida
+order                        Lamiales
+family                       Oleaceae
+genus                            Olea
+specificEpithet              europaea
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0898, dtype: object

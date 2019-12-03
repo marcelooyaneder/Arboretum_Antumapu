@@ -1,22 +1,10 @@
-catalogNumber                                    AA1606
-basisOfRecord                            LivingSpecimen
-decimalLatitude                                  348494
-decimalLongitude                                6284334
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                       Celastrales
-family                                     Celastraceae
-genus                                          Maytenus
-specificEpithet                                  boaria
-infraspecificEpithet                                NaN
-nameAcordingTo                          (Molina) Molina
-verbatimTaxonRank                                   NaN
-taxonRank                                       species
-acceptedNameUsage       Maytenus boaria (Molina) Molina
-Nombre común                                        NaN
-Estado                                             Viva
-establishmentMeans                               Nativa
-ingreso                                            2019
-plantacion                                          NaN
-sex                                                male
+catalogNumber                  AA1606
+Class                   Magnoliopsida
+order                     Celastrales
+family                   Celastraceae
+genus                        Maytenus
+specificEpithet                boaria
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1606, dtype: object

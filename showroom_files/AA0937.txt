@@ -1,22 +1,10 @@
-catalogNumber                                          AA0937
-basisOfRecord                                  LivingSpecimen
-decimalLatitude                                        348579
-decimalLongitude                                      6284591
-phylum                                           Tracheophyta
-Class                                           Magnoliopsida
-order                                                 Fabales
-family                                               Fabaceae
-genus                                                   Senna
-specificEpithet                                   candolleana
-infraspecificEpithet                                      NaN
-nameAcordingTo                            H.S.Irwin & Barneby
-verbatimTaxonRank                                         NaN
-taxonRank                                             species
-acceptedNameUsage       Senna candolleana H.S.Irwin & Barneby
-Nombre común                                              NaN
-Estado                                                   Viva
-establishmentMeans                                     Nativa
-ingreso                                                  2019
-plantacion                                                NaN
-sex                                             hermaphrodite
+catalogNumber                  AA0937
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                           Senna
+specificEpithet           candolleana
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0937, dtype: object

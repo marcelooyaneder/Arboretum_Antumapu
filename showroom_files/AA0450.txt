@@ -1,22 +1,10 @@
-catalogNumber                              AA0450
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348535
-decimalLongitude                          6284423
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                     Fagales
-family                              Nothofagaceae
-genus                                  Nothofagus
-specificEpithet                           obliqua
-infraspecificEpithet                          NaN
-nameAcordingTo                             Oerst.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Nothofagus obliqua Oerst.
-Nombre común                                  NaN
-Estado                                       Viva
-establishmentMeans                         Nativa
-ingreso                                      2019
-plantacion                                   2017
-sex                                 hermaphrodite
+catalogNumber                  AA0450
+Class                   Magnoliopsida
+order                         Fagales
+family                  Nothofagaceae
+genus                      Nothofagus
+specificEpithet               obliqua
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0450, dtype: object

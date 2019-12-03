@@ -1,22 +1,10 @@
-catalogNumber                             AA1637
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348484
-decimalLongitude                         6284341
-phylum                              Tracheophyta
-Class                                  Pinopsida
-order                                Cupressales
-family                              Cupressaceae
-genus                                  Cupressus
-specificEpithet                         funebris
-infraspecificEpithet                         NaN
-nameAcordingTo                             Endl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Cupressus funebris Endl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                       Exótica
-ingreso                                     2019
-plantacion                                   NaN
-sex                                          NaN
+catalogNumber                 AA1637
+Class                      Pinopsida
+order                    Cupressales
+family                  Cupressaceae
+genus                      Cupressus
+specificEpithet             funebris
+infraspecificEpithet             NaN
+Nombre común                     NaN
+ingreso                         2019
 Name: AA1637, dtype: object

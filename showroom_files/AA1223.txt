@@ -1,22 +1,10 @@
-catalogNumber                       AA1223
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348417
-decimalLongitude                   6284368
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                           Sapindales
-family                           Meliaceae
-genus                                Melia
-specificEpithet                  azedarach
-infraspecificEpithet                   NaN
-nameAcordingTo                          L.
-verbatimTaxonRank                      NaN
-taxonRank                          species
-acceptedNameUsage       Melia azedarach L.
-Nombre común                           NaN
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-sex                          hermaphrodite
+catalogNumber                  AA1223
+Class                   Magnoliopsida
+order                      Sapindales
+family                      Meliaceae
+genus                           Melia
+specificEpithet             azedarach
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1223, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                   AA1046
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348503
-decimalLongitude               6284789
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                     Malpighiales
-family                      Salicaceae
-genus                          Populus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage          Populus  L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA1046
+Class                   Magnoliopsida
+order                    Malpighiales
+family                     Salicaceae
+genus                         Populus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1046, dtype: object

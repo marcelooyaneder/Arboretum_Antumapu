@@ -1,22 +1,10 @@
-catalogNumber                            AA0047
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348672
-decimalLongitude                        6284191
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fabales
-family                                 Fabaceae
-genus                               Parkinsonia
-specificEpithet                        aculeata
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Parkinsonia aculeata L.
-Nombre común                         Palo verde
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA0047
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                     Parkinsonia
+specificEpithet              aculeata
+infraspecificEpithet              NaN
+Nombre común               Palo verde
+ingreso                          2019
 Name: AA0047, dtype: object

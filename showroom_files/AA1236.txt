@@ -1,22 +1,10 @@
-catalogNumber                       AA1236
-basisOfRecord               LivingSpecimen
-decimalLatitude                     348445
-decimalLongitude                   6284329
-phylum                        Tracheophyta
-Class                           Liliopsida
-order                          Asparagales
-family                        Asparagaceae
-genus                                Agave
-specificEpithet                  americana
-infraspecificEpithet                   NaN
-nameAcordingTo                          L.
-verbatimTaxonRank                      NaN
-taxonRank                          species
-acceptedNameUsage       Agave americana L.
-Nombre común                           NaN
-Estado                                Viva
-establishmentMeans                 Exótica
-ingreso                               2019
-plantacion                             NaN
-sex                                    NaN
+catalogNumber                 AA1236
+Class                     Liliopsida
+order                    Asparagales
+family                  Asparagaceae
+genus                          Agave
+specificEpithet            americana
+infraspecificEpithet             NaN
+Nombre común                     NaN
+ingreso                         2019
 Name: AA1236, dtype: object

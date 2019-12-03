@@ -1,22 +1,10 @@
-catalogNumber                                          AA1501
-basisOfRecord                                  LivingSpecimen
-decimalLatitude                                        348423
-decimalLongitude                                      6284338
-phylum                                           Tracheophyta
-Class                                           Magnoliopsida
-order                                                 Fabales
-family                                               Fabaceae
-genus                                                   Senna
-specificEpithet                                   candolleana
-infraspecificEpithet                                      NaN
-nameAcordingTo                            H.S.Irwin & Barneby
-verbatimTaxonRank                                         NaN
-taxonRank                                             species
-acceptedNameUsage       Senna candolleana H.S.Irwin & Barneby
-Nombre común                                              NaN
-Estado                                                   Viva
-establishmentMeans                                     Nativa
-ingreso                                                  2019
-plantacion                                                NaN
-sex                                             hermaphrodite
+catalogNumber                  AA1501
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                           Senna
+specificEpithet           candolleana
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1501, dtype: object

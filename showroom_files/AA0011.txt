@@ -1,22 +1,10 @@
-catalogNumber                              AA0011
-basisOfRecord                      LivingSpecimen
-decimalLatitude                            348655
-decimalLongitude                          6284294
-phylum                               Tracheophyta
-Class                               Magnoliopsida
-order                                  Sapindales
-family                                Sapindaceae
-genus                                    Aesculus
-specificEpithet                     hippocastanum
-infraspecificEpithet                          NaN
-nameAcordingTo                                 L.
-verbatimTaxonRank                             NaN
-taxonRank                                 species
-acceptedNameUsage       Aesculus hippocastanum L.
-Nombre común                    Castaño de Indias
-Estado                                       Viva
-establishmentMeans                        Exótica
-ingreso                                      2019
-plantacion                                    NaN
-sex                                 hermaphrodite
+catalogNumber                      AA0011
+Class                       Magnoliopsida
+order                          Sapindales
+family                        Sapindaceae
+genus                            Aesculus
+specificEpithet             hippocastanum
+infraspecificEpithet                  NaN
+Nombre común            Castaño de Indias
+ingreso                              2019
 Name: AA0011, dtype: object

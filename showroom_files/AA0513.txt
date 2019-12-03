@@ -1,22 +1,10 @@
-catalogNumber                                  AA0513
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348505
-decimalLongitude                              6284407
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                   Escalloniales
-family                                 Escalloniaceae
-genus                                      Escallonia
-specificEpithet                          pulverulenta
-infraspecificEpithet                              NaN
-nameAcordingTo                                  Pers.
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Escallonia pulverulenta Pers.
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                       2016
-sex                                     hermaphrodite
+catalogNumber                   AA0513
+Class                    Magnoliopsida
+order                    Escalloniales
+family                  Escalloniaceae
+genus                       Escallonia
+specificEpithet           pulverulenta
+infraspecificEpithet               NaN
+Nombre común                       NaN
+ingreso                           2019
 Name: AA0513, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                                  AA1568
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348572
-decimalLongitude                              6284290
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                      Sapindales
-family                                    Sapindaceae
-genus                                    Koelreuteria
-specificEpithet                            paniculata
-infraspecificEpithet                              NaN
-nameAcordingTo                                  Laxm.
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Koelreuteria paniculata Laxm.
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
-sex                                     hermaphrodite
+catalogNumber                  AA1568
+Class                   Magnoliopsida
+order                      Sapindales
+family                    Sapindaceae
+genus                    Koelreuteria
+specificEpithet            paniculata
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1568, dtype: object

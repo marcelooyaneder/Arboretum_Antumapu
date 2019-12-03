@@ -1,22 +1,10 @@
-catalogNumber                                  AA0351
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348633
-decimalLongitude                              6284418
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                         Fabales
-family                                       Fabaceae
-genus                                       Geoffroea
-specificEpithet                           decorticans
-infraspecificEpithet                              NaN
-nameAcordingTo                                Burkart
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Geoffroea decorticans Burkart
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                       2015
-sex                                     hermaphrodite
+catalogNumber                  AA0351
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                       Geoffroea
+specificEpithet           decorticans
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0351, dtype: object

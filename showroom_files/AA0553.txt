@@ -1,22 +1,10 @@
-catalogNumber                                      AA0553
-basisOfRecord                              LivingSpecimen
-decimalLatitude                                    348509
-decimalLongitude                                  6284426
-phylum                                       Tracheophyta
-Class                                       Magnoliopsida
-order                                            Myrtales
-family                                          Myrtaceae
-genus                                           Amomyrtus
-specificEpithet                                      meli
-infraspecificEpithet                                  NaN
-nameAcordingTo                         D.Legrand & Kausel
-verbatimTaxonRank                                     NaN
-taxonRank                                         species
-acceptedNameUsage       Amomyrtus meli D.Legrand & Kausel
-Nombre común                                          NaN
-Estado                                             Muerto
-establishmentMeans                                 Nativa
-ingreso                                              2019
-plantacion                                            NaN
-sex                                         hermaphrodite
+catalogNumber                  AA0553
+Class                   Magnoliopsida
+order                        Myrtales
+family                      Myrtaceae
+genus                       Amomyrtus
+specificEpithet                  meli
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0553, dtype: object

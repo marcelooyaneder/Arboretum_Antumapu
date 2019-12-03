@@ -1,22 +1,10 @@
-catalogNumber                          AA1242
-basisOfRecord                  LivingSpecimen
-decimalLatitude                        348433
-decimalLongitude                      6284324
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                Lamiales
-family                               Oleaceae
-genus                                Fraxinus
-specificEpithet                     excelsior
-infraspecificEpithet                      NaN
-nameAcordingTo                             L.
-verbatimTaxonRank                         NaN
-taxonRank                             species
-acceptedNameUsage       Fraxinus excelsior L.
-Nombre común                              NaN
-Estado                                   Viva
-establishmentMeans                    Exótica
-ingreso                                  2019
-plantacion                                NaN
-sex                             hermaphrodite
+catalogNumber                  AA1242
+Class                   Magnoliopsida
+order                        Lamiales
+family                       Oleaceae
+genus                        Fraxinus
+specificEpithet             excelsior
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1242, dtype: object

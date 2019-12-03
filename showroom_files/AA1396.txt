@@ -1,22 +1,10 @@
-catalogNumber                                  AA1396
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348357
-decimalLongitude                              6284364
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                         Rosales
-family                                       Rosaceae
-genus                                        Photinia
-specificEpithet                          serratifolia
-infraspecificEpithet                              NaN
-nameAcordingTo                                Kalkman
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Photinia serratifolia Kalkman
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                            Exótica
-ingreso                                          2019
-plantacion                                        NaN
-sex                                               NaN
+catalogNumber                  AA1396
+Class                   Magnoliopsida
+order                         Rosales
+family                       Rosaceae
+genus                        Photinia
+specificEpithet          serratifolia
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1396, dtype: object

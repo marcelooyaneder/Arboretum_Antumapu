@@ -370,10 +370,10 @@ else:
 
 if showroom_option_button=='Yes':
     print('create non existing qrs shorwoom files...')
-    if os.path.isdir('showroom_qrs')==True:
+    if os.path.isdir('qrs_showroom')==True:
         for id in IDs:
             print(f'file {id} of file {IDs[-1]}',end='\r', flush=True)
-            path=f"showroom_qrs/{id}.png"
+            path=f"qrs_showroom/{id}.png"
             if os.path.isfile(path)==False:
                 longurl=f'https://raw.githubusercontent.com/{GitHub_username}/{Repository_name}/master/showroom_files/{id}.txt'
                 shorturl=dynamiclinks(longurl)

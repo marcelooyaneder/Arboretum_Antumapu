@@ -1,22 +1,10 @@
-catalogNumber                         AA0054
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348659
-decimalLongitude                     6284200
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                                Fabales
-family                              Fabaceae
-genus                                 Acacia
-specificEpithet                     dealbata
-infraspecificEpithet                     NaN
-nameAcordingTo                          Link
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Acacia dealbata Link
-Nombre común                           Aromo
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-sex                            hermaphrodite
+catalogNumber                  AA0054
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                          Acacia
+specificEpithet              dealbata
+infraspecificEpithet              NaN
+Nombre común                    Aromo
+ingreso                          2019
 Name: AA0054, dtype: object

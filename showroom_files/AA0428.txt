@@ -1,22 +1,10 @@
-catalogNumber                                   AA0428
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348499
-decimalLongitude                               6284422
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Laurales
-family                                       Lauraceae
-genus                                    Beilschmiedia
-specificEpithet                                miersii
-infraspecificEpithet                               NaN
-nameAcordingTo                                Kosterm.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Beilschmiedia miersii Kosterm.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                         NaN
-sex                                      hermaphrodite
+catalogNumber                  AA0428
+Class                   Magnoliopsida
+order                        Laurales
+family                      Lauraceae
+genus                   Beilschmiedia
+specificEpithet               miersii
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0428, dtype: object

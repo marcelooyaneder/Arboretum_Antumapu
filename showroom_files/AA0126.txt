@@ -1,22 +1,10 @@
-catalogNumber                        AA0126
-basisOfRecord                LivingSpecimen
-decimalLatitude                      348624
-decimalLongitude                    6284280
-phylum                         Tracheophyta
-Class                         Magnoliopsida
-order                               Fagales
-family                           Betulaceae
-genus                                Betula
-specificEpithet                     pendula
-infraspecificEpithet                    NaN
-nameAcordingTo                         Roth
-verbatimTaxonRank                       NaN
-taxonRank                           species
-acceptedNameUsage       Betula pendula Roth
-Nombre común                            NaN
-Estado                                 Viva
-establishmentMeans                  Exótica
-ingreso                                2019
-plantacion                              NaN
-sex                                     NaN
+catalogNumber                  AA0126
+Class                   Magnoliopsida
+order                         Fagales
+family                     Betulaceae
+genus                          Betula
+specificEpithet               pendula
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0126, dtype: object

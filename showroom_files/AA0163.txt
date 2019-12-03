@@ -1,22 +1,10 @@
-catalogNumber                               AA0163
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348595
-decimalLongitude                           6284341
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                 Saxifragales
-family                                Altingiaceae
-genus                                  Liquidambar
-specificEpithet                        styraciflua
-infraspecificEpithet                           NaN
-nameAcordingTo                                  L.
-verbatimTaxonRank                              NaN
-taxonRank                                  species
-acceptedNameUsage       Liquidambar styraciflua L.
-Nombre común                                   NaN
-Estado                                        Viva
-establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
-sex                                  hermaphrodite
+catalogNumber                  AA0163
+Class                   Magnoliopsida
+order                    Saxifragales
+family                   Altingiaceae
+genus                     Liquidambar
+specificEpithet           styraciflua
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0163, dtype: object

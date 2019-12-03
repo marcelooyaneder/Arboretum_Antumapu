@@ -1,22 +1,10 @@
-catalogNumber                   AA0371
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348595
-decimalLongitude               6284414
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                          Fabales
-family                        Fabaceae
-genus                         Prosopis
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  NaN
-taxonRank                      species
-acceptedNameUsage         Prosopis  L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans              Nativa
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA0371
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                        Prosopis
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0371, dtype: object

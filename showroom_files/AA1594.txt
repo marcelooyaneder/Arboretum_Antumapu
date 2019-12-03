@@ -1,22 +1,10 @@
-catalogNumber                                   AA1594
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348487
-decimalLongitude                               6284272
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                          Fabales
-family                                        Fabaceae
-genus                                    Styphnolobium
-specificEpithet                              japonicum
-infraspecificEpithet                               NaN
-nameAcordingTo                                  Schott
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Styphnolobium japonicum Schott
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-sex                                                NaN
+catalogNumber                  AA1594
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                   Styphnolobium
+specificEpithet             japonicum
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1594, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                            AA0978
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348553
-decimalLongitude                        6284669
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fabales
-family                                 Fabaceae
-genus                                   Robinia
-specificEpithet                    pseudoacacia
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Robinia pseudoacacia L.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA0978
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                         Robinia
+specificEpithet          pseudoacacia
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0978, dtype: object

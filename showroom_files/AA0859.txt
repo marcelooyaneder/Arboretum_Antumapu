@@ -1,22 +1,10 @@
-catalogNumber                                AA0859
-basisOfRecord                        LivingSpecimen
-decimalLatitude                              348475
-decimalLongitude                            6284514
-phylum                                 Tracheophyta
-Class                                 Magnoliopsida
-order                                    Sapindales
-family                                     Rutaceae
-genus                                        Citrus
-specificEpithet                            sinensis
-infraspecificEpithet                            NaN
-nameAcordingTo                          (L.) Osbeck
-verbatimTaxonRank                               NaN
-taxonRank                                   species
-acceptedNameUsage       Citrus sinensis (L.) Osbeck
-Nombre común                                    NaN
-Estado                                         Viva
-establishmentMeans                          Exótica
-ingreso                                        2019
-plantacion                                     2015
-sex                                   hermaphrodite
+catalogNumber                  AA0859
+Class                   Magnoliopsida
+order                      Sapindales
+family                       Rutaceae
+genus                          Citrus
+specificEpithet              sinensis
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0859, dtype: object

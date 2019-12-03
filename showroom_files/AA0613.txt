@@ -1,22 +1,10 @@
-catalogNumber                                  AA0613
-basisOfRecord                          LivingSpecimen
-decimalLatitude                                348535
-decimalLongitude                              6284497
-phylum                                   Tracheophyta
-Class                                   Magnoliopsida
-order                                        Laurales
-family                                    Monimiaceae
-genus                                          Peumus
-specificEpithet                                boldus
-infraspecificEpithet                              NaN
-nameAcordingTo                        (Molina) Molina
-verbatimTaxonRank                                 NaN
-taxonRank                                     species
-acceptedNameUsage       Peumus boldus (Molina) Molina
-Nombre común                                      NaN
-Estado                                           Viva
-establishmentMeans                             Nativa
-ingreso                                          2019
-plantacion                                        NaN
-sex                                              male
+catalogNumber                  AA0613
+Class                   Magnoliopsida
+order                        Laurales
+family                    Monimiaceae
+genus                          Peumus
+specificEpithet                boldus
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0613, dtype: object

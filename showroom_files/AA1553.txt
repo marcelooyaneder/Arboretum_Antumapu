@@ -1,22 +1,10 @@
-catalogNumber                               AA1553
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348560
-decimalLongitude                           6284289
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                 Malpighiales
-family                                  Salicaceae
-genus                                      Populus
-specificEpithet                         canadensis
-infraspecificEpithet                         I-214
-nameAcordingTo                              Moench
-verbatimTaxonRank       Populus x canadensis I-214
-taxonRank                                 varietas
-acceptedNameUsage        Populus canadensis Moench
-Nombre común                                   NaN
-Estado                                        Viva
-establishmentMeans                         Exótica
-ingreso                                       2019
-plantacion                                     NaN
-sex                                  hermaphrodite
+catalogNumber                  AA1553
+Class                   Magnoliopsida
+order                    Malpighiales
+family                     Salicaceae
+genus                         Populus
+specificEpithet            canadensis
+infraspecificEpithet            I-214
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1553, dtype: object

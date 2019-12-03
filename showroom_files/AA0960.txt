@@ -1,22 +1,10 @@
-catalogNumber                                   AA0960
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348614
-decimalLongitude                               6284664
-phylum                                    Tracheophyta
-Class                                       Liliopsida
-order                                         Arecales
-family                                       Arecaceae
-genus                                          Phoenix
-specificEpithet                            canariensis
-infraspecificEpithet                               NaN
-nameAcordingTo                              H.Wildpret
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Phoenix canariensis H.Wildpret
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-sex                                      hermaphrodite
+catalogNumber                AA0960
+Class                    Liliopsida
+order                      Arecales
+family                    Arecaceae
+genus                       Phoenix
+specificEpithet         canariensis
+infraspecificEpithet            NaN
+Nombre común                    NaN
+ingreso                        2019
 Name: AA0960, dtype: object

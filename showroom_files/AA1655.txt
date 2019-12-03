@@ -1,22 +1,10 @@
-catalogNumber                     AA1655
-basisOfRecord             LivingSpecimen
-decimalLatitude                   348572
-decimalLongitude                 6284337
-phylum                      Tracheophyta
-Class                      Magnoliopsida
-order                            Fagales
-family                      Juglandaceae
-genus                            Juglans
-specificEpithet                    nigra
-infraspecificEpithet                 NaN
-nameAcordingTo                        L.
-verbatimTaxonRank                    NaN
-taxonRank                        species
-acceptedNameUsage       Juglans nigra L.
-Nombre común                         NaN
-Estado                              Viva
-establishmentMeans               Exótica
-ingreso                             2019
-plantacion                           NaN
-sex                        hermaphrodite
+catalogNumber                  AA1655
+Class                   Magnoliopsida
+order                         Fagales
+family                   Juglandaceae
+genus                         Juglans
+specificEpithet                 nigra
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1655, dtype: object

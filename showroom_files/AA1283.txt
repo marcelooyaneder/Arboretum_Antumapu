@@ -1,22 +1,10 @@
-catalogNumber                   AA1283
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348444
-decimalLongitude               6284280
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                          Rosales
-family                        Rosaceae
-genus                            Malus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                   Mill.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage         Malus  Mill.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA1283
+Class                   Magnoliopsida
+order                         Rosales
+family                       Rosaceae
+genus                           Malus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1283, dtype: object

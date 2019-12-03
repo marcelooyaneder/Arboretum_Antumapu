@@ -1,22 +1,10 @@
-catalogNumber                               AA0634
-basisOfRecord                       LivingSpecimen
-decimalLatitude                             348432
-decimalLongitude                           6284498
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                      Fabales
-family                                    Fabaceae
-genus                                  Caesalpinia
-specificEpithet                            spinosa
-infraspecificEpithet                           NaN
-nameAcordingTo                              Kuntze
-verbatimTaxonRank                              NaN
-taxonRank                                  species
-acceptedNameUsage       Caesalpinia spinosa Kuntze
-Nombre común                                   NaN
-Estado                                        Viva
-establishmentMeans                          Nativa
-ingreso                                       2019
-plantacion                                     NaN
-sex                                  hermaphrodite
+catalogNumber                  AA0634
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                     Caesalpinia
+specificEpithet               spinosa
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0634, dtype: object

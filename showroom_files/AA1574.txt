@@ -1,22 +1,10 @@
-catalogNumber                             AA1574
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348580
-decimalLongitude                         6284306
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                 Sapindales
-family                             Anacardiaceae
-genus                                    Schinus
-specificEpithet                       latifolius
-infraspecificEpithet                         NaN
-nameAcordingTo                             Engl.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Schinus latifolius Engl.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                   NaN
-sex                                hermaphrodite
+catalogNumber                  AA1574
+Class                   Magnoliopsida
+order                      Sapindales
+family                  Anacardiaceae
+genus                         Schinus
+specificEpithet            latifolius
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1574, dtype: object

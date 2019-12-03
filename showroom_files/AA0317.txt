@@ -1,22 +1,10 @@
-catalogNumber                                       AA0317
-basisOfRecord                               LivingSpecimen
-decimalLatitude                                     348566
-decimalLongitude                                   6284417
-phylum                                        Tracheophyta
-Class                                        Magnoliopsida
-order                                              Fabales
-family                                        Quillajaceae
-genus                                             Quillaja
-specificEpithet                                  saponaria
-infraspecificEpithet                                   NaN
-nameAcordingTo                             (Molina) Molina
-verbatimTaxonRank                                      NaN
-taxonRank                                          species
-acceptedNameUsage       Quillaja saponaria (Molina) Molina
-Nombre común                                           NaN
-Estado                                                Viva
-establishmentMeans                                  Nativa
-ingreso                                               2019
-plantacion                                             NaN
-sex                                          hermaphrodite
+catalogNumber                  AA0317
+Class                   Magnoliopsida
+order                         Fabales
+family                   Quillajaceae
+genus                        Quillaja
+specificEpithet             saponaria
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0317, dtype: object

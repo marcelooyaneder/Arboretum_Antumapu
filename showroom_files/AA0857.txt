@@ -1,22 +1,10 @@
-catalogNumber                           AA0857
-basisOfRecord                   LivingSpecimen
-decimalLatitude                         348470
-decimalLongitude                       6284510
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                                  Rosales
-family                                Rosaceae
-genus                                   Prunus
-specificEpithet                         dulcis
-infraspecificEpithet                       NaN
-nameAcordingTo                        D.A.Webb
-verbatimTaxonRank                          NaN
-taxonRank                              species
-acceptedNameUsage       Prunus dulcis D.A.Webb
-Nombre común                               NaN
-Estado                                    Viva
-establishmentMeans                     Exótica
-ingreso                                   2019
-plantacion                                 NaN
-sex                              hermaphrodite
+catalogNumber                  AA0857
+Class                   Magnoliopsida
+order                         Rosales
+family                       Rosaceae
+genus                          Prunus
+specificEpithet                dulcis
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0857, dtype: object

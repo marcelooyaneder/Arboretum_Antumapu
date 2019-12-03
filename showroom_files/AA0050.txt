@@ -1,22 +1,10 @@
-catalogNumber                         AA0050
-basisOfRecord                 LivingSpecimen
-decimalLatitude                       348660
-decimalLongitude                     6284215
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                                Fabales
-family                              Fabaceae
-genus                                 Acacia
-specificEpithet                     dealbata
-infraspecificEpithet                     NaN
-nameAcordingTo                          Link
-verbatimTaxonRank                        NaN
-taxonRank                            species
-acceptedNameUsage       Acacia dealbata Link
-Nombre común                           Aromo
-Estado                                  Viva
-establishmentMeans                   Exótica
-ingreso                                 2019
-plantacion                               NaN
-sex                            hermaphrodite
+catalogNumber                  AA0050
+Class                   Magnoliopsida
+order                         Fabales
+family                       Fabaceae
+genus                          Acacia
+specificEpithet              dealbata
+infraspecificEpithet              NaN
+Nombre común                    Aromo
+ingreso                          2019
 Name: AA0050, dtype: object

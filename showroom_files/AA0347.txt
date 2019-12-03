@@ -1,22 +1,10 @@
-catalogNumber                             AA0347
-basisOfRecord                     LivingSpecimen
-decimalLatitude                           348553
-decimalLongitude                         6284379
-phylum                              Tracheophyta
-Class                              Magnoliopsida
-order                                   Myrtales
-family                                Onagraceae
-genus                                    Fuchsia
-specificEpithet                      magellanica
-infraspecificEpithet                         NaN
-nameAcordingTo                              Lam.
-verbatimTaxonRank                            NaN
-taxonRank                                species
-acceptedNameUsage       Fuchsia magellanica Lam.
-Nombre común                                 NaN
-Estado                                      Viva
-establishmentMeans                        Nativa
-ingreso                                     2019
-plantacion                                  2015
-sex                                hermaphrodite
+catalogNumber                  AA0347
+Class                   Magnoliopsida
+order                        Myrtales
+family                     Onagraceae
+genus                         Fuchsia
+specificEpithet           magellanica
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0347, dtype: object

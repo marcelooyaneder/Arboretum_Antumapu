@@ -1,22 +1,10 @@
-catalogNumber                                   AA0599
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348492
-decimalLongitude                               6284470
-phylum                                    Tracheophyta
-Class                                       Liliopsida
-order                                         Arecales
-family                                       Arecaceae
-genus                                     Trachycarpus
-specificEpithet                               fortunei
-infraspecificEpithet                               NaN
-nameAcordingTo                                H.Wendl.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Trachycarpus fortunei H.Wendl.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-sex                                                NaN
+catalogNumber                 AA0599
+Class                     Liliopsida
+order                       Arecales
+family                     Arecaceae
+genus                   Trachycarpus
+specificEpithet             fortunei
+infraspecificEpithet             NaN
+Nombre común                     NaN
+ingreso                         2019
 Name: AA0599, dtype: object

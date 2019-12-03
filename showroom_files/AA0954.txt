@@ -1,22 +1,10 @@
-catalogNumber                            AA0954
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348555
-decimalLongitude                        6284656
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                               Magnoliales
-family                             Magnoliaceae
-genus                                  Magnolia
-specificEpithet                     grandiflora
-infraspecificEpithet                        NaN
-nameAcordingTo                               L.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Magnolia grandiflora L.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                      Exótica
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA0954
+Class                   Magnoliopsida
+order                     Magnoliales
+family                   Magnoliaceae
+genus                        Magnolia
+specificEpithet           grandiflora
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0954, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                                   AA1469
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348417
-decimalLongitude                               6284317
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Laurales
-family                                       Lauraceae
-genus                                    Beilschmiedia
-specificEpithet                                miersii
-infraspecificEpithet                               NaN
-nameAcordingTo                                Kosterm.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Beilschmiedia miersii Kosterm.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                              Nativa
-ingreso                                           2019
-plantacion                                        2016
-sex                                      hermaphrodite
+catalogNumber                  AA1469
+Class                   Magnoliopsida
+order                        Laurales
+family                      Lauraceae
+genus                   Beilschmiedia
+specificEpithet               miersii
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA1469, dtype: object

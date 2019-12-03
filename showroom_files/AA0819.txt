@@ -1,22 +1,10 @@
-catalogNumber                   AA0819
-basisOfRecord           LivingSpecimen
-decimalLatitude                 348445
-decimalLongitude               6284409
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                          Rosales
-family                        Rosaceae
-genus                            Pyrus
-specificEpithet                    NaN
-infraspecificEpithet               NaN
-nameAcordingTo                      L.
-verbatimTaxonRank                  sp.
-taxonRank                        genus
-acceptedNameUsage            Pyrus  L.
-Nombre común                       NaN
-Estado                            Viva
-establishmentMeans             Exótica
-ingreso                           2019
-plantacion                         NaN
-sex                      hermaphrodite
+catalogNumber                  AA0819
+Class                   Magnoliopsida
+order                         Rosales
+family                       Rosaceae
+genus                           Pyrus
+specificEpithet                   NaN
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0819, dtype: object

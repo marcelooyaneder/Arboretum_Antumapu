@@ -1,22 +1,10 @@
-catalogNumber                            AA0427
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348497
-decimalLongitude                        6284420
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                  Laurales
-family                                Lauraceae
-genus                               Cryptocarya
-specificEpithet                            alba
-infraspecificEpithet                        NaN
-nameAcordingTo                           Looser
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Cryptocarya alba Looser
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                  NaN
-sex                               hermaphrodite
+catalogNumber                  AA0427
+Class                   Magnoliopsida
+order                        Laurales
+family                      Lauraceae
+genus                     Cryptocarya
+specificEpithet                  alba
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0427, dtype: object

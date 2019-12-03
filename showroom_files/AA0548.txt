@@ -1,22 +1,10 @@
-catalogNumber                                 AA0548
-basisOfRecord                         LivingSpecimen
-decimalLatitude                               348539
-decimalLongitude                             6284421
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                     Oxalidales
-family                                Elaeocarpaceae
-genus                                   Crinodendron
-specificEpithet                          hookerianum
-infraspecificEpithet                             NaN
-nameAcordingTo                                   Gay
-verbatimTaxonRank                                NaN
-taxonRank                                    species
-acceptedNameUsage       Crinodendron hookerianum Gay
-Nombre común                                     NaN
-Estado                                        Muerto
-establishmentMeans                            Nativa
-ingreso                                         2019
-plantacion                                       NaN
-sex                                    hermaphrodite
+catalogNumber                   AA0548
+Class                    Magnoliopsida
+order                       Oxalidales
+family                  Elaeocarpaceae
+genus                     Crinodendron
+specificEpithet            hookerianum
+infraspecificEpithet               NaN
+Nombre común                       NaN
+ingreso                           2019
 Name: AA0548, dtype: object

@@ -1,22 +1,10 @@
-catalogNumber                            AA1516
-basisOfRecord                    LivingSpecimen
-decimalLatitude                          348420
-decimalLongitude                        6284341
-phylum                             Tracheophyta
-Class                                Liliopsida
-order                                  Arecales
-family                                Arecaceae
-genus                                    Jubaea
-specificEpithet                       chilensis
-infraspecificEpithet                        NaN
-nameAcordingTo                           Baill.
-verbatimTaxonRank                           NaN
-taxonRank                               species
-acceptedNameUsage       Jubaea chilensis Baill.
-Nombre común                                NaN
-Estado                                     Viva
-establishmentMeans                       Nativa
-ingreso                                    2019
-plantacion                                 2016
-sex                               hermaphrodite
+catalogNumber               AA1516
+Class                   Liliopsida
+order                     Arecales
+family                   Arecaceae
+genus                       Jubaea
+specificEpithet          chilensis
+infraspecificEpithet           NaN
+Nombre común                   NaN
+ingreso                       2019
 Name: AA1516, dtype: object

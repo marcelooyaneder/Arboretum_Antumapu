@@ -1,22 +1,10 @@
-catalogNumber                                   AA0175
-basisOfRecord                           LivingSpecimen
-decimalLatitude                                 348592
-decimalLongitude                               6284241
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Malvales
-family                                       Malvaceae
-genus                                     Brachychiton
-specificEpithet                               discolor
-infraspecificEpithet                               NaN
-nameAcordingTo                                F.Muell.
-verbatimTaxonRank                                  NaN
-taxonRank                                      species
-acceptedNameUsage       Brachychiton discolor F.Muell.
-Nombre común                                       NaN
-Estado                                            Viva
-establishmentMeans                             Exótica
-ingreso                                           2019
-plantacion                                         NaN
-sex                                      hermaphrodite
+catalogNumber                  AA0175
+Class                   Magnoliopsida
+order                        Malvales
+family                      Malvaceae
+genus                    Brachychiton
+specificEpithet              discolor
+infraspecificEpithet              NaN
+Nombre común                      NaN
+ingreso                          2019
 Name: AA0175, dtype: object
