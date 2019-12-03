@@ -1,10 +1,10 @@
-catalogNumber                 AA1265
-Class                     Liliopsida
-order                       Arecales
-family                     Arecaceae
-genus                   Washingtonia
-specificEpithet             filifera
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord                                   LivingSpecimen
+phylum                                            Tracheophyta
+Class                                               Liliopsida
+order                                                 Arecales
+genus                                             Washingtonia
+taxonRank                                              species
+acceptedNameUsage    Washingtonia filifera H.Wendl. ex de Bary
+Nombre común                                               NaN
+ingreso                                                   2019
 Name: AA1265, dtype: object

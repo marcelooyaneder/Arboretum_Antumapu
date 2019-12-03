@@ -1,10 +1,10 @@
-catalogNumber                  AA0531
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                           Azara
-specificEpithet            lanceolata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                            Malpighiales
+genus                                   Azara
+taxonRank                             species
+acceptedNameUsage    Azara lanceolata Hook.f.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0531, dtype: object

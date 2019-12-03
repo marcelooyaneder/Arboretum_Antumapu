@@ -1,10 +1,10 @@
-catalogNumber                  AA0651
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                         Populus
-specificEpithet            canadensis
-infraspecificEpithet            I-214
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                   LivingSpecimen
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                             Malpighiales
+genus                                  Populus
+taxonRank                             varietas
+acceptedNameUsage    Populus canadensis Moench
+Nombre común                               NaN
+ingreso                                   2019
 Name: AA0651, dtype: object

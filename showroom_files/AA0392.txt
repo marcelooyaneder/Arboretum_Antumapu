@@ -1,10 +1,10 @@
-catalogNumber                  AA0392
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                           Azara
-specificEpithet            celastrina
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                          Malpighiales
+genus                                 Azara
+taxonRank                           species
+acceptedNameUsage    Azara celastrina D.Don
+Nombre común                            NaN
+ingreso                                2019
 Name: AA0392, dtype: object

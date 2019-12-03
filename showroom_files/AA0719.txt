@@ -1,10 +1,10 @@
-catalogNumber                  AA0719
-Class                   Magnoliopsida
-order                         Apiales
-family                       Apiaceae
-genus                      Foeniculum
-specificEpithet               vulgare
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                 Apiales
+genus                              Foeniculum
+taxonRank                             species
+acceptedNameUsage    Foeniculum vulgare Mill.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0719, dtype: object

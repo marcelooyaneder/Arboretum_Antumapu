@@ -1,10 +1,10 @@
-catalogNumber                  AA0173
-Class                       Pinopsida
-order                     Cupressales
-family                   Cupressaceae
-genus                   Chamaecyparis
-specificEpithet            lawsoniana
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                        LivingSpecimen
+phylum                                 Tracheophyta
+Class                                     Pinopsida
+order                                   Cupressales
+genus                                 Chamaecyparis
+taxonRank                                   species
+acceptedNameUsage    Chamaecyparis lawsoniana Parl.
+Nombre común                                    NaN
+ingreso                                        2019
 Name: AA0173, dtype: object

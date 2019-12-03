@@ -1,10 +1,10 @@
-catalogNumber                  AA0956
-Class                   Magnoliopsida
-order                        Malvales
-family                      Malvaceae
-genus                           Tilia
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                      Malvales
+genus                         Tilia
+taxonRank                     genus
+acceptedNameUsage         Tilia  L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA0956, dtype: object

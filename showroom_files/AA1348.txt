@@ -1,10 +1,10 @@
-catalogNumber              AA1348
-Class                   Pinopsida
-order                     Pinales
-family                   Pinaceae
-genus                       Pinus
-specificEpithet           radiata
-infraspecificEpithet          NaN
-Nombre común                  NaN
-ingreso                      2019
+basisOfRecord             LivingSpecimen
+phylum                      Tracheophyta
+Class                          Pinopsida
+order                            Pinales
+genus                              Pinus
+taxonRank                        species
+acceptedNameUsage    Pinus radiata D.Don
+Nombre común                         NaN
+ingreso                             2019
 Name: AA1348, dtype: object

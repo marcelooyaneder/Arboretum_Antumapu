@@ -1,10 +1,10 @@
-catalogNumber                   AA1629
-Class                    Magnoliopsida
-order                       Oxalidales
-family                  Elaeocarpaceae
-genus                     Crinodendron
-specificEpithet                patagua
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                              LivingSpecimen
+phylum                                       Tracheophyta
+Class                                       Magnoliopsida
+order                                          Oxalidales
+genus                                        Crinodendron
+taxonRank                                         species
+acceptedNameUsage    Crinodendron patagua (Molina) Molina
+Nombre común                                          NaN
+ingreso                                              2019
 Name: AA1629, dtype: object

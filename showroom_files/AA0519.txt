@@ -1,10 +1,10 @@
-catalogNumber                  AA0519
-Class                   Magnoliopsida
-order                        Laurales
-family                  Gomortegaceae
-genus                       Gomortega
-specificEpithet                 keule
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                               Laurales
+genus                              Gomortega
+taxonRank                            species
+acceptedNameUsage    Gomortega keule Gunckel
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0519, dtype: object

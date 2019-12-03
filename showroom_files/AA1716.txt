@@ -1,10 +1,10 @@
-catalogNumber                  AA1716
+basisOfRecord          LivingSpecimen
+phylum                   Tracheophyta
 Class                   Magnoliopsida
 order                         Fagales
-family                   Juglandaceae
 genus                         Juglans
-specificEpithet                 regia
-infraspecificEpithet              NaN
+taxonRank                     species
+acceptedNameUsage    Juglans regia L.
 Nombre común                      NaN
 ingreso                          2019
 Name: AA1716, dtype: object

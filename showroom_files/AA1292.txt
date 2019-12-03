@@ -1,10 +1,10 @@
-catalogNumber                  AA1292
-Class                   Magnoliopsida
-order                    Saxifragales
-family                   Altingiaceae
-genus                     Liquidambar
-specificEpithet           styraciflua
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                              Saxifragales
+genus                               Liquidambar
+taxonRank                               species
+acceptedNameUsage    Liquidambar styraciflua L.
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA1292, dtype: object

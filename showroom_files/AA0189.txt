@@ -1,10 +1,10 @@
-catalogNumber                  AA0189
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                          Acacia
-specificEpithet                karroo
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord             LivingSpecimen
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                            Fabales
+genus                             Acacia
+taxonRank                        species
+acceptedNameUsage    Acacia karroo Hayne
+Nombre común                         NaN
+ingreso                             2019
 Name: AA0189, dtype: object

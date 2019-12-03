@@ -1,10 +1,10 @@
-catalogNumber                  AA1537
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                         Sophora
-specificEpithet            macrocarpa
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                               Fabales
+genus                               Sophora
+taxonRank                           species
+acceptedNameUsage    Sophora macrocarpa Sm.
+Nombre común                            NaN
+ingreso                                2019
 Name: AA1537, dtype: object

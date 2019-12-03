@@ -1,10 +1,10 @@
-catalogNumber                  AA0096
-Class                   Magnoliopsida
-order                         Fagales
-family                  Casuarinaceae
-genus                       Casuarina
-specificEpithet         equisetifolia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Fagales
+genus                                 Casuarina
+taxonRank                               species
+acceptedNameUsage    Casuarina equisetifolia L.
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA0096, dtype: object

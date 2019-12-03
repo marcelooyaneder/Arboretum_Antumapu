@@ -1,10 +1,10 @@
-catalogNumber                  AA0573
-Class                   Magnoliopsida
-order                         Fagales
-family                  Nothofagaceae
-genus                      Nothofagus
-specificEpithet               dombeyi
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                   LivingSpecimen
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                  Fagales
+genus                               Nothofagus
+taxonRank                              species
+acceptedNameUsage    Nothofagus dombeyi Oerst.
+Nombre común                               NaN
+ingreso                                   2019
 Name: AA0573, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber               AA0284
-Class                   Liliopsida
-order                     Arecales
-family                   Arecaceae
-genus                       Jubaea
-specificEpithet          chilensis
-infraspecificEpithet           NaN
-Nombre común                   NaN
-ingreso                       2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                             Liliopsida
+order                               Arecales
+genus                                 Jubaea
+taxonRank                            species
+acceptedNameUsage    Jubaea chilensis Baill.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0284, dtype: object

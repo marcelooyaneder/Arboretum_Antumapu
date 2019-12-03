@@ -1,10 +1,10 @@
-catalogNumber                  AA1638
-Class                   Magnoliopsida
-order                      Sapindales
-family                    Sapindaceae
-genus                            Acer
-specificEpithet              palmatum
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                                LivingSpecimen
+phylum                                         Tracheophyta
+Class                                         Magnoliopsida
+order                                            Sapindales
+genus                                                  Acer
+taxonRank                                           species
+acceptedNameUsage    Acer palmatum C.P.Thunberg ex A.Murray
+Nombre común                                            NaN
+ingreso                                                2019
 Name: AA1638, dtype: object

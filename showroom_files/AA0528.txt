@@ -1,10 +1,10 @@
-catalogNumber                   AA0528
-Class                   Polypodiopsida
-order                     Polypodiales
-family                     Blechnaceae
-genus                   Austroblechnum
-specificEpithet           penna-marina
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                                           LivingSpecimen
+phylum                                                    Tracheophyta
+Class                                                   Polypodiopsida
+order                                                     Polypodiales
+genus                                                   Austroblechnum
+taxonRank                                                      species
+acceptedNameUsage    Austroblechnum penna-marina (Poir.) Gasper & V...
+Nombre común                                                       NaN
+ingreso                                                           2019
 Name: AA0528, dtype: object

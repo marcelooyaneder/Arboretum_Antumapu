@@ -1,10 +1,10 @@
-catalogNumber                  AA0486
-Class                   Magnoliopsida
-order                      Canellales
-family                    Winteraceae
-genus                          Drimys
-specificEpithet               winteri
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                              LivingSpecimen
+phylum                                       Tracheophyta
+Class                                       Magnoliopsida
+order                                          Canellales
+genus                                              Drimys
+taxonRank                                         species
+acceptedNameUsage    Drimys winteri J.R.Forst. & G.Forst.
+Nombre común                                          NaN
+ingreso                                              2019
 Name: AA0486, dtype: object

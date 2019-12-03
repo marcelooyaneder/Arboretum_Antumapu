@@ -1,10 +1,10 @@
-catalogNumber                  AA0282
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                          Acacia
-specificEpithet                 caven
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                      LivingSpecimen
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                     Fabales
+genus                                      Acacia
+taxonRank                                 species
+acceptedNameUsage    Acacia caven (Molina) Molina
+Nombre común                                  NaN
+ingreso                                      2019
 Name: AA0282, dtype: object

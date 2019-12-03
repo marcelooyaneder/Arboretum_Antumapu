@@ -1,10 +1,10 @@
-catalogNumber                  AA0041
-Class                   Magnoliopsida
-order                        Lamiales
-family                       Oleaceae
-genus                        Fraxinus
-specificEpithet                 ornus
-infraspecificEpithet              NaN
-Nombre común                   Fresno
-ingreso                          2019
+basisOfRecord           LivingSpecimen
+phylum                    Tracheophyta
+Class                    Magnoliopsida
+order                         Lamiales
+genus                         Fraxinus
+taxonRank                      species
+acceptedNameUsage    Fraxinus ornus L.
+Nombre común                    Fresno
+ingreso                           2019
 Name: AA0041, dtype: object

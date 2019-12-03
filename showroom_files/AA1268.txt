@@ -1,10 +1,10 @@
-catalogNumber                 AA1268
-Class                     Liliopsida
-order                    Asparagales
-family                  Asparagaceae
-genus                          Agave
-specificEpithet            americana
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                           Liliopsida
+order                          Asparagales
+genus                                Agave
+taxonRank                          species
+acceptedNameUsage    Agave americana Trel.
+Nombre común                           NaN
+ingreso                               2019
 Name: AA1268, dtype: object

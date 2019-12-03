@@ -1,10 +1,10 @@
-catalogNumber                  AA1397
-Class                   Magnoliopsida
-order                         Rosales
-family                       Rosaceae
-genus                        Photinia
-specificEpithet          serratifolia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                      Rosales
+genus                                     Photinia
+taxonRank                                  species
+acceptedNameUsage    Photinia serratifolia Kalkman
+Nombre común                                   NaN
+ingreso                                       2019
 Name: AA1397, dtype: object

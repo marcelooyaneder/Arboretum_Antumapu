@@ -1,10 +1,10 @@
-catalogNumber                      AA0490
-Class                       Magnoliopsida
-order                        Aquifoliales
-family                  Cardiopteridaceae
-genus                          Citronella
-specificEpithet                 mucronata
-infraspecificEpithet                  NaN
-Nombre común                          NaN
-ingreso                              2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                              Aquifoliales
+genus                                Citronella
+taxonRank                               species
+acceptedNameUsage    Citronella mucronata D.Don
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA0490, dtype: object

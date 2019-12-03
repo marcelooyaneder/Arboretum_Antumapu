@@ -1,10 +1,10 @@
-catalogNumber                      AA0055
-Class                       Magnoliopsida
-order                          Sapindales
-family                          Meliaceae
-genus                               Melia
-specificEpithet                 azedarach
-infraspecificEpithet                  NaN
-Nombre común            Arbol del paraíso
-ingreso                              2019
+basisOfRecord            LivingSpecimen
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                        Sapindales
+genus                             Melia
+taxonRank                       species
+acceptedNameUsage    Melia azedarach L.
+Nombre común          Arbol del paraíso
+ingreso                            2019
 Name: AA0055, dtype: object

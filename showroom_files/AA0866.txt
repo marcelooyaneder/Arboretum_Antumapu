@@ -1,10 +1,10 @@
-catalogNumber                  AA0866
-Class                   Magnoliopsida
-order                        Lamiales
-family                      Lamiaceae
-genus                      Rosmarinus
-specificEpithet           officinalis
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                                LivingSpecimen
+phylum                                         Tracheophyta
+Class                                         Magnoliopsida
+order                                              Lamiales
+genus                                            Rosmarinus
+taxonRank                                           species
+acceptedNameUsage    Rosmarinus officinalis de Noë ex Lange
+Nombre común                                            NaN
+ingreso                                                2019
 Name: AA0866, dtype: object

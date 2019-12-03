@@ -1,10 +1,10 @@
-catalogNumber                  AA0587
-Class                   Magnoliopsida
-order                        Laurales
-family                      Lauraceae
-genus                   Beilschmiedia
-specificEpithet            berteroana
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                           LivingSpecimen
+phylum                                    Tracheophyta
+Class                                    Magnoliopsida
+order                                         Laurales
+genus                                    Beilschmiedia
+taxonRank                                      species
+acceptedNameUsage    Beilschmiedia berteroana Kosterm.
+Nombre común                                       NaN
+ingreso                                           2019
 Name: AA0587, dtype: object

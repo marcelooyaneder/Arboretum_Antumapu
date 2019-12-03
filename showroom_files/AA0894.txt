@@ -1,10 +1,10 @@
-catalogNumber                  AA0894
-Class                   Magnoliopsida
-order                         Rosales
-family                       Moraceae
-genus                           Ficus
-specificEpithet                carica
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord         LivingSpecimen
+phylum                  Tracheophyta
+Class                  Magnoliopsida
+order                        Rosales
+genus                          Ficus
+taxonRank                    species
+acceptedNameUsage    Ficus carica L.
+Nombre común                     NaN
+ingreso                         2019
 Name: AA0894, dtype: object

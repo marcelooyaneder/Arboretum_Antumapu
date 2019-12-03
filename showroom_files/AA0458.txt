@@ -1,10 +1,10 @@
-catalogNumber                  AA0458
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                       Ceratonia
-specificEpithet               siliqua
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord              LivingSpecimen
+phylum                       Tracheophyta
+Class                       Magnoliopsida
+order                             Fabales
+genus                           Ceratonia
+taxonRank                         species
+acceptedNameUsage    Ceratonia siliqua L.
+Nombre común                          NaN
+ingreso                              2019
 Name: AA0458, dtype: object

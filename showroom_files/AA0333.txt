@@ -1,10 +1,10 @@
-catalogNumber              AA0333
-Class                   Pinopsida
-order                     Pinales
-family                   Pinaceae
-genus                      Cedrus
-specificEpithet           deodara
-infraspecificEpithet          NaN
-Nombre común                  NaN
-ingreso                      2019
+basisOfRecord              LivingSpecimen
+phylum                       Tracheophyta
+Class                           Pinopsida
+order                             Pinales
+genus                              Cedrus
+taxonRank                         species
+acceptedNameUsage    Cedrus deodara G.Don
+Nombre común                          NaN
+ingreso                              2019
 Name: AA0333, dtype: object

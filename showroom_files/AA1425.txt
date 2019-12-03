@@ -1,10 +1,10 @@
-catalogNumber                  AA1425
-Class                   Magnoliopsida
-order                         Fagales
-family                     Betulaceae
-genus                          Betula
-specificEpithet               pendula
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord             LivingSpecimen
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                            Fagales
+genus                             Betula
+taxonRank                        species
+acceptedNameUsage    Betula pendula Roth
+Nombre común                         NaN
+ingreso                             2019
 Name: AA1425, dtype: object

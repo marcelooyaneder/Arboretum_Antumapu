@@ -1,10 +1,10 @@
-catalogNumber                  AA0838
-Class                   Magnoliopsida
-order                        Lamiales
-family                       Oleaceae
-genus                        Fraxinus
-specificEpithet             excelsior
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Lamiales
+genus                             Fraxinus
+taxonRank                          species
+acceptedNameUsage    Fraxinus excelsior L.
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0838, dtype: object

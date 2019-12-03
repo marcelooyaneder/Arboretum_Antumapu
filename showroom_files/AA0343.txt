@@ -1,10 +1,10 @@
-catalogNumber                  AA0343
-Class                   Magnoliopsida
-order                    Malpighiales
-family                  Euphorbiaceae
-genus                      Colliguaja
-specificEpithet             odorifera
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                              LivingSpecimen
+phylum                                       Tracheophyta
+Class                                       Magnoliopsida
+order                                        Malpighiales
+genus                                          Colliguaja
+taxonRank                                         species
+acceptedNameUsage    Colliguaja odorifera (Molina) Molina
+Nombre común                                          NaN
+ingreso                                              2019
 Name: AA0343, dtype: object

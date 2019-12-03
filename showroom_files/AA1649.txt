@@ -1,10 +1,10 @@
-catalogNumber                  AA1649
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                          Myrtus
-specificEpithet              communis
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord            LivingSpecimen
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                          Myrtales
+genus                            Myrtus
+taxonRank                       species
+acceptedNameUsage    Myrtus communis L.
+Nombre común                        NaN
+ingreso                            2019
 Name: AA1649, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                   AA0021
-Class                    Magnoliopsida
-order                       Sapindales
-family                     Sapindaceae
-genus                             Acer
-specificEpithet         pseudoplatanus
-infraspecificEpithet               NaN
-Nombre común               Arce blanco
-ingreso                           2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                            Sapindales
+genus                                  Acer
+taxonRank                           species
+acceptedNameUsage    Acer pseudoplatanus L.
+Nombre común                    Arce blanco
+ingreso                                2019
 Name: AA0021, dtype: object

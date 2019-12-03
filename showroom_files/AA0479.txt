@@ -1,10 +1,10 @@
-catalogNumber                  AA0479
-Class                   Magnoliopsida
-order                        Lamiales
-family                       Oleaceae
-genus                        Jasminum
-specificEpithet                mesnyi
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                             Lamiales
+genus                             Jasminum
+taxonRank                          species
+acceptedNameUsage    Jasminum mesnyi Hance
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0479, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                   AA0362
-Class                    Magnoliopsida
-order                         Lamiales
-family                  Plantaginaceae
-genus                          Monttea
-specificEpithet              chilensis
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                               Lamiales
+genus                                Monttea
+taxonRank                            species
+acceptedNameUsage    Monttea chilensis J.Gay
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0362, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0306
-Class                   Magnoliopsida
-order                         Fabales
-family                   Quillajaceae
-genus                        Quillaja
-specificEpithet             saponaria
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                            LivingSpecimen
+phylum                                     Tracheophyta
+Class                                     Magnoliopsida
+order                                           Fabales
+genus                                          Quillaja
+taxonRank                                       species
+acceptedNameUsage    Quillaja saponaria (Molina) Molina
+Nombre común                                        NaN
+ingreso                                            2019
 Name: AA0306, dtype: object

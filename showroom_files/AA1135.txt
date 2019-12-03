@@ -1,10 +1,10 @@
-catalogNumber                  AA1135
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                      Eucalyptus
-specificEpithet              globulus
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                     LivingSpecimen
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Myrtales
+genus                                 Eucalyptus
+taxonRank                                species
+acceptedNameUsage    Eucalyptus globulus Labill.
+Nombre común                                 NaN
+ingreso                                     2019
 Name: AA1135, dtype: object

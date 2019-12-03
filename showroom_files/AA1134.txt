@@ -1,10 +1,10 @@
-catalogNumber                  AA1134
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                      Eucalyptus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord            LivingSpecimen
+phylum                     Tracheophyta
+Class                     Magnoliopsida
+order                          Myrtales
+genus                        Eucalyptus
+taxonRank                         genus
+acceptedNameUsage    Eucalyptus  L'Her.
+Nombre común                        NaN
+ingreso                            2019
 Name: AA1134, dtype: object

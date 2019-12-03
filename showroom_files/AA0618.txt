@@ -1,10 +1,10 @@
-catalogNumber                  AA0618
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                   Blepharocalyx
-specificEpithet         cruckshanksii
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                           LivingSpecimen
+phylum                                    Tracheophyta
+Class                                    Magnoliopsida
+order                                         Myrtales
+genus                                    Blepharocalyx
+taxonRank                                      species
+acceptedNameUsage    Blepharocalyx cruckshanksii Nied.
+Nombre común                                       NaN
+ingreso                                           2019
 Name: AA0618, dtype: object

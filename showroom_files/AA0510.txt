@@ -1,10 +1,10 @@
-catalogNumber                  AA0510
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                         Sophora
-specificEpithet           microphylla
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                 Fabales
+genus                                 Sophora
+taxonRank                             species
+acceptedNameUsage    Sophora microphylla Ait.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0510, dtype: object

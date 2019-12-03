@@ -1,10 +1,10 @@
-catalogNumber                  AA1514
-Class                   Magnoliopsida
-order                    Malpighiales
-family                  Euphorbiaceae
-genus                      Avellanita
-specificEpithet           bustillosii
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                      LivingSpecimen
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                Malpighiales
+genus                                  Avellanita
+taxonRank                                 species
+acceptedNameUsage    Avellanita bustillosii Phil.
+Nombre común                                  NaN
+ingreso                                      2019
 Name: AA1514, dtype: object

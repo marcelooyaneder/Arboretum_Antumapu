@@ -1,10 +1,10 @@
-catalogNumber                  AA0240
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                        Prosopis
-specificEpithet             chilensis
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                   LivingSpecimen
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                  Fabales
+genus                                 Prosopis
+taxonRank                              species
+acceptedNameUsage    Prosopis chilensis Stuntz
+Nombre común                               NaN
+ingreso                                   2019
 Name: AA0240, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                   AA0560
-Class                    Magnoliopsida
-order                        Bruniales
-family                  Columelliaceae
-genus                     Desfontainia
-specificEpithet                fulgens
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                 Bruniales
+genus                              Desfontainia
+taxonRank                               species
+acceptedNameUsage    Desfontainia fulgens D.Don
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA0560, dtype: object

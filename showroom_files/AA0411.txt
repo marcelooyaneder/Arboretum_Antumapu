@@ -1,10 +1,10 @@
-catalogNumber                  AA0411
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                         Populus
-specificEpithet               simonii
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                            Malpighiales
+genus                                 Populus
+taxonRank                             species
+acceptedNameUsage    Populus simonii Carrière
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0411, dtype: object

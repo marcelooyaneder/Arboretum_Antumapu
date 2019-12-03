@@ -1,10 +1,10 @@
-catalogNumber                  AA0369
-Class                   Magnoliopsida
-order                     Boraginales
-family                    Ehretiaceae
-genus                          Cordia
-specificEpithet              decandra
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                      LivingSpecimen
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                 Boraginales
+genus                                      Cordia
+taxonRank                                 species
+acceptedNameUsage    Cordia decandra Hook. & Arn.
+Nombre común                                  NaN
+ingreso                                      2019
 Name: AA0369, dtype: object

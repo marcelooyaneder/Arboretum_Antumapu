@@ -1,10 +1,10 @@
-catalogNumber                  AA0700
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                          Acacia
-specificEpithet           melanoxylon
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                 Fabales
+genus                                  Acacia
+taxonRank                             species
+acceptedNameUsage    Acacia melanoxylon R.Br.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0700, dtype: object

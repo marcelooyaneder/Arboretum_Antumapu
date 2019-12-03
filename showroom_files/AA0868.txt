@@ -1,10 +1,10 @@
-catalogNumber                  AA0868
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                        Bauhinia
-specificEpithet             forficata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Fabales
+genus                               Bauhinia
+taxonRank                            species
+acceptedNameUsage    Bauhinia forficata Link
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0868, dtype: object

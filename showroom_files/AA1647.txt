@@ -1,10 +1,10 @@
-catalogNumber                   AA1647
-Class                    Magnoliopsida
-order                       Dipsacales
-family                  Caprifoliaceae
-genus                           Abelia
-specificEpithet               triflora
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                   Dipsacales
+genus                                       Abelia
+taxonRank                                  species
+acceptedNameUsage    Abelia triflora R.Br. Ex Wall
+Nombre común                                   NaN
+ingreso                                       2019
 Name: AA1647, dtype: object

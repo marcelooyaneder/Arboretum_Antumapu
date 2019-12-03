@@ -1,10 +1,10 @@
-catalogNumber                  AA0803
-Class                   Magnoliopsida
-order                         Rosales
-family                       Rosaceae
-genus                           Pyrus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                       Rosales
+genus                         Pyrus
+taxonRank                     genus
+acceptedNameUsage         Pyrus  L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA0803, dtype: object

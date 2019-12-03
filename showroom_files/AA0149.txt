@@ -1,10 +1,10 @@
-catalogNumber                  AA0149
-Class                   Magnoliopsida
-order                         Rosales
-family                       Moraceae
-genus                           Morus
-specificEpithet                  alba
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                       Rosales
+genus                         Morus
+taxonRank                   species
+acceptedNameUsage     Morus alba L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA0149, dtype: object

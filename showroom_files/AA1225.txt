@@ -1,10 +1,10 @@
-catalogNumber                   AA1225
-Class                    Magnoliopsida
-order                       Sapindales
-family                     Sapindaceae
-genus                             Acer
-specificEpithet         pseudoplatanus
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                LivingSpecimen
+phylum                         Tracheophyta
+Class                         Magnoliopsida
+order                            Sapindales
+genus                                  Acer
+taxonRank                           species
+acceptedNameUsage    Acer pseudoplatanus L.
+Nombre común                            NaN
+ingreso                                2019
 Name: AA1225, dtype: object

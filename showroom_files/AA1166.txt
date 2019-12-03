@@ -1,10 +1,10 @@
-catalogNumber                 AA1166
-Class                      Pinopsida
-order                    Cupressales
-family                  Cupressaceae
-genus                      Cupressus
-specificEpithet           macrocarpa
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord                               LivingSpecimen
+phylum                                        Tracheophyta
+Class                                            Pinopsida
+order                                          Cupressales
+genus                                            Cupressus
+taxonRank                                          species
+acceptedNameUsage    Cupressus macrocarpa Hartw. ex Gordon
+Nombre común                                           NaN
+ingreso                                               2019
 Name: AA1166, dtype: object

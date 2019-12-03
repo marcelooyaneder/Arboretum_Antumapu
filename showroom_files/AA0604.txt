@@ -1,10 +1,10 @@
-catalogNumber                     AA0604
-Class                      Magnoliopsida
-order                           Lamiales
-family                  Scrophulariaceae
-genus                           Myoporum
-specificEpithet                   laetum
-infraspecificEpithet                 NaN
-Nombre común                         NaN
-ingreso                             2019
+basisOfRecord                  LivingSpecimen
+phylum                           Tracheophyta
+Class                           Magnoliopsida
+order                                Lamiales
+genus                                Myoporum
+taxonRank                             species
+acceptedNameUsage    Myoporum laetum G.Forst.
+Nombre común                              NaN
+ingreso                                  2019
 Name: AA0604, dtype: object

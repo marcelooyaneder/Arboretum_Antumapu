@@ -1,10 +1,10 @@
-catalogNumber                 AA1591
-Class                     Liliopsida
-order                       Arecales
-family                     Arecaceae
-genus                   Trachycarpus
-specificEpithet             fortunei
-infraspecificEpithet             NaN
-Nombre común                     NaN
-ingreso                         2019
+basisOfRecord                        LivingSpecimen
+phylum                                 Tracheophyta
+Class                                    Liliopsida
+order                                      Arecales
+genus                                  Trachycarpus
+taxonRank                                   species
+acceptedNameUsage    Trachycarpus fortunei H.Wendl.
+Nombre común                                    NaN
+ingreso                                        2019
 Name: AA1591, dtype: object

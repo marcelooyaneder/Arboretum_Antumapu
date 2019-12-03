@@ -1,10 +1,10 @@
-catalogNumber                  AA0480
-Class                   Magnoliopsida
-order                        Myrtales
-family                      Myrtaceae
-genus                            Luma
-specificEpithet               chequen
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord             LivingSpecimen
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                           Myrtales
+genus                               Luma
+taxonRank                        species
+acceptedNameUsage    Luma chequen A.Gray
+Nombre común                         NaN
+ingreso                             2019
 Name: AA0480, dtype: object

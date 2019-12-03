@@ -1,10 +1,10 @@
-catalogNumber                   AA0117
-Class                    Magnoliopsida
-order                       Oxalidales
-family                  Elaeocarpaceae
-genus                      Aristotelia
-specificEpithet              chilensis
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                      LivingSpecimen
+phylum                               Tracheophyta
+Class                               Magnoliopsida
+order                                  Oxalidales
+genus                                 Aristotelia
+taxonRank                                 species
+acceptedNameUsage    Aristotelia chilensis Stuntz
+Nombre común                                  NaN
+ingreso                                      2019
 Name: AA0117, dtype: object

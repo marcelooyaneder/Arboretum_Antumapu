@@ -1,10 +1,10 @@
-catalogNumber                  AA1308
-Class                   Magnoliopsida
-order                      Sapindales
-family                       Rutaceae
-genus                          Citrus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                    Sapindales
+genus                        Citrus
+taxonRank                     genus
+acceptedNameUsage        Citrus  L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA1308, dtype: object

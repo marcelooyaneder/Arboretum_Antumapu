@@ -1,10 +1,10 @@
-catalogNumber                  AA0497
-Class                   Magnoliopsida
-order                      Sapindales
-family                       Rutaceae
-genus                         Pitavia
-specificEpithet              punctata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                          LivingSpecimen
+phylum                                   Tracheophyta
+Class                                   Magnoliopsida
+order                                      Sapindales
+genus                                         Pitavia
+taxonRank                                     species
+acceptedNameUsage    Pitavia punctata (Molina) Molina
+Nombre común                                      NaN
+ingreso                                          2019
 Name: AA0497, dtype: object

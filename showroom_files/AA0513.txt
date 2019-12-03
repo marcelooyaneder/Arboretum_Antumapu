@@ -1,10 +1,10 @@
-catalogNumber                   AA0513
-Class                    Magnoliopsida
-order                    Escalloniales
-family                  Escalloniaceae
-genus                       Escallonia
-specificEpithet           pulverulenta
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                Magnoliopsida
+order                                Escalloniales
+genus                                   Escallonia
+taxonRank                                  species
+acceptedNameUsage    Escallonia pulverulenta Pers.
+Nombre común                                   NaN
+ingreso                                       2019
 Name: AA0513, dtype: object

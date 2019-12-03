@@ -1,10 +1,10 @@
-catalogNumber                  AA1288
-Class                   Magnoliopsida
-order                         Apiales
-family                     Araliaceae
-genus                        Cussonia
-specificEpithet               spicata
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                                Apiales
+genus                               Cussonia
+taxonRank                            species
+acceptedNameUsage    Cussonia spicata Thunb.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA1288, dtype: object

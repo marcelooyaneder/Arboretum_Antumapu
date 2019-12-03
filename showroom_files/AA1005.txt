@@ -1,10 +1,10 @@
-catalogNumber                  AA1005
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                          Acacia
-specificEpithet               saligna
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                   LivingSpecimen
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                                  Fabales
+genus                                   Acacia
+taxonRank                              species
+acceptedNameUsage    Acacia saligna H.L.Wendl.
+Nombre común                               NaN
+ingreso                                   2019
 Name: AA1005, dtype: object

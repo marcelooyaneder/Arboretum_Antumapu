@@ -1,10 +1,10 @@
-catalogNumber                    AA0003
-Class                         Pinopsida
-order                       Cupressales
-family                    Araucariaceae
-genus                         Araucaria
-specificEpithet            heterophylla
-infraspecificEpithet                NaN
-Nombre común            Pino de Norfolk
-ingreso                            2019
+basisOfRecord                       LivingSpecimen
+phylum                                Tracheophyta
+Class                                    Pinopsida
+order                                  Cupressales
+genus                                    Araucaria
+taxonRank                                  species
+acceptedNameUsage    Araucaria heterophylla Franco
+Nombre común                       Pino de Norfolk
+ingreso                                       2019
 Name: AA0003, dtype: object

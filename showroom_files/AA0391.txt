@@ -1,10 +1,10 @@
-catalogNumber                  AA0391
-Class                   Magnoliopsida
-order                       Solanales
-family                     Solanaceae
-genus                         Cestrum
-specificEpithet                parqui
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                            Solanales
+genus                              Cestrum
+taxonRank                          species
+acceptedNameUsage    Cestrum parqui L'Hér.
+Nombre común                           NaN
+ingreso                               2019
 Name: AA0391, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0370
-Class                   Magnoliopsida
-order                         Fabales
-family                       Fabaceae
-genus                          Acacia
-specificEpithet           macracantha
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                                     LivingSpecimen
+phylum                                              Tracheophyta
+Class                                              Magnoliopsida
+order                                                    Fabales
+genus                                                     Acacia
+taxonRank                                                species
+acceptedNameUsage    Acacia macracantha Humb. & Bonpl. ex Willd.
+Nombre común                                                 NaN
+ingreso                                                     2019
 Name: AA0370, dtype: object

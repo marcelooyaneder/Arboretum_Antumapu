@@ -1,10 +1,10 @@
-catalogNumber                   AA1631
-Class                    Magnoliopsida
-order                         Laurales
-family                  Calycanthaceae
-genus                      Calycanthus
-specificEpithet               floridus
-infraspecificEpithet               NaN
-Nombre común                       NaN
-ingreso                           2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                               Laurales
+genus                            Calycanthus
+taxonRank                            species
+acceptedNameUsage    Calycanthus floridus L.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA1631, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                      AA0005
-Class                       Magnoliopsida
-order                          Sapindales
-family                        Sapindaceae
-genus                            Aesculus
-specificEpithet             hippocastanum
-infraspecificEpithet                  NaN
-Nombre común            Castaño de Indias
-ingreso                              2019
+basisOfRecord                   LivingSpecimen
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                               Sapindales
+genus                                 Aesculus
+taxonRank                              species
+acceptedNameUsage    Aesculus hippocastanum L.
+Nombre común                 Castaño de Indias
+ingreso                                   2019
 Name: AA0005, dtype: object

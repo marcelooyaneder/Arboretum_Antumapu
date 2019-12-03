@@ -1,10 +1,10 @@
-catalogNumber                  AA0430
-Class                   Magnoliopsida
-order                        Laurales
-family                      Lauraceae
-genus                     Cryptocarya
-specificEpithet                  alba
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                               Laurales
+genus                            Cryptocarya
+taxonRank                            species
+acceptedNameUsage    Cryptocarya alba Looser
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0430, dtype: object

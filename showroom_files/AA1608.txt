@@ -1,10 +1,10 @@
-catalogNumber                  AA1608
-Class                   Magnoliopsida
-order                    Malpighiales
-family                     Salicaceae
-genus                           Salix
-specificEpithet            babylonica
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord             LivingSpecimen
+phylum                      Tracheophyta
+Class                      Magnoliopsida
+order                       Malpighiales
+genus                              Salix
+taxonRank                        species
+acceptedNameUsage    Salix babylonica L.
+Nombre común                         NaN
+ingreso                             2019
 Name: AA1608, dtype: object

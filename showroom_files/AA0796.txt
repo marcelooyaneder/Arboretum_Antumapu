@@ -1,10 +1,10 @@
-catalogNumber                  AA0796
-Class                   Magnoliopsida
-order                        Lamiales
-family                   Bignoniaceae
-genus                       Jacaranda
-specificEpithet           mimosifolia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                     LivingSpecimen
+phylum                              Tracheophyta
+Class                              Magnoliopsida
+order                                   Lamiales
+genus                                  Jacaranda
+taxonRank                                species
+acceptedNameUsage    Jacaranda mimosifolia D.Don
+Nombre común                                 NaN
+ingreso                                     2019
 Name: AA0796, dtype: object

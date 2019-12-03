@@ -1,10 +1,10 @@
-catalogNumber                  AA0469
+basisOfRecord          LivingSpecimen
+phylum                   Tracheophyta
 Class                   Magnoliopsida
 order                         Fagales
-family                       Fagaceae
 genus                         Quercus
-specificEpithet                 suber
-infraspecificEpithet              NaN
+taxonRank                     species
+acceptedNameUsage    Quercus suber L.
 Nombre común                      NaN
 ingreso                          2019
 Name: AA0469, dtype: object

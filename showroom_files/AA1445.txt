@@ -1,10 +1,10 @@
-catalogNumber                  AA1445
+basisOfRecord          LivingSpecimen
+phylum                   Tracheophyta
 Class                   Magnoliopsida
 order                        Lamiales
-family                       Oleaceae
 genus                            Olea
-specificEpithet              europaea
-infraspecificEpithet              NaN
+taxonRank                     species
+acceptedNameUsage    Olea europaea L.
 Nombre común                      NaN
 ingreso                          2019
 Name: AA1445, dtype: object

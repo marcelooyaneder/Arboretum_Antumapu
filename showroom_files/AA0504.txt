@@ -1,10 +1,10 @@
-catalogNumber                  AA0504
-Class                   Magnoliopsida
-order                      Oxalidales
-family                    Cunoniaceae
-genus                       Eucryphia
-specificEpithet            cordifolia
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                   LivingSpecimen
+phylum                            Tracheophyta
+Class                            Magnoliopsida
+order                               Oxalidales
+genus                                Eucryphia
+taxonRank                              species
+acceptedNameUsage    Eucryphia cordifolia Cav.
+Nombre común                               NaN
+ingreso                                   2019
 Name: AA0504, dtype: object

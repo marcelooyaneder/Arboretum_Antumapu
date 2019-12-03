@@ -1,10 +1,10 @@
-catalogNumber                  AA1230
-Class                   Magnoliopsida
-order                         Fagales
-family                       Fagaceae
-genus                        Castanea
-specificEpithet                sativa
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord               LivingSpecimen
+phylum                        Tracheophyta
+Class                        Magnoliopsida
+order                              Fagales
+genus                             Castanea
+taxonRank                          species
+acceptedNameUsage    Castanea sativa Mill.
+Nombre común                           NaN
+ingreso                               2019
 Name: AA1230, dtype: object

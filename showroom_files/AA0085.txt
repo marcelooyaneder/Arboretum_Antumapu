@@ -1,10 +1,10 @@
-catalogNumber                  AA0085
-Class                   Magnoliopsida
-order                         Rosales
-family                       Ulmaceae
-genus                           Ulmus
-specificEpithet                   NaN
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord        LivingSpecimen
+phylum                 Tracheophyta
+Class                 Magnoliopsida
+order                       Rosales
+genus                         Ulmus
+taxonRank                     genus
+acceptedNameUsage         Ulmus  L.
+Nombre común                    NaN
+ingreso                        2019
 Name: AA0085, dtype: object

@@ -1,10 +1,10 @@
-catalogNumber                  AA0175
-Class                   Magnoliopsida
-order                        Malvales
-family                      Malvaceae
-genus                    Brachychiton
-specificEpithet              discolor
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                        LivingSpecimen
+phylum                                 Tracheophyta
+Class                                 Magnoliopsida
+order                                      Malvales
+genus                                  Brachychiton
+taxonRank                                   species
+acceptedNameUsage    Brachychiton discolor F.Muell.
+Nombre común                                    NaN
+ingreso                                        2019
 Name: AA0175, dtype: object

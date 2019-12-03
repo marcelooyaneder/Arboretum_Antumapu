@@ -1,10 +1,10 @@
-catalogNumber                  AA1299
-Class                   Magnoliopsida
-order                         Rosales
-family                       Rosaceae
-genus                      Eriobotrya
-specificEpithet              japonica
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                    LivingSpecimen
+phylum                             Tracheophyta
+Class                             Magnoliopsida
+order                                   Rosales
+genus                                Eriobotrya
+taxonRank                               species
+acceptedNameUsage    Eriobotrya japonica Lindl.
+Nombre común                                NaN
+ingreso                                    2019
 Name: AA1299, dtype: object

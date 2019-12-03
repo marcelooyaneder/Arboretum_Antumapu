@@ -1,10 +1,10 @@
-catalogNumber                  AA0108
-Class                   Magnoliopsida
-order                        Myrtales
-family                     Lythraceae
-genus                   Lagerstroemia
-specificEpithet                indica
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                 LivingSpecimen
+phylum                          Tracheophyta
+Class                          Magnoliopsida
+order                               Myrtales
+genus                          Lagerstroemia
+taxonRank                            species
+acceptedNameUsage    Lagerstroemia indica L.
+Nombre común                             NaN
+ingreso                                 2019
 Name: AA0108, dtype: object

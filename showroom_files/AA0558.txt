@@ -1,10 +1,10 @@
-catalogNumber                  AA0558
-Class                       Pinopsida
-order                     Cupressales
-family                  Podocarpaceae
-genus                      Podocarpus
-specificEpithet             nubigenus
-infraspecificEpithet              NaN
-Nombre común                      NaN
-ingreso                          2019
+basisOfRecord                     LivingSpecimen
+phylum                              Tracheophyta
+Class                                  Pinopsida
+order                                Cupressales
+genus                                 Podocarpus
+taxonRank                                species
+acceptedNameUsage    Podocarpus nubigenus Lindl.
+Nombre común                                 NaN
+ingreso                                     2019
 Name: AA0558, dtype: object
