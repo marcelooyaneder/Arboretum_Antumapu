@@ -1,10 +1,3 @@
-basisOfRecord                         LivingSpecimen
-phylum                                  Tracheophyta
-Class                                  Magnoliopsida
-order                                       Myrtales
-genus                                     Eucalyptus
-taxonRank                                    species
-acceptedNameUsage    Eucalyptus camaldulensis Dehnh.
-Nombre común                                     NaN
-ingreso                                         2019
+family     Myrtaceae
+genus     Eucalyptus
 Name: AA1093, dtype: object

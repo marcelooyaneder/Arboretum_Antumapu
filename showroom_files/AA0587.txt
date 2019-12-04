@@ -1,10 +1,3 @@
-basisOfRecord                           LivingSpecimen
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Laurales
-genus                                    Beilschmiedia
-taxonRank                                      species
-acceptedNameUsage    Beilschmiedia berteroana Kosterm.
-Nombre común                                       NaN
-ingreso                                           2019
+family        Lauraceae
+genus     Beilschmiedia
 Name: AA0587, dtype: object

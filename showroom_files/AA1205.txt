@@ -1,10 +1,3 @@
-basisOfRecord          LivingSpecimen
-phylum                   Tracheophyta
-Class                   Magnoliopsida
-order                         Fagales
-genus                         Quercus
-taxonRank                     species
-acceptedNameUsage    Quercus nigra L.
-Nombre común                      NaN
-ingreso                          2019
+family    Fagaceae
+genus      Quercus
 Name: AA1205, dtype: object

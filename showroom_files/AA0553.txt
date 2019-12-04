@@ -1,10 +1,3 @@
-basisOfRecord                           LivingSpecimen
-phylum                                    Tracheophyta
-Class                                    Magnoliopsida
-order                                         Myrtales
-genus                                        Amomyrtus
-taxonRank                                      species
-acceptedNameUsage    Amomyrtus meli D.Legrand & Kausel
-Nombre común                                       NaN
-ingreso                                           2019
+family    Myrtaceae
+genus     Amomyrtus
 Name: AA0553, dtype: object

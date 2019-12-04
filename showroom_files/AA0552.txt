@@ -1,10 +1,3 @@
-basisOfRecord                    LivingSpecimen
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                  Laurales
-genus                                  Laurelia
-taxonRank                               species
-acceptedNameUsage    Laurelia sempervirens Tul.
-Nombre común                                NaN
-ingreso                                    2019
+family    Atherospermataceae
+genus               Laurelia
 Name: AA0552, dtype: object

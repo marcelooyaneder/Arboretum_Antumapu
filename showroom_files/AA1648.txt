@@ -1,10 +1,3 @@
-basisOfRecord                       LivingSpecimen
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                   Dipsacales
-genus                                       Abelia
-taxonRank                                  species
-acceptedNameUsage    Abelia triflora R.Br. Ex Wall
-Nombre común                                   NaN
-ingreso                                       2019
+family    Caprifoliaceae
+genus             Abelia
 Name: AA1648, dtype: object

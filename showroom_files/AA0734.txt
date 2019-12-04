@@ -1,10 +1,3 @@
-basisOfRecord                            LivingSpecimen
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                           Fabales
-genus                                          Quillaja
-taxonRank                                       species
-acceptedNameUsage    Quillaja saponaria (Molina) Molina
-Nombre común                                        NaN
-ingreso                                            2019
+family    Quillajaceae
+genus         Quillaja
 Name: AA0734, dtype: object

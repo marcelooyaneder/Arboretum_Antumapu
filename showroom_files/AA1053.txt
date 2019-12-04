@@ -1,10 +1,3 @@
-basisOfRecord        LivingSpecimen
-phylum                 Tracheophyta
-Class                 Magnoliopsida
-order                  Malpighiales
-genus                       Populus
-taxonRank                     genus
-acceptedNameUsage       Populus  L.
-Nombre común                    NaN
-ingreso                        2019
+family    Salicaceae
+genus        Populus
 Name: AA1053, dtype: object

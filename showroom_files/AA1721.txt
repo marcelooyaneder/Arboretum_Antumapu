@@ -1,10 +1,3 @@
-basisOfRecord                LivingSpecimen
-phylum                         Tracheophyta
-Class                            Liliopsida
-order                              Arecales
-genus                                Brahea
-taxonRank                           species
-acceptedNameUsage    Brahea armata S.Watson
-Nombre común                            NaN
-ingreso                                2019
+family    Arecaceae
+genus        Brahea
 Name: AA1721, dtype: object

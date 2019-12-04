@@ -1,10 +1,3 @@
-basisOfRecord                  LivingSpecimen
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                Myrtales
-genus                                 Fuchsia
-taxonRank                             species
-acceptedNameUsage    Fuchsia magellanica Lam.
-Nombre común                              NaN
-ingreso                                  2019
+family    Onagraceae
+genus        Fuchsia
 Name: AA0537, dtype: object

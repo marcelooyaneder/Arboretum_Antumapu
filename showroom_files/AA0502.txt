@@ -1,10 +1,3 @@
-basisOfRecord                   LivingSpecimen
-phylum                            Tracheophyta
-Class                            Magnoliopsida
-order                               Oxalidales
-genus                                Eucryphia
-taxonRank                              species
-acceptedNameUsage    Eucryphia cordifolia Cav.
-Nombre común                               NaN
-ingreso                                   2019
+family    Cunoniaceae
+genus       Eucryphia
 Name: AA0502, dtype: object

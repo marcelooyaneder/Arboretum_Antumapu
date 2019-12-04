@@ -1,10 +1,3 @@
-basisOfRecord                            LivingSpecimen
-phylum                                     Tracheophyta
-Class                                     Magnoliopsida
-order                                         Proteales
-genus                                         Grevillea
-taxonRank                                       species
-acceptedNameUsage    Grevillea robusta A.Cunn. ex R.Br.
-Nombre común                                        NaN
-ingreso                                            2019
+family    Proteaceae
+genus      Grevillea
 Name: AA0699, dtype: object

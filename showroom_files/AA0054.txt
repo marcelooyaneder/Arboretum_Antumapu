@@ -1,10 +1,3 @@
-basisOfRecord              LivingSpecimen
-phylum                       Tracheophyta
-Class                       Magnoliopsida
-order                             Fabales
-genus                              Acacia
-taxonRank                         species
-acceptedNameUsage    Acacia dealbata Link
-Nombre común                        Aromo
-ingreso                              2019
+family    Fabaceae
+genus       Acacia
 Name: AA0054, dtype: object

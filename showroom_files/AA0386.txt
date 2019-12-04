@@ -1,10 +1,3 @@
-basisOfRecord                       LivingSpecimen
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                     Laurales
-genus                                       Peumus
-taxonRank                                  species
-acceptedNameUsage    Peumus boldus (Molina) Molina
-Nombre común                                   NaN
-ingreso                                       2019
+family    Monimiaceae
+genus          Peumus
 Name: AA0386, dtype: object

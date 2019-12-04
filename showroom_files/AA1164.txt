@@ -1,10 +1,3 @@
-basisOfRecord                    LivingSpecimen
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Rosales
-genus                                Eriobotrya
-taxonRank                               species
-acceptedNameUsage    Eriobotrya japonica Lindl.
-Nombre común                                NaN
-ingreso                                    2019
+family      Rosaceae
+genus     Eriobotrya
 Name: AA1164, dtype: object

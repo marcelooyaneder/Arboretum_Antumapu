@@ -1,10 +1,3 @@
-basisOfRecord                LivingSpecimen
-phylum                         Tracheophyta
-Class                         Magnoliopsida
-order                            Sapindales
-genus                                  Acer
-taxonRank                           species
-acceptedNameUsage    Acer pseudoplatanus L.
-Nombre común                            NaN
-ingreso                                2019
+family    Sapindaceae
+genus            Acer
 Name: AA0094, dtype: object

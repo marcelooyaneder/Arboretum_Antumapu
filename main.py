@@ -249,10 +249,8 @@ if file_mng_button=='Open a file':
         msg='select the columns to keep on your showroom dataframe'
         title='select'
         choicebox=eg.multchoicebox(msg,title,og_columns_df)
-        showroom_columns=list(set(og_columns_df)-set(choicebox)) #columnas que no estan presentes
         try:
-            for label in showroom_columns:
-                data_showroom.drop(label,axis=1,inplace=True)
+            data_showroom=data_showroom[choicebox]
         except:
             pass
     elif showroom_option_button=='No':
