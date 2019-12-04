@@ -26,7 +26,7 @@ Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar
 
 Luego, dirigirte a la carpeta en que estén los archivos descargados del repositorio, abrir nuevamente una terminal y ejecutar lo siguiente
 
-    Jupyter notebook
+    jupyter notebook
 
 Y tendrás una ventana en tu navegador como la siguiente.
 ![jupyter notebook init](https://lh3.googleusercontent.com/HLbKzsT1i5E8H33-IZ3EwOt1dtB55Jl6-nLQ03JcY80AsMlrUOJRLSsZz9CJNVPIYZuhNLpgSHvu "jupyter screenshot")
