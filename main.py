@@ -1,5 +1,14 @@
 # -*- coding: utf-8 -*-
 
+""" # CRÉDITOS
+Software desarrllado en el laboratorio de biología de plantas ubicado en el campus Antumapu perteneciente a la Universidad de Chile.
+ - Autores: 
+   - Paulette Naulin Gysling.  
+   - Marcelo Oyaneder Labarca.
+ - Contacto:
+   - marcelo.oyaneder.l@gmail.com
+   - pnaulin@uchile.cl """
+
 #package imports
 
 import pandas as pd
