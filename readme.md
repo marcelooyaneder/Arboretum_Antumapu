@@ -7,53 +7,46 @@ Este software, desarrollado completamente en python, tiene la funcionalidad de l
  - Obtener códigos Qr que dirigan a un link con la información de tu base de datos. 
  - Poder filtrar tus datos para poder realizar cambios u obtener solo una lista de estos.
 
-> Recomendamos utilizar la versión de jupyter notebook, si es que no estas familiarizado con python, será mucho más facil. 
+> Recomendamos utilizar la versión de jupyter notebook, si es que no estas familiarizado con python.
+>  
 > Tambien existe la versión pura del código en python, es exactamente igual a la de jupyter, salvo excepciones para mejor visualización de los datos en jupyter.
 
 # EJECUCIÓN DEL PROGRAMA
 ## Instalación de paquetes
-Dentro del repositorio se encuentra un archivo de texto, llamado "requeriments.txt" el cual contiene todos los paquetes para la correcta ejecución de este programa, antes de esto se recomienda tener lo siguiente instalado.
+Dentro del repositorio se encuentra un archivo de texto, llamado "requeriments.txt" el cual contiene todos los paquetes para la correcta ejecución del programa.\
+Para el correcto funcionamiento del software es necesario tener lo siguiente instalado en tu pc.
 
- - python = 3.7
- - package manager pip (incluído en python)
+ - python == 3.7
+ - package manager pip (incluído en python 3.x)
 
-La primera acción si deseas ejecutar esto, directamente en tu pc, debes escribir lo siguiente en la terminal abierta en donde has descargado el repositorio y ejecutar lo siguiente. 
+Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar el software es escribir lo siguiente en la terminal (cmd o powershell en windows) . 
 
-    pip install -U -r requirements.txt
+    pip3 install jupyter
 
-Tambien se ha desarrollado la posibilidad de ejecutar esto en "Jupyter Notebook". Si es primera vez que instalas python y no tienes conda debes ejecutar lo siguiente
 
-    pip install jupyter
+Luego, dirigirte a la carpeta en que estén los archivos descargados del repositorio, abrir nuevamente una terminal y ejecutar lo siguiente
 
-Luego 
-
-    Jupyter Notebook
+    Jupyter notebook
 
 Y tendrás una ventana en tu navegador como la siguiente.
 ![jupyter notebook init](https://lh3.googleusercontent.com/HLbKzsT1i5E8H33-IZ3EwOt1dtB55Jl6-nLQ03JcY80AsMlrUOJRLSsZz9CJNVPIYZuhNLpgSHvu "jupyter screenshot")
 
 
-ahí debes abrir el archivo "main.ipynb" y ejecutar este, este archivo esta preconfigurado, por lo que solo debes ejecutarlo y se instalarán todas las dependencias faltantes automáticamente, y el programa se ejecutará. 
+ahí debes abrir el archivo "main.ipynb", este archivo esta preconfigurado, por lo que solo debes ejecutarlo y se instalarán todas las dependencias faltantes automáticamente, y el programa se ejecutará. 
 
 ## Primeros pasos
- - Primero que todo es necesario darle un formato específico a el archivo a leer por el software, el formato consta de lo siguiente, en la primera fila debe ir el nombre de las columnas de DwC, no importa el orden de estas, y debajo de estas debe ir la información, a continuación se muestra una imagen de como debe ser. Importante decir que si existe el valor "class" en tu base de datos, este debe ser cambiado por el valor "Class".
- -  lo siguiente es abrir el archivo "main.ipynb", como se indico anteriormente
+ - Primero que todo es necesario darle un formato específico a el archivo a leer por el software (de preferencia excel), el formato consta de lo siguiente, en la primera fila debe ir el nombre de las columnas de DwC, no importa el orden de estas, y debajo de estas debe ir la información, a continuación se muestra una imagen de como debe ser. Importante decir que si existe el valor "class" en tu base de datos, este debe ser cambiado por el valor "Class".
 
- - Luego debes modificar las lineas de código llamadas "longurl", de la siguiente forma, originalmente estás se encontrarán así.
-
-       longurl=f'https://raw.githubusercontent.com/user_name/repo_name/master/files/{id}.txt'
-
-- Donde :
-
-  user_name: corresponde al nombre de usuario de tu cuenta GitHub.
-  repo_name: corresponde al nombre del repositorio que mantiene tu proyecto.
- Por lo tanto al reemplazar quedaría de la siguiente forma.
- 
-		 longurl=f'https://raw.githubusercontent.com/marcelooyaneder/Arboretum_Antumapu/master/files/{id}.txt'
-
- - Paso siguiente es alojar todos los archivos que necesitas en tu repositorio GitHub, adjunto un video en caso de que no conozcas el proceso.
+ - Lo siguiente es alojar todos los archivos que necesitas en tu repositorio GitHub, adjunto un video en caso de que no conozcas el proceso.
  
 [![](http://img.youtube.com/vi/gjMEehpSTNk/0.jpg)](http://www.youtube.com/watch?v=gjMEehpSTNk "")
+
+ - Luego dirigirse a la carpeta documents y abrir el archivo "dynamiclinks_user_info.csv" y llenar este con los datos requeridos, donde:
+    -  GitHub_username: corresponde al nombre de usuario de tu cuenta GitHub.
+    - Repository_name: corresponde al nombre del repositorio que mantiene tu proyecto.
+    - api_key y sub_domain: son extraídos de la web de google Firebase dinamic links, contactarse a mi correo para conseguir una o indicarte como (marcelo.oyaneder.l@gmail.com)
+
+ -  lo siguiente es abrir el archivo "main.ipynb", como se indico anteriormente
  
 - Por último es ejecutar el código, para esto en la ventana de jupyter notebook ir a la pestaña
 
@@ -61,5 +54,16 @@ ahí debes abrir el archivo "main.ipynb" y ejecutar este, este archivo esta prec
 > Restart & Run all
 
 - Seguir las indicaciones del software
+
+# CRÉDITOS
+Software desarrllado en el _laboratorio de biología de plantas_ ubicado en el campus Antumapu perteneciente a la Universidad de Chile.
+ - Autores: 
+   - Paulette Naulin Gysling.  
+   - Marcelo Oyaneder Labarca.
+ - Contacto:
+   - marcelo.oyaneder.l@gmail.com
+   - pnaulin@uchile.cl
+
+![](https://lh3.googleusercontent.com/kwADztygurIvFqRkhgTwMKz5QakvqDIFK8NO_8f5Oxhik9G8hYz9xfO3mPbBhJUftU5oLu4NTIfl)
 
 
