@@ -41,7 +41,7 @@ class file_manager:
         msg='select a column to be the index of the dataframe'
         title='select index'       
         indexo=eg.choicebox(msg,title,columns_df)
-        data=data.set_index(indexo, drop = False)
+        data=data.set_index(indexo, drop = True)
         og_data=data.copy()
         og_columns_df=og_data.columns.tolist()
         columns_dwc=pd.read_csv('documents\dwc_terms\simple_dwc_horizontal.csv',header=0,sep=';').columns.tolist() #ver como variar de ; o , 
