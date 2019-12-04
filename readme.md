@@ -14,10 +14,9 @@ Este software, desarrollado completamente en python, tiene la funcionalidad de l
 ## Instalación de paquetes
 Dentro del repositorio se encuentra un archivo de texto, llamado "requeriments.txt" el cual contiene todos los paquetes para la correcta ejecución de este programa, antes de esto se recomienda tener lo siguiente instalado.
 
- - python >= 3.6
- - package manager pip
+ - python = 3.7
+ - package manager pip (incluído en python)
 
-También es posible instalar conda, pero no se han realizado pruebas con este.
 La primera acción si deseas ejecutar esto, directamente en tu pc, debes escribir lo siguiente en la terminal abierta en donde has descargado el repositorio y ejecutar lo siguiente. 
 
     pip install -U -r requirements.txt
@@ -32,6 +31,8 @@ Luego
 
 Y tendrás una ventana en tu navegador como la siguiente.
 ![jupyter notebook init](https://lh3.googleusercontent.com/HLbKzsT1i5E8H33-IZ3EwOt1dtB55Jl6-nLQ03JcY80AsMlrUOJRLSsZz9CJNVPIYZuhNLpgSHvu "jupyter screenshot")
+
+
 ahí debes abrir el archivo "main.ipynb" y ejecutar este, este archivo esta preconfigurado, por lo que solo debes ejecutarlo y se instalarán todas las dependencias faltantes automáticamente, y el programa se ejecutará. 
 
 ## Primeros pasos
