@@ -1,10 +1,3 @@
-basisOfRecord                     LivingSpecimen
-phylum                              Tracheophyta
-Class                                  Pinopsida
-order                                Cupressales
-genus                                 Podocarpus
-taxonRank                                species
-acceptedNameUsage    Podocarpus nubigenus Lindl.
-Nombre común                                 NaN
-ingreso                                     2019
+family    Podocarpaceae
+genus        Podocarpus
 Name: AA0558, dtype: object

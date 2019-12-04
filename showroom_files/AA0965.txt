@@ -1,10 +1,3 @@
-basisOfRecord                 LivingSpecimen
-phylum                          Tracheophyta
-Class                          Magnoliopsida
-order                                Rosales
-genus                                 Prunus
-taxonRank                            species
-acceptedNameUsage    Prunus cerasifera Ehrh.
-Nombre común                             NaN
-ingreso                                 2019
+family    Rosaceae
+genus       Prunus
 Name: AA0965, dtype: object

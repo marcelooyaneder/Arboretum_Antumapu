@@ -1,10 +1,3 @@
-basisOfRecord                       LivingSpecimen
-phylum                                Tracheophyta
-Class                                Magnoliopsida
-order                                      Rosales
-genus                                     Photinia
-taxonRank                                  species
-acceptedNameUsage    Photinia serratifolia Kalkman
-Nombre común                                   NaN
-ingreso                                       2019
+family    Rosaceae
+genus     Photinia
 Name: AA1396, dtype: object

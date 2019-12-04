@@ -1,10 +1,3 @@
-basisOfRecord                        LivingSpecimen
-phylum                                 Tracheophyta
-Class                                    Liliopsida
-order                                      Arecales
-genus                                       Phoenix
-taxonRank                                   species
-acceptedNameUsage    Phoenix canariensis H.Wildpret
-Nombre común                                    NaN
-ingreso                                        2019
+family    Arecaceae
+genus       Phoenix
 Name: AA0885, dtype: object

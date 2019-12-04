@@ -1,10 +1,3 @@
-basisOfRecord                  LivingSpecimen
-phylum                           Tracheophyta
-Class                           Magnoliopsida
-order                                 Apiales
-genus                              Foeniculum
-taxonRank                             species
-acceptedNameUsage    Foeniculum vulgare Mill.
-Nombre común                              NaN
-ingreso                                  2019
+family      Apiaceae
+genus     Foeniculum
 Name: AA0719, dtype: object

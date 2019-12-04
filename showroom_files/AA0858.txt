@@ -1,10 +1,3 @@
-basisOfRecord               LivingSpecimen
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                              Rosales
-genus                              Cydonia
-taxonRank                          species
-acceptedNameUsage    Cydonia oblonga Mill.
-Nombre común                           NaN
-ingreso                               2019
+family    Rosaceae
+genus      Cydonia
 Name: AA0858, dtype: object

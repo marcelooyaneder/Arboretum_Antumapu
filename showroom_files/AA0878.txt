@@ -1,10 +1,3 @@
-basisOfRecord        LivingSpecimen
-phylum                 Tracheophyta
-Class                 Magnoliopsida
-order                       Rosales
-genus                         Morus
-taxonRank                   species
-acceptedNameUsage     Morus alba L.
-Nombre común                    NaN
-ingreso                        2019
+family    Moraceae
+genus        Morus
 Name: AA0878, dtype: object

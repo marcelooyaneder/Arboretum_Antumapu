@@ -1,10 +1,3 @@
-basisOfRecord        LivingSpecimen
-phylum                 Tracheophyta
-Class                 Magnoliopsida
-order                Caryophyllales
-genus                       Tamarix
-taxonRank                     genus
-acceptedNameUsage       Tamarix  L.
-Nombre común              Tamarisco
-ingreso                        2019
+family    Tamaricaceae
+genus          Tamarix
 Name: AA0037, dtype: object

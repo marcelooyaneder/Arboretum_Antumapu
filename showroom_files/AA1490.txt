@@ -1,10 +1,3 @@
-basisOfRecord                    LivingSpecimen
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                                   Fabales
-genus                               Caesalpinia
-taxonRank                               species
-acceptedNameUsage    Caesalpinia spinosa Kuntze
-Nombre común                                NaN
-ingreso                                    2019
+family       Fabaceae
+genus     Caesalpinia
 Name: AA1490, dtype: object

@@ -1,10 +1,3 @@
-basisOfRecord               LivingSpecimen
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                              Fagales
-genus                             Castanea
-taxonRank                          species
-acceptedNameUsage    Castanea sativa Mill.
-Nombre común                           NaN
-ingreso                               2019
+family    Fagaceae
+genus     Castanea
 Name: AA1230, dtype: object

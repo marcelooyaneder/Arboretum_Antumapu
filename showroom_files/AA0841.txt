@@ -1,10 +1,3 @@
-basisOfRecord               LivingSpecimen
-phylum                        Tracheophyta
-Class                        Magnoliopsida
-order                             Lamiales
-genus                             Fraxinus
-taxonRank                          species
-acceptedNameUsage    Fraxinus excelsior L.
-Nombre común                           NaN
-ingreso                               2019
+family    Oleaceae
+genus     Fraxinus
 Name: AA0841, dtype: object

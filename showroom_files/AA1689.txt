@@ -1,10 +1,3 @@
-basisOfRecord              LivingSpecimen
-phylum                       Tracheophyta
-Class                       Magnoliopsida
-order                      Caryophyllales
-genus                          Phytolacca
-taxonRank                         species
-acceptedNameUsage    Phytolacca dioica L.
-Nombre común                          NaN
-ingreso                              2019
+family    Phytolaccaceae
+genus         Phytolacca
 Name: AA1689, dtype: object

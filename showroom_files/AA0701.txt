@@ -1,10 +1,3 @@
-basisOfRecord           LivingSpecimen
-phylum                    Tracheophyta
-Class                    Magnoliopsida
-order                          Vitales
-genus                            Vitis
-taxonRank                      species
-acceptedNameUsage    Vitis vinifera L.
-Nombre común                       NaN
-ingreso                           2019
+family    Vitaceae
+genus        Vitis
 Name: AA0701, dtype: object

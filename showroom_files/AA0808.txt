@@ -1,10 +1,3 @@
-basisOfRecord        LivingSpecimen
-phylum                 Tracheophyta
-Class                 Magnoliopsida
-order                       Rosales
-genus                         Pyrus
-taxonRank                     genus
-acceptedNameUsage         Pyrus  L.
-Nombre común                    NaN
-ingreso                        2019
+family    Rosaceae
+genus        Pyrus
 Name: AA0808, dtype: object

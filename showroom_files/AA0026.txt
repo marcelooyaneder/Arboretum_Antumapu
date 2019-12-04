@@ -1,10 +1,3 @@
-basisOfRecord                               LivingSpecimen
-phylum                                        Tracheophyta
-Class                                            Pinopsida
-order                                          Cupressales
-genus                                            Cupressus
-taxonRank                                          species
-acceptedNameUsage    Cupressus macrocarpa Hartw. ex Gordon
-Nombre común                           Ciprés de Monterrey
-ingreso                                               2019
+family    Cupressaceae
+genus        Cupressus
 Name: AA0026, dtype: object

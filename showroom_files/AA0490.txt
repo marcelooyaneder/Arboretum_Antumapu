@@ -1,10 +1,3 @@
-basisOfRecord                    LivingSpecimen
-phylum                             Tracheophyta
-Class                             Magnoliopsida
-order                              Aquifoliales
-genus                                Citronella
-taxonRank                               species
-acceptedNameUsage    Citronella mucronata D.Don
-Nombre común                                NaN
-ingreso                                    2019
+family    Cardiopteridaceae
+genus            Citronella
 Name: AA0490, dtype: object
