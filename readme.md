@@ -58,8 +58,8 @@ ahí debes abrir el archivo "main.ipynb", este archivo esta preconfigurado, por 
 # CRÉDITOS
 Software desarrllado en el _laboratorio de biología de plantas_ ubicado en el campus Antumapu perteneciente a la Universidad de Chile.
  - Autores: 
-   - Paulette Naulin Gysling.  
    - Marcelo Oyaneder Labarca.
+   - Paulette Naulin Gysling.  
  - Contacto:
    - marcelo.oyaneder.l@gmail.com
    - pnaulin@uchile.cl
