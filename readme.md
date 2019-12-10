@@ -39,7 +39,10 @@ Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar
  
 [![](http://img.youtube.com/vi/gjMEehpSTNk/0.jpg)](http://www.youtube.com/watch?v=gjMEehpSTNk "")
 
- - Abrir GitHub Desktop y sincronizar el nuevo repositorio creado a tu pc.
+ - Abrir GitHub Desktop y sincronizar el nuevo repositorio creado a tu pc. (recomendamos ver el siguiente video...)
+
+[![](http://img.youtube.com/vi/IW28zJc7BN0/0.jpg)](http://www.youtube.com/watch?v=IW28zJc7BN0 "")
+
  - Copiar los contenidos descargados de este repositorio a tu **nuevo repositorio**.
  - Luego dirigirse a la carpeta documents y abrir el archivo "dynamiclinks_user_info.csv" y llenar este con los datos requeridos, donde:
     - GitHub_username: corresponde al nombre de usuario de tu cuenta GitHub.
