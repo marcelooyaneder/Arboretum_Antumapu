@@ -20,6 +20,7 @@ Para el correcto funcionamiento del software es necesario tener lo siguiente ins
 ![](https://lh3.googleusercontent.com/nkCqWV88bAT5wzDic6_IQDG6S0fVMuJjTRo5Kqc8A914MsyOd0CRBHL871WsEeQ6hNl6oz5SPy5Q "python PATH")
  - package manager pip (incluido en la instalación previa).
  - GitHub Desktop.
+ - Descargar este repositorio.
 
 Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar el software es escribir lo siguiente en la terminal (cmd o powershell en windows). 
 
