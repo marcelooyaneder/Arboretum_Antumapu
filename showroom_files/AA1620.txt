@@ -1,3 +1,2 @@
-family    Simaroubaceae
-genus         Ailanthus
+Nombre común    NaN
 Name: AA1620, dtype: object

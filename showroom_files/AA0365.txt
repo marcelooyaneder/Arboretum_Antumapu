@@ -1,3 +1,2 @@
-family      Caricaceae
-genus     Vasconcellea
+Nombre común    NaN
 Name: AA0365, dtype: object

@@ -1,3 +1,2 @@
-family     Fabaceae
-genus     Gleditsia
+Nombre común    NaN
 Name: AA0111, dtype: object

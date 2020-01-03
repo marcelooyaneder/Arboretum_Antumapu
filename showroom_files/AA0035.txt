@@ -1,3 +1,2 @@
-family    Tamaricaceae
-genus          Tamarix
+Nombre común    Tamarisco
 Name: AA0035, dtype: object

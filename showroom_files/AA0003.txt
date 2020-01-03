@@ -1,3 +1,2 @@
-family    Araucariaceae
-genus         Araucaria
+Nombre común    Pino de Norfolk
 Name: AA0003, dtype: object

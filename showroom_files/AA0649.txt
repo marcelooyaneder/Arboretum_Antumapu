@@ -1,3 +1,2 @@
-family    Salicaceae
-genus        Populus
+Nombre común    NaN
 Name: AA0649, dtype: object

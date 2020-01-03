@@ -1,3 +1,2 @@
-family    Myrtaceae
-genus     Amomyrtus
+Nombre común    NaN
 Name: AA0553, dtype: object

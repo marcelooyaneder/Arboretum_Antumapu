@@ -1,3 +1,2 @@
-family    Meliaceae
-genus         Melia
+Nombre común    Arbol del paraíso
 Name: AA0057, dtype: object

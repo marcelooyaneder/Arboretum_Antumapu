@@ -1,3 +1,2 @@
-family    Casuarinaceae
-genus         Casuarina
+Nombre común    NaN
 Name: AA0097, dtype: object

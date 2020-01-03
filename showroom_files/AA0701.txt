@@ -1,3 +1,2 @@
-family    Vitaceae
-genus        Vitis
+Nombre común    NaN
 Name: AA0701, dtype: object

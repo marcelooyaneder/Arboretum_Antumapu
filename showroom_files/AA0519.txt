@@ -1,3 +1,2 @@
-family    Gomortegaceae
-genus         Gomortega
+Nombre común    NaN
 Name: AA0519, dtype: object

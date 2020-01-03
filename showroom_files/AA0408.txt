@@ -1,3 +1,2 @@
-family    Celastraceae
-genus         Maytenus
+Nombre común    NaN
 Name: AA0408, dtype: object

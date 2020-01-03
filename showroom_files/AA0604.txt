@@ -1,3 +1,2 @@
-family    Scrophulariaceae
-genus             Myoporum
+Nombre común    NaN
 Name: AA0604, dtype: object

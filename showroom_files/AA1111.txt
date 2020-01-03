@@ -1,3 +1,2 @@
-family     Myrtaceae
-genus     Eucalyptus
+Nombre común    NaN
 Name: AA1111, dtype: object

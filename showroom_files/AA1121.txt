@@ -1,3 +1,2 @@
-family    Proteaceae
-genus      Grevillea
+Nombre común    NaN
 Name: AA1121, dtype: object

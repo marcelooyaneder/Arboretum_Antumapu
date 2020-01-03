@@ -1,3 +1,2 @@
-family    Fagaceae
-genus      Quercus
+Nombre común    NaN
 Name: AA0457, dtype: object

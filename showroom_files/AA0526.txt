@@ -1,3 +1,2 @@
-family    Araliaceae
-genus        Raukaua
+Nombre común    NaN
 Name: AA0526, dtype: object

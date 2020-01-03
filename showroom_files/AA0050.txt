@@ -1,3 +1,2 @@
-family    Fabaceae
-genus       Acacia
+Nombre común    Aromo
 Name: AA0050, dtype: object

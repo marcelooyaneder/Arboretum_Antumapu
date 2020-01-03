@@ -1,3 +1,2 @@
-family    Lauraceae
-genus        Persea
+Nombre común    NaN
 Name: AA1630, dtype: object

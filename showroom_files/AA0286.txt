@@ -1,3 +1,2 @@
-family    Arecaceae
-genus        Jubaea
+Nombre común    NaN
 Name: AA0286, dtype: object

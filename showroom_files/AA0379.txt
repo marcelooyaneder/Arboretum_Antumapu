@@ -1,3 +1,2 @@
-family      Lauraceae
-genus     Cryptocarya
+Nombre común    NaN
 Name: AA0379, dtype: object

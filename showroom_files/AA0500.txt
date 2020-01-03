@@ -1,3 +1,2 @@
-family    Escalloniaceae
-genus         Escallonia
+Nombre común    NaN
 Name: AA0500, dtype: object

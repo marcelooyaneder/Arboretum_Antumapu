@@ -1,3 +1,2 @@
-family    Arecaceae
-genus       Phoenix
+Nombre común    NaN
 Name: AA1626, dtype: object

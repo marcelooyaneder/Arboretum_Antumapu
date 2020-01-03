@@ -1,3 +1,2 @@
-family     Cupressaceae
-genus     Chamaecyparis
+Nombre común    NaN
 Name: AA0173, dtype: object

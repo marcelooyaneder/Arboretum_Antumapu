@@ -1,3 +1,2 @@
-family      Verbenaceae
-genus     Rhaphithamnus
+Nombre común    NaN
 Name: AA0550, dtype: object

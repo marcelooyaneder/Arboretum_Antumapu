@@ -1,3 +1,2 @@
-family    Asparagaceae
-genus            Yucca
+Nombre común    NaN
 Name: AA1579, dtype: object

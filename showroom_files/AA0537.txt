@@ -1,3 +1,2 @@
-family    Onagraceae
-genus        Fuchsia
+Nombre común    NaN
 Name: AA0537, dtype: object

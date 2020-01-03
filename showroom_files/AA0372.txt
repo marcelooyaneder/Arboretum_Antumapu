@@ -1,3 +1,2 @@
-family    Elaeocarpaceae
-genus        Aristotelia
+Nombre común    NaN
 Name: AA0372, dtype: object

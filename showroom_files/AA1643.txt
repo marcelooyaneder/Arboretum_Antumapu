@@ -1,3 +1,2 @@
-family    Araliaceae
-genus     Tetrapanax
+Nombre común    NaN
 Name: AA1643, dtype: object

@@ -1,3 +1,2 @@
-family     Lamiaceae
-genus     Rosmarinus
+Nombre común    NaN
 Name: AA0871, dtype: object

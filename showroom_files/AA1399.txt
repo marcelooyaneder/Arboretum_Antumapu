@@ -1,3 +1,2 @@
-family    Apocynaceae
-genus          Nerium
+Nombre común    NaN
 Name: AA1399, dtype: object

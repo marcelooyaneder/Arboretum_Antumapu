@@ -1,3 +1,2 @@
-family    Fagaceae
-genus     Castanea
+Nombre común    NaN
 Name: AA1230, dtype: object

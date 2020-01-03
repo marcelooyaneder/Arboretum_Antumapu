@@ -1,3 +1,2 @@
-family     Fabaceae
-genus     Gleditsia
+Nombre común    Acacia de tres espinas
 Name: AA0043, dtype: object

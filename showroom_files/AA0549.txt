@@ -1,3 +1,2 @@
-family     Ericaceae
-genus     Gaultheria
+Nombre común    NaN
 Name: AA0549, dtype: object

@@ -1,3 +1,2 @@
-family    Elaeocarpaceae
-genus       Crinodendron
+Nombre común    NaN
 Name: AA1642, dtype: object

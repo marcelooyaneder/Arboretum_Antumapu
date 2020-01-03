@@ -1,3 +1,2 @@
-family    Anacardiaceae
-genus           Schinus
+Nombre común    Pimiento
 Name: AA0046, dtype: object

@@ -1,3 +1,2 @@
-family      Apiaceae
-genus     Foeniculum
+Nombre común    NaN
 Name: AA0719, dtype: object

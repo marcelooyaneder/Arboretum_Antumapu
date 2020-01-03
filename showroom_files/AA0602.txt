@@ -1,3 +1,2 @@
-family     Rosaceae
-genus     Crataegus
+Nombre común    NaN
 Name: AA0602, dtype: object

@@ -1,3 +1,2 @@
-family    Sapindaceae
-genus            Acer
+Nombre común    Arce blanco
 Name: AA0018, dtype: object

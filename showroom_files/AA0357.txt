@@ -1,3 +1,2 @@
-family       Fabaceae
-genus     Caesalpinia
+Nombre común    NaN
 Name: AA0357, dtype: object

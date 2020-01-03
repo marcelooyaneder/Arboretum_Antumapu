@@ -1,3 +1,2 @@
-family    Rosaceae
-genus       Prunus
+Nombre común    NaN
 Name: AA1337, dtype: object

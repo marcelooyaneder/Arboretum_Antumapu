@@ -1,3 +1,2 @@
-family    Meliaceae
-genus         Melia
+Nombre común    NaN
 Name: AA1693, dtype: object

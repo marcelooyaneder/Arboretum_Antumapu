@@ -1,3 +1,2 @@
-family    Cupressaceae
-genus     Austrocedrus
+Nombre común    NaN
 Name: AA1712, dtype: object

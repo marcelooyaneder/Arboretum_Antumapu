@@ -1,3 +1,2 @@
-family    Fabaceae
-genus       Acacia
+Nombre común    NaN
 Name: AA0698, dtype: object

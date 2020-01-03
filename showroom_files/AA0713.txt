@@ -1,3 +1,2 @@
-family    Pittosporaceae
-genus        Pittosporum
+Nombre común    NaN
 Name: AA0713, dtype: object

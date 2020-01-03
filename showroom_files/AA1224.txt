@@ -1,3 +1,2 @@
-family    Juglandaceae
-genus          Juglans
+Nombre común    NaN
 Name: AA1224, dtype: object

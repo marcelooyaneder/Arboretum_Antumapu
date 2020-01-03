@@ -1,3 +1,2 @@
-family    Tamaricaceae
-genus          Tamarix
+Nombre común    NaN
 Name: AA1266, dtype: object

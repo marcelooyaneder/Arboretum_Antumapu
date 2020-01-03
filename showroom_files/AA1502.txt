@@ -1,3 +1,2 @@
-family    Myrtaceae
-genus          Luma
+Nombre común    NaN
 Name: AA1502, dtype: object

@@ -1,3 +1,2 @@
-family    Betulaceae
-genus         Betula
+Nombre común    NaN
 Name: AA0126, dtype: object

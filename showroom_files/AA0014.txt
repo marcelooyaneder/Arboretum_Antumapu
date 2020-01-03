@@ -1,3 +1,2 @@
-family    Cupressaceae
-genus        Cupressus
+Nombre común    Ciprés de Monterrey
 Name: AA0014, dtype: object

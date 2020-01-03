@@ -1,3 +1,2 @@
-family    Rosaceae
-genus      Cydonia
+Nombre común    NaN
 Name: AA0858, dtype: object

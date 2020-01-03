@@ -1,3 +1,2 @@
-family    Ulmaceae
-genus        Ulmus
+Nombre común    NaN
 Name: AA1403, dtype: object

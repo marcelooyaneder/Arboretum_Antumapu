@@ -1,3 +1,2 @@
-family    Oleaceae
-genus         Olea
+Nombre común    NaN
 Name: AA0898, dtype: object

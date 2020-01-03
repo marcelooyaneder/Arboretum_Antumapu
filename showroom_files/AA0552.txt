@@ -1,3 +1,2 @@
-family    Atherospermataceae
-genus               Laurelia
+Nombre común    NaN
 Name: AA0552, dtype: object

@@ -1,3 +1,2 @@
-family    Winteraceae
-genus          Drimys
+Nombre común    NaN
 Name: AA0486, dtype: object

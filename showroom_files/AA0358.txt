@@ -1,3 +1,2 @@
-family    Plantaginaceae
-genus            Monttea
+Nombre común    NaN
 Name: AA0358, dtype: object

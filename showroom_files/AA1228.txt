@@ -1,3 +1,2 @@
-family    Betulaceae
-genus          Alnus
+Nombre común    NaN
 Name: AA1228, dtype: object

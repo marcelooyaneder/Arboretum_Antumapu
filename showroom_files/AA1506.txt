@@ -1,3 +1,2 @@
-family    Asteraceae
-genus       Proustia
+Nombre común    NaN
 Name: AA1506, dtype: object

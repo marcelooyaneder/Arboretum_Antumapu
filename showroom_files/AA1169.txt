@@ -1,3 +1,2 @@
-family    Oleaceae
-genus     Fraxinus
+Nombre común    NaN
 Name: AA1169, dtype: object

@@ -1,3 +1,2 @@
-family    Rosaceae
-genus        Pyrus
+Nombre común    NaN
 Name: AA1718, dtype: object

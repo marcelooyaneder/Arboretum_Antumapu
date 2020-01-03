@@ -1,3 +1,2 @@
-family    Moraceae
-genus        Morus
+Nombre común    NaN
 Name: AA0149, dtype: object

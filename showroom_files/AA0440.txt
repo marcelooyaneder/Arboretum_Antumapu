@@ -1,3 +1,2 @@
-family    Quillajaceae
-genus         Quillaja
+Nombre común    NaN
 Name: AA0440, dtype: object

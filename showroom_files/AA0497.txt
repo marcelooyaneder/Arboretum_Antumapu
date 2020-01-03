@@ -1,3 +1,2 @@
-family    Rutaceae
-genus      Pitavia
+Nombre común    NaN
 Name: AA0497, dtype: object

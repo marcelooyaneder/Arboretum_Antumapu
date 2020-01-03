@@ -1,3 +1,2 @@
-family    Altingiaceae
-genus      Liquidambar
+Nombre común    NaN
 Name: AA1291, dtype: object

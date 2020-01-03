@@ -1,3 +1,2 @@
-family        Myrtaceae
-genus     Blepharocalyx
+Nombre común    NaN
 Name: AA0619, dtype: object

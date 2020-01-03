@@ -1,3 +1,2 @@
-family    Pinaceae
-genus        Pinus
+Nombre común    NaN
 Name: AA0603, dtype: object
