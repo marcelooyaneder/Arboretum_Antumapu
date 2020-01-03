@@ -1,3 +1,2 @@
-family     Fabaceae
-genus     Geoffroea
+Nombre común    NaN
 Name: AA0349, dtype: object

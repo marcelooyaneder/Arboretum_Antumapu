@@ -1,3 +1,2 @@
-family    Cardiopteridaceae
-genus            Citronella
+Nombre común    NaN
 Name: AA0490, dtype: object

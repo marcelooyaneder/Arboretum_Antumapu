@@ -1,3 +1,2 @@
-family    Columelliaceae
-genus       Desfontainia
+Nombre común    NaN
 Name: AA0560, dtype: object

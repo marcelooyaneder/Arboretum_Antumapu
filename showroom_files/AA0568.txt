@@ -1,3 +1,2 @@
-family    Proteaceae
-genus        Lomatia
+Nombre común    NaN
 Name: AA0568, dtype: object

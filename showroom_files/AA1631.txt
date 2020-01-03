@@ -1,3 +1,2 @@
-family    Calycanthaceae
-genus        Calycanthus
+Nombre común    NaN
 Name: AA1631, dtype: object

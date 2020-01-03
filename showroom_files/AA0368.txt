@@ -1,3 +1,2 @@
-family    Ehretiaceae
-genus          Cordia
+Nombre común    NaN
 Name: AA0368, dtype: object

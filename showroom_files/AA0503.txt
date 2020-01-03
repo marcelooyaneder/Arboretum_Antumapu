@@ -1,3 +1,2 @@
-family    Aextoxicaceae
-genus        Aextoxicon
+Nombre común    NaN
 Name: AA0503, dtype: object

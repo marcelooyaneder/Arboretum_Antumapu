@@ -1,3 +1,2 @@
-family    Araucariaceae
-genus         Araucaria
+Nombre común    Araucaria australiana
 Name: AA0004, dtype: object

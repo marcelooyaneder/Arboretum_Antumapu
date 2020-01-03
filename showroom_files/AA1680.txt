@@ -1,3 +1,2 @@
-family    Cupressaceae
-genus      Cryptomeria
+Nombre común    NaN
 Name: AA1680, dtype: object

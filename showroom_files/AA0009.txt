@@ -1,3 +1,2 @@
-family    Sapindaceae
-genus        Aesculus
+Nombre común    Castaño de Indias
 Name: AA0009, dtype: object

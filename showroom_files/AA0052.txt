@@ -1,3 +1,2 @@
-family       Malvaceae
-genus     Brachychiton
+Nombre común    Braquiquito
 Name: AA0052, dtype: object

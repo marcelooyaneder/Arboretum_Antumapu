@@ -1,3 +1,2 @@
-family    Phytolaccaceae
-genus         Phytolacca
+Nombre común    NaN
 Name: AA1689, dtype: object

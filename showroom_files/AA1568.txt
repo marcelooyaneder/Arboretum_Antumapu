@@ -1,3 +1,2 @@
-family     Sapindaceae
-genus     Koelreuteria
+Nombre común    NaN
 Name: AA1568, dtype: object

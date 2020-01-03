@@ -1,3 +1,2 @@
-family     Oleaceae
-genus     Ligustrum
+Nombre común    NaN
 Name: AA0477, dtype: object

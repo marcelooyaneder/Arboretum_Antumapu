@@ -1,3 +1,2 @@
-family    Annonaceae
-genus         Annona
+Nombre común    NaN
 Name: AA0862, dtype: object

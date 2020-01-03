@@ -1,3 +1,2 @@
-family    Arecaceae
-genus        Brahea
+Nombre común    NaN
 Name: AA1721, dtype: object

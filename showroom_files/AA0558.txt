@@ -1,3 +1,2 @@
-family    Podocarpaceae
-genus        Podocarpus
+Nombre común    NaN
 Name: AA0558, dtype: object

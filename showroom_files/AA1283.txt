@@ -1,3 +1,2 @@
-family    Rosaceae
-genus        Malus
+Nombre común    NaN
 Name: AA1283, dtype: object

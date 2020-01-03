@@ -1,3 +1,2 @@
-family    Euphorbiaceae
-genus        Colliguaja
+Nombre común    NaN
 Name: AA0463, dtype: object

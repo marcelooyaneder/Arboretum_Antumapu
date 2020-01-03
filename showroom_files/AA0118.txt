@@ -1,3 +1,2 @@
-family    Bignoniaceae
-genus          Catalpa
+Nombre común    NaN
 Name: AA0118, dtype: object

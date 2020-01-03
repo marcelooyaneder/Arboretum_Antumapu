@@ -1,3 +1,2 @@
-family    Araliaceae
-genus       Cussonia
+Nombre común    NaN
 Name: AA1288, dtype: object

@@ -1,3 +1,2 @@
-family    Cunoniaceae
-genus       Eucryphia
+Nombre común    NaN
 Name: AA0504, dtype: object

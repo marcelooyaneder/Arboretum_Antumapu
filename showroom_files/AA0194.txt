@@ -1,3 +1,2 @@
-family    Fabaceae
-genus     Prosopis
+Nombre común    NaN
 Name: AA0194, dtype: object

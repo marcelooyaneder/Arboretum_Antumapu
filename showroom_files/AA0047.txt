@@ -1,3 +1,2 @@
-family       Fabaceae
-genus     Parkinsonia
+Nombre común    Palo verde
 Name: AA0047, dtype: object

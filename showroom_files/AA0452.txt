@@ -1,3 +1,2 @@
-family    Solanaceae
-genus        Cestrum
+Nombre común    NaN
 Name: AA0452, dtype: object

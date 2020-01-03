@@ -1,3 +1,2 @@
-family    Elaeagnaceae
-genus        Elaeagnus
+Nombre común    NaN
 Name: AA1232, dtype: object

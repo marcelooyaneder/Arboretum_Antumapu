@@ -1,3 +1,2 @@
-family       Arecaceae
-genus     Washingtonia
+Nombre común    NaN
 Name: AA1265, dtype: object

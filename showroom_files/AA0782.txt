@@ -1,3 +1,2 @@
-family    Cannabaceae
-genus          Celtis
+Nombre común    NaN
 Name: AA0782, dtype: object

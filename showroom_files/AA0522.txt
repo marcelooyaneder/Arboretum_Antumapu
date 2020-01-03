@@ -1,3 +1,2 @@
-family     Blechnaceae
-genus     Lomariocycas
+Nombre común    NaN
 Name: AA0522, dtype: object

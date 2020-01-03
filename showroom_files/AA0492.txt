@@ -1,3 +1,2 @@
-family    Gunneraceae
-genus         Gunnera
+Nombre común    NaN
 Name: AA0492, dtype: object

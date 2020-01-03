@@ -1,3 +1,2 @@
-family       Lythraceae
-genus     Lagerstroemia
+Nombre común    NaN
 Name: AA1679, dtype: object

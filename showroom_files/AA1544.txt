@@ -1,3 +1,2 @@
-family    Anacardiaceae
-genus           Schinus
+Nombre común    NaN
 Name: AA1544, dtype: object

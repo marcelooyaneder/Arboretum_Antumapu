@@ -1,3 +1,2 @@
-family    Rutaceae
-genus       Citrus
+Nombre común    NaN
 Name: AA1359, dtype: object

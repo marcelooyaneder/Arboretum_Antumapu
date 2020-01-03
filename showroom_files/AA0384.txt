@@ -1,3 +1,2 @@
-family         Vitaceae
-genus     Clematicissus
+Nombre común    NaN
 Name: AA0384, dtype: object

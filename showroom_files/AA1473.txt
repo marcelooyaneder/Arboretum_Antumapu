@@ -1,3 +1,2 @@
-family        Lauraceae
-genus     Beilschmiedia
+Nombre común    NaN
 Name: AA1473, dtype: object

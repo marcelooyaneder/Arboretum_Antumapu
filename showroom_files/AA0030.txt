@@ -1,3 +1,2 @@
-family    Phytolaccaceae
-genus         Phytolacca
+Nombre común    Ombú
 Name: AA0030, dtype: object

@@ -1,3 +1,2 @@
-family    Oleaceae
-genus      Syringa
+Nombre común    NaN
 Name: AA0869, dtype: object

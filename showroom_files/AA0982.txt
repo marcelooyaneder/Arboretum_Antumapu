@@ -1,3 +1,2 @@
-family    Sapindaceae
-genus            Acer
+Nombre común    NaN
 Name: AA0982, dtype: object

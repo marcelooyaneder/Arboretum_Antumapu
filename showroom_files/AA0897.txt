@@ -1,3 +1,2 @@
-family      Myrtaceae
-genus     Callistemon
+Nombre común    NaN
 Name: AA0897, dtype: object

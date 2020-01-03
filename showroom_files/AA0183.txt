@@ -1,3 +1,2 @@
-family    Ginkgoaceae
-genus          Ginkgo
+Nombre común    NaN
 Name: AA0183, dtype: object

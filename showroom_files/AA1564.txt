@@ -1,3 +1,2 @@
-family       Arecaceae
-genus     Trachycarpus
+Nombre común    NaN
 Name: AA1564, dtype: object

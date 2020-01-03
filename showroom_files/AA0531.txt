@@ -1,3 +1,2 @@
-family    Salicaceae
-genus          Azara
+Nombre común    NaN
 Name: AA0531, dtype: object

@@ -1,3 +1,2 @@
-family    Fabaceae
-genus      Robinia
+Nombre común    NaN
 Name: AA0993, dtype: object

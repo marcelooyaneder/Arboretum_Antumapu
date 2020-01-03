@@ -1,3 +1,4 @@
+catalogNumber                   AA1022
 basisOfRecord           LivingSpecimen
 decimalLatitude                 348534
 decimalLongitude               6284788

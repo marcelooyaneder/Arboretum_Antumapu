@@ -1,3 +1,2 @@
-family    Cupressaceae
-genus         Fitzroya
+Nombre común    NaN
 Name: AA0555, dtype: object

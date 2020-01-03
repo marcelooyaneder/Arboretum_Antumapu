@@ -1,3 +1,2 @@
-family    Magnoliaceae
-genus         Magnolia
+Nombre común    NaN
 Name: AA0155, dtype: object

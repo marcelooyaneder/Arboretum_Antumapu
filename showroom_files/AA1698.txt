@@ -1,3 +1,2 @@
-family    Araucariaceae
-genus         Araucaria
+Nombre común    NaN
 Name: AA1698, dtype: object

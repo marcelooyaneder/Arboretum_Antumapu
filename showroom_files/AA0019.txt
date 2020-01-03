@@ -1,3 +1,2 @@
-family    Cupressaceae
-genus        Cupressus
+Nombre común    Ciprés común
 Name: AA0019, dtype: object

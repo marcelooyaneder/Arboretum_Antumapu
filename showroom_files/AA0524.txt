@@ -1,3 +1,2 @@
-family    Philesiaceae
-genus        Lapageria
+Nombre común    NaN
 Name: AA0524, dtype: object

@@ -1,3 +1,2 @@
-family    Pinaceae
-genus       Cedrus
+Nombre común    NaN
 Name: AA0333, dtype: object

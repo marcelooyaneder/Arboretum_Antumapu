@@ -1,3 +1,2 @@
-family    Euphorbiaceae
-genus        Avellanita
+Nombre común    NaN
 Name: AA1504, dtype: object

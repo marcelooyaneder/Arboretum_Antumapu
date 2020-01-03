@@ -1,3 +1,2 @@
-family    Asparagaceae
-genus            Agave
+Nombre común    NaN
 Name: AA1677, dtype: object

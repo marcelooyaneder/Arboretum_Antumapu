@@ -1,3 +1,2 @@
-family    Caprifoliaceae
-genus             Abelia
+Nombre común    NaN
 Name: AA1648, dtype: object

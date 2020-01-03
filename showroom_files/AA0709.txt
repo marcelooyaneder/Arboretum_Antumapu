@@ -1,3 +1,2 @@
-family    Asteraceae
-genus      Baccharis
+Nombre común    NaN
 Name: AA0709, dtype: object

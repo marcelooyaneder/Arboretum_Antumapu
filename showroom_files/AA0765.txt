@@ -1,3 +1,2 @@
-family    Salicaceae
-genus          Salix
+Nombre común    NaN
 Name: AA0765, dtype: object

@@ -1,3 +1,2 @@
-family       Blechnaceae
-genus     Austroblechnum
+Nombre común    NaN
 Name: AA0528, dtype: object

@@ -1,3 +1,2 @@
-family    Rosaceae
-genus       Sorbus
+Nombre común    Serbal
 Name: AA0028, dtype: object

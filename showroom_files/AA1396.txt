@@ -1,3 +1,2 @@
-family    Rosaceae
-genus     Photinia
+Nombre común    NaN
 Name: AA1396, dtype: object

@@ -1,3 +1,2 @@
-family     Blechnaceae
-genus     Parablechnum
+Nombre común    NaN
 Name: AA0520, dtype: object

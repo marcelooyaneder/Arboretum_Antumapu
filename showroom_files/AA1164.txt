@@ -1,3 +1,2 @@
-family      Rosaceae
-genus     Eriobotrya
+Nombre común    NaN
 Name: AA1164, dtype: object

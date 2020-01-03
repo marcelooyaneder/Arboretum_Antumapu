@@ -1,3 +1,2 @@
-family       Myrtaceae
-genus     Metrosideros
+Nombre común    NaN
 Name: AA0185, dtype: object

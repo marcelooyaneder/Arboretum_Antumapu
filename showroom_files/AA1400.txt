@@ -1,3 +1,2 @@
-family    Myrtaceae
-genus        Myrtus
+Nombre común    NaN
 Name: AA1400, dtype: object

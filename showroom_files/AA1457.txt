@@ -1,3 +1,2 @@
-family    Anacardiaceae
-genus          Lithraea
+Nombre común    NaN
 Name: AA1457, dtype: object

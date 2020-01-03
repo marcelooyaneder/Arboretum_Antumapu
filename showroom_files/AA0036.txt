@@ -1,3 +1,2 @@
-family    Oleaceae
-genus     Fraxinus
+Nombre común    Fresno
 Name: AA0036, dtype: object

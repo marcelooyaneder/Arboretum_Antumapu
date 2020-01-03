@@ -1,3 +1,2 @@
-family    Fabaceae
-genus        Senna
+Nombre común    NaN
 Name: AA0918, dtype: object

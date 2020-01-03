@@ -1,3 +1,2 @@
-family     Myrtaceae
-genus     Eucalyptus
+Nombre común    Eucalipto
 Name: AA0056, dtype: object

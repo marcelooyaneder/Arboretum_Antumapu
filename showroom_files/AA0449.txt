@@ -1,3 +1,2 @@
-family    Nothofagaceae
-genus        Nothofagus
+Nombre común    NaN
 Name: AA0449, dtype: object

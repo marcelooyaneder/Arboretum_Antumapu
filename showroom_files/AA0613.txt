@@ -1,3 +1,2 @@
-family    Monimiaceae
-genus          Peumus
+Nombre común    NaN
 Name: AA0613, dtype: object

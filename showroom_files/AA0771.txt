@@ -1,3 +1,2 @@
-family    Platanaceae
-genus        Platanus
+Nombre común    NaN
 Name: AA0771, dtype: object

@@ -1,3 +1,2 @@
-family    Podocarpaceae
-genus       Saxegothaea
+Nombre común    NaN
 Name: AA0514, dtype: object

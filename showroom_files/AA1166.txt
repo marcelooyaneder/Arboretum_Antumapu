@@ -1,3 +1,2 @@
-family    Cupressaceae
-genus        Cupressus
+Nombre común    NaN
 Name: AA1166, dtype: object
